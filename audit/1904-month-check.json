@@ -1,0 +1,726 @@
+{
+  "year": 1904,
+  "method": "exact normalized paragraph match to monthly DOCX source text",
+  "limitations": "Full body phrases can also match; no page and article boundary verification. Never treat as human-confirmed month.",
+  "source_warnings": [],
+  "entries": [
+    {
+      "id": "kr-1904-001",
+      "title": "A Point of Ethics",
+      "indexed_page": 1,
+      "current_provisional_month": 1,
+      "source_paragraph_matches": [
+        1
+      ],
+      "status": "same_month_candidate"
+    },
+    {
+      "id": "kr-1904-002",
+      "title": "The Late Queen Dowager",
+      "indexed_page": 6,
+      "current_provisional_month": 1,
+      "source_paragraph_matches": [
+        1
+      ],
+      "status": "same_month_candidate"
+    },
+    {
+      "id": "kr-1904-003",
+      "title": "Korean Relations with Japan",
+      "indexed_page": 9,
+      "current_provisional_month": 1,
+      "source_paragraph_matches": [
+        1
+      ],
+      "status": "same_month_candidate"
+    },
+    {
+      "id": "kr-1904-004",
+      "title": "Retrospect of 1903",
+      "indexed_page": 13,
+      "current_provisional_month": 1,
+      "source_paragraph_matches": [
+        1
+      ],
+      "status": "same_month_candidate"
+    },
+    {
+      "id": "kr-1904-005",
+      "title": "Odds and Ends",
+      "indexed_page": 20,
+      "current_provisional_month": 1,
+      "source_paragraph_matches": [
+        1,
+        6,
+        7
+      ],
+      "status": "conflicting_month_candidate"
+    },
+    {
+      "id": "kr-1904-006",
+      "title": "The Russo-Japanese War",
+      "indexed_page": 49,
+      "current_provisional_month": 2,
+      "source_paragraph_matches": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "status": "conflicting_month_candidate"
+    },
+    {
+      "id": "kr-1904-007",
+      "title": "The Battle of Chemulpo",
+      "indexed_page": 53,
+      "current_provisional_month": 2,
+      "source_paragraph_matches": [
+        2
+      ],
+      "status": "same_month_candidate"
+    },
+    {
+      "id": "kr-1904-008",
+      "title": "The Ajun",
+      "indexed_page": 63,
+      "current_provisional_month": 2,
+      "source_paragraph_matches": [
+        2,
+        6
+      ],
+      "status": "conflicting_month_candidate"
+    },
+    {
+      "id": "kr-1904-009",
+      "title": "Korean Neutrality",
+      "indexed_page": 70,
+      "current_provisional_month": 2,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-010",
+      "title": "History of Korea",
+      "indexed_page": 33,
+      "current_provisional_month": 1,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-011",
+      "title": "History of Korea",
+      "indexed_page": 81,
+      "current_provisional_month": 2,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-012",
+      "title": "History of Korea",
+      "indexed_page": 129,
+      "current_provisional_month": 3,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-013",
+      "title": "History of Korea",
+      "indexed_page": 177,
+      "current_provisional_month": 4,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-014",
+      "title": "History of Korea",
+      "indexed_page": 225,
+      "current_provisional_month": 5,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-015",
+      "title": "History of Korea",
+      "indexed_page": 273,
+      "current_provisional_month": 6,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-016",
+      "title": "History of Korea",
+      "indexed_page": 321,
+      "current_provisional_month": 7,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-017",
+      "title": "History of Korea",
+      "indexed_page": 369,
+      "current_provisional_month": 8,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-018",
+      "title": "History of Korea",
+      "indexed_page": 417,
+      "current_provisional_month": 9,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-019",
+      "title": "History of Korea",
+      "indexed_page": 465,
+      "current_provisional_month": 10,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-020",
+      "title": "History of Korea",
+      "indexed_page": 513,
+      "current_provisional_month": 11,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-021",
+      "title": "History of Korea",
+      "indexed_page": 561,
+      "current_provisional_month": 12,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-022",
+      "title": "Decadent Korea",
+      "indexed_page": 75,
+      "current_provisional_month": 2,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-023",
+      "title": "The New Book on Korea",
+      "indexed_page": 109,
+      "current_provisional_month": 3,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-024",
+      "title": "The Burning of the Palace",
+      "indexed_page": 155,
+      "current_provisional_month": 4,
+      "source_paragraph_matches": [
+        4
+      ],
+      "status": "same_month_candidate"
+    },
+    {
+      "id": "kr-1904-025",
+      "title": "Condition of Korea",
+      "indexed_page": 163,
+      "current_provisional_month": 4,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-026",
+      "title": "The Vanguard",
+      "indexed_page": 170,
+      "current_provisional_month": 4,
+      "source_paragraph_matches": [
+        4
+      ],
+      "status": "same_month_candidate"
+    },
+    {
+      "id": "kr-1904-027",
+      "title": "The Wonsan Incident",
+      "indexed_page": 204,
+      "current_provisional_month": 5,
+      "source_paragraph_matches": [
+        5
+      ],
+      "status": "same_month_candidate"
+    },
+    {
+      "id": "kr-1904-028",
+      "title": "Map Making",
+      "indexed_page": 211,
+      "current_provisional_month": 5,
+      "source_paragraph_matches": [
+        5
+      ],
+      "status": "same_month_candidate"
+    },
+    {
+      "id": "kr-1904-029",
+      "title": "Battle of Kang-gye",
+      "indexed_page": 214,
+      "current_provisional_month": 5,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-030",
+      "title": "Fifteen Years Among the Top-knots",
+      "indexed_page": 215,
+      "current_provisional_month": 5,
+      "source_paragraph_matches": [
+        5
+      ],
+      "status": "same_month_candidate"
+    },
+    {
+      "id": "kr-1904-031",
+      "title": "The Oldest Relic in Korea",
+      "indexed_page": 255,
+      "current_provisional_month": 6,
+      "source_paragraph_matches": [
+        6
+      ],
+      "status": "same_month_candidate"
+    },
+    {
+      "id": "kr-1904-032",
+      "title": "Japanese Industrial Projects in Korea",
+      "indexed_page": 289,
+      "current_provisional_month": 7,
+      "source_paragraph_matches": [
+        7
+      ],
+      "status": "same_month_candidate"
+    },
+    {
+      "id": "kr-1904-033",
+      "title": "A Ten Thousand Year Bridge",
+      "indexed_page": 305,
+      "current_provisional_month": 7,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-034",
+      "title": "Fusion of Korean Society",
+      "indexed_page": 337,
+      "current_provisional_month": 8,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-035",
+      "title": "What Korea Owes Japan",
+      "indexed_page": 350,
+      "current_provisional_month": 8,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-036",
+      "title": "Code Penal de la Coree",
+      "indexed_page": 357,
+      "current_provisional_month": 8,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-037",
+      "title": "Reform Spelling",
+      "indexed_page": 385,
+      "current_provisional_month": 9,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-038",
+      "title": "Northeast Korea",
+      "indexed_page": 393,
+      "current_provisional_month": 9,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-039",
+      "title": "Educational Needs of Korea",
+      "indexed_page": 443,
+      "current_provisional_month": 10,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-040",
+      "title": "The Foreign Cemetery",
+      "indexed_page": 453,
+      "current_provisional_month": 10,
+      "source_paragraph_matches": [
+        10
+      ],
+      "status": "same_month_candidate"
+    },
+    {
+      "id": "kr-1904-041",
+      "title": "Ladies' Days",
+      "indexed_page": 461,
+      "current_provisional_month": 10,
+      "source_paragraph_matches": [
+        10
+      ],
+      "status": "same_month_candidate"
+    },
+    {
+      "id": "kr-1904-042",
+      "title": "Severance Hospital",
+      "indexed_page": 494,
+      "current_provisional_month": 11,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-043",
+      "title": "Corea, The Hermit Nation",
+      "indexed_page": 502,
+      "current_provisional_month": 11,
+      "source_paragraph_matches": [
+        11
+      ],
+      "status": "same_month_candidate"
+    },
+    {
+      "id": "kr-1904-044",
+      "title": "Retrospect of 1904",
+      "indexed_page": 529,
+      "current_provisional_month": 12,
+      "source_paragraph_matches": [
+        12
+      ],
+      "status": "same_month_candidate"
+    },
+    {
+      "id": "kr-1904-045",
+      "title": "Editorials",
+      "indexed_page": 23,
+      "current_provisional_month": 1,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-046",
+      "title": "Editorials",
+      "indexed_page": 70,
+      "current_provisional_month": 2,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-047",
+      "title": "Editorials",
+      "indexed_page": 168,
+      "current_provisional_month": 4,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-048",
+      "title": "Editorials",
+      "indexed_page": 260,
+      "current_provisional_month": 6,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-049",
+      "title": "Editorials",
+      "indexed_page": 306,
+      "current_provisional_month": 7,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-050",
+      "title": "Editorials",
+      "indexed_page": 360,
+      "current_provisional_month": 8,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-051",
+      "title": "Editorials",
+      "indexed_page": 402,
+      "current_provisional_month": 9,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-052",
+      "title": "Editorials",
+      "indexed_page": 456,
+      "current_provisional_month": 10,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-053",
+      "title": "Editorials",
+      "indexed_page": 508,
+      "current_provisional_month": 11,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-054",
+      "title": "Editorials",
+      "indexed_page": 549,
+      "current_provisional_month": 12,
+      "source_paragraph_matches": [],
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-055",
+      "title": "News Calendar",
+      "indexed_page": 24,
+      "current_provisional_month": 1,
+      "source_paragraph_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "conflicting_month_candidate"
+    },
+    {
+      "id": "kr-1904-056",
+      "title": "News Calendar",
+      "indexed_page": 77,
+      "current_provisional_month": 2,
+      "source_paragraph_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "conflicting_month_candidate"
+    },
+    {
+      "id": "kr-1904-057",
+      "title": "News Calendar",
+      "indexed_page": 120,
+      "current_provisional_month": 3,
+      "source_paragraph_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "conflicting_month_candidate"
+    },
+    {
+      "id": "kr-1904-058",
+      "title": "News Calendar",
+      "indexed_page": 172,
+      "current_provisional_month": 4,
+      "source_paragraph_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "conflicting_month_candidate"
+    },
+    {
+      "id": "kr-1904-059",
+      "title": "News Calendar",
+      "indexed_page": 216,
+      "current_provisional_month": 5,
+      "source_paragraph_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "conflicting_month_candidate"
+    },
+    {
+      "id": "kr-1904-060",
+      "title": "News Calendar",
+      "indexed_page": 261,
+      "current_provisional_month": 6,
+      "source_paragraph_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "conflicting_month_candidate"
+    },
+    {
+      "id": "kr-1904-061",
+      "title": "News Calendar",
+      "indexed_page": 312,
+      "current_provisional_month": 7,
+      "source_paragraph_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "conflicting_month_candidate"
+    },
+    {
+      "id": "kr-1904-062",
+      "title": "News Calendar",
+      "indexed_page": 362,
+      "current_provisional_month": 8,
+      "source_paragraph_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "conflicting_month_candidate"
+    },
+    {
+      "id": "kr-1904-063",
+      "title": "News Calendar",
+      "indexed_page": 408,
+      "current_provisional_month": 9,
+      "source_paragraph_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "conflicting_month_candidate"
+    },
+    {
+      "id": "kr-1904-064",
+      "title": "News Calendar",
+      "indexed_page": 462,
+      "current_provisional_month": 10,
+      "source_paragraph_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "conflicting_month_candidate"
+    },
+    {
+      "id": "kr-1904-065",
+      "title": "News Calendar",
+      "indexed_page": 508,
+      "current_provisional_month": 11,
+      "source_paragraph_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "conflicting_month_candidate"
+    },
+    {
+      "id": "kr-1904-066",
+      "title": "News Calendar",
+      "indexed_page": 555,
+      "current_provisional_month": 12,
+      "source_paragraph_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "conflicting_month_candidate"
+    }
+  ]
+}
