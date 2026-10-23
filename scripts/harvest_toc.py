@@ -33,46 +33,53 @@ def get_lines(html):
     lines=[re.sub(r"\s+"," ",x).strip() for x in soup.get_text("\n").splitlines()]
     return [x for x in lines if x]
 def parse(year,lines):
-    """Conservatively recognize nearby title and terminal page numbers.
+    """Extract page-referenced ANNUAL INDEX headings, not authenticated article titles.
 
-    Records with ambiguous date / pages are quarantined in audit report.
+    The Contents02/03/05 files are alphabetical indexes, not monthly ToCs.
+    Publication month is deliberately left null pending issue verification.
     """
-    results=[];rejected=[];month=None;pending=[]
-    page_line=re.compile(r"^(?P<title>.*?[A-Za-z][^0-9]*?)\s*(?:\.{2,}|\s{2,})\s*(?P<page>\d{1,4})\s*$")
-    # Annual ToCs frequently use a line-by-line table, sometimes with a
-    # standalone page number next to the corresponding title.
-    def add(title,page,m,method):
-        title=re.sub(r"\s+"," ",title).strip(" .\u00a0")
-        if not title or len(title)<3 or not re.search("[A-Za-z]",title):return
-        if page<1 or page>1500 or m not in range(1,13):return
-        key=(m,title.casefold(),page)
-        if any((x["month"],x["title"].casefold(),x["printed_page_start"])==key for x in results):return
-        results.append({"id":f"kr-{year}-{len(results)+1:03d}","record_type":"article_toc_entry",
-            "title":title,"year":year,"month":m,"issue":m,"volume":year-1900,
-            "printed_page_start":page,"printed_page_end":None,
-            "source_url":BASE+f"Contents{year-1900:02d}.htm",
-            "metadata_status":"machine_extracted_toc_requires_human_verification",
-            "extraction_method":method,
-            "original_text":None,"transcription_status":"not_processed",
-            "persons":[],"places":[],"organizations":[],"entity_status":"not_processed",
-            "summary_ko":None,"summary_status":"not_processed","human_review_status":"pending"})
-    for i,line in enumerate(lines):
-        lowered=line.lower()
-        match_month=next((n for n,m in enumerate(MONTHS,1) if re.fullmatch(r"(?:contents (?:for|of) )?"+m.lower()+r"(?:[., ]+\d{4})?[.:]?",lowered)),None)
-        if match_month:
-            month=match_month;pending=[];continue
-        # Only accept page/titles within explicit month sections.
-        if not month:continue
-        joined=page_line.match(line)
-        if joined:
-            add(joined.group("title"),int(joined.group("page")),month,"inline_month_section")
-            pending=[];continue
-        if re.fullmatch(r"\d{1,4}",line) and pending:
-            add(pending[-1],int(line),month,"adjacent_line_month_section")
-            pending=[];continue
-        if len(line)>2 and re.search(r"[A-Za-z]",line) and not re.fullmatch(r"contents|page|articles",lowered):
-            pending.append(line)
-            if len(pending)>2:pending.pop(0)
+    results=[];rejected=[];buffer=[]
+    ignored=re.compile(r"^(?:The Korea Review|Index|Ind|ex|Contents|Volume\s+\d+|19\d{2}|unless otherwise indicated|\*Articles by the Editor)$",re.I)
+    ending=re.compile(r"^(.*?)(?:\s+|[,;.]{1,3}\s*)(\d{1,3}(?:\s*[,;]\s*\d{1,3})*)\s*$")
+    barepages=re.compile(r"^\d{1,3}(?:\s*[,;]\s*\d{1,3})*$")
+    def emit(title,pages):
+        title=" ".join(title).strip(" .,;")
+        title=title.replace("¡¯","'").replace("¡®","'")
+        title=re.sub(r"\s+"," ",title)
+        if len(title)<4 or len(title)>150 or not re.search("[A-Za-z]",title):return
+        numbers=[int(p) for p in re.findall(r"\d{1,3}",pages)]
+        for n in numbers:
+            if n<1 or n>600:continue
+            key=(title.casefold(),n)
+            if any((r["title"].casefold(),r["printed_page_start"])==key for r in results):continue
+            results.append({"id":f"kr-{year}-idx-{len(results)+1:03d}",
+             "record_type":"annual_index_heading_candidate","title":title,
+             "year":year,"month":None,"month_status":"not_verified",
+             "volume":year-1900,"issue":None,
+             "printed_page_start":n,
+             "source_url":BASE+f"Contents{year-1900:02d}.htm",
+             "metadata_status":"annual_index_machine_extracted_unreviewed_not_confirmed_article",
+             "transcription_status":"not_processed",
+             "entity_status":"not_processed","summary_status":"not_processed",
+             "human_review_status":"pending"})
+    for line in lines:
+        line=line.strip()
+        if ignored.fullmatch(line) or line.lower() in {"volume 2,","volume 3, 1903.","volume 5,"}:
+            buffer=[];continue
+        if line.isdigit() and len(line)==4 and 1900<=int(line)<=1910:
+            buffer=[];continue
+        match=ending.match(line)
+        if match and re.search("[A-Za-z]",match.group(1)):
+            # Joined line may be an actual heading or the end of split heading.
+            emit(buffer+[match.group(1)],match.group(2));buffer=[];continue
+        if barepages.fullmatch(line):
+            if buffer:emit(buffer,line)
+            buffer=[];continue
+        # Index may contain a numeric continuation without a title.
+        if line.startswith(","):continue
+        if re.search(r"[A-Za-z]",line):
+            buffer.append(line)
+            if len(buffer)>5:buffer=buffer[-3:]
     return results
 def main():
     audit={}
@@ -85,11 +92,11 @@ def main():
             records=parse(year,lines)
             audit[str(year)]={"url":url,"text_lines":len(lines),"record_count":len(records),
                 "month_counts":{m:sum(x["month"]==i for x in records) for i,m in enumerate(MONTHS,1)},
-                "status":"unreviewed_machine_parse",
-                "warning":"No article row has been individually confirmed against original printed issues"}
+                "status":"annual_index_headings_unreviewed",
+                "warning":"Source is an alphabetical INDEX (not a monthly TOC). These are index-heading candidates, not verified article titles or issue assignments."}
             # Do not publish speculative or nearly empty results as complete.
             (ROOT/f"{year}-draft.json").write_text(json.dumps({"year":year,
-                "source_url":url,"status":"unreviewed_draft","records":records},ensure_ascii=False,indent=2),encoding="utf-8")
+                "source_url":url,"status":"annual_index_candidates_not_for_public_article_gallery","records":records},ensure_ascii=False,indent=2),encoding="utf-8")
             print(year,len(lines),"lines,",len(records),"draft entries")
         except Exception as exc:
             audit[str(year)]={"url":url,"status":"download_failed","error":str(exc)}
