@@ -1,0 +1,65 @@
+{
+  "1902": {
+    "url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+    "text_lines": 324,
+    "record_count": 0,
+    "month_counts": {
+      "January": 0,
+      "February": 0,
+      "March": 0,
+      "April": 0,
+      "May": 0,
+      "June": 0,
+      "July": 0,
+      "August": 0,
+      "September": 0,
+      "October": 0,
+      "November": 0,
+      "December": 0
+    },
+    "status": "unreviewed_machine_parse",
+    "warning": "No article row has been individually confirmed against original printed issues"
+  },
+  "1903": {
+    "url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+    "text_lines": 242,
+    "record_count": 0,
+    "month_counts": {
+      "January": 0,
+      "February": 0,
+      "March": 0,
+      "April": 0,
+      "May": 0,
+      "June": 0,
+      "July": 0,
+      "August": 0,
+      "September": 0,
+      "October": 0,
+      "November": 0,
+      "December": 0
+    },
+    "status": "unreviewed_machine_parse",
+    "warning": "No article row has been individually confirmed against original printed issues"
+  },
+  "1905": {
+    "url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+    "text_lines": 208,
+    "record_count": 23,
+    "month_counts": {
+      "January": 0,
+      "February": 0,
+      "March": 0,
+      "April": 0,
+      "May": 0,
+      "June": 0,
+      "July": 0,
+      "August": 0,
+      "September": 0,
+      "October": 0,
+      "November": 23,
+      "December": 0
+    },
+    "status": "unreviewed_machine_parse",
+    "warning": "No article row has been individually confirmed against original printed issues"
+  }
+}
