@@ -5,6 +5,7 @@ on:
     paths:
       - 'scripts/harvest_toc.py'
       - 'scripts/audit_catalog.py'
+      - 'scripts/verify_1904_months.py'
       - '.github/workflows/harvest-toc.yml'
 permissions:
   contents: write
@@ -23,6 +24,8 @@ jobs:
         run: python scripts/harvest_toc.py
       - name: Check catalog coverage and duplicates
         run: python scripts/audit_catalog.py
+      - name: Cross-check 1904 monthly source DOCX
+        run: python scripts/verify_1904_months.py
       - name: Save extraction outputs for manual source comparison
         uses: actions/upload-artifact@v4
         with:
