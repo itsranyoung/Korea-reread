@@ -24,7 +24,12 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        1
+      ],
+      "month_verification_status": "same_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-002",
@@ -46,7 +51,12 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        1
+      ],
+      "month_verification_status": "same_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-003",
@@ -68,7 +78,12 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        1
+      ],
+      "month_verification_status": "same_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-004",
@@ -90,7 +105,12 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        1
+      ],
+      "month_verification_status": "same_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-005",
@@ -112,7 +132,14 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        1,
+        6,
+        7
+      ],
+      "month_verification_status": "conflicting_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-006",
@@ -134,7 +161,17 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "month_verification_status": "conflicting_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-007",
@@ -156,7 +193,12 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        2
+      ],
+      "month_verification_status": "same_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-008",
@@ -178,7 +220,13 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        2,
+        6
+      ],
+      "month_verification_status": "conflicting_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-009",
@@ -200,7 +248,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-010",
@@ -222,7 +273,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-011",
@@ -244,7 +298,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-012",
@@ -266,7 +323,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-013",
@@ -288,7 +348,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-014",
@@ -310,7 +373,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-015",
@@ -332,7 +398,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-016",
@@ -354,7 +423,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-017",
@@ -376,7 +448,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-018",
@@ -398,7 +473,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-019",
@@ -420,7 +498,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-020",
@@ -442,7 +523,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-021",
@@ -464,7 +548,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-022",
@@ -486,7 +573,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-023",
@@ -508,7 +598,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-024",
@@ -530,7 +623,12 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        4
+      ],
+      "month_verification_status": "same_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-025",
@@ -552,7 +650,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-026",
@@ -574,7 +675,12 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        4
+      ],
+      "month_verification_status": "same_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-027",
@@ -596,7 +702,12 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        5
+      ],
+      "month_verification_status": "same_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-028",
@@ -618,7 +729,12 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        5
+      ],
+      "month_verification_status": "same_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-029",
@@ -640,7 +756,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-030",
@@ -662,7 +781,12 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        5
+      ],
+      "month_verification_status": "same_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-031",
@@ -684,7 +808,12 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        6
+      ],
+      "month_verification_status": "same_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-032",
@@ -706,7 +835,12 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        7
+      ],
+      "month_verification_status": "same_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-033",
@@ -728,7 +862,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-034",
@@ -750,7 +887,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-035",
@@ -772,7 +912,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-036",
@@ -794,7 +937,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-037",
@@ -816,7 +962,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-038",
@@ -838,7 +987,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-039",
@@ -860,7 +1012,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-040",
@@ -882,7 +1037,12 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        10
+      ],
+      "month_verification_status": "same_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-041",
@@ -904,7 +1064,12 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        10
+      ],
+      "month_verification_status": "same_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-042",
@@ -926,7 +1091,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-043",
@@ -948,7 +1116,12 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        11
+      ],
+      "month_verification_status": "same_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-044",
@@ -970,7 +1143,12 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        12
+      ],
+      "month_verification_status": "same_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-045",
@@ -992,7 +1170,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-046",
@@ -1014,7 +1195,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-047",
@@ -1036,7 +1220,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-048",
@@ -1058,7 +1245,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-049",
@@ -1080,7 +1270,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-050",
@@ -1102,7 +1295,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-051",
@@ -1124,7 +1320,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-052",
@@ -1146,7 +1345,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-053",
@@ -1168,7 +1370,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-054",
@@ -1190,7 +1395,10 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [],
+      "month_verification_status": "no_exact_heading_match",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-055",
@@ -1212,7 +1420,22 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month_verification_status": "conflicting_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-056",
@@ -1234,7 +1457,22 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month_verification_status": "conflicting_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-057",
@@ -1256,7 +1494,22 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month_verification_status": "conflicting_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-058",
@@ -1278,7 +1531,22 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month_verification_status": "conflicting_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-059",
@@ -1300,7 +1568,22 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month_verification_status": "conflicting_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-060",
@@ -1322,7 +1605,22 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month_verification_status": "conflicting_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-061",
@@ -1344,7 +1642,22 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month_verification_status": "conflicting_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-062",
@@ -1366,7 +1679,22 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month_verification_status": "conflicting_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-063",
@@ -1388,7 +1716,22 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month_verification_status": "conflicting_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-064",
@@ -1410,7 +1753,22 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month_verification_status": "conflicting_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-065",
@@ -1432,7 +1790,22 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month_verification_status": "conflicting_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     },
     {
       "id": "kr-1904-066",
@@ -1454,7 +1827,23 @@
       "entity_status": "not_processed",
       "summary_ko": null,
       "summary_status": "not_processed",
-      "human_review_status": "pending"
+      "human_review_status": "pending",
+      "source_month_matches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "month_verification_status": "conflicting_month_candidate",
+      "month_assignment_method": "printed_page_formula_provisional"
     }
-  ]
+  ],
+  "month_verification_note": "Month remains provisional; exact paragraph matches in source DOCX are research hints, not source page confirmation. Repeated headings can occur in multiple issues."
 }
