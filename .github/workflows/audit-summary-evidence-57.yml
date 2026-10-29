@@ -1,0 +1,51 @@
+name: Audit 57 Korean summaries against OCR
+on:
+  push:
+    paths:
+      - 'scripts/audit_summary_evidence_57.py'
+      - '.github/workflows/audit-summary-evidence-57.yml'
+      - 'data/ai-analysis-57-drafts.json'
+      - 'data/curated-60-ocr-drafts.json'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Generate conservative sentence-level audit
+        run: python scripts/audit_summary_evidence_57.py
+      - name: Check audit integrity and no source edits
+        run: |
+          python - <<'PY'
+          import json,pathlib
+          root=pathlib.Path('.')
+          doc=json.loads((root/'audit/summary-evidence-57.json').read_text())
+          assert doc['article_count']==57
+          assert doc['sentence_count']>=57
+          assert len({x['id'] for x in doc['records']})==57
+          assert all(x['human_review_status']=='pending_human_review' for x in doc['records'])
+          assert all(s['semantic_verification']=='not_performed'
+            and s['manual_classification'] is None
+            and s['provisional_classification'] in ('근거 불충분','해석상 주의 필요')
+            for a in doc['records'] for s in a['summary_sentences'])
+          print('PASS: 57 unique IDs; all statements unreviewed; no false verified claims')
+          PY
+          python scripts/build_static.py
+      - name: Commit generated research audit
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add audit/summary-evidence-57.json
+          git diff --cached --quiet || (git commit -m "Record 57-article sentence evidence triage (not human reviewed)" && git push)
+      - name: Archive evidence report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: summary-evidence-57
+          path: audit/summary-evidence-57.json
+          if-no-files-found: ignore
