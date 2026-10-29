@@ -51,7 +51,7 @@ def locate(pars,r):
  if len(hits)!=1:return None,"ambiguous_multiple_body_headings"
  return hits[0],None
 def split_month(year,month,selected):
- paras,url=acquire(year,month)
+ pars,url=acquire(year,month)
  # Independent content-end guard: no next known heading => cannot confidently
  # establish a complete boundary. The final article can only end at issue end.
  headings=[];issues=[]
@@ -77,7 +77,7 @@ def split_month(year,month,selected):
   toc_set=set(toc_titles)
   possible_boundaries=[]
   for k in range(start+1,next_start):
-   t=pars_text=paras[k]
+   t=pars[k]
    if len(t)<=145 and norm(t) in toc_set and norm(t)!=norm(r["title"]):
     possible_boundaries.append(k)
   if possible_boundaries:next_start=min(next_start,min(possible_boundaries))
