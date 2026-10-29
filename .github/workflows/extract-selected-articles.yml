@@ -1,10 +1,6 @@
 name: Extract selected 251 article OCR drafts
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - '.github/workflows/extract-selected-articles.yml'
-      - 'scripts/extract_selected_articles.py'
 permissions:
   contents: write
 concurrency:
