@@ -53,6 +53,9 @@ def main():
         if analysis.get("summary_ko") and analysis["summary_status"] != "ai_draft_requires_human_review":
             raise AssertionError("Summary draft must be labeled")
         text = by_id[analysis["id"]]["text"]
+        if analysis["id"] == "kr-1901-011":
+            if analysis["analysis_stage"] != "ocr_source_corrupted_pending_reextraction" or analysis["summary_ko"] is not None or any(analysis[k] for k in ("topic_candidates","entities","evidence_passages")):
+                raise AssertionError("Corrupt Sul-Chong OCR must not produce fake evidence")
         for group in ("topic_candidates", "entities", "evidence_passages"):
             for item in analysis[group]:
                 quote = item.get("evidence_quote", item.get("quote"))
