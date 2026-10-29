@@ -43,6 +43,21 @@ def main():
         raise AssertionError("57 selected metadata and OCR text IDs must match exactly")
     if set(by_id) != verified_ids:
         raise AssertionError("Unmatched source OCR record cannot be published")
+    analyses = json.loads((ROOT / "data" / "ai-analysis-57-drafts.json").read_text(encoding="utf-8"))["records"]
+    analysis_by_id = {a["id"]: a for a in analyses}
+    if len(analyses) != 57 or set(analysis_by_id) != set(by_id):
+        raise AssertionError("All 57 articles must have an AI analysis record")
+    for analysis in analyses:
+        if analysis["review"]["status"] != "pending_human_review":
+            raise AssertionError("Never publish unverified analysis as reviewed")
+        if analysis.get("summary_ko") and analysis["summary_status"] != "ai_draft_requires_human_review":
+            raise AssertionError("Summary draft must be labeled")
+        text = by_id[analysis["id"]]["text"]
+        for group in ("topic_candidates", "entities", "evidence_passages"):
+            for item in analysis[group]:
+                quote = item.get("evidence_quote", item.get("quote"))
+                if not quote or quote not in text:
+                    raise AssertionError(f"Missing source evidence: {analysis['id']} / {group}")
     copy2(verified, OUT / "data" / "public-verified.json")
     for y in range(1901,1907):
         group = [r for r in catalog if r["year"] == y]
@@ -59,6 +74,19 @@ def main():
                 "source_url":d["source_url"],"text":body,
                 "transcription_status":"matched_corrected_ocr_not_facsimile_verified",
                 "human_review_status":"pending_facsimile_collation"})
+        analysis_payload = []
+        for r in group:
+            a = analysis_by_id[r["id"]]
+            analysis_payload.append({
+                "id": a["id"], "title": a["title"], "year": a["year"],
+                "summary_ko": a["summary_ko"], "summary_status": a["summary_status"],
+                "topic_candidates": a["topic_candidates"], "entities": a["entities"],
+                "evidence_passages": a["evidence_passages"],
+                "review": a["review"], "provenance": a["provenance"],
+                "analysis_stage": a["analysis_stage"]
+            })
+        (OUT / "data" / f"analysis-{y}.json").write_text(
+            json.dumps({"year": y, "records": analysis_payload}, ensure_ascii=False), encoding="utf-8")
         (OUT / "data" / f"articles-{y}.json").write_text(
             json.dumps({"year":y,"records":payload},ensure_ascii=False),encoding="utf-8")
     # Verify all relative local asset references in the main archive.
@@ -66,7 +94,7 @@ def main():
     for name in DATA:
         if f"./data/{name}" in main_html and not (OUT / "data" / name).exists():
             raise AssertionError(f"Unresolved data URL: {name}")
-    print("Built archive + 57 source-matched OCR articles in six year-sharded reader files")
+    print("Built archive + 57 OCR articles and 57 labeled analysis records in year-sharded files")
 
 if __name__ == "__main__":
     main()
