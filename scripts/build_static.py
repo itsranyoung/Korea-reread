@@ -11,12 +11,9 @@ from shutil import copy2, rmtree
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / ".vercel-output-static"
-PAGES = ("index.html", "archive-1901.html", "archive-reader.html")
+PAGES = ("index.html",)
 DATA = (
     "issues-1901-1906.json",
-    "1901.json",
-    "1904.json",
-    "1906.json",
 )
 
 def main():
@@ -34,12 +31,6 @@ def main():
             raise FileNotFoundError(f"Missing public catalog: {name}")
         json.loads(src.read_text(encoding="utf-8"))
         copy2(src, OUT / "data" / name)
-    # Optional catalog appears only after the original DOCX cross-check succeeds.
-    for name in ("1902.json", "1903.json", "1905.json"):
-        optional = ROOT / "data" / name
-        if optional.is_file():
-            json.loads(optional.read_text(encoding="utf-8"))
-            copy2(optional, OUT / "data" / name)
     verified = ROOT / "data" / "public-verified.json"
     if not verified.is_file():
         raise FileNotFoundError("Strict public catalog must be generated before deployment")
