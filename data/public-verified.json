@@ -1,6 +1,6 @@
 {
-  "status": "60_curated_articles_not_final_transcription_reviewed",
-  "scope": "10 representative articles per year selected from 251 source-correlated research records",
+  "status": "57_selected_source_OCR_text_matched_pending_facsimile_and_boundary_review",
+  "scope": "57 representative articles; 3 uncertain records excluded",
   "records": [
     {
       "id": "kr-1901-003",
@@ -334,47 +334,6 @@
       "curation_status": "representative_article_selected_pending_manual_source_review",
       "curation_basis": "Historical/social/cultural relevance, title-level research potential, thematic range, and existing source-heading correspondence; full-text analysis pending",
       "curation_rank_in_year": 8
-    },
-    {
-      "id": "kr-1901-032",
-      "title": "The Founding of the Korea Dynasty",
-      "year": 1901,
-      "month": 11,
-      "month_name": "November",
-      "volume": 1,
-      "issue": 11,
-      "printed_page_start": 483,
-      "printed_page_end": null,
-      "language": "en",
-      "topic_candidate": "history",
-      "topic_status": "title_based_candidate_unverified",
-      "original_text": null,
-      "transcription_status": "not_processed",
-      "persons": [],
-      "places": [],
-      "organizations": [],
-      "entity_status": "not_processed",
-      "summary_ko": null,
-      "summary_status": "not_processed",
-      "keywords": [],
-      "keywords_status": "not_processed",
-      "human_review_status": "pending_facsimile_collation",
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReviewFulltextVolume1.pdf",
-      "metadata_status": "title_month_start_page_from_1901_toc",
-      "publication_verification": "monthly_toc_plus_source_heading_evidence",
-      "verification_note": "TOC and standalone OCR heading agree; printed page is TOC-derived. Full boundary and facsimile collation pending.",
-      "source_heading_evidence": [
-        {
-          "paragraph_index": 2,
-          "style": "",
-          "text": "The Founding of The Korea Dynasty"
-        }
-      ],
-      "editorial_selection": "bounded_source_correlated_representative_selection",
-      "editorial_selection_method": "50 maximum per year, source evidence filter, monthly round-robin, transparent title-based thematic preference",
-      "curation_status": "representative_article_selected_pending_manual_source_review",
-      "curation_basis": "Historical/social/cultural relevance, title-level research potential, thematic range, and existing source-heading correspondence; full-text analysis pending",
-      "curation_rank_in_year": 9
     },
     {
       "id": "kr-1901-037",
@@ -1113,35 +1072,6 @@
       "curation_rank_in_year": 5
     },
     {
-      "title": "The Oldest Relic in Korea",
-      "year": 1904,
-      "month": 6,
-      "volume": 4,
-      "issue": 6,
-      "printed_page_start": 255,
-      "toc_paragraph_index": 4,
-      "toc_raw": "The Oldest Relic in Korea.",
-      "page_evidence_method": "preceding_embedded_print_page_marker",
-      "body_heading_paragraph_indices": [
-        51
-      ],
-      "body_heading_raw": "The Oldest Relic in Korea.",
-      "page_marker_witness": "[page 255]",
-      "multiple_body_occurrences": false,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-06.docx",
-      "id": "kr-confirmed-1904-0261",
-      "record_type": "toc_entry_correlated_with_body_heading",
-      "publication_verification": "independent_issue_toc_page_and_body_heading_correlated",
-      "human_review_status": "pending_facsimile_collation",
-      "transcription_status": "not_processed",
-      "summary_status": "not_processed",
-      "editorial_selection": "bounded_source_correlated_representative_selection",
-      "editorial_selection_method": "50 maximum per year, source evidence filter, monthly round-robin, transparent title-based thematic preference",
-      "curation_status": "representative_article_selected_pending_manual_source_review",
-      "curation_basis": "Historical/social/cultural relevance, title-level research potential, thematic range, and existing source-heading correspondence; full-text analysis pending",
-      "curation_rank_in_year": 6
-    },
-    {
       "title": "The Russo-Japanese War",
       "year": 1904,
       "month": 7,
@@ -1668,44 +1598,6 @@
       "curation_status": "representative_article_selected_pending_manual_source_review",
       "curation_basis": "Historical/social/cultural relevance, title-level research potential, thematic range, and existing source-heading correspondence; full-text analysis pending",
       "curation_rank_in_year": 4
-    },
-    {
-      "id": "kr-1906-043",
-      "record_type": "article_toc_entry",
-      "title": "Korean and Ainu",
-      "year": 1906,
-      "month": 6,
-      "volume": 6,
-      "issue": 6,
-      "printed_page_start": 223,
-      "printed_page_end": null,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume6FullText.html",
-      "metadata_status": "monthly_toc_checked",
-      "original_text": null,
-      "transcription_status": "not_processed",
-      "persons": [],
-      "places": [],
-      "organizations": [],
-      "entity_status": "not_processed",
-      "summary_ko": null,
-      "summary_status": "not_processed",
-      "keywords": [],
-      "keywords_status": "not_processed",
-      "human_review_status": "pending_facsimile_collation",
-      "publication_verification": "monthly_toc_plus_source_heading_evidence",
-      "verification_note": "TOC and standalone OCR heading agree; printed page is TOC-derived. Full boundary and facsimile collation pending.",
-      "source_heading_evidence": [
-        {
-          "paragraph_index": 142,
-          "style": "",
-          "text": "Korean and Ainu."
-        }
-      ],
-      "editorial_selection": "bounded_source_correlated_representative_selection",
-      "editorial_selection_method": "50 maximum per year, source evidence filter, monthly round-robin, transparent title-based thematic preference",
-      "curation_status": "representative_article_selected_pending_manual_source_review",
-      "curation_basis": "Historical/social/cultural relevance, title-level research potential, thematic range, and existing source-heading correspondence; full-text analysis pending",
-      "curation_rank_in_year": 5
     },
     {
       "id": "kr-1906-046",
