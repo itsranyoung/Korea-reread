@@ -1,0 +1,89 @@
+{
+  "year": 1903,
+  "month": 6,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-06.docx",
+  "docx_paragraphs": 224,
+  "catalog_records": 4,
+  "matched_count": 4,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1903-0016",
+      "title": "Across Siberia by Rail",
+      "catalog_page": 253,
+      "heading_evidence": [
+        {
+          "paragraph_index": 77,
+          "style": "",
+          "text": "Across Siberia by Rail."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0017",
+      "title": "Mudang and Pansu",
+      "catalog_page": 257,
+      "heading_evidence": [
+        {
+          "paragraph_index": 86,
+          "style": "",
+          "text": "Mudang and Pansu."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0018",
+      "title": "Thorn Fence Island",
+      "catalog_page": 262,
+      "heading_evidence": [
+        {
+          "paragraph_index": 107,
+          "style": "",
+          "text": "Thorn fence Island"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0019",
+      "title": "Korean History",
+      "catalog_page": 273,
+      "heading_evidence": [
+        {
+          "paragraph_index": 190,
+          "style": "",
+          "text": "Korean History."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds and Ends",
+      "toc_paragraph_index": 7,
+      "body_paragraph_indices": [
+        94
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "(To be continued).",
+      "toc_paragraph_index": 84,
+      "body_paragraph_indices": [
+        93
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

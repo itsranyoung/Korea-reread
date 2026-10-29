@@ -1,0 +1,142 @@
+{
+  "year": 1904,
+  "month": 2,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-02.docx",
+  "docx_paragraphs": 161,
+  "catalog_records": 8,
+  "matched_count": 4,
+  "unmatched_count": 4,
+  "matches": [
+    {
+      "id": "kr-1904-006",
+      "title": "The Russo-Japanese War",
+      "catalog_page": 49,
+      "heading_evidence": [
+        {
+          "paragraph_index": 2,
+          "style": "10",
+          "text": "The Russo-Japanese War."
+        },
+        {
+          "paragraph_index": 9,
+          "style": "1",
+          "text": "The Russo-Japanese War."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1904-007",
+      "title": "The Battle of Chemulpo",
+      "catalog_page": 53,
+      "heading_evidence": [
+        {
+          "paragraph_index": 4,
+          "style": "20",
+          "text": "The Battle of Chemulpo."
+        },
+        {
+          "paragraph_index": 17,
+          "style": "2",
+          "text": "The Battle of Chemulpo."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1904-008",
+      "title": "The Ajun",
+      "catalog_page": 63,
+      "heading_evidence": [
+        {
+          "paragraph_index": 5,
+          "style": "10",
+          "text": "The Ajun."
+        },
+        {
+          "paragraph_index": 31,
+          "style": "1",
+          "text": "The Ajun."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1904-056",
+      "title": "News Calendar",
+      "catalog_page": 77,
+      "heading_evidence": [
+        {
+          "paragraph_index": 7,
+          "style": "10",
+          "text": "News Calendar."
+        },
+        {
+          "paragraph_index": 53,
+          "style": "1",
+          "text": "News Calendar."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [
+    {
+      "id": "kr-1904-009",
+      "title": "Korean Neutrality",
+      "catalog_page": 70,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-011",
+      "title": "History of Korea",
+      "catalog_page": 81,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-022",
+      "title": "Decadent Korea",
+      "catalog_page": 75,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-046",
+      "title": "Editorials",
+      "catalog_page": 70,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    }
+  ],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "The Method",
+      "toc_paragraph_index": 3,
+      "body_paragraph_indices": [
+        14
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Korean History.",
+      "toc_paragraph_index": 8,
+      "body_paragraph_indices": [
+        119
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

@@ -1,0 +1,66 @@
+{
+  "year": 1901,
+  "month": 11,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-11.docx",
+  "docx_paragraphs": 254,
+  "catalog_records": 3,
+  "matched_count": 3,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1901-032",
+      "title": "The Founding of the Korea Dynasty",
+      "catalog_page": 483,
+      "heading_evidence": [
+        {
+          "paragraph_index": 2,
+          "style": "",
+          "text": "The Founding of The Korea Dynasty"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-033",
+      "title": "The Queen of Quelpart",
+      "catalog_page": 486,
+      "heading_evidence": [
+        {
+          "paragraph_index": 35,
+          "style": "",
+          "text": "The Queen of Quelpart."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-034",
+      "title": "The Wizard of Ta-Bak San",
+      "catalog_page": 489,
+      "heading_evidence": [
+        {
+          "paragraph_index": 47,
+          "style": "",
+          "text": "The Wizard of Ta-bak San."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds and Ends.",
+      "toc_paragraph_index": 7,
+      "body_paragraph_indices": [
+        73
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

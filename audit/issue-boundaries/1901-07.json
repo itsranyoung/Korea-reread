@@ -1,0 +1,47 @@
+{
+  "year": 1901,
+  "month": 7,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-07.docx",
+  "docx_paragraphs": 307,
+  "catalog_records": 2,
+  "matched_count": 1,
+  "unmatched_count": 1,
+  "matches": [
+    {
+      "id": "kr-1901-022",
+      "title": "Korean and Efate",
+      "catalog_page": 297,
+      "heading_evidence": [
+        {
+          "paragraph_index": 46,
+          "style": "",
+          "text": "Korean and Efate."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [
+    {
+      "id": "kr-1901-021",
+      "title": "The Ni-T’u",
+      "catalog_page": 289,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    }
+  ],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds And Ends.",
+      "toc_paragraph_index": 6,
+      "body_paragraph_indices": [
+        133
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

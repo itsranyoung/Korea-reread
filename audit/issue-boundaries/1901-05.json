@@ -1,0 +1,71 @@
+{
+  "year": 1901,
+  "month": 5,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-05.docx",
+  "docx_paragraphs": 264,
+  "catalog_records": 3,
+  "matched_count": 3,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1901-015",
+      "title": "The Tidal Wave in the Yellow Sea",
+      "catalog_page": 202,
+      "heading_evidence": [
+        {
+          "paragraph_index": 3,
+          "style": "",
+          "text": "The Tidal Wave in The Yellow Sea."
+        },
+        {
+          "paragraph_index": 75,
+          "style": "",
+          "text": "The Tidal Wave in the Yellow Sea."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-016",
+      "title": "Native Gold Mining",
+      "catalog_page": 206,
+      "heading_evidence": [
+        {
+          "paragraph_index": 139,
+          "style": "",
+          "text": "Native Gold Mining."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-017",
+      "title": "A Korean Heroine",
+      "catalog_page": 208,
+      "heading_evidence": [
+        {
+          "paragraph_index": 146,
+          "style": "",
+          "text": "A Korean Heroine."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds And Ends.",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        138
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

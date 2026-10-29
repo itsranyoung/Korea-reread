@@ -1,0 +1,98 @@
+{
+  "year": 1905,
+  "month": 4,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-04.docx",
+  "docx_paragraphs": 279,
+  "catalog_records": 6,
+  "matched_count": 6,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1905-0012",
+      "title": "Incubative Warmth",
+      "catalog_page": 1,
+      "heading_evidence": [
+        {
+          "paragraph_index": 92,
+          "style": "",
+          "text": "Incubative Warmth,"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0013",
+      "title": "Sanitation in Korea",
+      "catalog_page": 42,
+      "heading_evidence": [
+        {
+          "paragraph_index": 121,
+          "style": "",
+          "text": "Sanitation in Korea."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0014",
+      "title": "How Priests became Genii",
+      "catalog_page": 130,
+      "heading_evidence": [
+        {
+          "paragraph_index": 58,
+          "style": "",
+          "text": "How Priests Became Genii."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0015",
+      "title": "Northern Korea",
+      "catalog_page": 130,
+      "heading_evidence": [
+        {
+          "paragraph_index": 110,
+          "style": "",
+          "text": "Northern Korea."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0016",
+      "title": "Questions and Answers",
+      "catalog_page": 149,
+      "heading_evidence": [
+        {
+          "paragraph_index": 135,
+          "style": "",
+          "text": "Questions and Answers."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0017",
+      "title": "Questions and Answers",
+      "catalog_page": 264,
+      "heading_evidence": [
+        {
+          "paragraph_index": 135,
+          "style": "",
+          "text": "Questions and Answers."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

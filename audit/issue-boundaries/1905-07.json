@@ -1,0 +1,118 @@
+{
+  "year": 1905,
+  "month": 7,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-07.docx",
+  "docx_paragraphs": 210,
+  "catalog_records": 4,
+  "matched_count": 4,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1905-0020",
+      "title": "Fiercer than the Tiger",
+      "catalog_page": 26,
+      "heading_evidence": [
+        {
+          "paragraph_index": 7,
+          "style": "11",
+          "text": "Fiercer Than the Tiger."
+        },
+        {
+          "paragraph_index": 83,
+          "style": "1",
+          "text": "Fiercer Than the Tiger."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0021",
+      "title": "Six hundred Miles Overland",
+      "catalog_page": 241,
+      "heading_evidence": [
+        {
+          "paragraph_index": 3,
+          "style": "11",
+          "text": "Six Hundred Miles Overland."
+        },
+        {
+          "paragraph_index": 13,
+          "style": "1",
+          "text": "Six Hundred Miles Overland."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0022",
+      "title": "Japanese Plans for Korea",
+      "catalog_page": 254,
+      "heading_evidence": [
+        {
+          "paragraph_index": 5,
+          "style": "11",
+          "text": "Japanese Plans for Korea."
+        },
+        {
+          "paragraph_index": 46,
+          "style": "1",
+          "text": "Japanese Plans for Korea."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0023",
+      "title": "Detectives must be the cleverest thieves",
+      "catalog_page": 260,
+      "heading_evidence": [
+        {
+          "paragraph_index": 6,
+          "style": "11",
+          "text": "Detectives Must be the Cleverest Thieves."
+        },
+        {
+          "paragraph_index": 61,
+          "style": "1",
+          "text": "Detectives Must be the Cleverest Thieves."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "A Notable Movement in Korea.",
+      "toc_paragraph_index": 4,
+      "body_paragraph_indices": [
+        33
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Question and Answer",
+      "toc_paragraph_index": 8,
+      "body_paragraph_indices": [
+        93
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Arthur Sturgis Dixey.",
+      "toc_paragraph_index": 11,
+      "body_paragraph_indices": [
+        204
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

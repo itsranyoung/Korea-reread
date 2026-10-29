@@ -1,0 +1,80 @@
+{
+  "year": 1905,
+  "month": 1,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx",
+  "docx_paragraphs": 209,
+  "catalog_records": 4,
+  "matched_count": 4,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1905-0001",
+      "title": "Korea and Formosa",
+      "catalog_page": 1,
+      "heading_evidence": [
+        {
+          "paragraph_index": 17,
+          "style": "",
+          "text": "Korea and Formosa."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0002",
+      "title": "Room at the Top",
+      "catalog_page": 21,
+      "heading_evidence": [
+        {
+          "paragraph_index": 64,
+          "style": "",
+          "text": "Room at the top."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0003",
+      "title": "Society for the Prevention of Cruelty to Animals",
+      "catalog_page": 22,
+      "heading_evidence": [
+        {
+          "paragraph_index": 66,
+          "style": "",
+          "text": "Society for the prevention of cruelty to animals"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0004",
+      "title": "Satsuma Ware",
+      "catalog_page": 24,
+      "heading_evidence": [
+        {
+          "paragraph_index": 75,
+          "style": "",
+          "text": "Satsuma Ware."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds and Ends",
+      "toc_paragraph_index": 7,
+      "body_paragraph_indices": [
+        63
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

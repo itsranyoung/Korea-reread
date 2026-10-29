@@ -1,0 +1,178 @@
+{
+  "year": 1906,
+  "month": 7,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume6-07.docx",
+  "docx_paragraphs": 191,
+  "catalog_records": 11,
+  "matched_count": 11,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1906-046",
+      "title": "The Korean Mining Laws",
+      "catalog_page": 241,
+      "heading_evidence": [
+        {
+          "paragraph_index": 2,
+          "style": "",
+          "text": "The Korean Mining Laws."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-047",
+      "title": "A Korean Cyclopaedia",
+      "catalog_page": 244,
+      "heading_evidence": [
+        {
+          "paragraph_index": 17,
+          "style": "",
+          "text": "A Korean Cyclopaedia."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-048",
+      "title": "Opium in Korea",
+      "catalog_page": 248,
+      "heading_evidence": [
+        {
+          "paragraph_index": 26,
+          "style": "",
+          "text": "Opium in Korea."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-049",
+      "title": "The American Hospital in Pyeng-Yang",
+      "catalog_page": 251,
+      "heading_evidence": [
+        {
+          "paragraph_index": 33,
+          "style": "",
+          "text": "The American Hospital in Pyeng-yang,"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-050",
+      "title": "Correspondence",
+      "catalog_page": 254,
+      "heading_evidence": [
+        {
+          "paragraph_index": 49,
+          "style": "",
+          "text": "Correspondence."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-051",
+      "title": "The Korean Emigrant Protection Law",
+      "catalog_page": 256,
+      "heading_evidence": [
+        {
+          "paragraph_index": 65,
+          "style": "",
+          "text": "The Korean Emigrant Protection Law."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-052",
+      "title": "The Gentle Plagiarist",
+      "catalog_page": 258,
+      "heading_evidence": [
+        {
+          "paragraph_index": 68,
+          "style": "",
+          "text": "The Gentle Plagiarist."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-053",
+      "title": "Export Duties",
+      "catalog_page": 259,
+      "heading_evidence": [
+        {
+          "paragraph_index": 71,
+          "style": "",
+          "text": "Export Duties."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-054",
+      "title": "The Pyeng-Yang Land Case",
+      "catalog_page": 261,
+      "heading_evidence": [
+        {
+          "paragraph_index": 76,
+          "style": "",
+          "text": "The Pyeng-yang Land Case."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-055",
+      "title": "Editorial Comment",
+      "catalog_page": 266,
+      "heading_evidence": [
+        {
+          "paragraph_index": 98,
+          "style": "",
+          "text": "Editorial Comment."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-056",
+      "title": "News Calendar",
+      "catalog_page": 272,
+      "heading_evidence": [
+        {
+          "paragraph_index": 108,
+          "style": "",
+          "text": "News Calendar."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "DEAR SIR.",
+      "toc_paragraph_index": 51,
+      "body_paragraph_indices": [
+        58
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

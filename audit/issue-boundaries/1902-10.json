@@ -1,0 +1,144 @@
+{
+  "year": 1902,
+  "month": 10,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-10.docx",
+  "docx_paragraphs": 220,
+  "catalog_records": 3,
+  "matched_count": 3,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1902-0055",
+      "title": "Things are not what they seem",
+      "catalog_page": 450,
+      "heading_evidence": [
+        {
+          "paragraph_index": 7,
+          "style": "20",
+          "text": "Things are not what they seem"
+        },
+        {
+          "paragraph_index": 80,
+          "style": "2",
+          "text": "Things are not what they seem"
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0056",
+      "title": "Not dead yet",
+      "catalog_page": 452,
+      "heading_evidence": [
+        {
+          "paragraph_index": 8,
+          "style": "20",
+          "text": "Not Dead Yet,"
+        },
+        {
+          "paragraph_index": 87,
+          "style": "2",
+          "text": "Not Dead Yet,"
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0057",
+      "title": "Expert Archery",
+      "catalog_page": 453,
+      "heading_evidence": [
+        {
+          "paragraph_index": 9,
+          "style": "20",
+          "text": "Expert Archery."
+        },
+        {
+          "paragraph_index": 92,
+          "style": "2",
+          "text": "Expert Archery."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "The Korean Language.",
+      "toc_paragraph_index": 2,
+      "body_paragraph_indices": [
+        15
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Correspondence.",
+      "toc_paragraph_index": 3,
+      "body_paragraph_indices": [
+        29
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "The Origin of the Korean People.",
+      "toc_paragraph_index": 4,
+      "body_paragraph_indices": [
+        30
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "The Prince of Detectives.",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        56
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Odds and Ends.",
+      "toc_paragraph_index": 6,
+      "body_paragraph_indices": [
+        79
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Book Review.",
+      "toc_paragraph_index": 11,
+      "body_paragraph_indices": [
+        114
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "From the Native Papers.",
+      "toc_paragraph_index": 13,
+      "body_paragraph_indices": [
+        134
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Korean History.",
+      "toc_paragraph_index": 14,
+      "body_paragraph_indices": [
+        180
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

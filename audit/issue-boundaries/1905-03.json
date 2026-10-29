@@ -1,0 +1,42 @@
+{
+  "year": 1905,
+  "month": 3,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-03.docx",
+  "docx_paragraphs": 262,
+  "catalog_records": 2,
+  "matched_count": 2,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1905-0010",
+      "title": "Korean Conundrums",
+      "catalog_page": 81,
+      "heading_evidence": [
+        {
+          "paragraph_index": 9,
+          "style": "",
+          "text": "Korean Conundrums."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0011",
+      "title": "Attack on Doctor Forsythe",
+      "catalog_page": 106,
+      "heading_evidence": [
+        {
+          "paragraph_index": 132,
+          "style": "",
+          "text": "Attack on Doctor Forsythe,"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

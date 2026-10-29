@@ -1,0 +1,38 @@
+{
+  "year": 1903,
+  "month": 12,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-12.docx",
+  "docx_paragraphs": 229,
+  "catalog_records": 1,
+  "matched_count": 1,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1903-0038",
+      "title": "Korean History",
+      "catalog_page": 561,
+      "heading_evidence": [
+        {
+          "paragraph_index": 177,
+          "style": "",
+          "text": "Korean History."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds and Ends",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        69
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

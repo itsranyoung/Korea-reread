@@ -1,0 +1,61 @@
+{
+  "year": 1901,
+  "month": 9,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-09.docx",
+  "docx_paragraphs": 265,
+  "catalog_records": 3,
+  "matched_count": 2,
+  "unmatched_count": 1,
+  "matches": [
+    {
+      "id": "kr-1901-027",
+      "title": "An Anglo-Korean Conversation",
+      "catalog_page": 387,
+      "heading_evidence": [
+        {
+          "paragraph_index": 24,
+          "style": "",
+          "text": "An Anglo-Korean Conversation."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-028",
+      "title": "The Seoul-Fusan Railway",
+      "catalog_page": 397,
+      "heading_evidence": [
+        {
+          "paragraph_index": 127,
+          "style": "",
+          "text": "The Seoul-Fusan Railway."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [
+    {
+      "id": "kr-1901-026",
+      "title": "The Seoul Water-Works",
+      "catalog_page": 385,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    }
+  ],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds and Ends.",
+      "toc_paragraph_index": 6,
+      "body_paragraph_indices": [
+        134
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

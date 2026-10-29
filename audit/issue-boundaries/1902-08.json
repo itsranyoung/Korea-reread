@@ -1,0 +1,229 @@
+{
+  "year": 1902,
+  "month": 8,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx",
+  "docx_paragraphs": 259,
+  "catalog_records": 7,
+  "matched_count": 7,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1902-0039",
+      "title": "Korean Currency",
+      "catalog_page": 337,
+      "heading_evidence": [
+        {
+          "paragraph_index": 2,
+          "style": "11",
+          "text": "Korean Currency."
+        },
+        {
+          "paragraph_index": 20,
+          "style": "1",
+          "text": "Korean Currency."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0040",
+      "title": "Persimmons",
+      "catalog_page": 341,
+      "heading_evidence": [
+        {
+          "paragraph_index": 4,
+          "style": "20",
+          "text": "Persimmons"
+        },
+        {
+          "paragraph_index": 35,
+          "style": "2",
+          "text": "Persimmons"
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0041",
+      "title": "An Aesculapian Episode",
+      "catalog_page": 345,
+      "heading_evidence": [
+        {
+          "paragraph_index": 10,
+          "style": "11",
+          "text": "An Aesculapian Episode."
+        },
+        {
+          "paragraph_index": 52,
+          "style": "1",
+          "text": "An Aesculapian Episode."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0042",
+      "title": "Crab-apples",
+      "catalog_page": 345,
+      "heading_evidence": [
+        {
+          "paragraph_index": 8,
+          "style": "20",
+          "text": "Crab apples."
+        },
+        {
+          "paragraph_index": 48,
+          "style": "2",
+          "text": "Crab apples."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0043",
+      "title": "The Marks of Royalty",
+      "catalog_page": 351,
+      "heading_evidence": [
+        {
+          "paragraph_index": 12,
+          "style": "20",
+          "text": "The Marks of Royalty."
+        },
+        {
+          "paragraph_index": 79,
+          "style": "2",
+          "text": "The Marks of Royalty."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0044",
+      "title": "A Jade Bowl",
+      "catalog_page": 352,
+      "heading_evidence": [
+        {
+          "paragraph_index": 14,
+          "style": "20",
+          "text": "A Jade Bowl."
+        },
+        {
+          "paragraph_index": 85,
+          "style": "2",
+          "text": "A Jade Bowl."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0045",
+      "title": "The doom deferred",
+      "catalog_page": 352,
+      "heading_evidence": [
+        {
+          "paragraph_index": 15,
+          "style": "20",
+          "text": "The Doom Deferred."
+        },
+        {
+          "paragraph_index": 89,
+          "style": "2",
+          "text": "The Doom Deferred."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Korean Products.",
+      "toc_paragraph_index": 3,
+      "body_paragraph_indices": [
+        34
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Pears",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        39
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Peaches.",
+      "toc_paragraph_index": 6,
+      "body_paragraph_indices": [
+        44
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Apricots.",
+      "toc_paragraph_index": 7,
+      "body_paragraph_indices": [
+        46
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Plums.",
+      "toc_paragraph_index": 9,
+      "body_paragraph_indices": [
+        50
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Odds and Ends.",
+      "toc_paragraph_index": 11,
+      "body_paragraph_indices": [
+        78
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Tadpoles",
+      "toc_paragraph_index": 13,
+      "body_paragraph_indices": [
+        83
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Question and Answer.",
+      "toc_paragraph_index": 16,
+      "body_paragraph_indices": [
+        95
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Korean History: Modern Korea.",
+      "toc_paragraph_index": 19,
+      "body_paragraph_indices": [
+        210
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

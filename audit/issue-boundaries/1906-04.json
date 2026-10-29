@@ -1,0 +1,140 @@
+{
+  "year": 1906,
+  "month": 4,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume6-04.docx",
+  "docx_paragraphs": 205,
+  "catalog_records": 9,
+  "matched_count": 9,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1906-024",
+      "title": "Are the Koreans Increasing in Numbers?",
+      "catalog_page": 121,
+      "heading_evidence": [
+        {
+          "paragraph_index": 3,
+          "style": "",
+          "text": "Are the Koreans Increasing in Numbers?"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-025",
+      "title": "The Three Wise Sayings",
+      "catalog_page": 124,
+      "heading_evidence": [
+        {
+          "paragraph_index": 14,
+          "style": "",
+          "text": "The Three Wise Sayings."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-026",
+      "title": "A Visit to Seoul in 1975",
+      "catalog_page": 131,
+      "heading_evidence": [
+        {
+          "paragraph_index": 25,
+          "style": "",
+          "text": "A Visit to Seoul in 1975."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-027",
+      "title": "Biblewomen",
+      "catalog_page": 140,
+      "heading_evidence": [
+        {
+          "paragraph_index": 69,
+          "style": "",
+          "text": "Biblewomen."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-028",
+      "title": "The Carnduff-Wilson Wedding",
+      "catalog_page": 147,
+      "heading_evidence": [
+        {
+          "paragraph_index": 114,
+          "style": "",
+          "text": "The Carnduff-Wilson Wedding."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-029",
+      "title": "Robert Arthur Sharp",
+      "catalog_page": 148,
+      "heading_evidence": [
+        {
+          "paragraph_index": 119,
+          "style": "",
+          "text": "Robert Arthur Sharp."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-030",
+      "title": "Mr. Launcelot Pelly",
+      "catalog_page": 151,
+      "heading_evidence": [
+        {
+          "paragraph_index": 135,
+          "style": "",
+          "text": "Mr. Launcelot Pelly."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-031",
+      "title": "Editorial Comment",
+      "catalog_page": 152,
+      "heading_evidence": [
+        {
+          "paragraph_index": 144,
+          "style": "",
+          "text": "Editorial Comment."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-032",
+      "title": "News Calendar",
+      "catalog_page": 158,
+      "heading_evidence": [
+        {
+          "paragraph_index": 179,
+          "style": "",
+          "text": "News Calendar."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

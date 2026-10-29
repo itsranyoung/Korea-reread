@@ -1,0 +1,194 @@
+{
+  "year": 1902,
+  "month": 4,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx",
+  "docx_paragraphs": 223,
+  "catalog_records": 8,
+  "matched_count": 8,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1902-0019",
+      "title": "The Status of Woman",
+      "catalog_page": 1,
+      "heading_evidence": [
+        {
+          "paragraph_index": 4,
+          "style": "11",
+          "text": "The Status of Woman."
+        },
+        {
+          "paragraph_index": 59,
+          "style": "1",
+          "text": "The Status of Woman."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0020",
+      "title": "Slavery in Korea",
+      "catalog_page": 149,
+      "heading_evidence": [
+        {
+          "paragraph_index": 3,
+          "style": "11",
+          "text": "Slavery in Korea."
+        },
+        {
+          "paragraph_index": 39,
+          "style": "1",
+          "text": "Slavery in Korea."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0021",
+      "title": "Where the Indian Came from",
+      "catalog_page": 159,
+      "heading_evidence": [
+        {
+          "paragraph_index": 6,
+          "style": "20",
+          "text": "Where the Indian came from"
+        },
+        {
+          "paragraph_index": 74,
+          "style": "2",
+          "text": "Where the Indian came from"
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0022",
+      "title": "Electric Shocks",
+      "catalog_page": 164,
+      "heading_evidence": [
+        {
+          "paragraph_index": 8,
+          "style": "20",
+          "text": "Electric Shocks"
+        },
+        {
+          "paragraph_index": 88,
+          "style": "2",
+          "text": "Electric Shocks"
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0023",
+      "title": "How Bribery began",
+      "catalog_page": 164,
+      "heading_evidence": [
+        {
+          "paragraph_index": 10,
+          "style": "20",
+          "text": "How Bribery Began."
+        },
+        {
+          "paragraph_index": 91,
+          "style": "2",
+          "text": "How Bribery Began."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0024",
+      "title": "Odds and Ends",
+      "catalog_page": 164,
+      "heading_evidence": [
+        {
+          "paragraph_index": 9,
+          "style": "11",
+          "text": "Odds and Ends."
+        },
+        {
+          "paragraph_index": 90,
+          "style": "1",
+          "text": "Odds and Ends."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0025",
+      "title": "A Korean Canute",
+      "catalog_page": 165,
+      "heading_evidence": [
+        {
+          "paragraph_index": 11,
+          "style": "20",
+          "text": "A Korean Canute"
+        },
+        {
+          "paragraph_index": 93,
+          "style": "2",
+          "text": "A Korean Canute"
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0026",
+      "title": "Korean History",
+      "catalog_page": 177,
+      "heading_evidence": [
+        {
+          "paragraph_index": 14,
+          "style": "11",
+          "text": "Korean History"
+        },
+        {
+          "paragraph_index": 173,
+          "style": "1",
+          "text": "Korean History"
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "A Submarine Adventure.",
+      "toc_paragraph_index": 2,
+      "body_paragraph_indices": [
+        15
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Reviews.",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        73
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Korea a la globetrotter",
+      "toc_paragraph_index": 7,
+      "body_paragraph_indices": [
+        83
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

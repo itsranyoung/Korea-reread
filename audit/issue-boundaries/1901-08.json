@@ -1,0 +1,61 @@
+{
+  "year": 1901,
+  "month": 8,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-08.docx",
+  "docx_paragraphs": 273,
+  "catalog_records": 3,
+  "matched_count": 2,
+  "unmatched_count": 1,
+  "matches": [
+    {
+      "id": "kr-1901-024",
+      "title": "George C. Foulk",
+      "catalog_page": 344,
+      "heading_evidence": [
+        {
+          "paragraph_index": 103,
+          "style": "",
+          "text": "George C. Foulk."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-025",
+      "title": "Rice and the Ideograph",
+      "catalog_page": 349,
+      "heading_evidence": [
+        {
+          "paragraph_index": 115,
+          "style": "",
+          "text": "Rice and the Ideograph."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [
+    {
+      "id": "kr-1901-023",
+      "title": "The Korea Branch of the R.A.S.",
+      "catalog_page": 337,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    }
+  ],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds And Ends.",
+      "toc_paragraph_index": 7,
+      "body_paragraph_indices": [
+        121
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

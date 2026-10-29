@@ -1,0 +1,66 @@
+{
+  "year": 1901,
+  "month": 3,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-03.docx",
+  "docx_paragraphs": 221,
+  "catalog_records": 3,
+  "matched_count": 3,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1901-010",
+      "title": "Xylographic Art in Korea",
+      "catalog_page": 97,
+      "heading_evidence": [
+        {
+          "paragraph_index": 16,
+          "style": "",
+          "text": "Xylographic Art in Korea."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-011",
+      "title": "Sul-Ch’ong, Father of Korean Literature",
+      "catalog_page": 102,
+      "heading_evidence": [
+        {
+          "paragraph_index": 3,
+          "style": "",
+          "text": "Sul-Ch’ ong, Father Of Korean Literature"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-012",
+      "title": "A Leaf from My Journal",
+      "catalog_page": 111,
+      "heading_evidence": [
+        {
+          "paragraph_index": 53,
+          "style": "",
+          "text": "A Leaf from my Journal."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds And Ends.",
+      "toc_paragraph_index": 6,
+      "body_paragraph_indices": [
+        68
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

@@ -1,0 +1,61 @@
+{
+  "year": 1901,
+  "month": 10,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-10.docx",
+  "docx_paragraphs": 280,
+  "catalog_records": 3,
+  "matched_count": 2,
+  "unmatched_count": 1,
+  "matches": [
+    {
+      "id": "kr-1901-030",
+      "title": "Rear Admiral Schley in Korea",
+      "catalog_page": 440,
+      "heading_evidence": [
+        {
+          "paragraph_index": 51,
+          "style": "",
+          "text": "Rear Admiral Schley in Korea."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-031",
+      "title": "Why Morning Calm?",
+      "catalog_page": 454,
+      "heading_evidence": [
+        {
+          "paragraph_index": 124,
+          "style": "",
+          "text": "Why Morning Calm？"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [
+    {
+      "id": "kr-1901-029",
+      "title": "A Notable Book on China",
+      "catalog_page": 433,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    }
+  ],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds and Ends.",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        123
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

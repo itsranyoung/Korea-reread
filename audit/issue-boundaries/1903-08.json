@@ -1,0 +1,94 @@
+{
+  "year": 1903,
+  "month": 8,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx",
+  "docx_paragraphs": 251,
+  "catalog_records": 5,
+  "matched_count": 5,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1903-0025",
+      "title": "Mudang and Pansu",
+      "catalog_page": 342,
+      "heading_evidence": [
+        {
+          "paragraph_index": 27,
+          "style": "",
+          "text": "Mudang and Pansu."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0026",
+      "title": "Korean Relations with Japan",
+      "catalog_page": 347,
+      "heading_evidence": [
+        {
+          "paragraph_index": 40,
+          "style": "",
+          "text": "Korean Relations with Japan."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0027",
+      "title": "Across Siberia by Rail",
+      "catalog_page": 349,
+      "heading_evidence": [
+        {
+          "paragraph_index": 57,
+          "style": "",
+          "text": "Across Siberia by Rail."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0028",
+      "title": "Kwan-ak Mountain",
+      "catalog_page": 357,
+      "heading_evidence": [
+        {
+          "paragraph_index": 84,
+          "style": "",
+          "text": "Kwan-ak Mountain"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0029",
+      "title": "Korean History",
+      "catalog_page": 369,
+      "heading_evidence": [
+        {
+          "paragraph_index": 214,
+          "style": "",
+          "text": "Korean History."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds and Ends",
+      "toc_paragraph_index": 7,
+      "body_paragraph_indices": [
+        83
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

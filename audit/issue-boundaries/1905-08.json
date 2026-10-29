@@ -1,0 +1,70 @@
+{
+  "year": 1905,
+  "month": 8,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-08.docx",
+  "docx_paragraphs": 175,
+  "catalog_records": 1,
+  "matched_count": 1,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1905-0024",
+      "title": "Japanese Finance in Korea",
+      "catalog_page": 208,
+      "heading_evidence": [
+        {
+          "paragraph_index": 6,
+          "style": "11",
+          "text": "Japanese Finance in Korea."
+        },
+        {
+          "paragraph_index": 43,
+          "style": "1",
+          "text": "Japanese Finance in Korea."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "A Protest",
+      "toc_paragraph_index": 3,
+      "body_paragraph_indices": [
+        11
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "A Visit to Pyeng Yang",
+      "toc_paragraph_index": 4,
+      "body_paragraph_indices": [
+        23
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "The Caves of Kasa.",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        34
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "A Correction.",
+      "toc_paragraph_index": 7,
+      "body_paragraph_indices": [
+        55
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

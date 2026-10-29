@@ -1,0 +1,103 @@
+{
+  "year": 1901,
+  "month": 1,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-01.docx",
+  "docx_paragraphs": 301,
+  "catalog_records": 5,
+  "matched_count": 5,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1901-001",
+      "title": "The Spirit of the Bell",
+      "catalog_page": 1,
+      "heading_evidence": [
+        {
+          "paragraph_index": 20,
+          "style": "",
+          "text": "The Spirit of the Bell."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-002",
+      "title": "The New Century",
+      "catalog_page": 3,
+      "heading_evidence": [
+        {
+          "paragraph_index": 84,
+          "style": "",
+          "text": "The New Century."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-003",
+      "title": "Seoul",
+      "catalog_page": 6,
+      "heading_evidence": [
+        {
+          "paragraph_index": 98,
+          "style": "",
+          "text": "Seoul"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-004",
+      "title": "Chemulpo",
+      "catalog_page": 11,
+      "heading_evidence": [
+        {
+          "paragraph_index": 118,
+          "style": "",
+          "text": "Chemulpo"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-005",
+      "title": "Ancient Korea",
+      "catalog_page": 33,
+      "heading_evidence": [
+        {
+          "paragraph_index": 240,
+          "style": "",
+          "text": "ANCIENT KOREA"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds and Ends",
+      "toc_paragraph_index": 7,
+      "body_paragraph_indices": [
+        133
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "The History of Korea",
+      "toc_paragraph_index": 16,
+      "body_paragraph_indices": [
+        222
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

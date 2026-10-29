@@ -1,0 +1,75 @@
+{
+  "year": 1903,
+  "month": 4,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-04.docx",
+  "docx_paragraphs": 301,
+  "catalog_records": 3,
+  "matched_count": 3,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1903-0008",
+      "title": "The Hun-min Chong-eum",
+      "catalog_page": 154,
+      "heading_evidence": [
+        {
+          "paragraph_index": 52,
+          "style": "",
+          "text": "The Hun-min Chong-eum."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0009",
+      "title": "Question and Answer",
+      "catalog_page": 160,
+      "heading_evidence": [
+        {
+          "paragraph_index": 78,
+          "style": "",
+          "text": "Question and Answer."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0010",
+      "title": "Korean History",
+      "catalog_page": 177,
+      "heading_evidence": [
+        {
+          "paragraph_index": 269,
+          "style": "",
+          "text": "Korean History."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds And Ends",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        71
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "(To be continued)",
+      "toc_paragraph_index": 25,
+      "body_paragraph_indices": [
+        70
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

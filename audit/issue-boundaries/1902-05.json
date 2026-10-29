@@ -1,0 +1,164 @@
+{
+  "year": 1902,
+  "month": 5,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-05.docx",
+  "docx_paragraphs": 301,
+  "catalog_records": 5,
+  "matched_count": 5,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1902-0027",
+      "title": "Necessity the Mother of Invention",
+      "catalog_page": 193,
+      "heading_evidence": [
+        {
+          "paragraph_index": 2,
+          "style": "11",
+          "text": "Necessity, the Mother of Invention."
+        },
+        {
+          "paragraph_index": 16,
+          "style": "1",
+          "text": "Necessity, the Mother of Invention."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0028",
+      "title": "Remusat on the Korean Alphabet",
+      "catalog_page": 198,
+      "heading_evidence": [
+        {
+          "paragraph_index": 3,
+          "style": "11",
+          "text": "Remusat on the Korean Alphabet."
+        },
+        {
+          "paragraph_index": 60,
+          "style": "1",
+          "text": "Remusat on the Korean Alphabet."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0029",
+      "title": "The Products of Korea",
+      "catalog_page": 203,
+      "heading_evidence": [
+        {
+          "paragraph_index": 4,
+          "style": "11",
+          "text": "The Products of Korea."
+        },
+        {
+          "paragraph_index": 74,
+          "style": "1",
+          "text": "The Products of Korea."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0030",
+      "title": "Odds and Ends",
+      "catalog_page": 208,
+      "heading_evidence": [
+        {
+          "paragraph_index": 9,
+          "style": "11",
+          "text": "Odds and Ends."
+        },
+        {
+          "paragraph_index": 110,
+          "style": "1",
+          "text": "Odds and Ends."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0031",
+      "title": "The Essence of life",
+      "catalog_page": 209,
+      "heading_evidence": [
+        {
+          "paragraph_index": 11,
+          "style": "20",
+          "text": "The Essence of Life"
+        },
+        {
+          "paragraph_index": 118,
+          "style": "2",
+          "text": "The Essence of Life"
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Wheat",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        75
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Sorghum",
+      "toc_paragraph_index": 6,
+      "body_paragraph_indices": [
+        81
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Millet.",
+      "toc_paragraph_index": 7,
+      "body_paragraph_indices": [
+        87
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "The Seoul Eui-ju Railway.",
+      "toc_paragraph_index": 8,
+      "body_paragraph_indices": [
+        91
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "A Snake’s Revenge",
+      "toc_paragraph_index": 10,
+      "body_paragraph_indices": [
+        111
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Korean History.",
+      "toc_paragraph_index": 14,
+      "body_paragraph_indices": [
+        251
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

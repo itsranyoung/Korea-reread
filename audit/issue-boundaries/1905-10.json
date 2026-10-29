@@ -1,0 +1,153 @@
+{
+  "year": 1905,
+  "month": 10,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-10.docx",
+  "docx_paragraphs": 201,
+  "catalog_records": 3,
+  "matched_count": 3,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1905-0027",
+      "title": "Japan as a Colonizer",
+      "catalog_page": 361,
+      "heading_evidence": [
+        {
+          "paragraph_index": 3,
+          "style": "11",
+          "text": "Japan as a Colonizer."
+        },
+        {
+          "paragraph_index": 17,
+          "style": "1",
+          "text": "Japan as a Colonizer."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0028",
+      "title": "How Yi Outwitted the Church",
+      "catalog_page": 380,
+      "heading_evidence": [
+        {
+          "paragraph_index": 5,
+          "style": "11",
+          "text": "How Yi Outwitted the Church."
+        },
+        {
+          "paragraph_index": 56,
+          "style": "1",
+          "text": "How Yi Outwitted the Church."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0029",
+      "title": "Korean Bronze",
+      "catalog_page": 384,
+      "heading_evidence": [
+        {
+          "paragraph_index": 6,
+          "style": "11",
+          "text": "Korean Bronze."
+        },
+        {
+          "paragraph_index": 75,
+          "style": "1",
+          "text": "Korean Bronze."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "The Korean Customs Service.",
+      "toc_paragraph_index": 4,
+      "body_paragraph_indices": [
+        29
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Places of interest in Korea.",
+      "toc_paragraph_index": 7,
+      "body_paragraph_indices": [
+        82
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "White Head Mountain.",
+      "toc_paragraph_index": 8,
+      "body_paragraph_indices": [
+        86
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Kou-Wol-San.",
+      "toc_paragraph_index": 9,
+      "body_paragraph_indices": [
+        88
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Diamond Mountain.",
+      "toc_paragraph_index": 10,
+      "body_paragraph_indices": [
+        90
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Pyeng Yang.",
+      "toc_paragraph_index": 11,
+      "body_paragraph_indices": [
+        92
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Kiong-Chiu.",
+      "toc_paragraph_index": 12,
+      "body_paragraph_indices": [
+        94
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Song-Do.",
+      "toc_paragraph_index": 13,
+      "body_paragraph_indices": [
+        96
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Kang Wha.",
+      "toc_paragraph_index": 14,
+      "body_paragraph_indices": [
+        101
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

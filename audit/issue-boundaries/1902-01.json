@@ -1,0 +1,230 @@
+{
+  "year": 1902,
+  "month": 1,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx",
+  "docx_paragraphs": 233,
+  "catalog_records": 8,
+  "matched_count": 8,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1902-0001",
+      "title": "A Beggar's Wages",
+      "catalog_page": 8,
+      "heading_evidence": [
+        {
+          "paragraph_index": 3,
+          "style": "11",
+          "text": "A Beggar’s Wages."
+        },
+        {
+          "paragraph_index": 49,
+          "style": "1",
+          "text": "A Beggar’s Wages."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0002",
+      "title": "A Cuttle Fish Story",
+      "catalog_page": 17,
+      "heading_evidence": [
+        {
+          "paragraph_index": 9,
+          "style": "20",
+          "text": "A Cuttle-fish story."
+        },
+        {
+          "paragraph_index": 84,
+          "style": "2",
+          "text": "A Cuttle-fish story."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0003",
+      "title": "Odds and Ends",
+      "catalog_page": 17,
+      "heading_evidence": [
+        {
+          "paragraph_index": 8,
+          "style": "11",
+          "text": "Odds and Ends."
+        },
+        {
+          "paragraph_index": 83,
+          "style": "1",
+          "text": "Odds and Ends."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0004",
+      "title": "The Hanging Stone",
+      "catalog_page": 18,
+      "heading_evidence": [
+        {
+          "paragraph_index": 10,
+          "style": "20",
+          "text": "The Hanging Stone"
+        },
+        {
+          "paragraph_index": 86,
+          "style": "2",
+          "text": "The Hanging Stone"
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0005",
+      "title": "A Hunter's Mistake",
+      "catalog_page": 19,
+      "heading_evidence": [
+        {
+          "paragraph_index": 12,
+          "style": "20",
+          "text": "A Hunter’s Mistake"
+        },
+        {
+          "paragraph_index": 90,
+          "style": "2",
+          "text": "A Hunter’s Mistake"
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0006",
+      "title": "The donkey- maker",
+      "catalog_page": 20,
+      "heading_evidence": [
+        {
+          "paragraph_index": 13,
+          "style": "20",
+          "text": "The Donkey Maker"
+        },
+        {
+          "paragraph_index": 92,
+          "style": "2",
+          "text": "The Donkey Maker"
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0007",
+      "title": "Question and Answer",
+      "catalog_page": 21,
+      "heading_evidence": [
+        {
+          "paragraph_index": 14,
+          "style": "11",
+          "text": "Question and Answer."
+        },
+        {
+          "paragraph_index": 95,
+          "style": "1",
+          "text": "Question and Answer."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0008",
+      "title": "Korean History",
+      "catalog_page": 33,
+      "heading_evidence": [
+        {
+          "paragraph_index": 18,
+          "style": "11",
+          "text": "Korean History."
+        },
+        {
+          "paragraph_index": 186,
+          "style": "1",
+          "text": "Korean History."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "The Status of Woman in Korea.",
+      "toc_paragraph_index": 2,
+      "body_paragraph_indices": [
+        19
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Notes on Southern Korea.",
+      "toc_paragraph_index": 4,
+      "body_paragraph_indices": [
+        67
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Ma-han",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        68
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Chin-han.",
+      "toc_paragraph_index": 6,
+      "body_paragraph_indices": [
+        75
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Pyön-han.",
+      "toc_paragraph_index": 7,
+      "body_paragraph_indices": [
+        81
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Good Old Age",
+      "toc_paragraph_index": 11,
+      "body_paragraph_indices": [
+        88
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Correspondence.",
+      "toc_paragraph_index": 16,
+      "body_paragraph_indices": [
+        106
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

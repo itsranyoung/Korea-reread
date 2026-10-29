@@ -1,0 +1,94 @@
+{
+  "year": 1904,
+  "month": 9,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-09.docx",
+  "docx_paragraphs": 174,
+  "catalog_records": 5,
+  "matched_count": 1,
+  "unmatched_count": 4,
+  "matches": [
+    {
+      "id": "kr-1904-063",
+      "title": "News Calendar",
+      "catalog_page": 408,
+      "heading_evidence": [
+        {
+          "paragraph_index": 5,
+          "style": "10",
+          "text": "News Calendar."
+        },
+        {
+          "paragraph_index": 60,
+          "style": "1",
+          "text": "News Calendar."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [
+    {
+      "id": "kr-1904-018",
+      "title": "History of Korea",
+      "catalog_page": 417,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-037",
+      "title": "Reform Spelling",
+      "catalog_page": 385,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-038",
+      "title": "Northeast Korea",
+      "catalog_page": 393,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-051",
+      "title": "Editorials",
+      "catalog_page": 402,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    }
+  ],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Spelling Reform.",
+      "toc_paragraph_index": 2,
+      "body_paragraph_indices": [
+        8
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Northeast Korea and the War",
+      "toc_paragraph_index": 3,
+      "body_paragraph_indices": [
+        23
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Korean History.",
+      "toc_paragraph_index": 6,
+      "body_paragraph_indices": [
+        140
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

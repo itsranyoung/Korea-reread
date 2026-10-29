@@ -1,0 +1,198 @@
+{
+  "year": 1904,
+  "month": 5,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-05.docx",
+  "docx_paragraphs": 214,
+  "catalog_records": 6,
+  "matched_count": 4,
+  "unmatched_count": 2,
+  "matches": [
+    {
+      "id": "kr-1904-027",
+      "title": "The Wonsan Incident",
+      "catalog_page": 204,
+      "heading_evidence": [
+        {
+          "paragraph_index": 6,
+          "style": "10",
+          "text": "The Wonsan Incident."
+        },
+        {
+          "paragraph_index": 42,
+          "style": "1",
+          "text": "The Wonsan Incident."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1904-028",
+      "title": "Map Making",
+      "catalog_page": 211,
+      "heading_evidence": [
+        {
+          "paragraph_index": 9,
+          "style": "20",
+          "text": "Map Making"
+        },
+        {
+          "paragraph_index": 55,
+          "style": "2",
+          "text": "Map Making"
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1904-030",
+      "title": "Fifteen Years Among the Top-knots",
+      "catalog_page": 215,
+      "heading_evidence": [
+        {
+          "paragraph_index": 13,
+          "style": "10",
+          "text": "Fifteen Years Among: the Top-knots,"
+        },
+        {
+          "paragraph_index": 65,
+          "style": "1",
+          "text": "Fifteen Years Among: the Top-knots,"
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1904-059",
+      "title": "News Calendar",
+      "catalog_page": 216,
+      "heading_evidence": [
+        {
+          "paragraph_index": 14,
+          "style": "10",
+          "text": "News Calendar."
+        },
+        {
+          "paragraph_index": 69,
+          "style": "1",
+          "text": "News Calendar."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [
+    {
+      "id": "kr-1904-014",
+      "title": "History of Korea",
+      "catalog_page": 225,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1904-029",
+      "title": "Battle of Kang-gye",
+      "catalog_page": 214,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    }
+  ],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "The Russo-Japanese War,",
+      "toc_paragraph_index": 2,
+      "body_paragraph_indices": [
+        17
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Conditions in Korea",
+      "toc_paragraph_index": 3,
+      "body_paragraph_indices": [
+        33
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "The Imperial Residence",
+      "toc_paragraph_index": 4,
+      "body_paragraph_indices": [
+        37
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Railroad Construction.",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        40
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Note on Hai-ju.",
+      "toc_paragraph_index": 7,
+      "body_paragraph_indices": [
+        50
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "War Anecdotes.",
+      "toc_paragraph_index": 8,
+      "body_paragraph_indices": [
+        54
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "The Russian Dash at Anju.",
+      "toc_paragraph_index": 10,
+      "body_paragraph_indices": [
+        58
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "The Russians burn the Ham-heung Bridge.",
+      "toc_paragraph_index": 11,
+      "body_paragraph_indices": [
+        60
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "The Battle of Kang-gye.",
+      "toc_paragraph_index": 12,
+      "body_paragraph_indices": [
+        62
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Korean History.",
+      "toc_paragraph_index": 15,
+      "body_paragraph_indices": [
+        163
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

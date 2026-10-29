@@ -1,0 +1,94 @@
+{
+  "year": 1903,
+  "month": 9,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-09.docx",
+  "docx_paragraphs": 247,
+  "catalog_records": 5,
+  "matched_count": 5,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1903-0030",
+      "title": "The Taiku Dispensary",
+      "catalog_page": 389,
+      "heading_evidence": [
+        {
+          "paragraph_index": 36,
+          "style": "",
+          "text": "The Taiku Dispensary."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0031",
+      "title": "Korean Relations with Japan",
+      "catalog_page": 394,
+      "heading_evidence": [
+        {
+          "paragraph_index": 77,
+          "style": "",
+          "text": "Korean Relations with Japan."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0032",
+      "title": "The Boats of Sung-jin",
+      "catalog_page": 405,
+      "heading_evidence": [
+        {
+          "paragraph_index": 118,
+          "style": "",
+          "text": "The boats of Sung-jin"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0033",
+      "title": "Korean History",
+      "catalog_page": 413,
+      "heading_evidence": [
+        {
+          "paragraph_index": 213,
+          "style": "",
+          "text": "Korean History."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0034",
+      "title": "Korean History",
+      "catalog_page": 417,
+      "heading_evidence": [
+        {
+          "paragraph_index": 213,
+          "style": "",
+          "text": "Korean History."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds and Ends",
+      "toc_paragraph_index": 6,
+      "body_paragraph_indices": [
+        101
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

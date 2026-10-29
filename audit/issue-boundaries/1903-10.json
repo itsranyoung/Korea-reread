@@ -1,0 +1,72 @@
+{
+  "year": 1903,
+  "month": 10,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-10.docx",
+  "docx_paragraphs": 374,
+  "catalog_records": 2,
+  "matched_count": 2,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1903-0035",
+      "title": "Korean Relations with Japan",
+      "catalog_page": 438,
+      "heading_evidence": [
+        {
+          "paragraph_index": 148,
+          "style": "",
+          "text": "Korean Relations with Japan"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0036",
+      "title": "Korean History",
+      "catalog_page": 465,
+      "heading_evidence": [
+        {
+          "paragraph_index": 327,
+          "style": "",
+          "text": "Korean History."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds And Ends",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        223
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "How I wish that this my body,",
+      "toc_paragraph_index": 102,
+      "body_paragraph_indices": [
+        106,
+        110
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "And follow thee; Oh, this my longing.",
+      "toc_paragraph_index": 105,
+      "body_paragraph_indices": [
+        109,
+        113
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

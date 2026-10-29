@@ -1,0 +1,61 @@
+{
+  "year": 1901,
+  "month": 12,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-12.docx",
+  "docx_paragraphs": 215,
+  "catalog_records": 3,
+  "matched_count": 2,
+  "unmatched_count": 1,
+  "matches": [
+    {
+      "id": "kr-1901-036",
+      "title": "The Marble Pagoda",
+      "catalog_page": 534,
+      "heading_evidence": [
+        {
+          "paragraph_index": 31,
+          "style": "",
+          "text": "The Marble Pagoda."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-037",
+      "title": "The Disturbance on Quelpart",
+      "catalog_page": 539,
+      "heading_evidence": [
+        {
+          "paragraph_index": 46,
+          "style": "",
+          "text": "The Disturbance on Quelpart.*"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [
+    {
+      "id": "kr-1901-035",
+      "title": "The Status of Woman in Korea",
+      "catalog_page": 529,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    }
+  ],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds and Ends.",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        67
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

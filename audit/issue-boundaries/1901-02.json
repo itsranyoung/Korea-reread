@@ -1,0 +1,89 @@
+{
+  "year": 1901,
+  "month": 2,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-02.docx",
+  "docx_paragraphs": 367,
+  "catalog_records": 4,
+  "matched_count": 4,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1901-006",
+      "title": "Korean Proverbs",
+      "catalog_page": 50,
+      "heading_evidence": [
+        {
+          "paragraph_index": 49,
+          "style": "",
+          "text": "Korean Proverbs"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-007",
+      "title": "The Korean Pronoun",
+      "catalog_page": 53,
+      "heading_evidence": [
+        {
+          "paragraph_index": 123,
+          "style": "",
+          "text": "The Korean Pronoun."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-008",
+      "title": "P’yung-Yang",
+      "catalog_page": 56,
+      "heading_evidence": [
+        {
+          "paragraph_index": 168,
+          "style": "",
+          "text": "P’yung Yang."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-009",
+      "title": "Wun-San",
+      "catalog_page": 59,
+      "heading_evidence": [
+        {
+          "paragraph_index": 182,
+          "style": "",
+          "text": "Wun-san."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "The New Century",
+      "toc_paragraph_index": 6,
+      "body_paragraph_indices": [
+        167
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Odds And Ends",
+      "toc_paragraph_index": 9,
+      "body_paragraph_indices": [
+        204
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

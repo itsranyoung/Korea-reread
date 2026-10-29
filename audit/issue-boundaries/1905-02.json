@@ -1,0 +1,103 @@
+{
+  "year": 1905,
+  "month": 2,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-02.docx",
+  "docx_paragraphs": 243,
+  "catalog_records": 5,
+  "matched_count": 5,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1905-0005",
+      "title": "Progress of the Seoul-Wiju Railway",
+      "catalog_page": 33,
+      "heading_evidence": [
+        {
+          "paragraph_index": 65,
+          "style": "",
+          "text": "Progress of the Seoul-Wiju Railway."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0006",
+      "title": "Spelling Reform",
+      "catalog_page": 46,
+      "heading_evidence": [
+        {
+          "paragraph_index": 32,
+          "style": "",
+          "text": "Spelling Reform."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0007",
+      "title": "Korean Giants",
+      "catalog_page": 56,
+      "heading_evidence": [
+        {
+          "paragraph_index": 78,
+          "style": "",
+          "text": "Korean Giants."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0008",
+      "title": "Korea a Vassal of Japan",
+      "catalog_page": 58,
+      "heading_evidence": [
+        {
+          "paragraph_index": 89,
+          "style": "",
+          "text": "Korea a Vassal of Japan."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0009",
+      "title": "Rest from Beggars",
+      "catalog_page": 61,
+      "heading_evidence": [
+        {
+          "paragraph_index": 94,
+          "style": "",
+          "text": "Rest from Beggars."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds and Ends",
+      "toc_paragraph_index": 9,
+      "body_paragraph_indices": [
+        88
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "(Folk-Tale Translated by Rev. G. Engel, Fusan).",
+      "toc_paragraph_index": 70,
+      "body_paragraph_indices": [
+        79
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

@@ -1,0 +1,208 @@
+{
+  "year": 1902,
+  "month": 7,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx",
+  "docx_paragraphs": 241,
+  "catalog_records": 4,
+  "matched_count": 4,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1902-0035",
+      "title": "Korean Fiction",
+      "catalog_page": 286,
+      "heading_evidence": [
+        {
+          "paragraph_index": 2,
+          "style": "11",
+          "text": "Korean Fiction."
+        },
+        {
+          "paragraph_index": 21,
+          "style": "1",
+          "text": "Korean Fiction."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0036",
+      "title": "Burial Customs",
+      "catalog_page": 294,
+      "heading_evidence": [
+        {
+          "paragraph_index": 3,
+          "style": "11",
+          "text": "Burial Customs."
+        },
+        {
+          "paragraph_index": 40,
+          "style": "1",
+          "text": "Burial Customs."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0037",
+      "title": "Buck-wheat",
+      "catalog_page": 301,
+      "heading_evidence": [
+        {
+          "paragraph_index": 6,
+          "style": "20",
+          "text": "Buck-Wheat"
+        },
+        {
+          "paragraph_index": 66,
+          "style": "2",
+          "text": "Buck-Wheat"
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0038",
+      "title": "A Government Stock Farm",
+      "catalog_page": 306,
+      "heading_evidence": [
+        {
+          "paragraph_index": 14,
+          "style": "20",
+          "text": "A Government Stock Farm."
+        },
+        {
+          "paragraph_index": 89,
+          "style": "2",
+          "text": "A Government Stock Farm."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Korean Products.",
+      "toc_paragraph_index": 4,
+      "body_paragraph_indices": [
+        61
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Sesamum",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        62
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Potatoes.",
+      "toc_paragraph_index": 7,
+      "body_paragraph_indices": [
+        69
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Turnips.",
+      "toc_paragraph_index": 8,
+      "body_paragraph_indices": [
+        71
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Cabbage",
+      "toc_paragraph_index": 9,
+      "body_paragraph_indices": [
+        74
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Onions.",
+      "toc_paragraph_index": 10,
+      "body_paragraph_indices": [
+        76
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Cayenne.",
+      "toc_paragraph_index": 11,
+      "body_paragraph_indices": [
+        80
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Review.",
+      "toc_paragraph_index": 12,
+      "body_paragraph_indices": [
+        83
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Odds and Ends.",
+      "toc_paragraph_index": 13,
+      "body_paragraph_indices": [
+        88
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Cave Feline.",
+      "toc_paragraph_index": 15,
+      "body_paragraph_indices": [
+        91
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "The Goose that laid the golden egg.",
+      "toc_paragraph_index": 16,
+      "body_paragraph_indices": [
+        93
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Question and Answer.",
+      "toc_paragraph_index": 17,
+      "body_paragraph_indices": [
+        101
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Korean History.",
+      "toc_paragraph_index": 20,
+      "body_paragraph_indices": [
+        194
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

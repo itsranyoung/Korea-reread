@@ -1,0 +1,134 @@
+{
+  "year": 1902,
+  "month": 12,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-12.docx",
+  "docx_paragraphs": 205,
+  "catalog_records": 2,
+  "matched_count": 2,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1902-0060",
+      "title": "A Leaf from Korean Astrology",
+      "catalog_page": 529,
+      "heading_evidence": [
+        {
+          "paragraph_index": 3,
+          "style": "11",
+          "text": "A Leaf from Korean Astrology."
+        },
+        {
+          "paragraph_index": 30,
+          "style": "1",
+          "text": "A Leaf from Korean Astrology."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0061",
+      "title": "The Ancient Kingdom of Karak",
+      "catalog_page": 541,
+      "heading_evidence": [
+        {
+          "paragraph_index": 4,
+          "style": "11",
+          "text": "The Ancient Kingdom of Karak."
+        },
+        {
+          "paragraph_index": 79,
+          "style": "1",
+          "text": "The Ancient Kingdom of Karak."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "From Fusan to Wonsan by Pack-pony.",
+      "toc_paragraph_index": 2,
+      "body_paragraph_indices": [
+        15
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Odds and Ends.",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        98
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "A Korean Jonah",
+      "toc_paragraph_index": 6,
+      "body_paragraph_indices": [
+        99
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "A Cure for Blindness",
+      "toc_paragraph_index": 7,
+      "body_paragraph_indices": [
+        103
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "A Burglar’s Implement",
+      "toc_paragraph_index": 8,
+      "body_paragraph_indices": [
+        106
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "A Recipe for Getting Rich",
+      "toc_paragraph_index": 9,
+      "body_paragraph_indices": [
+        108
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "An Intelligent Plant",
+      "toc_paragraph_index": 10,
+      "body_paragraph_indices": [
+        112
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "From the Native Papers.",
+      "toc_paragraph_index": 13,
+      "body_paragraph_indices": [
+        140
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Korean History.",
+      "toc_paragraph_index": 14,
+      "body_paragraph_indices": [
+        168
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

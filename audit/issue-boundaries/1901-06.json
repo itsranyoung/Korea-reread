@@ -1,0 +1,144 @@
+{
+  "year": 1901,
+  "month": 6,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-06.docx",
+  "docx_paragraphs": 277,
+  "catalog_records": 3,
+  "matched_count": 3,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1901-018",
+      "title": "Baron Von Mollendorff",
+      "catalog_page": 245,
+      "heading_evidence": [
+        {
+          "paragraph_index": 128,
+          "style": "",
+          "text": "Baron von Mollendorff."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-019",
+      "title": "Home for Destitute Children",
+      "catalog_page": 252,
+      "heading_evidence": [
+        {
+          "paragraph_index": 5,
+          "style": "",
+          "text": "Home For Destitute Children"
+        },
+        {
+          "paragraph_index": 153,
+          "style": "",
+          "text": "Home for Destitute Children."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1901-020",
+      "title": "Korean Etymology",
+      "catalog_page": 254,
+      "heading_evidence": [
+        {
+          "paragraph_index": 160,
+          "style": "",
+          "text": "Korean Etymology."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds And Ends.",
+      "toc_paragraph_index": 8,
+      "body_paragraph_indices": [
+        175
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Question And Answer",
+      "toc_paragraph_index": 12,
+      "body_paragraph_indices": [
+        183
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "I silently take my seat.",
+      "toc_paragraph_index": 22,
+      "body_paragraph_indices": [
+        119
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "O Honorable One by the Altar,",
+      "toc_paragraph_index": 49,
+      "body_paragraph_indices": [
+        111
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "O source of the pure, endless Springs,",
+      "toc_paragraph_index": 50,
+      "body_paragraph_indices": [
+        112
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "The Buddha,",
+      "toc_paragraph_index": 53,
+      "body_paragraph_indices": [
+        91
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "The Dharma,",
+      "toc_paragraph_index": 54,
+      "body_paragraph_indices": [
+        92,
+        115
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "The Sangha,",
+      "toc_paragraph_index": 55,
+      "body_paragraph_indices": [
+        93
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "O Honorable One who ever hears,",
+      "toc_paragraph_index": 85,
+      "body_paragraph_indices": [
+        89
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

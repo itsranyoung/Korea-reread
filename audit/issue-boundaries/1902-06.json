@@ -1,0 +1,108 @@
+{
+  "year": 1902,
+  "month": 6,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx",
+  "docx_paragraphs": 203,
+  "catalog_records": 3,
+  "matched_count": 3,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1902-0032",
+      "title": "Burial Customs",
+      "catalog_page": 241,
+      "heading_evidence": [
+        {
+          "paragraph_index": 2,
+          "style": "11",
+          "text": "Burial Customs."
+        },
+        {
+          "paragraph_index": 12,
+          "style": "1",
+          "text": "Burial Customs."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0033",
+      "title": "Japanese Banking in Korea",
+      "catalog_page": 250,
+      "heading_evidence": [
+        {
+          "paragraph_index": 4,
+          "style": "11",
+          "text": "Japanese Banking in Korea."
+        },
+        {
+          "paragraph_index": 38,
+          "style": "1",
+          "text": "Japanese Banking in Korea."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0034",
+      "title": "A Look Beyond",
+      "catalog_page": 261,
+      "heading_evidence": [
+        {
+          "paragraph_index": 7,
+          "style": "20",
+          "text": "A Look Beyond"
+        },
+        {
+          "paragraph_index": 77,
+          "style": "2",
+          "text": "A Look Beyond"
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "The Wreck of the Kuma-gawa Maru.",
+      "toc_paragraph_index": 3,
+      "body_paragraph_indices": [
+        33
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Memoir of Rev. Henry G. Appenzeller.",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        49
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Odds and Ends.",
+      "toc_paragraph_index": 6,
+      "body_paragraph_indices": [
+        76
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Korean History.",
+      "toc_paragraph_index": 10,
+      "body_paragraph_indices": [
+        157
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

@@ -1,0 +1,109 @@
+{
+  "year": 1906,
+  "month": 3,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume6-03.docx",
+  "docx_paragraphs": 364,
+  "catalog_records": 8,
+  "matched_count": 5,
+  "unmatched_count": 3,
+  "matches": [
+    {
+      "id": "kr-1906-016",
+      "title": "At Kija's Grave",
+      "catalog_page": 81,
+      "heading_evidence": [
+        {
+          "paragraph_index": 3,
+          "style": "",
+          "text": "At Kija’s Grave."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-017",
+      "title": "American Enterprise in Korea",
+      "catalog_page": 83,
+      "heading_evidence": [
+        {
+          "paragraph_index": 38,
+          "style": "",
+          "text": "American Enterprise in Korea."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-019",
+      "title": "The King's Property",
+      "catalog_page": 94,
+      "heading_evidence": [
+        {
+          "paragraph_index": 113,
+          "style": "",
+          "text": "The King’s Property"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-020",
+      "title": "Missionary Work of the General Council",
+      "catalog_page": 99,
+      "heading_evidence": [
+        {
+          "paragraph_index": 144,
+          "style": "",
+          "text": "Missionary Work of the General Council."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1906-021",
+      "title": "Report of Bible Committee of Korea for 1905",
+      "catalog_page": 101,
+      "heading_evidence": [
+        {
+          "paragraph_index": 246,
+          "style": "",
+          "text": "Report of Bible Committee of Korea for 1905"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [
+    {
+      "id": "kr-1906-018",
+      "title": "Shintoism",
+      "catalog_page": 87,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1906-022",
+      "title": "Editorial Comment",
+      "catalog_page": 110,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    },
+    {
+      "id": "kr-1906-023",
+      "title": "News Calendar",
+      "catalog_page": 116,
+      "heading_evidence": [],
+      "heading_count": 0,
+      "status": "no_exact_heading_match"
+    }
+  ],
+  "possible_unlisted_headings": [],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

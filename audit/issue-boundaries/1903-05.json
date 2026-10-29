@@ -1,0 +1,94 @@
+{
+  "year": 1903,
+  "month": 5,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-05.docx",
+  "docx_paragraphs": 171,
+  "catalog_records": 5,
+  "matched_count": 5,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1903-0011",
+      "title": "The Privileges of the Capital",
+      "catalog_page": 193,
+      "heading_evidence": [
+        {
+          "paragraph_index": 11,
+          "style": "",
+          "text": "The Privileges of the Capital."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0012",
+      "title": "Mudang and Pansu",
+      "catalog_page": 203,
+      "heading_evidence": [
+        {
+          "paragraph_index": 45,
+          "style": "",
+          "text": "Mudang and Pansu"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0013",
+      "title": "The Hun-min Chong-eum",
+      "catalog_page": 208,
+      "heading_evidence": [
+        {
+          "paragraph_index": 59,
+          "style": "",
+          "text": "The Hun-min Chong-eum."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0014",
+      "title": "Across Siberia by Rail",
+      "catalog_page": 218,
+      "heading_evidence": [
+        {
+          "paragraph_index": 93,
+          "style": "",
+          "text": "Across Siberia By Rail"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0015",
+      "title": "Korean History",
+      "catalog_page": 225,
+      "heading_evidence": [
+        {
+          "paragraph_index": 132,
+          "style": "",
+          "text": "Korean History."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "(To be continued.)",
+      "toc_paragraph_index": 58,
+      "body_paragraph_indices": [
+        108
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

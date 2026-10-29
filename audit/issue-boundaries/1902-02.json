@@ -1,0 +1,165 @@
+{
+  "year": 1902,
+  "month": 2,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx",
+  "docx_paragraphs": 267,
+  "catalog_records": 6,
+  "matched_count": 6,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1902-0009",
+      "title": "The Products of Korea",
+      "catalog_page": 49,
+      "heading_evidence": [
+        {
+          "paragraph_index": 2,
+          "style": "11",
+          "text": "The Products of Korea."
+        },
+        {
+          "paragraph_index": 13,
+          "style": "1",
+          "text": "The Products of Korea."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0010",
+      "title": "An Island without a Sea",
+      "catalog_page": 59,
+      "heading_evidence": [
+        {
+          "paragraph_index": 4,
+          "style": "11",
+          "text": "An Island without a Sea."
+        },
+        {
+          "paragraph_index": 68,
+          "style": "1",
+          "text": "An Island without a Sea."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0011",
+      "title": "A School for the Native Character",
+      "catalog_page": 63,
+      "heading_evidence": [
+        {
+          "paragraph_index": 6,
+          "style": "11",
+          "text": "A School for the Native Character."
+        },
+        {
+          "paragraph_index": 85,
+          "style": "1",
+          "text": "A School for the Native Character."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0012",
+      "title": "Odds and Ends",
+      "catalog_page": 65,
+      "heading_evidence": [
+        {
+          "paragraph_index": 7,
+          "style": "11",
+          "text": "Odds and Ends."
+        },
+        {
+          "paragraph_index": 96,
+          "style": "1",
+          "text": "Odds and Ends."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0013",
+      "title": "Question and Answer",
+      "catalog_page": 66,
+      "heading_evidence": [
+        {
+          "paragraph_index": 9,
+          "style": "11",
+          "text": "Question and Answer."
+        },
+        {
+          "paragraph_index": 103,
+          "style": "1",
+          "text": "Question and Answer."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1902-0014",
+      "title": "Korean History",
+      "catalog_page": 81,
+      "heading_evidence": [
+        {
+          "paragraph_index": 12,
+          "style": "11",
+          "text": "Korean History."
+        },
+        {
+          "paragraph_index": 216,
+          "style": "1",
+          "text": "Korean History."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "The Status of Woman in Korea.",
+      "toc_paragraph_index": 3,
+      "body_paragraph_indices": [
+        48
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Christmas among the Koreans.",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        75
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "“The Works of Sak-eun.”",
+      "toc_paragraph_index": 8,
+      "body_paragraph_indices": [
+        97
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "Geo. Heber Jones.",
+      "toc_paragraph_index": 84,
+      "body_paragraph_indices": [
+        102
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

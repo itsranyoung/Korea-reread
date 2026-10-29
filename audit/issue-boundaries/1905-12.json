@@ -1,0 +1,146 @@
+{
+  "year": 1905,
+  "month": 12,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-12.docx",
+  "docx_paragraphs": 314,
+  "catalog_records": 5,
+  "matched_count": 5,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1905-0032",
+      "title": "Korea's Greatest Need",
+      "catalog_page": 153,
+      "heading_evidence": [
+        {
+          "paragraph_index": 7,
+          "style": "11",
+          "text": "Korea’s Greatest Need."
+        },
+        {
+          "paragraph_index": 110,
+          "style": "1",
+          "text": "Korea’s Greatest Need."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0033",
+      "title": "Woodcutter Tiger and Rabbit",
+      "catalog_page": 445,
+      "heading_evidence": [
+        {
+          "paragraph_index": 4,
+          "style": "11",
+          "text": "Woodcutter, Tiger, and Rabbit"
+        },
+        {
+          "paragraph_index": 50,
+          "style": "1",
+          "text": "Woodcutter, Tiger, and Rabbit"
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0034",
+      "title": "Wanted, a Name",
+      "catalog_page": 448,
+      "heading_evidence": [
+        {
+          "paragraph_index": 6,
+          "style": "11",
+          "text": "Wanted, A Name"
+        },
+        {
+          "paragraph_index": 78,
+          "style": "1",
+          "text": "Wanted, A Name"
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0035",
+      "title": "How Mr. Kim became a Christian",
+      "catalog_page": 457,
+      "heading_evidence": [
+        {
+          "paragraph_index": 8,
+          "style": "11",
+          "text": "How Mr. Kim Became a Christian."
+        },
+        {
+          "paragraph_index": 122,
+          "style": "1",
+          "text": "How Mr. Kim Became a Christian."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1905-0036",
+      "title": "His Father",
+      "catalog_page": 470,
+      "heading_evidence": [
+        {
+          "paragraph_index": 10,
+          "style": "11",
+          "text": "His Father."
+        },
+        {
+          "paragraph_index": 185,
+          "style": "1",
+          "text": "His Father."
+        }
+      ],
+      "heading_count": 2,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "The Tenth Scion.",
+      "toc_paragraph_index": 3,
+      "body_paragraph_indices": [
+        13
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "A Magic Formula Against Thieves.",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        63
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "The Tiger that Laughed.",
+      "toc_paragraph_index": 9,
+      "body_paragraph_indices": [
+        178
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    },
+    {
+      "title_candidate": "(Translated by Rev. G. Engel, Fusan.)",
+      "toc_paragraph_index": 51,
+      "body_paragraph_indices": [
+        64
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

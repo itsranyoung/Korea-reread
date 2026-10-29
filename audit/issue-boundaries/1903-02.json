@@ -1,0 +1,66 @@
+{
+  "year": 1903,
+  "month": 2,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-02.docx",
+  "docx_paragraphs": 208,
+  "catalog_records": 3,
+  "matched_count": 3,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1903-0002",
+      "title": "The Korean New Year",
+      "catalog_page": 49,
+      "heading_evidence": [
+        {
+          "paragraph_index": 16,
+          "style": "",
+          "text": "The Korean New Year"
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0003",
+      "title": "The Korean Physical Type",
+      "catalog_page": 55,
+      "heading_evidence": [
+        {
+          "paragraph_index": 41,
+          "style": "",
+          "text": "The Korean Physical Type."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0004",
+      "title": "Korean History",
+      "catalog_page": 81,
+      "heading_evidence": [
+        {
+          "paragraph_index": 173,
+          "style": "",
+          "text": "Korean History."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds And Ends",
+      "toc_paragraph_index": 7,
+      "body_paragraph_indices": [
+        88
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}

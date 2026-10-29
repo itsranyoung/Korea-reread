@@ -1,0 +1,66 @@
+{
+  "year": 1903,
+  "month": 3,
+  "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-03.docx",
+  "docx_paragraphs": 211,
+  "catalog_records": 3,
+  "matched_count": 3,
+  "unmatched_count": 0,
+  "matches": [
+    {
+      "id": "kr-1903-0005",
+      "title": "Question and Answer",
+      "catalog_page": 114,
+      "heading_evidence": [
+        {
+          "paragraph_index": 83,
+          "style": "",
+          "text": "Question and Answer."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0006",
+      "title": "Korean History",
+      "catalog_page": 129,
+      "heading_evidence": [
+        {
+          "paragraph_index": 174,
+          "style": "",
+          "text": "Korean History."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    },
+    {
+      "id": "kr-1903-0007",
+      "title": "The Bridges and Wells of Seoul",
+      "catalog_page": 140,
+      "heading_evidence": [
+        {
+          "paragraph_index": 54,
+          "style": "",
+          "text": "The Bridges and Wells of Seoul."
+        }
+      ],
+      "heading_count": 1,
+      "status": "standalone_heading_match_unverified"
+    }
+  ],
+  "no_exact_heading_matches": [],
+  "possible_unlisted_headings": [
+    {
+      "title_candidate": "Odds And Ends",
+      "toc_paragraph_index": 5,
+      "body_paragraph_indices": [
+        72
+      ],
+      "source": "repeated_standalone_paragraph",
+      "status": "possible_unlisted_heading_not_verified"
+    }
+  ],
+  "note": "Not proof of complete article bibliography or exact boundaries. Check original printed TOC, page starts, serials and section headings."
+}
