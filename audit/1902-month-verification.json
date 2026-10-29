@@ -15,1805 +15,309 @@
     11,
     12
   ],
-  "published_candidates": 40,
+  "published_candidates": 61,
   "month_counts": {
-    "1": 5,
-    "2": 2,
-    "3": 0,
-    "4": 6,
-    "5": 3,
-    "6": 2,
-    "7": 3,
-    "8": 6,
-    "9": 8,
+    "1": 8,
+    "2": 6,
+    "3": 4,
+    "4": 8,
+    "5": 5,
+    "6": 3,
+    "7": 4,
+    "8": 7,
+    "9": 9,
     "10": 3,
-    "11": 1,
-    "12": 1
+    "11": 2,
+    "12": 2
   },
-  "ambiguous": [
+  "resolved_by_page_and_source": [
     {
       "title": "A Leaf from Korean Astrology",
-      "indexed_page": 491,
-      "matches": [
-        {
-          "month": 11,
-          "paragraph": 3,
-          "style": "11",
-          "raw": "A Leaf from Korean Astrology."
-        },
-        {
-          "month": 11,
-          "paragraph": 35,
-          "style": "1",
-          "raw": "A Leaf from Korean Astrology."
-        },
-        {
-          "month": 12,
-          "paragraph": 3,
-          "style": "11",
-          "raw": "A Leaf from Korean Astrology."
-        },
-        {
-          "month": 12,
-          "paragraph": 30,
-          "style": "1",
-          "raw": "A Leaf from Korean Astrology."
-        }
+      "page": 491,
+      "selected_month": 11,
+      "possible_months": [
+        11,
+        12
       ]
     },
     {
       "title": "A Leaf from Korean Astrology",
-      "indexed_page": 529,
-      "matches": [
-        {
-          "month": 11,
-          "paragraph": 3,
-          "style": "11",
-          "raw": "A Leaf from Korean Astrology."
-        },
-        {
-          "month": 11,
-          "paragraph": 35,
-          "style": "1",
-          "raw": "A Leaf from Korean Astrology."
-        },
-        {
-          "month": 12,
-          "paragraph": 3,
-          "style": "11",
-          "raw": "A Leaf from Korean Astrology."
-        },
-        {
-          "month": 12,
-          "paragraph": 30,
-          "style": "1",
-          "raw": "A Leaf from Korean Astrology."
-        }
+      "page": 529,
+      "selected_month": 12,
+      "possible_months": [
+        11,
+        12
       ]
     },
     {
       "title": "Burial Customs",
-      "indexed_page": 241,
-      "matches": [
-        {
-          "month": 6,
-          "paragraph": 2,
-          "style": "11",
-          "raw": "Burial Customs."
-        },
-        {
-          "month": 6,
-          "paragraph": 12,
-          "style": "1",
-          "raw": "Burial Customs."
-        },
-        {
-          "month": 7,
-          "paragraph": 3,
-          "style": "11",
-          "raw": "Burial Customs."
-        },
-        {
-          "month": 7,
-          "paragraph": 40,
-          "style": "1",
-          "raw": "Burial Customs."
-        }
+      "page": 241,
+      "selected_month": 6,
+      "possible_months": [
+        6,
+        7
       ]
     },
     {
       "title": "Burial Customs",
-      "indexed_page": 294,
-      "matches": [
-        {
-          "month": 6,
-          "paragraph": 2,
-          "style": "11",
-          "raw": "Burial Customs."
-        },
-        {
-          "month": 6,
-          "paragraph": 12,
-          "style": "1",
-          "raw": "Burial Customs."
-        },
-        {
-          "month": 7,
-          "paragraph": 3,
-          "style": "11",
-          "raw": "Burial Customs."
-        },
-        {
-          "month": 7,
-          "paragraph": 40,
-          "style": "1",
-          "raw": "Burial Customs."
-        }
+      "page": 294,
+      "selected_month": 7,
+      "possible_months": [
+        6,
+        7
       ]
     },
     {
       "title": "Korean Currency",
-      "indexed_page": 337,
-      "matches": [
-        {
-          "month": 8,
-          "paragraph": 2,
-          "style": "11",
-          "raw": "Korean Currency."
-        },
-        {
-          "month": 8,
-          "paragraph": 20,
-          "style": "1",
-          "raw": "Korean Currency."
-        },
-        {
-          "month": 9,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Korean Currency."
-        },
-        {
-          "month": 9,
-          "paragraph": 45,
-          "style": "1",
-          "raw": "Korean Currency."
-        }
+      "page": 337,
+      "selected_month": 8,
+      "possible_months": [
+        8,
+        9
       ]
     },
     {
       "title": "Korean Currency",
-      "indexed_page": 389,
-      "matches": [
-        {
-          "month": 8,
-          "paragraph": 2,
-          "style": "11",
-          "raw": "Korean Currency."
-        },
-        {
-          "month": 8,
-          "paragraph": 20,
-          "style": "1",
-          "raw": "Korean Currency."
-        },
-        {
-          "month": 9,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Korean Currency."
-        },
-        {
-          "month": 9,
-          "paragraph": 45,
-          "style": "1",
-          "raw": "Korean Currency."
-        }
+      "page": 389,
+      "selected_month": 9,
+      "possible_months": [
+        8,
+        9
       ]
     },
     {
       "title": "Korean History",
-      "indexed_page": 33,
-      "matches": [
-        {
-          "month": 1,
-          "paragraph": 18,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 1,
-          "paragraph": 186,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 2,
-          "paragraph": 12,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 2,
-          "paragraph": 216,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 3,
-          "paragraph": 11,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 3,
-          "paragraph": 209,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 4,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Korean History"
-        },
-        {
-          "month": 4,
-          "paragraph": 173,
-          "style": "1",
-          "raw": "Korean History"
-        },
-        {
-          "month": 5,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 5,
-          "paragraph": 251,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 6,
-          "paragraph": 10,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 6,
-          "paragraph": 157,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 7,
-          "paragraph": 20,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 7,
-          "paragraph": 194,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 9,
-          "paragraph": 26,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 9,
-          "paragraph": 197,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 10,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 10,
-          "paragraph": 180,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 11,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 11,
-          "paragraph": 183,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 12,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 12,
-          "paragraph": 168,
-          "style": "1",
-          "raw": "Korean History."
-        }
+      "page": 33,
+      "selected_month": 1,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12
       ]
     },
     {
       "title": "Korean History",
-      "indexed_page": 81,
-      "matches": [
-        {
-          "month": 1,
-          "paragraph": 18,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 1,
-          "paragraph": 186,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 2,
-          "paragraph": 12,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 2,
-          "paragraph": 216,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 3,
-          "paragraph": 11,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 3,
-          "paragraph": 209,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 4,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Korean History"
-        },
-        {
-          "month": 4,
-          "paragraph": 173,
-          "style": "1",
-          "raw": "Korean History"
-        },
-        {
-          "month": 5,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 5,
-          "paragraph": 251,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 6,
-          "paragraph": 10,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 6,
-          "paragraph": 157,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 7,
-          "paragraph": 20,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 7,
-          "paragraph": 194,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 9,
-          "paragraph": 26,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 9,
-          "paragraph": 197,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 10,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 10,
-          "paragraph": 180,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 11,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 11,
-          "paragraph": 183,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 12,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 12,
-          "paragraph": 168,
-          "style": "1",
-          "raw": "Korean History."
-        }
+      "page": 81,
+      "selected_month": 2,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12
       ]
     },
     {
       "title": "Korean History",
-      "indexed_page": 129,
-      "matches": [
-        {
-          "month": 1,
-          "paragraph": 18,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 1,
-          "paragraph": 186,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 2,
-          "paragraph": 12,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 2,
-          "paragraph": 216,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 3,
-          "paragraph": 11,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 3,
-          "paragraph": 209,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 4,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Korean History"
-        },
-        {
-          "month": 4,
-          "paragraph": 173,
-          "style": "1",
-          "raw": "Korean History"
-        },
-        {
-          "month": 5,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 5,
-          "paragraph": 251,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 6,
-          "paragraph": 10,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 6,
-          "paragraph": 157,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 7,
-          "paragraph": 20,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 7,
-          "paragraph": 194,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 9,
-          "paragraph": 26,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 9,
-          "paragraph": 197,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 10,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 10,
-          "paragraph": 180,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 11,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 11,
-          "paragraph": 183,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 12,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 12,
-          "paragraph": 168,
-          "style": "1",
-          "raw": "Korean History."
-        }
+      "page": 129,
+      "selected_month": 3,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12
       ]
     },
     {
       "title": "Korean History",
-      "indexed_page": 177,
-      "matches": [
-        {
-          "month": 1,
-          "paragraph": 18,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 1,
-          "paragraph": 186,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 2,
-          "paragraph": 12,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 2,
-          "paragraph": 216,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 3,
-          "paragraph": 11,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 3,
-          "paragraph": 209,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 4,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Korean History"
-        },
-        {
-          "month": 4,
-          "paragraph": 173,
-          "style": "1",
-          "raw": "Korean History"
-        },
-        {
-          "month": 5,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 5,
-          "paragraph": 251,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 6,
-          "paragraph": 10,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 6,
-          "paragraph": 157,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 7,
-          "paragraph": 20,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 7,
-          "paragraph": 194,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 9,
-          "paragraph": 26,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 9,
-          "paragraph": 197,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 10,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 10,
-          "paragraph": 180,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 11,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 11,
-          "paragraph": 183,
-          "style": "1",
-          "raw": "Korean History."
-        },
-        {
-          "month": 12,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Korean History."
-        },
-        {
-          "month": 12,
-          "paragraph": 168,
-          "style": "1",
-          "raw": "Korean History."
-        }
+      "page": 177,
+      "selected_month": 4,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12
       ]
     },
     {
       "title": "Odds and Ends",
-      "indexed_page": 17,
-      "matches": [
-        {
-          "month": 1,
-          "paragraph": 8,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 1,
-          "paragraph": 83,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 2,
-          "paragraph": 7,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 2,
-          "paragraph": 96,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 3,
-          "paragraph": 5,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 3,
-          "paragraph": 60,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 4,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 4,
-          "paragraph": 90,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 5,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 5,
-          "paragraph": 110,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 6,
-          "paragraph": 6,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 6,
-          "paragraph": 76,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 7,
-          "paragraph": 13,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 7,
-          "paragraph": 88,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 8,
-          "paragraph": 11,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 8,
-          "paragraph": 78,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 9,
-          "paragraph": 20,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 9,
-          "paragraph": 93,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 10,
-          "paragraph": 6,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 10,
-          "paragraph": 79,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 12,
-          "paragraph": 5,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 12,
-          "paragraph": 98,
-          "style": "1",
-          "raw": "Odds and Ends."
-        }
+      "page": 17,
+      "selected_month": 1,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
       ]
     },
     {
       "title": "Odds and Ends",
-      "indexed_page": 65,
-      "matches": [
-        {
-          "month": 1,
-          "paragraph": 8,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 1,
-          "paragraph": 83,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 2,
-          "paragraph": 7,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 2,
-          "paragraph": 96,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 3,
-          "paragraph": 5,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 3,
-          "paragraph": 60,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 4,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 4,
-          "paragraph": 90,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 5,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 5,
-          "paragraph": 110,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 6,
-          "paragraph": 6,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 6,
-          "paragraph": 76,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 7,
-          "paragraph": 13,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 7,
-          "paragraph": 88,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 8,
-          "paragraph": 11,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 8,
-          "paragraph": 78,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 9,
-          "paragraph": 20,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 9,
-          "paragraph": 93,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 10,
-          "paragraph": 6,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 10,
-          "paragraph": 79,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 12,
-          "paragraph": 5,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 12,
-          "paragraph": 98,
-          "style": "1",
-          "raw": "Odds and Ends."
-        }
+      "page": 65,
+      "selected_month": 2,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
       ]
     },
     {
       "title": "Odds and Ends",
-      "indexed_page": 112,
-      "matches": [
-        {
-          "month": 1,
-          "paragraph": 8,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 1,
-          "paragraph": 83,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 2,
-          "paragraph": 7,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 2,
-          "paragraph": 96,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 3,
-          "paragraph": 5,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 3,
-          "paragraph": 60,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 4,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 4,
-          "paragraph": 90,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 5,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 5,
-          "paragraph": 110,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 6,
-          "paragraph": 6,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 6,
-          "paragraph": 76,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 7,
-          "paragraph": 13,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 7,
-          "paragraph": 88,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 8,
-          "paragraph": 11,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 8,
-          "paragraph": 78,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 9,
-          "paragraph": 20,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 9,
-          "paragraph": 93,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 10,
-          "paragraph": 6,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 10,
-          "paragraph": 79,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 12,
-          "paragraph": 5,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 12,
-          "paragraph": 98,
-          "style": "1",
-          "raw": "Odds and Ends."
-        }
+      "page": 112,
+      "selected_month": 3,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
       ]
     },
     {
       "title": "Odds and Ends",
-      "indexed_page": 164,
-      "matches": [
-        {
-          "month": 1,
-          "paragraph": 8,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 1,
-          "paragraph": 83,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 2,
-          "paragraph": 7,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 2,
-          "paragraph": 96,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 3,
-          "paragraph": 5,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 3,
-          "paragraph": 60,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 4,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 4,
-          "paragraph": 90,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 5,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 5,
-          "paragraph": 110,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 6,
-          "paragraph": 6,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 6,
-          "paragraph": 76,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 7,
-          "paragraph": 13,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 7,
-          "paragraph": 88,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 8,
-          "paragraph": 11,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 8,
-          "paragraph": 78,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 9,
-          "paragraph": 20,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 9,
-          "paragraph": 93,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 10,
-          "paragraph": 6,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 10,
-          "paragraph": 79,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 12,
-          "paragraph": 5,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 12,
-          "paragraph": 98,
-          "style": "1",
-          "raw": "Odds and Ends."
-        }
+      "page": 164,
+      "selected_month": 4,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
       ]
     },
     {
       "title": "Odds and Ends",
-      "indexed_page": 208,
-      "matches": [
-        {
-          "month": 1,
-          "paragraph": 8,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 1,
-          "paragraph": 83,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 2,
-          "paragraph": 7,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 2,
-          "paragraph": 96,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 3,
-          "paragraph": 5,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 3,
-          "paragraph": 60,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 4,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 4,
-          "paragraph": 90,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 5,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 5,
-          "paragraph": 110,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 6,
-          "paragraph": 6,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 6,
-          "paragraph": 76,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 7,
-          "paragraph": 13,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 7,
-          "paragraph": 88,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 8,
-          "paragraph": 11,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 8,
-          "paragraph": 78,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 9,
-          "paragraph": 20,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 9,
-          "paragraph": 93,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 10,
-          "paragraph": 6,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 10,
-          "paragraph": 79,
-          "style": "1",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 12,
-          "paragraph": 5,
-          "style": "11",
-          "raw": "Odds and Ends."
-        },
-        {
-          "month": 12,
-          "paragraph": 98,
-          "style": "1",
-          "raw": "Odds and Ends."
-        }
+      "page": 208,
+      "selected_month": 5,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
       ]
     },
     {
       "title": "Question and Answer",
-      "indexed_page": 21,
-      "matches": [
-        {
-          "month": 1,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 1,
-          "paragraph": 95,
-          "style": "1",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 2,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 2,
-          "paragraph": 103,
-          "style": "1",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 3,
-          "paragraph": 8,
-          "style": "11",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 3,
-          "paragraph": 85,
-          "style": "1",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 7,
-          "paragraph": 17,
-          "style": "11",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 7,
-          "paragraph": 101,
-          "style": "1",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 8,
-          "paragraph": 16,
-          "style": "11",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 8,
-          "paragraph": 95,
-          "style": "1",
-          "raw": "Question and Answer."
-        }
+      "page": 21,
+      "selected_month": 1,
+      "possible_months": [
+        1,
+        2,
+        3,
+        7,
+        8
       ]
     },
     {
       "title": "Question and Answer",
-      "indexed_page": 66,
-      "matches": [
-        {
-          "month": 1,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 1,
-          "paragraph": 95,
-          "style": "1",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 2,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 2,
-          "paragraph": 103,
-          "style": "1",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 3,
-          "paragraph": 8,
-          "style": "11",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 3,
-          "paragraph": 85,
-          "style": "1",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 7,
-          "paragraph": 17,
-          "style": "11",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 7,
-          "paragraph": 101,
-          "style": "1",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 8,
-          "paragraph": 16,
-          "style": "11",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 8,
-          "paragraph": 95,
-          "style": "1",
-          "raw": "Question and Answer."
-        }
+      "page": 66,
+      "selected_month": 2,
+      "possible_months": [
+        1,
+        2,
+        3,
+        7,
+        8
       ]
     },
     {
       "title": "Question and Answer",
-      "indexed_page": 115,
-      "matches": [
-        {
-          "month": 1,
-          "paragraph": 14,
-          "style": "11",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 1,
-          "paragraph": 95,
-          "style": "1",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 2,
-          "paragraph": 9,
-          "style": "11",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 2,
-          "paragraph": 103,
-          "style": "1",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 3,
-          "paragraph": 8,
-          "style": "11",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 3,
-          "paragraph": 85,
-          "style": "1",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 7,
-          "paragraph": 17,
-          "style": "11",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 7,
-          "paragraph": 101,
-          "style": "1",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 8,
-          "paragraph": 16,
-          "style": "11",
-          "raw": "Question and Answer."
-        },
-        {
-          "month": 8,
-          "paragraph": 95,
-          "style": "1",
-          "raw": "Question and Answer."
-        }
+      "page": 115,
+      "selected_month": 3,
+      "possible_months": [
+        1,
+        2,
+        3,
+        7,
+        8
       ]
     },
     {
       "title": "The Products of Korea",
-      "indexed_page": 49,
-      "matches": [
-        {
-          "month": 2,
-          "paragraph": 2,
-          "style": "11",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 2,
-          "paragraph": 13,
-          "style": "1",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 3,
-          "paragraph": 4,
-          "style": "11",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 3,
-          "paragraph": 37,
-          "style": "1",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 5,
-          "paragraph": 4,
-          "style": "11",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 5,
-          "paragraph": 74,
-          "style": "1",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 9,
-          "paragraph": 10,
-          "style": "11",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 9,
-          "paragraph": 55,
-          "style": "1",
-          "raw": "The Products of Korea."
-        }
+      "page": 49,
+      "selected_month": 2,
+      "possible_months": [
+        2,
+        3,
+        5,
+        9
       ]
     },
     {
       "title": "The Products of Korea",
-      "indexed_page": 103,
-      "matches": [
-        {
-          "month": 2,
-          "paragraph": 2,
-          "style": "11",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 2,
-          "paragraph": 13,
-          "style": "1",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 3,
-          "paragraph": 4,
-          "style": "11",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 3,
-          "paragraph": 37,
-          "style": "1",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 5,
-          "paragraph": 4,
-          "style": "11",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 5,
-          "paragraph": 74,
-          "style": "1",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 9,
-          "paragraph": 10,
-          "style": "11",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 9,
-          "paragraph": 55,
-          "style": "1",
-          "raw": "The Products of Korea."
-        }
+      "page": 103,
+      "selected_month": 3,
+      "possible_months": [
+        2,
+        3,
+        5,
+        9
       ]
     },
     {
       "title": "The Products of Korea",
-      "indexed_page": 203,
-      "matches": [
-        {
-          "month": 2,
-          "paragraph": 2,
-          "style": "11",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 2,
-          "paragraph": 13,
-          "style": "1",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 3,
-          "paragraph": 4,
-          "style": "11",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 3,
-          "paragraph": 37,
-          "style": "1",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 5,
-          "paragraph": 4,
-          "style": "11",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 5,
-          "paragraph": 74,
-          "style": "1",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 9,
-          "paragraph": 10,
-          "style": "11",
-          "raw": "The Products of Korea."
-        },
-        {
-          "month": 9,
-          "paragraph": 55,
-          "style": "1",
-          "raw": "The Products of Korea."
-        }
+      "page": 203,
+      "selected_month": 5,
+      "possible_months": [
+        2,
+        3,
+        5,
+        9
       ]
     }
   ],
+  "ambiguous": [],
   "unmatched": [
     {
       "title": "A Celebrated Monument",

@@ -42,40 +42,6 @@
     {
       "id": "kr-1902-0002",
       "record_type": "annual_index_title_month_candidate",
-      "title": "A Convert to Buddhism",
-      "year": 1902,
-      "month": 9,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 9,
-      "printed_page_start": 404,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 9,
-          "paragraph": 23,
-          "style": "20",
-          "raw": "A Convert to Buddhism"
-        },
-        {
-          "month": 9,
-          "paragraph": 114,
-          "style": "2",
-          "raw": "A Convert to Buddhism"
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0003",
-      "record_type": "annual_index_title_month_candidate",
       "title": "A Cuttle Fish Story",
       "year": 1902,
       "month": 1,
@@ -108,15 +74,15 @@
       "title_verified_against_print_scan": false
     },
     {
-      "id": "kr-1902-0004",
+      "id": "kr-1902-0003",
       "record_type": "annual_index_title_month_candidate",
-      "title": "A Hunter's Mistake",
+      "title": "Odds and Ends",
       "year": 1902,
       "month": 1,
-      "month_status": "unique_standalone_title_line_machine_match",
+      "month_status": "page_and_monthly_docx_correlated_candidate",
       "volume": 2,
       "issue": 1,
-      "printed_page_start": 19,
+      "printed_page_start": 17,
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx",
       "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
       "transcription_status": "not_processed",
@@ -127,1008 +93,142 @@
       "source_month_matches": [
         {
           "month": 1,
-          "paragraph": 12,
-          "style": "20",
-          "raw": "A Hunter’s Mistake"
+          "paragraph": 8,
+          "style": "11",
+          "raw": "Odds and Ends."
         },
         {
           "month": 1,
-          "paragraph": 90,
-          "style": "2",
-          "raw": "A Hunter’s Mistake"
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0005",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "A Government Stock Farm",
-      "year": 1902,
-      "month": 7,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 7,
-      "printed_page_start": 306,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 7,
-          "paragraph": 14,
-          "style": "20",
-          "raw": "A Government Stock Farm."
+          "paragraph": 83,
+          "style": "1",
+          "raw": "Odds and Ends."
         },
         {
-          "month": 7,
-          "paragraph": 89,
-          "style": "2",
-          "raw": "A Government Stock Farm."
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0006",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "A Jade Bowl",
-      "year": 1902,
-      "month": 8,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 8,
-      "printed_page_start": 352,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 8,
-          "paragraph": 14,
-          "style": "20",
-          "raw": "A Jade Bowl."
-        },
-        {
-          "month": 8,
-          "paragraph": 85,
-          "style": "2",
-          "raw": "A Jade Bowl."
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0007",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "A Korean Canute",
-      "year": 1902,
-      "month": 4,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 4,
-      "printed_page_start": 165,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 4,
-          "paragraph": 11,
-          "style": "20",
-          "raw": "A Korean Canute"
-        },
-        {
-          "month": 4,
-          "paragraph": 93,
-          "style": "2",
-          "raw": "A Korean Canute"
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0008",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "A Look Beyond",
-      "year": 1902,
-      "month": 6,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 6,
-      "printed_page_start": 261,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 6,
+          "month": 2,
           "paragraph": 7,
-          "style": "20",
-          "raw": "A Look Beyond"
-        },
-        {
-          "month": 6,
-          "paragraph": 77,
-          "style": "2",
-          "raw": "A Look Beyond"
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0009",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "A School for the Native Character",
-      "year": 1902,
-      "month": 2,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 2,
-      "printed_page_start": 63,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 2,
-          "paragraph": 6,
           "style": "11",
-          "raw": "A School for the Native Character."
+          "raw": "Odds and Ends."
         },
         {
           "month": 2,
-          "paragraph": 85,
+          "paragraph": 96,
           "style": "1",
-          "raw": "A School for the Native Character."
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0010",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "An Aesculapian Episode",
-      "year": 1902,
-      "month": 8,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 8,
-      "printed_page_start": 345,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
+          "raw": "Odds and Ends."
+        },
         {
-          "month": 8,
-          "paragraph": 10,
+          "month": 3,
+          "paragraph": 5,
           "style": "11",
-          "raw": "An Aesculapian Episode."
+          "raw": "Odds and Ends."
         },
         {
-          "month": 8,
-          "paragraph": 52,
-          "style": "1",
-          "raw": "An Aesculapian Episode."
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0011",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "An Island without a Sea",
-      "year": 1902,
-      "month": 2,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 2,
-      "printed_page_start": 59,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 2,
-          "paragraph": 4,
-          "style": "11",
-          "raw": "An Island without a Sea."
-        },
-        {
-          "month": 2,
-          "paragraph": 68,
-          "style": "1",
-          "raw": "An Island without a Sea."
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0012",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "Buck-wheat",
-      "year": 1902,
-      "month": 7,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 7,
-      "printed_page_start": 301,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 7,
-          "paragraph": 6,
-          "style": "20",
-          "raw": "Buck-Wheat"
-        },
-        {
-          "month": 7,
-          "paragraph": 66,
-          "style": "2",
-          "raw": "Buck-Wheat"
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0013",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "Cats and the Dead",
-      "year": 1902,
-      "month": 9,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 9,
-      "printed_page_start": 401,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 9,
-          "paragraph": 21,
-          "style": "20",
-          "raw": "Cats and the Dead"
-        },
-        {
-          "month": 9,
-          "paragraph": 94,
-          "style": "2",
-          "raw": "Cats and the Dead"
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0014",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "Chestnuts",
-      "year": 1902,
-      "month": 9,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 9,
-      "printed_page_start": 393,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 9,
-          "paragraph": 11,
-          "style": "20",
-          "raw": "Chestnuts"
-        },
-        {
-          "month": 9,
-          "paragraph": 56,
-          "style": "2",
-          "raw": "Chestnuts"
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0015",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "Crab-apples",
-      "year": 1902,
-      "month": 8,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 8,
-      "printed_page_start": 345,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 8,
-          "paragraph": 8,
-          "style": "20",
-          "raw": "Crab apples."
-        },
-        {
-          "month": 8,
-          "paragraph": 48,
-          "style": "2",
-          "raw": "Crab apples."
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0016",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "Crow-talk",
-      "year": 1902,
-      "month": 9,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 9,
-      "printed_page_start": 403,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 9,
-          "paragraph": 22,
-          "style": "20",
-          "raw": "Crow-talk."
-        },
-        {
-          "month": 9,
-          "paragraph": 105,
-          "style": "2",
-          "raw": "Crow-talk."
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0017",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "Electric Shocks",
-      "year": 1902,
-      "month": 4,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 4,
-      "printed_page_start": 164,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 4,
-          "paragraph": 8,
-          "style": "20",
-          "raw": "Electric Shocks"
-        },
-        {
-          "month": 4,
-          "paragraph": 88,
-          "style": "2",
-          "raw": "Electric Shocks"
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0018",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "Expert Archery",
-      "year": 1902,
-      "month": 10,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 10,
-      "printed_page_start": 453,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-10.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 10,
-          "paragraph": 9,
-          "style": "20",
-          "raw": "Expert Archery."
-        },
-        {
-          "month": 10,
-          "paragraph": 92,
-          "style": "2",
-          "raw": "Expert Archery."
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0019",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "How Bribery began",
-      "year": 1902,
-      "month": 4,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 4,
-      "printed_page_start": 164,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 4,
-          "paragraph": 10,
-          "style": "20",
-          "raw": "How Bribery Began."
-        },
-        {
-          "month": 4,
-          "paragraph": 91,
-          "style": "2",
-          "raw": "How Bribery Began."
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0020",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "Japanese Banking in Korea",
-      "year": 1902,
-      "month": 6,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 6,
-      "printed_page_start": 250,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 6,
-          "paragraph": 4,
-          "style": "11",
-          "raw": "Japanese Banking in Korea."
-        },
-        {
-          "month": 6,
-          "paragraph": 38,
-          "style": "1",
-          "raw": "Japanese Banking in Korea."
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0021",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "Korean Fiction",
-      "year": 1902,
-      "month": 7,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 7,
-      "printed_page_start": 286,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 7,
-          "paragraph": 2,
-          "style": "11",
-          "raw": "Korean Fiction."
-        },
-        {
-          "month": 7,
-          "paragraph": 21,
-          "style": "1",
-          "raw": "Korean Fiction."
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0022",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "Necessity the Mother of Invention",
-      "year": 1902,
-      "month": 5,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 5,
-      "printed_page_start": 193,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-05.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 5,
-          "paragraph": 2,
-          "style": "11",
-          "raw": "Necessity, the Mother of Invention."
-        },
-        {
-          "month": 5,
-          "paragraph": 16,
-          "style": "1",
-          "raw": "Necessity, the Mother of Invention."
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0023",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "Not dead yet",
-      "year": 1902,
-      "month": 10,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 10,
-      "printed_page_start": 452,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-10.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 10,
-          "paragraph": 8,
-          "style": "20",
-          "raw": "Not Dead Yet,"
-        },
-        {
-          "month": 10,
-          "paragraph": 87,
-          "style": "2",
-          "raw": "Not Dead Yet,"
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0024",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "Persimmons",
-      "year": 1902,
-      "month": 8,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 8,
-      "printed_page_start": 341,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 8,
-          "paragraph": 4,
-          "style": "20",
-          "raw": "Persimmons"
-        },
-        {
-          "month": 8,
-          "paragraph": 35,
-          "style": "2",
-          "raw": "Persimmons"
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0025",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "Pine nuts",
-      "year": 1902,
-      "month": 9,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 9,
-      "printed_page_start": 396,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 9,
-          "paragraph": 16,
-          "style": "20",
-          "raw": "Pine nuts"
-        },
-        {
-          "month": 9,
-          "paragraph": 67,
-          "style": "2",
-          "raw": "Pine nuts"
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0026",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "Remusat on the Korean Alphabet",
-      "year": 1902,
-      "month": 5,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 5,
-      "printed_page_start": 198,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-05.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 5,
-          "paragraph": 3,
-          "style": "11",
-          "raw": "Remusat on the Korean Alphabet."
-        },
-        {
-          "month": 5,
+          "month": 3,
           "paragraph": 60,
           "style": "1",
-          "raw": "Remusat on the Korean Alphabet."
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0027",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "Slavery in Korea",
-      "year": 1902,
-      "month": 4,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 4,
-      "printed_page_start": 149,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 4,
-          "paragraph": 3,
-          "style": "11",
-          "raw": "Slavery in Korea."
+          "raw": "Odds and Ends."
         },
         {
           "month": 4,
-          "paragraph": 39,
-          "style": "1",
-          "raw": "Slavery in Korea."
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0028",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "Taxation in Korea",
-      "year": 1902,
-      "month": 11,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 11,
-      "printed_page_start": 481,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-11.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 11,
-          "paragraph": 2,
+          "paragraph": 9,
           "style": "11",
-          "raw": "Taxation in Korea."
+          "raw": "Odds and Ends."
         },
         {
-          "month": 11,
-          "paragraph": 10,
+          "month": 4,
+          "paragraph": 90,
           "style": "1",
-          "raw": "Taxation in Korea."
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0029",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "The Ancient Kingdom of Karak",
-      "year": 1902,
-      "month": 12,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 12,
-      "printed_page_start": 541,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-12.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 12,
-          "paragraph": 4,
-          "style": "11",
-          "raw": "The Ancient Kingdom of Karak."
+          "raw": "Odds and Ends."
         },
         {
-          "month": 12,
+          "month": 5,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 110,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 76,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 13,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 88,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 78,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 93,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
           "paragraph": 79,
           "style": "1",
-          "raw": "The Ancient Kingdom of Karak."
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0030",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "The donkey- maker",
-      "year": 1902,
-      "month": 1,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 1,
-      "printed_page_start": 20,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 1,
-          "paragraph": 13,
-          "style": "20",
-          "raw": "The Donkey Maker"
+          "raw": "Odds and Ends."
         },
         {
-          "month": 1,
-          "paragraph": 92,
-          "style": "2",
-          "raw": "The Donkey Maker"
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0031",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "The doom deferred",
-      "year": 1902,
-      "month": 8,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 8,
-      "printed_page_start": 352,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 8,
-          "paragraph": 15,
-          "style": "20",
-          "raw": "The Doom Deferred."
+          "month": 12,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
         },
         {
-          "month": 8,
-          "paragraph": 89,
-          "style": "2",
-          "raw": "The Doom Deferred."
+          "month": 12,
+          "paragraph": 98,
+          "style": "1",
+          "raw": "Odds and Ends."
         }
       ],
       "source_page_verified": false,
       "title_verified_against_print_scan": false
     },
     {
-      "id": "kr-1902-0032",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "The Essence of life",
-      "year": 1902,
-      "month": 5,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 5,
-      "printed_page_start": 209,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-05.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 5,
-          "paragraph": 11,
-          "style": "20",
-          "raw": "The Essence of Life"
-        },
-        {
-          "month": 5,
-          "paragraph": 118,
-          "style": "2",
-          "raw": "The Essence of Life"
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0033",
-      "record_type": "annual_index_title_month_candidate",
-      "title": "The Golden Buddha",
-      "year": 1902,
-      "month": 9,
-      "month_status": "unique_standalone_title_line_machine_match",
-      "volume": 2,
-      "issue": 9,
-      "printed_page_start": 388,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx",
-      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
-      "transcription_status": "not_processed",
-      "entity_status": "not_processed",
-      "summary_status": "not_processed",
-      "human_review_status": "pending",
-      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
-      "source_month_matches": [
-        {
-          "month": 9,
-          "paragraph": 7,
-          "style": "20",
-          "raw": "The Golden Buddha"
-        },
-        {
-          "month": 9,
-          "paragraph": 39,
-          "style": "2",
-          "raw": "The Golden Buddha"
-        }
-      ],
-      "source_page_verified": false,
-      "title_verified_against_print_scan": false
-    },
-    {
-      "id": "kr-1902-0034",
+      "id": "kr-1902-0004",
       "record_type": "annual_index_title_month_candidate",
       "title": "The Hanging Stone",
       "year": 1902,
@@ -1162,16 +262,16 @@
       "title_verified_against_print_scan": false
     },
     {
-      "id": "kr-1902-0035",
+      "id": "kr-1902-0005",
       "record_type": "annual_index_title_month_candidate",
-      "title": "The Marks of Royalty",
+      "title": "A Hunter's Mistake",
       "year": 1902,
-      "month": 8,
+      "month": 1,
       "month_status": "unique_standalone_title_line_machine_match",
       "volume": 2,
-      "issue": 8,
-      "printed_page_start": 351,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx",
+      "issue": 1,
+      "printed_page_start": 19,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx",
       "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
       "transcription_status": "not_processed",
       "entity_status": "not_processed",
@@ -1180,32 +280,32 @@
       "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
       "source_month_matches": [
         {
-          "month": 8,
+          "month": 1,
           "paragraph": 12,
           "style": "20",
-          "raw": "The Marks of Royalty."
+          "raw": "A Hunter’s Mistake"
         },
         {
-          "month": 8,
-          "paragraph": 79,
+          "month": 1,
+          "paragraph": 90,
           "style": "2",
-          "raw": "The Marks of Royalty."
+          "raw": "A Hunter’s Mistake"
         }
       ],
       "source_page_verified": false,
       "title_verified_against_print_scan": false
     },
     {
-      "id": "kr-1902-0036",
+      "id": "kr-1902-0006",
       "record_type": "annual_index_title_month_candidate",
-      "title": "The Nine Story Pagoda",
+      "title": "The donkey- maker",
       "year": 1902,
-      "month": 9,
+      "month": 1,
       "month_status": "unique_standalone_title_line_machine_match",
       "volume": 2,
-      "issue": 9,
-      "printed_page_start": 388,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx",
+      "issue": 1,
+      "printed_page_start": 20,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx",
       "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
       "transcription_status": "not_processed",
       "entity_status": "not_processed",
@@ -1214,23 +314,1247 @@
       "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
       "source_month_matches": [
         {
-          "month": 9,
-          "paragraph": 8,
+          "month": 1,
+          "paragraph": 13,
           "style": "20",
-          "raw": "The Nine-story Pagoda"
+          "raw": "The Donkey Maker"
         },
         {
-          "month": 9,
-          "paragraph": 41,
+          "month": 1,
+          "paragraph": 92,
           "style": "2",
-          "raw": "The Nine-story Pagoda"
+          "raw": "The Donkey Maker"
         }
       ],
       "source_page_verified": false,
       "title_verified_against_print_scan": false
     },
     {
-      "id": "kr-1902-0037",
+      "id": "kr-1902-0007",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Question and Answer",
+      "year": 1902,
+      "month": 1,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 21,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 1,
+          "paragraph": 95,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 2,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 2,
+          "paragraph": 103,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 3,
+          "paragraph": 8,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 3,
+          "paragraph": 85,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 7,
+          "paragraph": 17,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 7,
+          "paragraph": 101,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 8,
+          "paragraph": 16,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 8,
+          "paragraph": 95,
+          "style": "1",
+          "raw": "Question and Answer."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0008",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean History",
+      "year": 1902,
+      "month": 1,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 33,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 18,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 1,
+          "paragraph": 186,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 12,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 216,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 209,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History"
+        },
+        {
+          "month": 4,
+          "paragraph": 173,
+          "style": "1",
+          "raw": "Korean History"
+        },
+        {
+          "month": 5,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 251,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 157,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 194,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 26,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 197,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 180,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 183,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 168,
+          "style": "1",
+          "raw": "Korean History."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0009",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "The Products of Korea",
+      "year": 1902,
+      "month": 2,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 2,
+      "printed_page_start": 49,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 2,
+          "paragraph": 2,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 2,
+          "paragraph": 13,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 3,
+          "paragraph": 4,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 3,
+          "paragraph": 37,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 5,
+          "paragraph": 4,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 5,
+          "paragraph": 74,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 9,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 9,
+          "paragraph": 55,
+          "style": "1",
+          "raw": "The Products of Korea."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0010",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "An Island without a Sea",
+      "year": 1902,
+      "month": 2,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 2,
+      "printed_page_start": 59,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 2,
+          "paragraph": 4,
+          "style": "11",
+          "raw": "An Island without a Sea."
+        },
+        {
+          "month": 2,
+          "paragraph": 68,
+          "style": "1",
+          "raw": "An Island without a Sea."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0011",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "A School for the Native Character",
+      "year": 1902,
+      "month": 2,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 2,
+      "printed_page_start": 63,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 2,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "A School for the Native Character."
+        },
+        {
+          "month": 2,
+          "paragraph": 85,
+          "style": "1",
+          "raw": "A School for the Native Character."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0012",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 2,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 2,
+      "printed_page_start": 65,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 8,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 1,
+          "paragraph": 83,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 7,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 96,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 60,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 90,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 110,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 76,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 13,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 88,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 78,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 93,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 79,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 98,
+          "style": "1",
+          "raw": "Odds and Ends."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0013",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Question and Answer",
+      "year": 1902,
+      "month": 2,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 2,
+      "printed_page_start": 66,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 1,
+          "paragraph": 95,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 2,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 2,
+          "paragraph": 103,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 3,
+          "paragraph": 8,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 3,
+          "paragraph": 85,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 7,
+          "paragraph": 17,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 7,
+          "paragraph": 101,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 8,
+          "paragraph": 16,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 8,
+          "paragraph": 95,
+          "style": "1",
+          "raw": "Question and Answer."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0014",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean History",
+      "year": 1902,
+      "month": 2,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 2,
+      "printed_page_start": 81,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 18,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 1,
+          "paragraph": 186,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 12,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 216,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 209,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History"
+        },
+        {
+          "month": 4,
+          "paragraph": 173,
+          "style": "1",
+          "raw": "Korean History"
+        },
+        {
+          "month": 5,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 251,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 157,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 194,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 26,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 197,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 180,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 183,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 168,
+          "style": "1",
+          "raw": "Korean History."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0015",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "The Products of Korea",
+      "year": 1902,
+      "month": 3,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 3,
+      "printed_page_start": 103,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-03.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 2,
+          "paragraph": 2,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 2,
+          "paragraph": 13,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 3,
+          "paragraph": 4,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 3,
+          "paragraph": 37,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 5,
+          "paragraph": 4,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 5,
+          "paragraph": 74,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 9,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 9,
+          "paragraph": 55,
+          "style": "1",
+          "raw": "The Products of Korea."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0016",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 3,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 3,
+      "printed_page_start": 112,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-03.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 8,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 1,
+          "paragraph": 83,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 7,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 96,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 60,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 90,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 110,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 76,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 13,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 88,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 78,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 93,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 79,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 98,
+          "style": "1",
+          "raw": "Odds and Ends."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0017",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Question and Answer",
+      "year": 1902,
+      "month": 3,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 3,
+      "printed_page_start": 115,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-03.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 1,
+          "paragraph": 95,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 2,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 2,
+          "paragraph": 103,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 3,
+          "paragraph": 8,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 3,
+          "paragraph": 85,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 7,
+          "paragraph": 17,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 7,
+          "paragraph": 101,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 8,
+          "paragraph": 16,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 8,
+          "paragraph": 95,
+          "style": "1",
+          "raw": "Question and Answer."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0018",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean History",
+      "year": 1902,
+      "month": 3,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 3,
+      "printed_page_start": 129,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-03.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 18,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 1,
+          "paragraph": 186,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 12,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 216,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 209,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History"
+        },
+        {
+          "month": 4,
+          "paragraph": 173,
+          "style": "1",
+          "raw": "Korean History"
+        },
+        {
+          "month": 5,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 251,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 157,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 194,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 26,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 197,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 180,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 183,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 168,
+          "style": "1",
+          "raw": "Korean History."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0019",
       "record_type": "annual_index_title_month_candidate",
       "title": "The Status of Woman",
       "year": 1902,
@@ -1264,7 +1588,1323 @@
       "title_verified_against_print_scan": false
     },
     {
+      "id": "kr-1902-0020",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Slavery in Korea",
+      "year": 1902,
+      "month": 4,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 149,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 4,
+          "paragraph": 3,
+          "style": "11",
+          "raw": "Slavery in Korea."
+        },
+        {
+          "month": 4,
+          "paragraph": 39,
+          "style": "1",
+          "raw": "Slavery in Korea."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0021",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Where the Indian Came from",
+      "year": 1902,
+      "month": 4,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 159,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 4,
+          "paragraph": 6,
+          "style": "20",
+          "raw": "Where the Indian came from"
+        },
+        {
+          "month": 4,
+          "paragraph": 74,
+          "style": "2",
+          "raw": "Where the Indian came from"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0022",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Electric Shocks",
+      "year": 1902,
+      "month": 4,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 164,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 4,
+          "paragraph": 8,
+          "style": "20",
+          "raw": "Electric Shocks"
+        },
+        {
+          "month": 4,
+          "paragraph": 88,
+          "style": "2",
+          "raw": "Electric Shocks"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0023",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "How Bribery began",
+      "year": 1902,
+      "month": 4,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 164,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 4,
+          "paragraph": 10,
+          "style": "20",
+          "raw": "How Bribery Began."
+        },
+        {
+          "month": 4,
+          "paragraph": 91,
+          "style": "2",
+          "raw": "How Bribery Began."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0024",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 4,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 164,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 8,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 1,
+          "paragraph": 83,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 7,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 96,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 60,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 90,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 110,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 76,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 13,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 88,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 78,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 93,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 79,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 98,
+          "style": "1",
+          "raw": "Odds and Ends."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0025",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "A Korean Canute",
+      "year": 1902,
+      "month": 4,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 165,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 4,
+          "paragraph": 11,
+          "style": "20",
+          "raw": "A Korean Canute"
+        },
+        {
+          "month": 4,
+          "paragraph": 93,
+          "style": "2",
+          "raw": "A Korean Canute"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0026",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean History",
+      "year": 1902,
+      "month": 4,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 177,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 18,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 1,
+          "paragraph": 186,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 12,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 216,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 209,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History"
+        },
+        {
+          "month": 4,
+          "paragraph": 173,
+          "style": "1",
+          "raw": "Korean History"
+        },
+        {
+          "month": 5,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 251,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 157,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 194,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 26,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 197,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 180,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 183,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 168,
+          "style": "1",
+          "raw": "Korean History."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0027",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Necessity the Mother of Invention",
+      "year": 1902,
+      "month": 5,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 5,
+      "printed_page_start": 193,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-05.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 5,
+          "paragraph": 2,
+          "style": "11",
+          "raw": "Necessity, the Mother of Invention."
+        },
+        {
+          "month": 5,
+          "paragraph": 16,
+          "style": "1",
+          "raw": "Necessity, the Mother of Invention."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0028",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Remusat on the Korean Alphabet",
+      "year": 1902,
+      "month": 5,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 5,
+      "printed_page_start": 198,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-05.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 5,
+          "paragraph": 3,
+          "style": "11",
+          "raw": "Remusat on the Korean Alphabet."
+        },
+        {
+          "month": 5,
+          "paragraph": 60,
+          "style": "1",
+          "raw": "Remusat on the Korean Alphabet."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0029",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "The Products of Korea",
+      "year": 1902,
+      "month": 5,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 5,
+      "printed_page_start": 203,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-05.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 2,
+          "paragraph": 2,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 2,
+          "paragraph": 13,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 3,
+          "paragraph": 4,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 3,
+          "paragraph": 37,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 5,
+          "paragraph": 4,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 5,
+          "paragraph": 74,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 9,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 9,
+          "paragraph": 55,
+          "style": "1",
+          "raw": "The Products of Korea."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0030",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 5,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 5,
+      "printed_page_start": 208,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-05.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 8,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 1,
+          "paragraph": 83,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 7,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 96,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 60,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 90,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 110,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 76,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 13,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 88,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 78,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 93,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 79,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 98,
+          "style": "1",
+          "raw": "Odds and Ends."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0031",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "The Essence of life",
+      "year": 1902,
+      "month": 5,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 5,
+      "printed_page_start": 209,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-05.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 5,
+          "paragraph": 11,
+          "style": "20",
+          "raw": "The Essence of Life"
+        },
+        {
+          "month": 5,
+          "paragraph": 118,
+          "style": "2",
+          "raw": "The Essence of Life"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0032",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Burial Customs",
+      "year": 1902,
+      "month": 6,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 6,
+      "printed_page_start": 241,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 6,
+          "paragraph": 2,
+          "style": "11",
+          "raw": "Burial Customs."
+        },
+        {
+          "month": 6,
+          "paragraph": 12,
+          "style": "1",
+          "raw": "Burial Customs."
+        },
+        {
+          "month": 7,
+          "paragraph": 3,
+          "style": "11",
+          "raw": "Burial Customs."
+        },
+        {
+          "month": 7,
+          "paragraph": 40,
+          "style": "1",
+          "raw": "Burial Customs."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0033",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Japanese Banking in Korea",
+      "year": 1902,
+      "month": 6,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 6,
+      "printed_page_start": 250,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 6,
+          "paragraph": 4,
+          "style": "11",
+          "raw": "Japanese Banking in Korea."
+        },
+        {
+          "month": 6,
+          "paragraph": 38,
+          "style": "1",
+          "raw": "Japanese Banking in Korea."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0034",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "A Look Beyond",
+      "year": 1902,
+      "month": 6,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 6,
+      "printed_page_start": 261,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 6,
+          "paragraph": 7,
+          "style": "20",
+          "raw": "A Look Beyond"
+        },
+        {
+          "month": 6,
+          "paragraph": 77,
+          "style": "2",
+          "raw": "A Look Beyond"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0035",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean Fiction",
+      "year": 1902,
+      "month": 7,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 286,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 7,
+          "paragraph": 2,
+          "style": "11",
+          "raw": "Korean Fiction."
+        },
+        {
+          "month": 7,
+          "paragraph": 21,
+          "style": "1",
+          "raw": "Korean Fiction."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0036",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Burial Customs",
+      "year": 1902,
+      "month": 7,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 294,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 6,
+          "paragraph": 2,
+          "style": "11",
+          "raw": "Burial Customs."
+        },
+        {
+          "month": 6,
+          "paragraph": 12,
+          "style": "1",
+          "raw": "Burial Customs."
+        },
+        {
+          "month": 7,
+          "paragraph": 3,
+          "style": "11",
+          "raw": "Burial Customs."
+        },
+        {
+          "month": 7,
+          "paragraph": 40,
+          "style": "1",
+          "raw": "Burial Customs."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0037",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Buck-wheat",
+      "year": 1902,
+      "month": 7,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 301,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 7,
+          "paragraph": 6,
+          "style": "20",
+          "raw": "Buck-Wheat"
+        },
+        {
+          "month": 7,
+          "paragraph": 66,
+          "style": "2",
+          "raw": "Buck-Wheat"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
       "id": "kr-1902-0038",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "A Government Stock Farm",
+      "year": 1902,
+      "month": 7,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 306,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 7,
+          "paragraph": 14,
+          "style": "20",
+          "raw": "A Government Stock Farm."
+        },
+        {
+          "month": 7,
+          "paragraph": 89,
+          "style": "2",
+          "raw": "A Government Stock Farm."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0039",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean Currency",
+      "year": 1902,
+      "month": 8,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 337,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 8,
+          "paragraph": 2,
+          "style": "11",
+          "raw": "Korean Currency."
+        },
+        {
+          "month": 8,
+          "paragraph": 20,
+          "style": "1",
+          "raw": "Korean Currency."
+        },
+        {
+          "month": 9,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Korean Currency."
+        },
+        {
+          "month": 9,
+          "paragraph": 45,
+          "style": "1",
+          "raw": "Korean Currency."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0040",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Persimmons",
+      "year": 1902,
+      "month": 8,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 341,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 8,
+          "paragraph": 4,
+          "style": "20",
+          "raw": "Persimmons"
+        },
+        {
+          "month": 8,
+          "paragraph": 35,
+          "style": "2",
+          "raw": "Persimmons"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0041",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "An Aesculapian Episode",
+      "year": 1902,
+      "month": 8,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 345,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 8,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "An Aesculapian Episode."
+        },
+        {
+          "month": 8,
+          "paragraph": 52,
+          "style": "1",
+          "raw": "An Aesculapian Episode."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0042",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Crab-apples",
+      "year": 1902,
+      "month": 8,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 345,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 8,
+          "paragraph": 8,
+          "style": "20",
+          "raw": "Crab apples."
+        },
+        {
+          "month": 8,
+          "paragraph": 48,
+          "style": "2",
+          "raw": "Crab apples."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0043",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "The Marks of Royalty",
+      "year": 1902,
+      "month": 8,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 351,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 8,
+          "paragraph": 12,
+          "style": "20",
+          "raw": "The Marks of Royalty."
+        },
+        {
+          "month": 8,
+          "paragraph": 79,
+          "style": "2",
+          "raw": "The Marks of Royalty."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0044",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "A Jade Bowl",
+      "year": 1902,
+      "month": 8,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 352,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 8,
+          "paragraph": 14,
+          "style": "20",
+          "raw": "A Jade Bowl."
+        },
+        {
+          "month": 8,
+          "paragraph": 85,
+          "style": "2",
+          "raw": "A Jade Bowl."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0045",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "The doom deferred",
+      "year": 1902,
+      "month": 8,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 352,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 8,
+          "paragraph": 15,
+          "style": "20",
+          "raw": "The Doom Deferred."
+        },
+        {
+          "month": 8,
+          "paragraph": 89,
+          "style": "2",
+          "raw": "The Doom Deferred."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0046",
       "record_type": "annual_index_title_month_candidate",
       "title": "The Twin Jade flutes",
       "year": 1902,
@@ -1298,7 +2938,291 @@
       "title_verified_against_print_scan": false
     },
     {
-      "id": "kr-1902-0039",
+      "id": "kr-1902-0047",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "The Golden Buddha",
+      "year": 1902,
+      "month": 9,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 388,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 9,
+          "paragraph": 7,
+          "style": "20",
+          "raw": "The Golden Buddha"
+        },
+        {
+          "month": 9,
+          "paragraph": 39,
+          "style": "2",
+          "raw": "The Golden Buddha"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0048",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "The Nine Story Pagoda",
+      "year": 1902,
+      "month": 9,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 388,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 9,
+          "paragraph": 8,
+          "style": "20",
+          "raw": "The Nine-story Pagoda"
+        },
+        {
+          "month": 9,
+          "paragraph": 41,
+          "style": "2",
+          "raw": "The Nine-story Pagoda"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0049",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean Currency",
+      "year": 1902,
+      "month": 9,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 389,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 8,
+          "paragraph": 2,
+          "style": "11",
+          "raw": "Korean Currency."
+        },
+        {
+          "month": 8,
+          "paragraph": 20,
+          "style": "1",
+          "raw": "Korean Currency."
+        },
+        {
+          "month": 9,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Korean Currency."
+        },
+        {
+          "month": 9,
+          "paragraph": 45,
+          "style": "1",
+          "raw": "Korean Currency."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0050",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Chestnuts",
+      "year": 1902,
+      "month": 9,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 393,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 9,
+          "paragraph": 11,
+          "style": "20",
+          "raw": "Chestnuts"
+        },
+        {
+          "month": 9,
+          "paragraph": 56,
+          "style": "2",
+          "raw": "Chestnuts"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0051",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Pine nuts",
+      "year": 1902,
+      "month": 9,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 396,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 9,
+          "paragraph": 16,
+          "style": "20",
+          "raw": "Pine nuts"
+        },
+        {
+          "month": 9,
+          "paragraph": 67,
+          "style": "2",
+          "raw": "Pine nuts"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0052",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Cats and the Dead",
+      "year": 1902,
+      "month": 9,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 401,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 9,
+          "paragraph": 21,
+          "style": "20",
+          "raw": "Cats and the Dead"
+        },
+        {
+          "month": 9,
+          "paragraph": 94,
+          "style": "2",
+          "raw": "Cats and the Dead"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0053",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Crow-talk",
+      "year": 1902,
+      "month": 9,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 403,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 9,
+          "paragraph": 22,
+          "style": "20",
+          "raw": "Crow-talk."
+        },
+        {
+          "month": 9,
+          "paragraph": 105,
+          "style": "2",
+          "raw": "Crow-talk."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0054",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "A Convert to Buddhism",
+      "year": 1902,
+      "month": 9,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 404,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 9,
+          "paragraph": 23,
+          "style": "20",
+          "raw": "A Convert to Buddhism"
+        },
+        {
+          "month": 9,
+          "paragraph": 114,
+          "style": "2",
+          "raw": "A Convert to Buddhism"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0055",
       "record_type": "annual_index_title_month_candidate",
       "title": "Things are not what they seem",
       "year": 1902,
@@ -1332,16 +3256,16 @@
       "title_verified_against_print_scan": false
     },
     {
-      "id": "kr-1902-0040",
+      "id": "kr-1902-0056",
       "record_type": "annual_index_title_month_candidate",
-      "title": "Where the Indian Came from",
+      "title": "Not dead yet",
       "year": 1902,
-      "month": 4,
+      "month": 10,
       "month_status": "unique_standalone_title_line_machine_match",
       "volume": 2,
-      "issue": 4,
-      "printed_page_start": 159,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx",
+      "issue": 10,
+      "printed_page_start": 452,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-10.docx",
       "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
       "transcription_status": "not_processed",
       "entity_status": "not_processed",
@@ -1350,16 +3274,210 @@
       "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
       "source_month_matches": [
         {
-          "month": 4,
-          "paragraph": 6,
+          "month": 10,
+          "paragraph": 8,
           "style": "20",
-          "raw": "Where the Indian came from"
+          "raw": "Not Dead Yet,"
         },
         {
-          "month": 4,
-          "paragraph": 74,
+          "month": 10,
+          "paragraph": 87,
           "style": "2",
-          "raw": "Where the Indian came from"
+          "raw": "Not Dead Yet,"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0057",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Expert Archery",
+      "year": 1902,
+      "month": 10,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 10,
+      "printed_page_start": 453,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-10.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 10,
+          "paragraph": 9,
+          "style": "20",
+          "raw": "Expert Archery."
+        },
+        {
+          "month": 10,
+          "paragraph": 92,
+          "style": "2",
+          "raw": "Expert Archery."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0058",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Taxation in Korea",
+      "year": 1902,
+      "month": 11,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 11,
+      "printed_page_start": 481,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-11.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 11,
+          "paragraph": 2,
+          "style": "11",
+          "raw": "Taxation in Korea."
+        },
+        {
+          "month": 11,
+          "paragraph": 10,
+          "style": "1",
+          "raw": "Taxation in Korea."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0059",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "A Leaf from Korean Astrology",
+      "year": 1902,
+      "month": 11,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 11,
+      "printed_page_start": 491,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-11.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 11,
+          "paragraph": 3,
+          "style": "11",
+          "raw": "A Leaf from Korean Astrology."
+        },
+        {
+          "month": 11,
+          "paragraph": 35,
+          "style": "1",
+          "raw": "A Leaf from Korean Astrology."
+        },
+        {
+          "month": 12,
+          "paragraph": 3,
+          "style": "11",
+          "raw": "A Leaf from Korean Astrology."
+        },
+        {
+          "month": 12,
+          "paragraph": 30,
+          "style": "1",
+          "raw": "A Leaf from Korean Astrology."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0060",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "A Leaf from Korean Astrology",
+      "year": 1902,
+      "month": 12,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 2,
+      "issue": 12,
+      "printed_page_start": 529,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-12.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 11,
+          "paragraph": 3,
+          "style": "11",
+          "raw": "A Leaf from Korean Astrology."
+        },
+        {
+          "month": 11,
+          "paragraph": 35,
+          "style": "1",
+          "raw": "A Leaf from Korean Astrology."
+        },
+        {
+          "month": 12,
+          "paragraph": 3,
+          "style": "11",
+          "raw": "A Leaf from Korean Astrology."
+        },
+        {
+          "month": 12,
+          "paragraph": 30,
+          "style": "1",
+          "raw": "A Leaf from Korean Astrology."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1902-0061",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "The Ancient Kingdom of Karak",
+      "year": 1902,
+      "month": 12,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 2,
+      "issue": 12,
+      "printed_page_start": 541,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-12.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
+      "source_month_matches": [
+        {
+          "month": 12,
+          "paragraph": 4,
+          "style": "11",
+          "raw": "The Ancient Kingdom of Karak."
+        },
+        {
+          "month": 12,
+          "paragraph": 79,
+          "style": "1",
+          "raw": "The Ancient Kingdom of Karak."
         }
       ],
       "source_page_verified": false,
