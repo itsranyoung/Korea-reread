@@ -35,5 +35,18 @@ jobs:
           git add data/monthly-toc-confirmed-1902-1905.json audit/monthly-toc-reconstruction/ data/public-verified.json audit/publication-decisions.json
           if ! git diff --cached --quiet; then
             git commit -m "Reconstruct monthly source TOCs and page evidence, 1902-1905"
-            git push origin HEAD:main
+            # Concurrent workflows may advance main. Regenerate from the new tip
+            # rather than merge competing generated JSON files.
+            if ! git push origin HEAD:main; then
+              echo "Main advanced during reconstruction; regenerating outputs from latest main"
+              git fetch origin main
+              git reset --hard origin/main
+              python scripts/reconstruct_monthly_tocs_1902_1905.py
+              python scripts/build_verified_catalog.py
+              git add data/monthly-toc-confirmed-1902-1905.json audit/monthly-toc-reconstruction/ data/public-verified.json audit/publication-decisions.json
+              if ! git diff --cached --quiet; then
+                git commit -m "Reconstruct monthly TOCs after concurrent main update"
+                git push origin HEAD:main
+              fi
+            fi
           fi
