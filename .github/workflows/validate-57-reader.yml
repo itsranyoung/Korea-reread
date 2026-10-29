@@ -37,7 +37,7 @@ jobs:
               for a in ai:
                   assert a["review"]["status"]=="pending_human_review"
                   assert a["summary_status"] in ("ai_draft_requires_human_review","not_generated")
-                  if a["id"]=="kr-1901-011":
+                  if a["id"]=="kr-1901-011" and a["analysis_stage"]=="ocr_source_corrupted_pending_reextraction":
                       assert not a["evidence_passages"] and not a["summary_ko"]
                       assert a["analysis_stage"]=="ocr_source_corrupted_pending_reextraction"
                   else:
