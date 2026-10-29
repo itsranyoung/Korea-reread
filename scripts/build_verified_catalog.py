@@ -47,6 +47,7 @@ def main():
   if r["id"] in ids:raise ValueError(f"duplicate public ID {r['id']}")
   ids.add(r["id"])
  eligible.sort(key=lambda r:(r["year"],r["month"],r["printed_page_start"],norm(r["title"])))
+ write(P/"data/public-eligible-unselected.json",{"status":"machine_evidence_screened_not_human_verified","records":eligible})
  write(P/"data/public-verified.json",{"status":"strict_toc_heading_correlated_not_final_facsimile_certified","criteria":"Independent monthly TOC page + matching standalone title in original monthly corrected OCR","records":eligible})
  write(P/"audit/publication-decisions.json",{"published_count":len(eligible),"excluded_count":len(excluded),"excluded":excluded,"notice":"Excluded means insufficient evidence, not proof the historical article never existed. No uncertain titles are published.","missing_month_audit_files":missing})
  print("PUBLIC",len(eligible),"EXCLUDED",len(excluded))
