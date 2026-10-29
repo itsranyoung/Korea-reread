@@ -37,7 +37,11 @@ jobs:
               for a in ai:
                   assert a["review"]["status"]=="pending_human_review"
                   assert a["summary_status"] in ("ai_draft_requires_human_review","not_generated")
-                  assert a["evidence_passages"]
+                  if a["id"]=="kr-1901-011":
+                      assert not a["evidence_passages"] and not a["summary_ko"]
+                      assert a["analysis_stage"]=="ocr_source_corrupted_pending_reextraction"
+                  else:
+                      assert a["evidence_passages"]
                   analysis_ids.append(a["id"])
               assert len(records)==(9 if year in (1901,1904,1906) else 10),(year,len(records))
               for x in records:
