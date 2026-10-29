@@ -1,0 +1,2222 @@
+{
+  "scope": "all_251_locked_selected_articles",
+  "ocr_draft_count": 200,
+  "unresolved_prior": 51,
+  "automated_consistency_pass": 194,
+  "manual_review_flagged": 6,
+  "missing_from_draft_and_failure_reports": [],
+  "by_year": {
+    "1901": {
+      "draft": 27,
+      "automated_pass": 25,
+      "flagged": 2,
+      "unresolved": 4
+    },
+    "1902": {
+      "draft": 39,
+      "automated_pass": 39,
+      "flagged": 0,
+      "unresolved": 11
+    },
+    "1903": {
+      "draft": 40,
+      "automated_pass": 40,
+      "flagged": 0,
+      "unresolved": 10
+    },
+    "1904": {
+      "draft": 39,
+      "automated_pass": 37,
+      "flagged": 2,
+      "unresolved": 11
+    },
+    "1905": {
+      "draft": 16,
+      "automated_pass": 16,
+      "flagged": 0,
+      "unresolved": 4
+    },
+    "1906": {
+      "draft": 39,
+      "automated_pass": 37,
+      "flagged": 2,
+      "unresolved": 11
+    }
+  },
+  "draft_reviews": [
+    {
+      "id": "kr-1901-001",
+      "year": 1901,
+      "month": 1,
+      "title": "The Spirit of the Bell",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 2849
+    },
+    {
+      "id": "kr-1901-002",
+      "year": 1901,
+      "month": 1,
+      "title": "The New Century",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 7856
+    },
+    {
+      "id": "kr-1901-003",
+      "year": 1901,
+      "month": 1,
+      "title": "Seoul",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 11903
+    },
+    {
+      "id": "kr-1901-004",
+      "year": 1901,
+      "month": 1,
+      "title": "Chemulpo",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 12177
+    },
+    {
+      "id": "kr-1901-006",
+      "year": 1901,
+      "month": 2,
+      "title": "Korean Proverbs",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 5982
+    },
+    {
+      "id": "kr-1901-007",
+      "year": 1901,
+      "month": 2,
+      "title": "The Korean Pronoun",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 6124
+    },
+    {
+      "id": "kr-1901-008",
+      "year": 1901,
+      "month": 2,
+      "title": "P’yung-Yang",
+      "status": "ocr_draft_requires_manual_review",
+      "reasons": [
+        "title_not_in_transcribed_opening"
+      ],
+      "characters": 7159
+    },
+    {
+      "id": "kr-1901-009",
+      "year": 1901,
+      "month": 2,
+      "title": "Wun-San",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 6420
+    },
+    {
+      "id": "kr-1901-011",
+      "year": 1901,
+      "month": 3,
+      "title": "Sul-Ch’ong, Father of Korean Literature",
+      "status": "ocr_draft_requires_manual_review",
+      "reasons": [
+        "short_ocr_excerpt_review",
+        "title_not_in_transcribed_opening"
+      ],
+      "characters": 303
+    },
+    {
+      "id": "kr-1901-010",
+      "year": 1901,
+      "month": 3,
+      "title": "Xylographic Art in Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 28895
+    },
+    {
+      "id": "kr-1901-012",
+      "year": 1901,
+      "month": 3,
+      "title": "A Leaf from My Journal",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 4689
+    },
+    {
+      "id": "kr-1901-013",
+      "year": 1901,
+      "month": 4,
+      "title": "The Introduction of Chinese into Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 15507
+    },
+    {
+      "id": "kr-1901-015",
+      "year": 1901,
+      "month": 5,
+      "title": "The Tidal Wave in the Yellow Sea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 7620
+    },
+    {
+      "id": "kr-1901-016",
+      "year": 1901,
+      "month": 5,
+      "title": "Native Gold Mining",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 3911
+    },
+    {
+      "id": "kr-1901-018",
+      "year": 1901,
+      "month": 6,
+      "title": "Baron Von Mollendorff",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 17492
+    },
+    {
+      "id": "kr-1901-019",
+      "year": 1901,
+      "month": 6,
+      "title": "Home for Destitute Children",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 4148
+    },
+    {
+      "id": "kr-1901-020",
+      "year": 1901,
+      "month": 6,
+      "title": "Korean Etymology",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 6917
+    },
+    {
+      "id": "kr-1901-022",
+      "year": 1901,
+      "month": 7,
+      "title": "Korean and Efate",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 10336
+    },
+    {
+      "id": "kr-1901-024",
+      "year": 1901,
+      "month": 8,
+      "title": "George C. Foulk",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 11760
+    },
+    {
+      "id": "kr-1901-025",
+      "year": 1901,
+      "month": 8,
+      "title": "Rice and the Ideograph",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 5837
+    },
+    {
+      "id": "kr-1901-027",
+      "year": 1901,
+      "month": 9,
+      "title": "An Anglo-Korean Conversation",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 17088
+    },
+    {
+      "id": "kr-1901-028",
+      "year": 1901,
+      "month": 9,
+      "title": "The Seoul-Fusan Railway",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 7522
+    },
+    {
+      "id": "kr-1901-030",
+      "year": 1901,
+      "month": 10,
+      "title": "Rear Admiral Schley in Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 31750
+    },
+    {
+      "id": "kr-1901-033",
+      "year": 1901,
+      "month": 11,
+      "title": "The Queen of Quelpart",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 5936
+    },
+    {
+      "id": "kr-1901-034",
+      "year": 1901,
+      "month": 11,
+      "title": "The Wizard of Ta-Bak San",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 10542
+    },
+    {
+      "id": "kr-1901-036",
+      "year": 1901,
+      "month": 12,
+      "title": "The Marble Pagoda",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 10623
+    },
+    {
+      "id": "kr-1901-037",
+      "year": 1901,
+      "month": 12,
+      "title": "The Disturbance on Quelpart",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 8601
+    },
+    {
+      "id": "kr-confirmed-1902-0001",
+      "year": 1902,
+      "month": 1,
+      "title": "A Beggar’s Wages",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 9390
+    },
+    {
+      "id": "kr-confirmed-1902-0005",
+      "year": 1902,
+      "month": 1,
+      "title": "A Cuttle-fish story",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 1520
+    },
+    {
+      "id": "kr-confirmed-1902-0010",
+      "year": 1902,
+      "month": 1,
+      "title": "A Hunter’s Mistake",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 2011
+    },
+    {
+      "id": "kr-confirmed-1902-0017",
+      "year": 1902,
+      "month": 2,
+      "title": "The Status of Woman in Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 13262
+    },
+    {
+      "id": "kr-confirmed-1902-0018",
+      "year": 1902,
+      "month": 2,
+      "title": "An Island without a Sea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 4930
+    },
+    {
+      "id": "kr-confirmed-1902-0019",
+      "year": 1902,
+      "month": 2,
+      "title": "Christmas among the Koreans",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 4744
+    },
+    {
+      "id": "kr-confirmed-1902-0020",
+      "year": 1902,
+      "month": 2,
+      "title": "A School for the Native Character",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 4361
+    },
+    {
+      "id": "kr-confirmed-1902-0022",
+      "year": 1902,
+      "month": 2,
+      "title": "“The Works of Sak-eun.”",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 1595
+    },
+    {
+      "id": "kr-confirmed-1902-0027",
+      "year": 1902,
+      "month": 3,
+      "title": "A Celebrated Monument Marking the Fall of Păk-Je",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 8265
+    },
+    {
+      "id": "kr-confirmed-1902-0028",
+      "year": 1902,
+      "month": 3,
+      "title": "The Products of Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 10108
+    },
+    {
+      "id": "kr-confirmed-1902-0031",
+      "year": 1902,
+      "month": 3,
+      "title": "Ai-go!",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 3575
+    },
+    {
+      "id": "kr-confirmed-1902-0036",
+      "year": 1902,
+      "month": 4,
+      "title": "Slavery in Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 14117
+    },
+    {
+      "id": "kr-confirmed-1902-0037",
+      "year": 1902,
+      "month": 4,
+      "title": "The Status of Woman",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 9545
+    },
+    {
+      "id": "kr-confirmed-1902-0040",
+      "year": 1902,
+      "month": 4,
+      "title": "Korea a la globetrotter",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 6540
+    },
+    {
+      "id": "kr-confirmed-1902-0044",
+      "year": 1902,
+      "month": 4,
+      "title": "A Korean Canute",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 2391
+    },
+    {
+      "id": "kr-confirmed-1902-0048",
+      "year": 1902,
+      "month": 5,
+      "title": "Remusat on the Korean Alphabet",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 10506
+    },
+    {
+      "id": "kr-confirmed-1902-0053",
+      "year": 1902,
+      "month": 5,
+      "title": "The Seoul Eui-ju Railway",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 4282
+    },
+    {
+      "id": "kr-confirmed-1902-0056",
+      "year": 1902,
+      "month": 5,
+      "title": "The Essence of Life",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 3276
+    },
+    {
+      "id": "kr-confirmed-1902-0060",
+      "year": 1902,
+      "month": 6,
+      "title": "The Wreck of the Kuma-gawa Maru",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 7283
+    },
+    {
+      "id": "kr-confirmed-1902-0061",
+      "year": 1902,
+      "month": 6,
+      "title": "Japanese Banking in Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 10135
+    },
+    {
+      "id": "kr-confirmed-1902-0062",
+      "year": 1902,
+      "month": 6,
+      "title": "Memoir of Rev. Henry G. Appenzeller",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 14654
+    },
+    {
+      "id": "kr-confirmed-1902-0068",
+      "year": 1902,
+      "month": 7,
+      "title": "Burial Customs",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 14039
+    },
+    {
+      "id": "kr-confirmed-1902-0078",
+      "year": 1902,
+      "month": 7,
+      "title": "A Government Stock Farm",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 872
+    },
+    {
+      "id": "kr-confirmed-1902-0081",
+      "year": 1902,
+      "month": 7,
+      "title": "The Goose that laid the golden egg",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 3389
+    },
+    {
+      "id": "kr-confirmed-1902-0091",
+      "year": 1902,
+      "month": 8,
+      "title": "An Aesculapian Episode",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 11535
+    },
+    {
+      "id": "kr-confirmed-1902-0097",
+      "year": 1902,
+      "month": 8,
+      "title": "A Jade Bowl",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 692
+    },
+    {
+      "id": "kr-confirmed-1902-0107",
+      "year": 1902,
+      "month": 9,
+      "title": "The Nine-story Pagoda",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 1704
+    },
+    {
+      "id": "kr-confirmed-1902-0108",
+      "year": 1902,
+      "month": 9,
+      "title": "Korean Currency",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 8854
+    },
+    {
+      "id": "kr-confirmed-1902-0116",
+      "year": 1902,
+      "month": 9,
+      "title": "The Korean Telegraph and Postal Services",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 823
+    },
+    {
+      "id": "kr-confirmed-1902-0122",
+      "year": 1902,
+      "month": 9,
+      "title": "A Convert to Buddhism",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 3810
+    },
+    {
+      "id": "kr-confirmed-1902-0127",
+      "year": 1902,
+      "month": 10,
+      "title": "The Origin of the Korean People",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 13397
+    },
+    {
+      "id": "kr-confirmed-1902-0130",
+      "year": 1902,
+      "month": 10,
+      "title": "Things are not what they seem",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 3229
+    },
+    {
+      "id": "kr-confirmed-1902-0136",
+      "year": 1902,
+      "month": 10,
+      "title": "From the Native Papers",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 9743
+    },
+    {
+      "id": "kr-confirmed-1902-0138",
+      "year": 1902,
+      "month": 11,
+      "title": "A Leaf from Korean Astrology",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 17117
+    },
+    {
+      "id": "kr-confirmed-1902-0140",
+      "year": 1902,
+      "month": 11,
+      "title": "Miss Christine May Collbran",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 4287
+    },
+    {
+      "id": "kr-confirmed-1902-0145",
+      "year": 1902,
+      "month": 12,
+      "title": "A Leaf from Korean Astrology",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 12816
+    },
+    {
+      "id": "kr-confirmed-1902-0146",
+      "year": 1902,
+      "month": 12,
+      "title": "The Ancient Kingdom of Karak",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 10132
+    },
+    {
+      "id": "kr-confirmed-1902-0147",
+      "year": 1902,
+      "month": 12,
+      "title": "A Korean Jonah",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 3412
+    },
+    {
+      "id": "kr-confirmed-1902-0151",
+      "year": 1902,
+      "month": 12,
+      "title": "A Recipe for Getting Rich",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 1150
+    },
+    {
+      "id": "kr-confirmed-1903-0157",
+      "year": 1903,
+      "month": 1,
+      "title": "A Notable Paper on Seoul",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 19286
+    },
+    {
+      "id": "kr-confirmed-1903-0159",
+      "year": 1903,
+      "month": 2,
+      "title": "A Leaf From Korean Astrology",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 7438
+    },
+    {
+      "id": "kr-confirmed-1903-0160",
+      "year": 1903,
+      "month": 4,
+      "title": "Review",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 3882
+    },
+    {
+      "id": "kr-confirmed-1903-0161",
+      "year": 1903,
+      "month": 4,
+      "title": "News Calendar",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 23602
+    },
+    {
+      "id": "kr-confirmed-1903-0163",
+      "year": 1903,
+      "month": 5,
+      "title": "The Privileges of the Capital",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 54624
+    },
+    {
+      "id": "kr-confirmed-1903-0164",
+      "year": 1903,
+      "month": 5,
+      "title": "Editorial Comment",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 3221
+    },
+    {
+      "id": "kr-confirmed-1903-0165",
+      "year": 1903,
+      "month": 5,
+      "title": "Across Siberia by Rail",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 8986
+    },
+    {
+      "id": "kr-confirmed-1903-0166",
+      "year": 1903,
+      "month": 5,
+      "title": "News Calendar",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 5281
+    },
+    {
+      "id": "kr-confirmed-1903-0168",
+      "year": 1903,
+      "month": 6,
+      "title": "Note on Ch’oe Ch’i-Wun",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 26233
+    },
+    {
+      "id": "kr-confirmed-1903-0169",
+      "year": 1903,
+      "month": 6,
+      "title": "Across Siberia by Rail",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 15885
+    },
+    {
+      "id": "kr-confirmed-1903-0170",
+      "year": 1903,
+      "month": 6,
+      "title": "As Good as Wireless Telegraphy",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 5016
+    },
+    {
+      "id": "kr-confirmed-1903-0172",
+      "year": 1903,
+      "month": 6,
+      "title": "Birth, Marriage, Death",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 2121
+    },
+    {
+      "id": "kr-confirmed-1903-0173",
+      "year": 1903,
+      "month": 6,
+      "title": "Entered into Rest",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 18215
+    },
+    {
+      "id": "kr-confirmed-1903-0175",
+      "year": 1903,
+      "month": 7,
+      "title": "Korean and Formosan",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 42981
+    },
+    {
+      "id": "kr-confirmed-1903-0176",
+      "year": 1903,
+      "month": 7,
+      "title": "Editorial Comment",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 3117
+    },
+    {
+      "id": "kr-confirmed-1903-0178",
+      "year": 1903,
+      "month": 8,
+      "title": "The Peddlars’ Guild",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 12269
+    },
+    {
+      "id": "kr-confirmed-1903-0179",
+      "year": 1903,
+      "month": 8,
+      "title": "Mudang and Pansu",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 9831
+    },
+    {
+      "id": "kr-confirmed-1903-0180",
+      "year": 1903,
+      "month": 8,
+      "title": "Korean Relations with Japan",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 5397
+    },
+    {
+      "id": "kr-confirmed-1903-0181",
+      "year": 1903,
+      "month": 8,
+      "title": "Across Siberia by Rail",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 15855
+    },
+    {
+      "id": "kr-confirmed-1903-0182",
+      "year": 1903,
+      "month": 8,
+      "title": "A Very Practical Joke",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 27625
+    },
+    {
+      "id": "kr-confirmed-1903-0187",
+      "year": 1903,
+      "month": 9,
+      "title": "Korean Relations with Japan",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 11002
+    },
+    {
+      "id": "kr-confirmed-1903-0189",
+      "year": 1903,
+      "month": 9,
+      "title": "The Crying Seed",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 2051
+    },
+    {
+      "id": "kr-confirmed-1903-0190",
+      "year": 1903,
+      "month": 9,
+      "title": "Fisherman’S Luck",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 1711
+    },
+    {
+      "id": "kr-confirmed-1903-0191",
+      "year": 1903,
+      "month": 9,
+      "title": "Well Up In Literature",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 2872
+    },
+    {
+      "id": "kr-confirmed-1903-0192",
+      "year": 1903,
+      "month": 9,
+      "title": "A New Kind Of Faith Cure",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 24292
+    },
+    {
+      "id": "kr-confirmed-1903-0196",
+      "year": 1903,
+      "month": 10,
+      "title": "Korean Relations With Japan",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 10234
+    },
+    {
+      "id": "kr-confirmed-1903-0197",
+      "year": 1903,
+      "month": 10,
+      "title": "The Fortress Of Puk-Han",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 16470
+    },
+    {
+      "id": "kr-confirmed-1903-0198",
+      "year": 1903,
+      "month": 10,
+      "title": "The Secret Armor",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 2149
+    },
+    {
+      "id": "kr-confirmed-1903-0199",
+      "year": 1903,
+      "month": 10,
+      "title": "Presence Of Mind",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 896
+    },
+    {
+      "id": "kr-confirmed-1903-0200",
+      "year": 1903,
+      "month": 10,
+      "title": "Editorial Comment",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 29017
+    },
+    {
+      "id": "kr-confirmed-1903-0203",
+      "year": 1903,
+      "month": 11,
+      "title": "Korean Relations with Japan",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 10128
+    },
+    {
+      "id": "kr-confirmed-1903-0204",
+      "year": 1903,
+      "month": 11,
+      "title": "A Square Meal",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 2896
+    },
+    {
+      "id": "kr-confirmed-1903-0205",
+      "year": 1903,
+      "month": 11,
+      "title": "Lying Bull Mountain",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 796
+    },
+    {
+      "id": "kr-confirmed-1903-0207",
+      "year": 1903,
+      "month": 11,
+      "title": "Mountain Dew",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 1160
+    },
+    {
+      "id": "kr-confirmed-1903-0206",
+      "year": 1903,
+      "month": 11,
+      "title": "Editorial Comment",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 32263
+    },
+    {
+      "id": "kr-confirmed-1903-0210",
+      "year": 1903,
+      "month": 12,
+      "title": "One Night with the Koreans in Hawaii",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 32116
+    },
+    {
+      "id": "kr-confirmed-1903-0211",
+      "year": 1903,
+      "month": 12,
+      "title": "A Rash Execution",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 1495
+    },
+    {
+      "id": "kr-confirmed-1903-0213",
+      "year": 1903,
+      "month": 12,
+      "title": "Cross Examination",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 819
+    },
+    {
+      "id": "kr-confirmed-1903-0214",
+      "year": 1903,
+      "month": 12,
+      "title": "Places of Execution",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 617
+    },
+    {
+      "id": "kr-confirmed-1903-0212",
+      "year": 1903,
+      "month": 12,
+      "title": "A Headless Ghost",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 4590
+    },
+    {
+      "id": "kr-confirmed-1904-0219",
+      "year": 1904,
+      "month": 1,
+      "title": "The Late Queen Dowager",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 5529
+    },
+    {
+      "id": "kr-confirmed-1904-0220",
+      "year": 1904,
+      "month": 1,
+      "title": "Korean Relations with Japan",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 7085
+    },
+    {
+      "id": "kr-confirmed-1904-0222",
+      "year": 1904,
+      "month": 1,
+      "title": "Lie on the left side",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 1042
+    },
+    {
+      "id": "kr-confirmed-1904-0224",
+      "year": 1904,
+      "month": 1,
+      "title": "A fortune-teller’s dilemma",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 2016
+    },
+    {
+      "id": "kr-confirmed-1904-0229",
+      "year": 1904,
+      "month": 2,
+      "title": "The Method",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 4264
+    },
+    {
+      "id": "kr-confirmed-1904-0230",
+      "year": 1904,
+      "month": 2,
+      "title": "The Battle of Chemulpo",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 21557
+    },
+    {
+      "id": "kr-confirmed-1904-0231",
+      "year": 1904,
+      "month": 2,
+      "title": "The Ajun",
+      "status": "ocr_draft_requires_manual_review",
+      "reasons": [
+        "non_monotonic_print_page_markers"
+      ],
+      "characters": 15075
+    },
+    {
+      "id": "kr-confirmed-1904-0232",
+      "year": 1904,
+      "month": 2,
+      "title": "Editorial Comment",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 15058
+    },
+    {
+      "id": "kr-confirmed-1904-0236",
+      "year": 1904,
+      "month": 3,
+      "title": "A New Book on Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 22694
+    },
+    {
+      "id": "kr-confirmed-1904-0237",
+      "year": 1904,
+      "month": 3,
+      "title": "A. B. Stripling, Esq",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 2861
+    },
+    {
+      "id": "kr-confirmed-1904-0239",
+      "year": 1904,
+      "month": 3,
+      "title": "Korean History",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 36450
+    },
+    {
+      "id": "kr-confirmed-1904-0241",
+      "year": 1904,
+      "month": 4,
+      "title": "The Burning of the Palace",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 16335
+    },
+    {
+      "id": "kr-confirmed-1904-0242",
+      "year": 1904,
+      "month": 4,
+      "title": "The Internal Condition of Affairs in Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 11969
+    },
+    {
+      "id": "kr-confirmed-1904-0244",
+      "year": 1904,
+      "month": 4,
+      "title": "The Vanguard",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 3222
+    },
+    {
+      "id": "kr-confirmed-1904-0246",
+      "year": 1904,
+      "month": 4,
+      "title": "Korean History",
+      "status": "ocr_draft_requires_manual_review",
+      "reasons": [
+        "page_marker_outside_expected_month",
+        "non_monotonic_print_page_markers"
+      ],
+      "characters": 32481
+    },
+    {
+      "id": "kr-confirmed-1904-0252",
+      "year": 1904,
+      "month": 5,
+      "title": "Map Making",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 4226
+    },
+    {
+      "id": "kr-confirmed-1904-0254",
+      "year": 1904,
+      "month": 5,
+      "title": "The Russian Dash at Anju",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 1146
+    },
+    {
+      "id": "kr-confirmed-1904-0256",
+      "year": 1904,
+      "month": 5,
+      "title": "The Russians burn the Ham-heung Bridge",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 671
+    },
+    {
+      "id": "kr-confirmed-1904-0262",
+      "year": 1904,
+      "month": 6,
+      "title": "A Straight Official",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 2771
+    },
+    {
+      "id": "kr-confirmed-1904-0265",
+      "year": 1904,
+      "month": 6,
+      "title": "News Report",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 19855
+    },
+    {
+      "id": "kr-confirmed-1904-0267",
+      "year": 1904,
+      "month": 7,
+      "title": "Meum et Tuum",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 7676
+    },
+    {
+      "id": "kr-confirmed-1904-0268",
+      "year": 1904,
+      "month": 7,
+      "title": "The Russo-Japanese War",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 6469
+    },
+    {
+      "id": "kr-confirmed-1904-0270",
+      "year": 1904,
+      "month": 7,
+      "title": "The Ten Thousand Year Bridge",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 2023
+    },
+    {
+      "id": "kr-confirmed-1904-0274",
+      "year": 1904,
+      "month": 8,
+      "title": "The Fallow Lands",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 12458
+    },
+    {
+      "id": "kr-confirmed-1904-0275",
+      "year": 1904,
+      "month": 8,
+      "title": "What Korea Owes to Japan",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 14074
+    },
+    {
+      "id": "kr-confirmed-1904-0276",
+      "year": 1904,
+      "month": 8,
+      "title": "Review",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 6441
+    },
+    {
+      "id": "kr-confirmed-1904-0280",
+      "year": 1904,
+      "month": 9,
+      "title": "Northeast Korea and the War",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 19126
+    },
+    {
+      "id": "kr-confirmed-1904-0281",
+      "year": 1904,
+      "month": 9,
+      "title": "Editorial Comment",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 10889
+    },
+    {
+      "id": "kr-confirmed-1904-0282",
+      "year": 1904,
+      "month": 9,
+      "title": "News Calendar",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 24865
+    },
+    {
+      "id": "kr-confirmed-1904-0284",
+      "year": 1904,
+      "month": 10,
+      "title": "Russians in Northeast Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 4392
+    },
+    {
+      "id": "kr-confirmed-1904-0286",
+      "year": 1904,
+      "month": 10,
+      "title": "The Educational Needs of Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 21045
+    },
+    {
+      "id": "kr-confirmed-1904-0287",
+      "year": 1904,
+      "month": 10,
+      "title": "The Foreign Cemetery",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 5545
+    },
+    {
+      "id": "kr-confirmed-1904-0296",
+      "year": 1904,
+      "month": 11,
+      "title": "Corea: The Hermit Nation",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 3091
+    },
+    {
+      "id": "kr-confirmed-1904-0297",
+      "year": 1904,
+      "month": 11,
+      "title": "Corea e Coreani",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 1118
+    },
+    {
+      "id": "kr-confirmed-1904-0299",
+      "year": 1904,
+      "month": 11,
+      "title": "A New Book on Japan",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 1629
+    },
+    {
+      "id": "kr-confirmed-1904-0300",
+      "year": 1904,
+      "month": 11,
+      "title": "Mr. Kennan on Seoul",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 4319
+    },
+    {
+      "id": "kr-confirmed-1904-0304",
+      "year": 1904,
+      "month": 12,
+      "title": "The Educational Needs of Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 11546
+    },
+    {
+      "id": "kr-confirmed-1904-0305",
+      "year": 1904,
+      "month": 12,
+      "title": "Spelling Reform",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 7104
+    },
+    {
+      "id": "kr-confirmed-1904-0306",
+      "year": 1904,
+      "month": 12,
+      "title": "A Case of Who’s Who",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 9487
+    },
+    {
+      "id": "kr-confirmed-1905-0311",
+      "year": 1905,
+      "month": 1,
+      "title": "Korea and Formosa",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 32140
+    },
+    {
+      "id": "kr-confirmed-1905-0312",
+      "year": 1905,
+      "month": 1,
+      "title": "The Seoul Fusan Railway",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 11183
+    },
+    {
+      "id": "kr-confirmed-1905-0313",
+      "year": 1905,
+      "month": 1,
+      "title": "Room at the top",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 1184
+    },
+    {
+      "id": "kr-confirmed-1905-0314",
+      "year": 1905,
+      "month": 1,
+      "title": "Society for the prevention of cruelty to animals",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 1762
+    },
+    {
+      "id": "kr-confirmed-1905-0315",
+      "year": 1905,
+      "month": 1,
+      "title": "A lively Corpse",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 3134
+    },
+    {
+      "id": "kr-confirmed-1905-0316",
+      "year": 1905,
+      "month": 1,
+      "title": "Satsuma Ware",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 891
+    },
+    {
+      "id": "kr-confirmed-1905-0318",
+      "year": 1905,
+      "month": 1,
+      "title": "The top-knot",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 611
+    },
+    {
+      "id": "kr-confirmed-1905-0317",
+      "year": 1905,
+      "month": 1,
+      "title": "An English Society",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 1912
+    },
+    {
+      "id": "kr-confirmed-1905-0319",
+      "year": 1905,
+      "month": 1,
+      "title": "Editorial Comment",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 11433
+    },
+    {
+      "id": "kr-confirmed-1905-0321",
+      "year": 1905,
+      "month": 2,
+      "title": "The Stone-fight",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 18148
+    },
+    {
+      "id": "kr-confirmed-1905-0322",
+      "year": 1905,
+      "month": 2,
+      "title": "Korea a Vassal of Japan",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 8338
+    },
+    {
+      "id": "kr-confirmed-1905-0323",
+      "year": 1905,
+      "month": 2,
+      "title": "Editorial Comment",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 18613
+    },
+    {
+      "id": "kr-confirmed-1905-0325",
+      "year": 1905,
+      "month": 3,
+      "title": "Rear Admiral Schley on the Little War of 1871",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 18296
+    },
+    {
+      "id": "kr-confirmed-1905-0326",
+      "year": 1905,
+      "month": 3,
+      "title": "Attack on Doctor Forsythe",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 7959
+    },
+    {
+      "id": "kr-confirmed-1905-0327",
+      "year": 1905,
+      "month": 3,
+      "title": "Editorial Comment",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 1434
+    },
+    {
+      "id": "kr-confirmed-1905-0329",
+      "year": 1905,
+      "month": 4,
+      "title": "Questions and Answers",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 2814
+    },
+    {
+      "id": "kr-1906-001",
+      "year": 1906,
+      "month": 1,
+      "title": "The Seasons",
+      "status": "ocr_draft_requires_manual_review",
+      "reasons": [
+        "short_ocr_excerpt_review"
+      ],
+      "characters": 261
+    },
+    {
+      "id": "kr-1906-002",
+      "year": 1906,
+      "month": 1,
+      "title": "Min Yong-Whan",
+      "status": "ocr_draft_requires_manual_review",
+      "reasons": [
+        "title_not_in_transcribed_opening"
+      ],
+      "characters": 45373
+    },
+    {
+      "id": "kr-1906-004",
+      "year": 1906,
+      "month": 1,
+      "title": "American Enterprise in Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 8997
+    },
+    {
+      "id": "kr-1906-005",
+      "year": 1906,
+      "month": 1,
+      "title": "A Trip to Sorai Beach",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 21761
+    },
+    {
+      "id": "kr-1906-008",
+      "year": 1906,
+      "month": 2,
+      "title": "Are the Koreans Increasing in Numbers?",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 12908
+    },
+    {
+      "id": "kr-1906-009",
+      "year": 1906,
+      "month": 2,
+      "title": "Korean New Year Folklore",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 25677
+    },
+    {
+      "id": "kr-1906-011",
+      "year": 1906,
+      "month": 2,
+      "title": "Korean Conundrums",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 5736
+    },
+    {
+      "id": "kr-1906-012",
+      "year": 1906,
+      "month": 2,
+      "title": "Severance Hospital",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 8006
+    },
+    {
+      "id": "kr-1906-017",
+      "year": 1906,
+      "month": 3,
+      "title": "American Enterprise in Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 23285
+    },
+    {
+      "id": "kr-1906-019",
+      "year": 1906,
+      "month": 3,
+      "title": "The King's Property",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 8123
+    },
+    {
+      "id": "kr-1906-020",
+      "year": 1906,
+      "month": 3,
+      "title": "Missionary Work of the General Council",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 5213
+    },
+    {
+      "id": "kr-1906-024",
+      "year": 1906,
+      "month": 4,
+      "title": "Are the Koreans Increasing in Numbers?",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 20856
+    },
+    {
+      "id": "kr-1906-026",
+      "year": 1906,
+      "month": 4,
+      "title": "A Visit to Seoul in 1975",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 18320
+    },
+    {
+      "id": "kr-1906-027",
+      "year": 1906,
+      "month": 4,
+      "title": "Biblewomen",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 17077
+    },
+    {
+      "id": "kr-1906-033",
+      "year": 1906,
+      "month": 5,
+      "title": "Gleanings by the Wayside",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 9380
+    },
+    {
+      "id": "kr-1906-034",
+      "year": 1906,
+      "month": 5,
+      "title": "Translation of the Scriptures into Korean",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 30809
+    },
+    {
+      "id": "kr-1906-035",
+      "year": 1906,
+      "month": 5,
+      "title": "A Foolish Tale",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 4396
+    },
+    {
+      "id": "kr-1906-036",
+      "year": 1906,
+      "month": 5,
+      "title": "The Tiger and The Babies",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 11771
+    },
+    {
+      "id": "kr-1906-040",
+      "year": 1906,
+      "month": 6,
+      "title": "Korean Sketches",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 1835
+    },
+    {
+      "id": "kr-1906-041",
+      "year": 1906,
+      "month": 6,
+      "title": "Kennan and Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 30202
+    },
+    {
+      "id": "kr-1906-042",
+      "year": 1906,
+      "month": 6,
+      "title": "A Korean Cyclopaedia",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 11958
+    },
+    {
+      "id": "kr-1906-046",
+      "year": 1906,
+      "month": 7,
+      "title": "The Korean Mining Laws",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 6916
+    },
+    {
+      "id": "kr-1906-047",
+      "year": 1906,
+      "month": 7,
+      "title": "A Korean Cyclopaedia",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 24049
+    },
+    {
+      "id": "kr-1906-051",
+      "year": 1906,
+      "month": 7,
+      "title": "The Korean Emigrant Protection Law",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 5091
+    },
+    {
+      "id": "kr-1906-058",
+      "year": 1906,
+      "month": 8,
+      "title": "Korean Writing",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 9845
+    },
+    {
+      "id": "kr-1906-059",
+      "year": 1906,
+      "month": 8,
+      "title": "The Japanese in The North",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 8738
+    },
+    {
+      "id": "kr-1906-061",
+      "year": 1906,
+      "month": 8,
+      "title": "The Prophets of Seoul",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 11522
+    },
+    {
+      "id": "kr-1906-065",
+      "year": 1906,
+      "month": 9,
+      "title": "What to See at Pyeng-Yang",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 7685
+    },
+    {
+      "id": "kr-1906-066",
+      "year": 1906,
+      "month": 9,
+      "title": "Korean Finances",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 27853
+    },
+    {
+      "id": "kr-1906-068",
+      "year": 1906,
+      "month": 9,
+      "title": "Japan in North-East Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 6543
+    },
+    {
+      "id": "kr-1906-072",
+      "year": 1906,
+      "month": 10,
+      "title": "Missionary Work in Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 11131
+    },
+    {
+      "id": "kr-1906-073",
+      "year": 1906,
+      "month": 10,
+      "title": "Tax Collection in Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 20309
+    },
+    {
+      "id": "kr-1906-074",
+      "year": 1906,
+      "month": 10,
+      "title": "Koreans in America",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 5368
+    },
+    {
+      "id": "kr-1906-080",
+      "year": 1906,
+      "month": 11,
+      "title": "The Koreans in Hawaii",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 22557
+    },
+    {
+      "id": "kr-1906-082",
+      "year": 1906,
+      "month": 11,
+      "title": "Biographical Notes of Ancient Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 12578
+    },
+    {
+      "id": "kr-1906-083",
+      "year": 1906,
+      "month": 11,
+      "title": "The Religion of the Heavenly Way",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 12965
+    },
+    {
+      "id": "kr-1906-087",
+      "year": 1906,
+      "month": 12,
+      "title": "Biographical Notes of Ancient Korea",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 10067
+    },
+    {
+      "id": "kr-1906-088",
+      "year": 1906,
+      "month": 12,
+      "title": "Koreans Abroad",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 22056
+    },
+    {
+      "id": "kr-1906-090",
+      "year": 1906,
+      "month": 12,
+      "title": "An Eminent Opinion",
+      "status": "ocr_draft_passed_automated_consistency_checks",
+      "reasons": [],
+      "characters": 5308
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "kr-1901-005",
+      "year": 1901,
+      "month": 1,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-1901-017",
+      "year": 1901,
+      "month": 5,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-1901-031",
+      "year": 1901,
+      "month": 10,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-1901-032",
+      "year": 1901,
+      "month": 11,
+      "status": "no_reliable_draft",
+      "reason": "page_marker_precedes_catalog_page"
+    },
+    {
+      "id": "kr-confirmed-1902-0003",
+      "year": 1902,
+      "month": 1,
+      "status": "no_reliable_draft",
+      "reason": "empty_article_body"
+    },
+    {
+      "id": "kr-confirmed-1902-0016",
+      "year": 1902,
+      "month": 1,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1902-0035",
+      "year": 1902,
+      "month": 3,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1902-0049",
+      "year": 1902,
+      "month": 5,
+      "status": "no_reliable_draft",
+      "reason": "empty_article_body"
+    },
+    {
+      "id": "kr-confirmed-1902-0067",
+      "year": 1902,
+      "month": 6,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1902-0069",
+      "year": 1902,
+      "month": 7,
+      "status": "no_reliable_draft",
+      "reason": "empty_article_body"
+    },
+    {
+      "id": "kr-confirmed-1902-0086",
+      "year": 1902,
+      "month": 8,
+      "status": "no_reliable_draft",
+      "reason": "empty_article_body"
+    },
+    {
+      "id": "kr-confirmed-1902-0102",
+      "year": 1902,
+      "month": 8,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1902-0137",
+      "year": 1902,
+      "month": 10,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1902-0141",
+      "year": 1902,
+      "month": 11,
+      "status": "no_reliable_draft",
+      "reason": "empty_article_body"
+    },
+    {
+      "id": "kr-confirmed-1902-0144",
+      "year": 1902,
+      "month": 11,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1903-0158",
+      "year": 1903,
+      "month": 1,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1903-0162",
+      "year": 1903,
+      "month": 4,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1903-0167",
+      "year": 1903,
+      "month": 5,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1903-0174",
+      "year": 1903,
+      "month": 6,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1903-0177",
+      "year": 1903,
+      "month": 7,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1903-0185",
+      "year": 1903,
+      "month": 8,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1903-0195",
+      "year": 1903,
+      "month": 9,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1903-0202",
+      "year": 1903,
+      "month": 10,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1903-0209",
+      "year": 1903,
+      "month": 11,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1903-0216",
+      "year": 1903,
+      "month": 12,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1904-0228",
+      "year": 1904,
+      "month": 1,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1904-0234",
+      "year": 1904,
+      "month": 2,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1904-0240",
+      "year": 1904,
+      "month": 3,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1904-0253",
+      "year": 1904,
+      "month": 5,
+      "status": "no_reliable_draft",
+      "reason": "empty_article_body"
+    },
+    {
+      "id": "kr-confirmed-1904-0261",
+      "year": 1904,
+      "month": 6,
+      "status": "no_reliable_draft",
+      "reason": "page_marker_precedes_catalog_page"
+    },
+    {
+      "id": "kr-confirmed-1904-0266",
+      "year": 1904,
+      "month": 6,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1904-0273",
+      "year": 1904,
+      "month": 7,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1904-0279",
+      "year": 1904,
+      "month": 8,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1904-0283",
+      "year": 1904,
+      "month": 9,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1904-0291",
+      "year": 1904,
+      "month": 10,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1904-0310",
+      "year": 1904,
+      "month": 12,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1905-0320",
+      "year": 1905,
+      "month": 1,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1905-0324",
+      "year": 1905,
+      "month": 2,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1905-0328",
+      "year": 1905,
+      "month": 3,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-confirmed-1905-0330",
+      "year": 1905,
+      "month": 4,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-1906-007",
+      "year": 1906,
+      "month": 1,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-1906-013",
+      "year": 1906,
+      "month": 2,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-1906-021",
+      "year": 1906,
+      "month": 3,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-1906-029",
+      "year": 1906,
+      "month": 4,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-1906-043",
+      "year": 1906,
+      "month": 6,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-1906-053",
+      "year": 1906,
+      "month": 7,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-1906-062",
+      "year": 1906,
+      "month": 8,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-1906-069",
+      "year": 1906,
+      "month": 9,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-1906-075",
+      "year": 1906,
+      "month": 10,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-1906-084",
+      "year": 1906,
+      "month": 11,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "id": "kr-1906-091",
+      "year": 1906,
+      "month": 12,
+      "status": "no_reliable_draft",
+      "reason": "unbounded_end_of_issue"
+    }
+  ],
+  "limitations": "Automated OCR consistency checks are not printed-facsimile or final article-boundary human verification."
+}
