@@ -23,11 +23,13 @@ jobs:
           python-version: '3.11'
       - name: Extract body text from all 72 corrected-OCR monthly issues
         run: python scripts/extract_selected_articles.py
+      - name: Recheck all extracted OCR drafts against selected baseline
+        run: python scripts/review_transcription_drafts.py
       - name: Save draft transcriptions without publishing
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/transcriptions/ audit/transcription-boundary-report.json
+          git add data/transcriptions/ audit/transcription-boundary-report.json audit/transcription-qc-251.json
           if ! git diff --cached --quiet; then
             git commit -m "Save 251-article OCR drafts and boundary provenance audit"
             git push origin HEAD:main
