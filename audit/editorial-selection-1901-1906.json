@@ -1,0 +1,1261 @@
+{
+  "source_candidate_count": 446,
+  "selected_count": 251,
+  "year_stats": {
+    "1901": {
+      "eligible": 31,
+      "selected": 31,
+      "unselected": 0,
+      "months_represented": 12,
+      "categories": {
+        "history": 3,
+        "other": 23,
+        "culture": 3,
+        "economy": 2
+      }
+    },
+    "1902": {
+      "eligible": 156,
+      "selected": 50,
+      "unselected": 106,
+      "months_represented": 12,
+      "categories": {
+        "culture": 4,
+        "society": 5,
+        "history": 9,
+        "economy": 2,
+        "politics": 1,
+        "other": 29
+      }
+    },
+    "1903": {
+      "eligible": 62,
+      "selected": 50,
+      "unselected": 12,
+      "months_represented": 11,
+      "categories": {
+        "other": 37,
+        "history": 7,
+        "society": 1,
+        "politics": 4,
+        "culture": 1
+      }
+    },
+    "1904": {
+      "eligible": 92,
+      "selected": 50,
+      "unselected": 42,
+      "months_represented": 12,
+      "categories": {
+        "politics": 9,
+        "history": 13,
+        "other": 26,
+        "culture": 2
+      }
+    },
+    "1905": {
+      "eligible": 20,
+      "selected": 20,
+      "unselected": 0,
+      "months_represented": 4,
+      "categories": {
+        "economy": 1,
+        "politics": 3,
+        "other": 16
+      }
+    },
+    "1906": {
+      "eligible": 85,
+      "selected": 50,
+      "unselected": 35,
+      "months_represented": 12,
+      "categories": {
+        "other": 35,
+        "culture": 6,
+        "economy": 2,
+        "politics": 3,
+        "history": 3,
+        "society": 1
+      }
+    }
+  },
+  "excluded_for_insufficient_evidence": [],
+  "eligible_but_not_selected": [
+    {
+      "id": "kr-confirmed-1902-0002",
+      "year": 1902,
+      "title": "Ma-han",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0004",
+      "year": 1902,
+      "title": "Chin-han",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0006",
+      "year": 1902,
+      "title": "Odds and Ends",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0007",
+      "year": 1902,
+      "title": "Pyön-han",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0008",
+      "year": 1902,
+      "title": "Good Old Age",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0009",
+      "year": 1902,
+      "title": "The Hanging Stone",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0011",
+      "year": 1902,
+      "title": "The Donkey Maker",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0012",
+      "year": 1902,
+      "title": "Question and Answer",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0013",
+      "year": 1902,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0014",
+      "year": 1902,
+      "title": "Correspondence",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0015",
+      "year": 1902,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0021",
+      "year": 1902,
+      "title": "Odds and Ends",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0023",
+      "year": 1902,
+      "title": "Question and Answer",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0024",
+      "year": 1902,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0025",
+      "year": 1902,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0026",
+      "year": 1902,
+      "title": "Korean History",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0029",
+      "year": 1902,
+      "title": "Good Policy",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0030",
+      "year": 1902,
+      "title": "Odds and Ends",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0032",
+      "year": 1902,
+      "title": "Question and Answer",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0033",
+      "year": 1902,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0034",
+      "year": 1902,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0038",
+      "year": 1902,
+      "title": "Reviews",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0039",
+      "year": 1902,
+      "title": "Where the Indian came from",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0041",
+      "year": 1902,
+      "title": "Electric Shocks",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0042",
+      "year": 1902,
+      "title": "How Bribery Began",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0043",
+      "year": 1902,
+      "title": "Odds and Ends",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0045",
+      "year": 1902,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0046",
+      "year": 1902,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0047",
+      "year": 1902,
+      "title": "Korean History",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0050",
+      "year": 1902,
+      "title": "Wheat",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0051",
+      "year": 1902,
+      "title": "Sorghum",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0052",
+      "year": 1902,
+      "title": "Millet",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0054",
+      "year": 1902,
+      "title": "A Snake’s Revenge",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0055",
+      "year": 1902,
+      "title": "Odds and Ends",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0057",
+      "year": 1902,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0058",
+      "year": 1902,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0059",
+      "year": 1902,
+      "title": "Korean History",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0063",
+      "year": 1902,
+      "title": "A Look Beyond",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0064",
+      "year": 1902,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0065",
+      "year": 1902,
+      "title": "Odds and Ends",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0066",
+      "year": 1902,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0070",
+      "year": 1902,
+      "title": "Sesamum",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0071",
+      "year": 1902,
+      "title": "Buck-Wheat",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0072",
+      "year": 1902,
+      "title": "Potatoes",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0073",
+      "year": 1902,
+      "title": "Cabbage",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0074",
+      "year": 1902,
+      "title": "Turnips",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0075",
+      "year": 1902,
+      "title": "Cayenne",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0076",
+      "year": 1902,
+      "title": "Onions",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0077",
+      "year": 1902,
+      "title": "Review",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0079",
+      "year": 1902,
+      "title": "Cave Feline",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0080",
+      "year": 1902,
+      "title": "Odds and Ends",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0082",
+      "year": 1902,
+      "title": "Question and Answer",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0083",
+      "year": 1902,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0084",
+      "year": 1902,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0085",
+      "year": 1902,
+      "title": "Korean History",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0087",
+      "year": 1902,
+      "title": "Persimmons",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0088",
+      "year": 1902,
+      "title": "Pears",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0089",
+      "year": 1902,
+      "title": "Apricots",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0090",
+      "year": 1902,
+      "title": "Peaches",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0092",
+      "year": 1902,
+      "title": "Crab apples",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0093",
+      "year": 1902,
+      "title": "Plums",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0094",
+      "year": 1902,
+      "title": "Odds and Ends",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0095",
+      "year": 1902,
+      "title": "Tadpoles",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0096",
+      "year": 1902,
+      "title": "The Marks of Royalty",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0098",
+      "year": 1902,
+      "title": "The Doom Deferred",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0099",
+      "year": 1902,
+      "title": "Question and Answer",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0100",
+      "year": 1902,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0101",
+      "year": 1902,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0103",
+      "year": 1902,
+      "title": "The twin Jade Flutes",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0104",
+      "year": 1902,
+      "title": "The Great Bell",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0105",
+      "year": 1902,
+      "title": "The Jade Belt",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0106",
+      "year": 1902,
+      "title": "The Golden Buddha",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0109",
+      "year": 1902,
+      "title": "Chestnuts",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0110",
+      "year": 1902,
+      "title": "The Products of Korea",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0111",
+      "year": 1902,
+      "title": "Walnuts",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0112",
+      "year": 1902,
+      "title": "Jujubes",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0113",
+      "year": 1902,
+      "title": "Ginko",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0114",
+      "year": 1902,
+      "title": "Hazel nut",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0115",
+      "year": 1902,
+      "title": "Pine nuts",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0117",
+      "year": 1902,
+      "title": "The Telegraph Service",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0118",
+      "year": 1902,
+      "title": "The Postal Service",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0119",
+      "year": 1902,
+      "title": "Cats and the Dead",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0120",
+      "year": 1902,
+      "title": "Odds and Ends",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0121",
+      "year": 1902,
+      "title": "Crow-talk",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0123",
+      "year": 1902,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0124",
+      "year": 1902,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0125",
+      "year": 1902,
+      "title": "Korean History",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0126",
+      "year": 1902,
+      "title": "Correspondence",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0128",
+      "year": 1902,
+      "title": "The Prince of Detectives",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0129",
+      "year": 1902,
+      "title": "Odds and Ends",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0131",
+      "year": 1902,
+      "title": "Not Dead Yet",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0132",
+      "year": 1902,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0133",
+      "year": 1902,
+      "title": "Expert Archery",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0134",
+      "year": 1902,
+      "title": "Book Review",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0135",
+      "year": 1902,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0139",
+      "year": 1902,
+      "title": "Reviews",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0142",
+      "year": 1902,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0143",
+      "year": 1902,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0148",
+      "year": 1902,
+      "title": "Odds and Ends",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0149",
+      "year": 1902,
+      "title": "A Burglar’s Implement",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0150",
+      "year": 1902,
+      "title": "A Cure for Blindness",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0152",
+      "year": 1902,
+      "title": "An Intelligent Plant",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0153",
+      "year": 1902,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0154",
+      "year": 1902,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0155",
+      "year": 1902,
+      "title": "From the Native Papers",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1902-0156",
+      "year": 1902,
+      "title": "Korean History",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1903-0171",
+      "year": 1903,
+      "title": "Why They Went Blind",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1903-0183",
+      "year": 1903,
+      "title": "Sharp Eyes",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1903-0184",
+      "year": 1903,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1903-0186",
+      "year": 1903,
+      "title": "The Taiku Dispensary",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1903-0188",
+      "year": 1903,
+      "title": "Good Cutlery",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1903-0193",
+      "year": 1903,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1903-0194",
+      "year": 1903,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1903-0201",
+      "year": 1903,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1903-0208",
+      "year": 1903,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1903-0215",
+      "year": 1903,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1903-0217",
+      "year": 1903,
+      "title": "Obituary Notice",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1903-0218",
+      "year": 1903,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0221",
+      "year": 1904,
+      "title": "Retrospect of 1903",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0223",
+      "year": 1904,
+      "title": "Odds and Ends",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0225",
+      "year": 1904,
+      "title": "Sorcery Exposed",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0226",
+      "year": 1904,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0227",
+      "year": 1904,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0233",
+      "year": 1904,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0235",
+      "year": 1904,
+      "title": "The Royal Funeral",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0238",
+      "year": 1904,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0243",
+      "year": 1904,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0245",
+      "year": 1904,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0247",
+      "year": 1904,
+      "title": "Conditions in Korea",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0248",
+      "year": 1904,
+      "title": "The Imperial Residence",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0249",
+      "year": 1904,
+      "title": "Railroad Construction",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0250",
+      "year": 1904,
+      "title": "The Wonsan Incident",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0251",
+      "year": 1904,
+      "title": "Note on Hai-ju",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0255",
+      "year": 1904,
+      "title": "The Battle of Kang-gye",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0257",
+      "year": 1904,
+      "title": "Fifteen Years Among: the Top-knots",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0258",
+      "year": 1904,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0259",
+      "year": 1904,
+      "title": "Korean History",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0260",
+      "year": 1904,
+      "title": "The Ajun",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0263",
+      "year": 1904,
+      "title": "Odds and Ends",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0264",
+      "year": 1904,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0269",
+      "year": 1904,
+      "title": "Odds and Ends",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0271",
+      "year": 1904,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0272",
+      "year": 1904,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0277",
+      "year": 1904,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0278",
+      "year": 1904,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0285",
+      "year": 1904,
+      "title": "The Reform Spelling",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0288",
+      "year": 1904,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0289",
+      "year": 1904,
+      "title": "Ladies’ Days",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0290",
+      "year": 1904,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0292",
+      "year": 1904,
+      "title": "The Severance Hospital",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0293",
+      "year": 1904,
+      "title": "Opening of the Severance Memorial Hospital",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0294",
+      "year": 1904,
+      "title": "The New Hospital",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0295",
+      "year": 1904,
+      "title": "The Ghost of a Ghost",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0298",
+      "year": 1904,
+      "title": "Review",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0301",
+      "year": 1904,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0302",
+      "year": 1904,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0303",
+      "year": 1904,
+      "title": "Korean History",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0307",
+      "year": 1904,
+      "title": "Correspondence",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0308",
+      "year": 1904,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-confirmed-1904-0309",
+      "year": 1904,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-014",
+      "year": 1906,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-015",
+      "year": 1906,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-016",
+      "year": 1906,
+      "title": "At Kija's Grave",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-025",
+      "year": 1906,
+      "title": "The Three Wise Sayings",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-028",
+      "year": 1906,
+      "title": "The Carnduff-Wilson Wedding",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-030",
+      "year": 1906,
+      "title": "Mr. Launcelot Pelly",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-031",
+      "year": 1906,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-032",
+      "year": 1906,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-037",
+      "year": 1906,
+      "title": "Correspondence",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-038",
+      "year": 1906,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-044",
+      "year": 1906,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-045",
+      "year": 1906,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-048",
+      "year": 1906,
+      "title": "Opium in Korea",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-049",
+      "year": 1906,
+      "title": "The American Hospital in Pyeng-Yang",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-050",
+      "year": 1906,
+      "title": "Correspondence",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-052",
+      "year": 1906,
+      "title": "The Gentle Plagiarist",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-054",
+      "year": 1906,
+      "title": "The Pyeng-Yang Land Case",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-055",
+      "year": 1906,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-056",
+      "year": 1906,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-057",
+      "year": 1906,
+      "title": "Ul-leung Do",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-060",
+      "year": 1906,
+      "title": "Filial Etiquette",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-063",
+      "year": 1906,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-064",
+      "year": 1906,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-067",
+      "year": 1906,
+      "title": "Prince Eui-Wha",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-070",
+      "year": 1906,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-071",
+      "year": 1906,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-076",
+      "year": 1906,
+      "title": "Swift Retribution",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-077",
+      "year": 1906,
+      "title": "A Chequered Career",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-078",
+      "year": 1906,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-079",
+      "year": 1906,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-081",
+      "year": 1906,
+      "title": "Min Yong-Whan",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-085",
+      "year": 1906,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-086",
+      "year": 1906,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-092",
+      "year": 1906,
+      "title": "Editorial Comment",
+      "reason": "editorial_cap_or_monthly_balance"
+    },
+    {
+      "id": "kr-1906-093",
+      "year": 1906,
+      "title": "News Calendar",
+      "reason": "editorial_cap_or_monthly_balance"
+    }
+  ],
+  "limitations": [
+    "Topic classification is based on titles only, not article full text",
+    "Page number may be inferred from OCR marker position; final facsimile comparison is pending",
+    "Full article starts and ends have not been transcribed and verified",
+    "Month coverage is a diversity objective, not evidence of completeness"
+  ]
+}
