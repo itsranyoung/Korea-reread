@@ -1,0 +1,327 @@
+{
+  "selected_record_count": 251,
+  "monthly_source_count": 72,
+  "draft_extracted_count": 200,
+  "unresolved_count": 51,
+  "drafts_by_year": {
+    "1901": 27,
+    "1902": 39,
+    "1903": 40,
+    "1904": 39,
+    "1905": 16,
+    "1906": 39
+  },
+  "failures": [
+    {
+      "year": 1901,
+      "month": 1,
+      "id": "kr-1901-005",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1901,
+      "month": 5,
+      "id": "kr-1901-017",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1901,
+      "month": 10,
+      "id": "kr-1901-031",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1901,
+      "month": 11,
+      "id": "kr-1901-032",
+      "reason": "page_marker_precedes_catalog_page",
+      "catalog_start": 483,
+      "first_seen": 481
+    },
+    {
+      "year": 1902,
+      "month": 1,
+      "id": "kr-confirmed-1902-0003",
+      "reason": "empty_article_body"
+    },
+    {
+      "year": 1902,
+      "month": 1,
+      "id": "kr-confirmed-1902-0016",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1902,
+      "month": 3,
+      "id": "kr-confirmed-1902-0035",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1902,
+      "month": 5,
+      "id": "kr-confirmed-1902-0049",
+      "reason": "empty_article_body"
+    },
+    {
+      "year": 1902,
+      "month": 6,
+      "id": "kr-confirmed-1902-0067",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1902,
+      "month": 7,
+      "id": "kr-confirmed-1902-0069",
+      "reason": "empty_article_body"
+    },
+    {
+      "year": 1902,
+      "month": 8,
+      "id": "kr-confirmed-1902-0086",
+      "reason": "empty_article_body"
+    },
+    {
+      "year": 1902,
+      "month": 8,
+      "id": "kr-confirmed-1902-0102",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1902,
+      "month": 10,
+      "id": "kr-confirmed-1902-0137",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1902,
+      "month": 11,
+      "id": "kr-confirmed-1902-0141",
+      "reason": "empty_article_body"
+    },
+    {
+      "year": 1902,
+      "month": 11,
+      "id": "kr-confirmed-1902-0144",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1903,
+      "month": 1,
+      "id": "kr-confirmed-1903-0158",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1903,
+      "month": 4,
+      "id": "kr-confirmed-1903-0162",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1903,
+      "month": 5,
+      "id": "kr-confirmed-1903-0167",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1903,
+      "month": 6,
+      "id": "kr-confirmed-1903-0174",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1903,
+      "month": 7,
+      "id": "kr-confirmed-1903-0177",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1903,
+      "month": 8,
+      "id": "kr-confirmed-1903-0185",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1903,
+      "month": 9,
+      "id": "kr-confirmed-1903-0195",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1903,
+      "month": 10,
+      "id": "kr-confirmed-1903-0202",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1903,
+      "month": 11,
+      "id": "kr-confirmed-1903-0209",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1903,
+      "month": 12,
+      "id": "kr-confirmed-1903-0216",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1904,
+      "month": 1,
+      "id": "kr-confirmed-1904-0228",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1904,
+      "month": 2,
+      "id": "kr-confirmed-1904-0234",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1904,
+      "month": 3,
+      "id": "kr-confirmed-1904-0240",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1904,
+      "month": 5,
+      "id": "kr-confirmed-1904-0253",
+      "reason": "empty_article_body"
+    },
+    {
+      "year": 1904,
+      "month": 6,
+      "id": "kr-confirmed-1904-0261",
+      "reason": "page_marker_precedes_catalog_page",
+      "catalog_start": 255,
+      "first_seen": 250
+    },
+    {
+      "year": 1904,
+      "month": 6,
+      "id": "kr-confirmed-1904-0266",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1904,
+      "month": 7,
+      "id": "kr-confirmed-1904-0273",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1904,
+      "month": 8,
+      "id": "kr-confirmed-1904-0279",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1904,
+      "month": 9,
+      "id": "kr-confirmed-1904-0283",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1904,
+      "month": 10,
+      "id": "kr-confirmed-1904-0291",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1904,
+      "month": 12,
+      "id": "kr-confirmed-1904-0310",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1905,
+      "month": 1,
+      "id": "kr-confirmed-1905-0320",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1905,
+      "month": 2,
+      "id": "kr-confirmed-1905-0324",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1905,
+      "month": 3,
+      "id": "kr-confirmed-1905-0328",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1905,
+      "month": 4,
+      "id": "kr-confirmed-1905-0330",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1906,
+      "month": 1,
+      "id": "kr-1906-007",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1906,
+      "month": 2,
+      "id": "kr-1906-013",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1906,
+      "month": 3,
+      "id": "kr-1906-021",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1906,
+      "month": 4,
+      "id": "kr-1906-029",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1906,
+      "month": 6,
+      "id": "kr-1906-043",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1906,
+      "month": 7,
+      "id": "kr-1906-053",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1906,
+      "month": 8,
+      "id": "kr-1906-062",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1906,
+      "month": 9,
+      "id": "kr-1906-069",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1906,
+      "month": 10,
+      "id": "kr-1906-075",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1906,
+      "month": 11,
+      "id": "kr-1906-084",
+      "reason": "unbounded_end_of_issue"
+    },
+    {
+      "year": 1906,
+      "month": 12,
+      "id": "kr-1906-091",
+      "reason": "unbounded_end_of_issue"
+    }
+  ],
+  "caveat": "These OCR excerpts are NOT authoritative publication texts. Unselected articles and uncertain endings must not be combined into a selected article. Manual boundary verification required."
+}
