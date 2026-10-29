@@ -61,25 +61,35 @@ def main():
             # Only standalone title-like lines; not matches buried in article body.
             if title in indexed and len(para["text"])<135:
                 occurrences[title].append({"month":month,"paragraph":idx,"style":para["style"],"raw":para["text"]})
-    published=[];ambiguous=[];unmatched=[]
+    published=[];ambiguous=[];unmatched=[];resolved_by_page=[]
+    if len(month_sources)!=12:
+        raise RuntimeError("All 12 original monthly DOCX sources must be available before modifying published catalog")
     for title,items in indexed.items():
         hits=occurrences.get(title,[])
         months=sorted(set(h["month"] for h in hits))
         for item in items:
-            if len(months)==1:
-                mo=months[0]
+            # Index gives printed starting pages: Vol. 2 uses 48-page monthly issues.
+            # Only accept a page-derived month if that month also contains the heading.
+            pg=item.get("printed_page_start")
+            page_month=(int(pg)-1)//48+1 if isinstance(pg,int) and 1<=pg<=576 else None
+            selected_month=(months[0] if len(months)==1 else page_month if page_month in months else None)
+            if selected_month is not None:
+                mo=selected_month
                 r={**item,"id":f"kr-1902-{len(published)+1:04d}","record_type":"annual_index_title_month_candidate",
                    "month":mo,"issue":mo,"source_url":month_sources[mo]["url"],
                    "annual_index_url":item["source_url"],"source_month_matches":hits,
-                   "month_status":"unique_standalone_title_line_machine_match",
+                   "month_status":("unique_standalone_title_line_machine_match" if len(months)==1 else "page_and_monthly_docx_correlated_candidate"),
                    "metadata_status":"monthly_docx_title_match_requires_human_article_and_page_verification",
                    "source_page_verified":False,
                    "title_verified_against_print_scan":False}
                 published.append(r)
+                if len(months)>1: resolved_by_page.append({"title":item["title"],"page":pg,"selected_month":mo,"possible_months":months})
             elif len(months)>1:
                 ambiguous.append({"title":item["title"],"indexed_page":item["printed_page_start"],"matches":hits})
             else:
                 unmatched.append({"title":item["title"],"indexed_page":item["printed_page_start"]})
+    published.sort(key=lambda r:(r["month"],r["printed_page_start"],r["title"].casefold()))
+    for i,r in enumerate(published,1):r["id"]=f"kr-1902-{i:04d}"
     OUT.write_text(json.dumps({
         "year":1902,"status":"provisional_monthly_article_candidates_not_human_verified",
         "warning":"Annual alphabetical index contains subject headings, repeats, and continuation references. This is not a complete article bibliography.",
@@ -90,8 +100,9 @@ def main():
     AUDIT.write_text(json.dumps({"year":1902,"source_errors":errors,
         "processed_months":list(month_sources),"published_candidates":len(published),
         "month_counts":{str(m):sum(r["month"]==m for r in published) for m in range(1,13)},
+        "resolved_by_page_and_source":resolved_by_page,
         "ambiguous":ambiguous,"unmatched":unmatched,
         "warning":"False title matches are possible; publication pending editorial review."},
         ensure_ascii=False,indent=2),encoding="utf8")
-    print("Result:",len(published),"month candidates,",len(ambiguous),"ambiguous,",len(unmatched),"unmatched")
+    print("Result:",len(published),"month candidates,",len(resolved_by_page),"resolved using page+source,",len(ambiguous),"ambiguous,",len(unmatched),"unmatched")
 if __name__=="__main__":main()
