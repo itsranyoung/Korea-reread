@@ -1,0 +1,1220 @@
+{
+  "scope": "1901-1906 representative selection",
+  "rule": "10 articles per year; prioritize Korean history, society, culture; preserve original year/month/page metadata but remove month-based navigation",
+  "selected_count": 60,
+  "selection_ids": [
+    "kr-1901-003",
+    "kr-1901-006",
+    "kr-1901-010",
+    "kr-1901-011",
+    "kr-1901-013",
+    "kr-1901-016",
+    "kr-1901-020",
+    "kr-1901-028",
+    "kr-1901-032",
+    "kr-1901-037",
+    "kr-confirmed-1902-0017",
+    "kr-confirmed-1902-0020",
+    "kr-confirmed-1902-0028",
+    "kr-confirmed-1902-0036",
+    "kr-confirmed-1902-0048",
+    "kr-confirmed-1902-0061",
+    "kr-confirmed-1902-0068",
+    "kr-confirmed-1902-0108",
+    "kr-confirmed-1902-0116",
+    "kr-confirmed-1902-0127",
+    "kr-confirmed-1903-0157",
+    "kr-confirmed-1903-0163",
+    "kr-confirmed-1903-0168",
+    "kr-confirmed-1903-0175",
+    "kr-confirmed-1903-0178",
+    "kr-confirmed-1903-0179",
+    "kr-confirmed-1903-0180",
+    "kr-confirmed-1903-0197",
+    "kr-confirmed-1903-0210",
+    "kr-confirmed-1903-0172",
+    "kr-confirmed-1904-0219",
+    "kr-confirmed-1904-0220",
+    "kr-confirmed-1904-0230",
+    "kr-confirmed-1904-0241",
+    "kr-confirmed-1904-0242",
+    "kr-confirmed-1904-0261",
+    "kr-confirmed-1904-0268",
+    "kr-confirmed-1904-0275",
+    "kr-confirmed-1904-0286",
+    "kr-confirmed-1904-0305",
+    "kr-confirmed-1905-0311",
+    "kr-confirmed-1905-0312",
+    "kr-confirmed-1905-0314",
+    "kr-confirmed-1905-0318",
+    "kr-confirmed-1905-0321",
+    "kr-confirmed-1905-0322",
+    "kr-confirmed-1905-0325",
+    "kr-confirmed-1905-0326",
+    "kr-confirmed-1905-0319",
+    "kr-confirmed-1905-0329",
+    "kr-1906-008",
+    "kr-1906-009",
+    "kr-1906-012",
+    "kr-1906-034",
+    "kr-1906-043",
+    "kr-1906-046",
+    "kr-1906-051",
+    "kr-1906-058",
+    "kr-1906-073",
+    "kr-1906-083"
+  ],
+  "excluded_from_prior_251": [
+    {
+      "id": "kr-1901-001",
+      "year": 1901,
+      "title": "The Spirit of the Bell",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-002",
+      "year": 1901,
+      "title": "The New Century",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-004",
+      "year": 1901,
+      "title": "Chemulpo",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-005",
+      "year": 1901,
+      "title": "Ancient Korea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-007",
+      "year": 1901,
+      "title": "The Korean Pronoun",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-008",
+      "year": 1901,
+      "title": "P’yung-Yang",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-009",
+      "year": 1901,
+      "title": "Wun-San",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-012",
+      "year": 1901,
+      "title": "A Leaf from My Journal",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-015",
+      "year": 1901,
+      "title": "The Tidal Wave in the Yellow Sea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-017",
+      "year": 1901,
+      "title": "A Korean Heroine",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-018",
+      "year": 1901,
+      "title": "Baron Von Mollendorff",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-019",
+      "year": 1901,
+      "title": "Home for Destitute Children",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-022",
+      "year": 1901,
+      "title": "Korean and Efate",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-024",
+      "year": 1901,
+      "title": "George C. Foulk",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-025",
+      "year": 1901,
+      "title": "Rice and the Ideograph",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-027",
+      "year": 1901,
+      "title": "An Anglo-Korean Conversation",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-030",
+      "year": 1901,
+      "title": "Rear Admiral Schley in Korea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-031",
+      "year": 1901,
+      "title": "Why Morning Calm?",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-033",
+      "year": 1901,
+      "title": "The Queen of Quelpart",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-034",
+      "year": 1901,
+      "title": "The Wizard of Ta-Bak San",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1901-036",
+      "year": 1901,
+      "title": "The Marble Pagoda",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0001",
+      "year": 1902,
+      "title": "A Beggar’s Wages",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0003",
+      "year": 1902,
+      "title": "Notes on Southern Korea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0005",
+      "year": 1902,
+      "title": "A Cuttle-fish story",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0010",
+      "year": 1902,
+      "title": "A Hunter’s Mistake",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0016",
+      "year": 1902,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0018",
+      "year": 1902,
+      "title": "An Island without a Sea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0019",
+      "year": 1902,
+      "title": "Christmas among the Koreans",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0022",
+      "year": 1902,
+      "title": "“The Works of Sak-eun.”",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0027",
+      "year": 1902,
+      "title": "A Celebrated Monument Marking the Fall of Păk-Je",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0031",
+      "year": 1902,
+      "title": "Ai-go!",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0035",
+      "year": 1902,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0037",
+      "year": 1902,
+      "title": "The Status of Woman",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0040",
+      "year": 1902,
+      "title": "Korea a la globetrotter",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0044",
+      "year": 1902,
+      "title": "A Korean Canute",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0049",
+      "year": 1902,
+      "title": "The Products of Korea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0053",
+      "year": 1902,
+      "title": "The Seoul Eui-ju Railway",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0056",
+      "year": 1902,
+      "title": "The Essence of Life",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0060",
+      "year": 1902,
+      "title": "The Wreck of the Kuma-gawa Maru",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0062",
+      "year": 1902,
+      "title": "Memoir of Rev. Henry G. Appenzeller",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0067",
+      "year": 1902,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0069",
+      "year": 1902,
+      "title": "Korean Products",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0078",
+      "year": 1902,
+      "title": "A Government Stock Farm",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0081",
+      "year": 1902,
+      "title": "The Goose that laid the golden egg",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0086",
+      "year": 1902,
+      "title": "Korean Products",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0091",
+      "year": 1902,
+      "title": "An Aesculapian Episode",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0097",
+      "year": 1902,
+      "title": "A Jade Bowl",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0102",
+      "year": 1902,
+      "title": "Korean History: Modern Korea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0107",
+      "year": 1902,
+      "title": "The Nine-story Pagoda",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0122",
+      "year": 1902,
+      "title": "A Convert to Buddhism",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0130",
+      "year": 1902,
+      "title": "Things are not what they seem",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0136",
+      "year": 1902,
+      "title": "From the Native Papers",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0137",
+      "year": 1902,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0138",
+      "year": 1902,
+      "title": "A Leaf from Korean Astrology",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0140",
+      "year": 1902,
+      "title": "Miss Christine May Collbran",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0141",
+      "year": 1902,
+      "title": "Obituary Notice",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0144",
+      "year": 1902,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0145",
+      "year": 1902,
+      "title": "A Leaf from Korean Astrology",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0146",
+      "year": 1902,
+      "title": "The Ancient Kingdom of Karak",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0147",
+      "year": 1902,
+      "title": "A Korean Jonah",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1902-0151",
+      "year": 1902,
+      "title": "A Recipe for Getting Rich",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0158",
+      "year": 1903,
+      "title": "“All’ s Well that Ends Well”",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0159",
+      "year": 1903,
+      "title": "A Leaf From Korean Astrology",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0160",
+      "year": 1903,
+      "title": "Review",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0161",
+      "year": 1903,
+      "title": "News Calendar",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0162",
+      "year": 1903,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0164",
+      "year": 1903,
+      "title": "Editorial Comment",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0165",
+      "year": 1903,
+      "title": "Across Siberia by Rail",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0166",
+      "year": 1903,
+      "title": "News Calendar",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0167",
+      "year": 1903,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0169",
+      "year": 1903,
+      "title": "Across Siberia by Rail",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0170",
+      "year": 1903,
+      "title": "As Good as Wireless Telegraphy",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0173",
+      "year": 1903,
+      "title": "Entered into Rest",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0174",
+      "year": 1903,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0176",
+      "year": 1903,
+      "title": "Editorial Comment",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0177",
+      "year": 1903,
+      "title": "News Calendar",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0181",
+      "year": 1903,
+      "title": "Across Siberia by Rail",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0182",
+      "year": 1903,
+      "title": "A Very Practical Joke",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0185",
+      "year": 1903,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0187",
+      "year": 1903,
+      "title": "Korean Relations with Japan",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0189",
+      "year": 1903,
+      "title": "The Crying Seed",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0190",
+      "year": 1903,
+      "title": "Fisherman’S Luck",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0191",
+      "year": 1903,
+      "title": "Well Up In Literature",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0192",
+      "year": 1903,
+      "title": "A New Kind Of Faith Cure",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0195",
+      "year": 1903,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0196",
+      "year": 1903,
+      "title": "Korean Relations With Japan",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0198",
+      "year": 1903,
+      "title": "The Secret Armor",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0199",
+      "year": 1903,
+      "title": "Presence Of Mind",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0200",
+      "year": 1903,
+      "title": "Editorial Comment",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0202",
+      "year": 1903,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0203",
+      "year": 1903,
+      "title": "Korean Relations with Japan",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0204",
+      "year": 1903,
+      "title": "A Square Meal",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0205",
+      "year": 1903,
+      "title": "Lying Bull Mountain",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0206",
+      "year": 1903,
+      "title": "Editorial Comment",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0207",
+      "year": 1903,
+      "title": "Mountain Dew",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0209",
+      "year": 1903,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0211",
+      "year": 1903,
+      "title": "A Rash Execution",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0212",
+      "year": 1903,
+      "title": "A Headless Ghost",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0213",
+      "year": 1903,
+      "title": "Cross Examination",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0214",
+      "year": 1903,
+      "title": "Places of Execution",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1903-0216",
+      "year": 1903,
+      "title": "Now or Never",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0222",
+      "year": 1904,
+      "title": "Lie on the left side",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0224",
+      "year": 1904,
+      "title": "A fortune-teller’s dilemma",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0228",
+      "year": 1904,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0229",
+      "year": 1904,
+      "title": "The Method",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0231",
+      "year": 1904,
+      "title": "The Ajun",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0232",
+      "year": 1904,
+      "title": "Editorial Comment",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0234",
+      "year": 1904,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0236",
+      "year": 1904,
+      "title": "A New Book on Korea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0237",
+      "year": 1904,
+      "title": "A. B. Stripling, Esq",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0239",
+      "year": 1904,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0240",
+      "year": 1904,
+      "title": "Supplement to The Korea Review",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0244",
+      "year": 1904,
+      "title": "The Vanguard",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0246",
+      "year": 1904,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0252",
+      "year": 1904,
+      "title": "Map Making",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0253",
+      "year": 1904,
+      "title": "War Anecdotes",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0254",
+      "year": 1904,
+      "title": "The Russian Dash at Anju",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0256",
+      "year": 1904,
+      "title": "The Russians burn the Ham-heung Bridge",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0262",
+      "year": 1904,
+      "title": "A Straight Official",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0265",
+      "year": 1904,
+      "title": "News Report",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0266",
+      "year": 1904,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0267",
+      "year": 1904,
+      "title": "Meum et Tuum",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0270",
+      "year": 1904,
+      "title": "The Ten Thousand Year Bridge",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0273",
+      "year": 1904,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0274",
+      "year": 1904,
+      "title": "The Fallow Lands",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0276",
+      "year": 1904,
+      "title": "Review",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0279",
+      "year": 1904,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0280",
+      "year": 1904,
+      "title": "Northeast Korea and the War",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0281",
+      "year": 1904,
+      "title": "Editorial Comment",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0282",
+      "year": 1904,
+      "title": "News Calendar",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0283",
+      "year": 1904,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0284",
+      "year": 1904,
+      "title": "Russians in Northeast Korea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0287",
+      "year": 1904,
+      "title": "The Foreign Cemetery",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0291",
+      "year": 1904,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0296",
+      "year": 1904,
+      "title": "Corea: The Hermit Nation",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0297",
+      "year": 1904,
+      "title": "Corea e Coreani",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0299",
+      "year": 1904,
+      "title": "A New Book on Japan",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0300",
+      "year": 1904,
+      "title": "Mr. Kennan on Seoul",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0304",
+      "year": 1904,
+      "title": "The Educational Needs of Korea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0306",
+      "year": 1904,
+      "title": "A Case of Who’s Who",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1904-0310",
+      "year": 1904,
+      "title": "Korean History",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1905-0313",
+      "year": 1905,
+      "title": "Room at the top",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1905-0315",
+      "year": 1905,
+      "title": "A lively Corpse",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1905-0316",
+      "year": 1905,
+      "title": "Satsuma Ware",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1905-0317",
+      "year": 1905,
+      "title": "An English Society",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1905-0320",
+      "year": 1905,
+      "title": "News Calendar",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1905-0323",
+      "year": 1905,
+      "title": "Editorial Comment",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1905-0324",
+      "year": 1905,
+      "title": "News Calendar",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1905-0327",
+      "year": 1905,
+      "title": "Editorial Comment",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1905-0328",
+      "year": 1905,
+      "title": "News Calendar",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-confirmed-1905-0330",
+      "year": 1905,
+      "title": "News Calendar",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-002",
+      "year": 1906,
+      "title": "Min Yong-Whan",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-001",
+      "year": 1906,
+      "title": "The Seasons",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-004",
+      "year": 1906,
+      "title": "American Enterprise in Korea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-005",
+      "year": 1906,
+      "title": "A Trip to Sorai Beach",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-007",
+      "year": 1906,
+      "title": "News Calendar",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-011",
+      "year": 1906,
+      "title": "Korean Conundrums",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-013",
+      "year": 1906,
+      "title": "Report of Bible Committee of Korea for 1905",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-017",
+      "year": 1906,
+      "title": "American Enterprise in Korea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-019",
+      "year": 1906,
+      "title": "The King's Property",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-020",
+      "year": 1906,
+      "title": "Missionary Work of the General Council",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-021",
+      "year": 1906,
+      "title": "Report of Bible Committee of Korea for 1905",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-024",
+      "year": 1906,
+      "title": "Are the Koreans Increasing in Numbers?",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-026",
+      "year": 1906,
+      "title": "A Visit to Seoul in 1975",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-027",
+      "year": 1906,
+      "title": "Biblewomen",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-029",
+      "year": 1906,
+      "title": "Robert Arthur Sharp",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-033",
+      "year": 1906,
+      "title": "Gleanings by the Wayside",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-035",
+      "year": 1906,
+      "title": "A Foolish Tale",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-036",
+      "year": 1906,
+      "title": "The Tiger and The Babies",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-040",
+      "year": 1906,
+      "title": "Korean Sketches",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-041",
+      "year": 1906,
+      "title": "Kennan and Korea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-042",
+      "year": 1906,
+      "title": "A Korean Cyclopaedia",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-047",
+      "year": 1906,
+      "title": "A Korean Cyclopaedia",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-053",
+      "year": 1906,
+      "title": "Export Duties",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-059",
+      "year": 1906,
+      "title": "The Japanese in The North",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-061",
+      "year": 1906,
+      "title": "The Prophets of Seoul",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-062",
+      "year": 1906,
+      "title": "Korea's Internal Affairs",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-065",
+      "year": 1906,
+      "title": "What to See at Pyeng-Yang",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-066",
+      "year": 1906,
+      "title": "Korean Finances",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-068",
+      "year": 1906,
+      "title": "Japan in North-East Korea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-069",
+      "year": 1906,
+      "title": "Japanese Immigration",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-072",
+      "year": 1906,
+      "title": "Missionary Work in Korea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-074",
+      "year": 1906,
+      "title": "Koreans in America",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-075",
+      "year": 1906,
+      "title": "The Korean Prefecture",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-080",
+      "year": 1906,
+      "title": "The Koreans in Hawaii",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-082",
+      "year": 1906,
+      "title": "Biographical Notes of Ancient Korea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-084",
+      "year": 1906,
+      "title": "Gambling in Korea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-087",
+      "year": 1906,
+      "title": "Biographical Notes of Ancient Korea",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-088",
+      "year": 1906,
+      "title": "Koreans Abroad",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-090",
+      "year": 1906,
+      "title": "An Eminent Opinion",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    },
+    {
+      "id": "kr-1906-091",
+      "year": 1906,
+      "title": "The Religion of the Heavenly Way",
+      "reason": "outside representative focus 10 per year; research record preserved"
+    }
+  ],
+  "limitations": [
+    "Subject priority based primarily on verified title metadata; must reassess using full OCR text",
+    "No claim of manual facsimile verification",
+    "No narrative summaries fabricated"
+  ]
+}
