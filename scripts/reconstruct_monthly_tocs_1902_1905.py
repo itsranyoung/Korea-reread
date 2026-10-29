@@ -39,17 +39,25 @@ def entries(pars,year,month):
  # Require TOC within the lines BEFORE the first explicit [page N].
  page_pattern=re.compile(r"\[page\s+(\d{1,4})\]",re.I)
  first_page=next((i for i,p in enumerate(pars) if page_pattern.search(p["text"])),None)
- if first_page is None: return [],[{"reason":"no_print_page_markers","year":year,"month":month}]
- toc_limit=min(first_page,70)
+ if first_page is None:return [],[{"reason":"no_print_page_markers","year":year,"month":month}]
+ # Some issues omit a page-one marker; detect the start of BODY by
+ # matching a TOC heading against its later standalone repeat.
+ repeats=[]
+ for i,p in enumerate(pars[:min(first_page,45)]):
+  key=norm(p["text"])
+  if not key or len(p["text"])>110 or i<2:continue
+  for j in range(i+4,min(len(pars),150)):
+   if norm(pars[j]["text"])==key and len(pars[j]["text"])<145:
+    repeats.append(j);break
+ body_start=min(repeats) if repeats else first_page
+ toc_limit=min(body_start,70)
  if toc_limit<3:return [],[{"reason":"no_toc_region","year":year,"month":month}]
- # Page numbers must be explicitly witnessed in preceding OCR document,
- # never computed from an annual index.
  active_page=None;body_heading_by_title=defaultdict(list)
- for idx,p in enumerate(pars[first_page:],first_page):
+ for idx,p in enumerate(pars[body_start:],body_start):
   marks=page_pattern.findall(p["text"])
-  if marks: active_page=int(marks[0])
+  if marks:active_page=int(marks[0])
   t=norm(p["text"].strip(" ."))
-  if t and active_page is not None and len(p["text"])<=145:
+  if t and len(p["text"])<=145:
    body_heading_by_title[t].append((idx,active_page,p["text"]))
  found=[];rejected=[]
  for idx,p in enumerate(pars[:toc_limit]):
@@ -59,7 +67,7 @@ def entries(pars,year,month):
   if key in ("the korea review","contents","table of contents") or key.startswith("volume "):continue
   # The first match should be the separate BODY title, not a TOC line.
   hits=body_heading_by_title.get(key,[])
-  valid=[h for h in hits if low<=h[1]<=high and h[0]>=first_page]
+  valid=[h for h in hits if h[1] is not None and low<=h[1]<=high and h[0]>=body_start]
   if valid:
    # If the identical title occurs more than once in the body (e.g.
    # serials), use the FIRST body heading and flag extra occurrences.
