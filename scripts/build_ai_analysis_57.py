@@ -59,6 +59,6 @@ for r in data:
   "provenance":{"method":"deterministic_literal_matching_not_llm","model":None,"input":"corrected_OCR_article_draft","source_text_verified_against_corrected_docx":True,"facsimile_verified":False},
   "limitations":["Literal entity candidates are not disambiguated","Topic matches are not semantic conclusions","No Korean summary was generated"]})
 payload={"project":"KOREA RE:READ","scope":"57_selected_articles","status":"research_candidates_not_public","analysis_schema_version":"0.1.0","records":out}
-target=ROOT/"data/ai-analysis-57-drafts.json"
+target=ROOT/"data/ai-analysis-57-candidate-baseline.json"
 target.write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding="utf8")
 print(json.dumps({"articles":len(out),"entity_candidates":sum(len(x["entities"]) for x in out),"topic_candidates":sum(len(x["topic_candidates"]) for x in out),"with_ocr_evidence":sum(bool(x["evidence_passages"]) for x in out),"korean_summaries":0},ensure_ascii=False))
