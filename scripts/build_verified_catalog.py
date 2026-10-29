@@ -39,7 +39,7 @@ def main():
   if recon.get("source_errors") or len(recon.get("month_summaries",{}))!=48:
    raise RuntimeError("Reconstructed monthly catalog incomplete; refuse public merge")
   for r in recon.get("records",[]):
-   if r.get("page_evidence_method") not in ("inline_toc_page","next_paragraph_page") or not r.get("body_heading_paragraph_indices"):
+   if r.get("page_evidence_method") not in ("inline_toc_page","next_paragraph_page","preceding_embedded_print_page_marker") or not r.get("body_heading_paragraph_indices"):
     raise ValueError("Reconstructed item lacks independent TOC/page/body evidence")
    eligible.append(r)
  ids=set()
