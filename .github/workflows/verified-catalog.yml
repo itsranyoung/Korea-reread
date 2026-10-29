@@ -1,0 +1,29 @@
+name: Publish source-correlated catalog only
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/build_verified_catalog.py'
+      - '.github/workflows/verified-catalog.yml'
+permissions:
+  contents: write
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Produce allowlisted TOC and source-heading catalog
+        run: python scripts/build_verified_catalog.py
+      - name: Save public allowlist and excluded audit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/public-verified.json audit/publication-decisions.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish only monthly TOC and source-heading corroborated records"
+            git pull --rebase origin main
+            git push
+          fi
