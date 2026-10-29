@@ -1,0 +1,102 @@
+#!/usr/bin/env python3
+"""Conservative reconstruction of 1902-1905 monthly original issue contents.
+
+Only publish a record when: (1) a title/page entry is independently extracted
+from that issue's contents zone; (2) a matching later standalone body heading
+exists in the SAME issue; (3) issue-year-month and printed page agree with
+the month page span. Do not invent pages or promote annual-index references.
+
+Output includes rigorous rejected candidates and diagnostics to improve parsing.
+"""
+from pathlib import Path
+from urllib.request import Request,urlopen
+from collections import defaultdict,Counter
+import xml.etree.ElementTree as ET
+import zipfile,io,re,json,unicodedata,time
+P=Path(__file__).resolve().parents[1]
+BASE="https://anthony.sogang.ac.kr/KoreaReview/"
+N="{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
+OUT=P/"audit/monthly-toc-reconstruction"
+OUT.mkdir(parents=True,exist_ok=True)
+def norm(s):return re.sub(r"[^a-z0-9]+"," ",unicodedata.normalize("NFKC",s).casefold()).strip()
+def clean(s):return " ".join(s.split())
+def read(year,month):
+ url=BASE+f"KoreaReviewVolume{year-1900}-{month:02d}.docx"
+ with urlopen(Request(url,headers={"User-Agent":"KoreaReReadVerification/1.0"}),timeout=80) as f:b=f.read()
+ with zipfile.ZipFile(io.BytesIO(b)) as z:root=ET.fromstring(z.read("word/document.xml"))
+ pars=[]
+ for p in root.iter(N+"p"):
+  t=clean("".join(x.text or "" for x in p.iter(N+"t")))
+  if not t:continue
+  pp=p.find(N+"pPr")
+  st=pp.find(N+"pStyle") if pp is not None else None
+  pars.append({"text":t,"style":st.attrib.get(N+"val","") if st is not None else ""})
+ return pars,url
+def entries(pars,year,month):
+ low=(month-1)*48+1; high=month*48
+ # Source's first 45 paragraph lines are an *inspection zone*, never assumed TOC.
+ # A TOC title must have its own explicit printed page number in-line or as
+ # a numeric immediately adjacent paragraph. No page from an index is borrowed.
+ found=[];rejected=[]
+ for i,p in enumerate(pars[:min(65,len(pars))]):
+  raw=p["text"]; title=None; page=None; method=None
+  # e.g. "History of Korea ........ 123" or "History of Korea 123"
+  m=re.match(r"^(.{5,125}?)\s*(?:\.{2,}|\s+)(\d{1,3})\s*\.?$",raw)
+  if m and re.search("[A-Za-z]",m.group(1)):
+   title=m.group(1).strip(" .–-");page=int(m.group(2));method="inline_toc_page"
+  elif i+1<len(pars) and re.fullmatch(r"\d{1,3}",pars[i+1]["text"]):
+   if 5<=len(raw)<=125 and re.search("[A-Za-z]",raw):
+    title=raw.strip(" .–-");page=int(pars[i+1]["text"]);method="next_paragraph_page"
+  if not title or page is None:continue
+  if not low<=page<=high:continue
+  if norm(title) in {"the korea review","contents","table of contents"}:continue
+  hits=[j for j,z in enumerate(pars) if j>i+5 and norm(z["text"])==norm(title) and len(z["text"])<=140]
+  item={"title":title,"year":year,"month":month,"volume":year-1900,"issue":month,
+    "printed_page_start":page,"toc_paragraph_index":i,
+    "toc_raw":raw,"page_evidence_method":method,
+    "body_heading_paragraph_indices":hits[:15]}
+  (found if hits else rejected).append(item)
+ # Drop duplicate TOC mentions using title+page; title repeats across pages permitted.
+ dedup={}
+ for row in found:dedup.setdefault((norm(row["title"]),row["printed_page_start"]),row)
+ return list(dedup.values()),rejected
+def main():
+ all_pass=[];totals=Counter();errors=[];month_summaries={}
+ for year in range(1902,1906):
+  for month in range(1,13):
+   key=f"{year}-{month:02d}"
+   try:
+    pars,url=read(year,month)
+    accepted,unmatched=entries(pars,year,month)
+    for row in accepted:row["source_url"]=url
+    diagnostics={"year":year,"month":month,"source_url":url,"paragraph_count":len(pars),
+      "toc_inspection_paragraphs":pars[:min(45,len(pars))],
+      "accepted":accepted,"rejected_toc_title_candidates":unmatched,
+      "pass_rule":"Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
+      "unverified":"Real scan page numbers, continuation logic, and OCR fidelity require manual review"}
+    (OUT/f"{key}.json").write_text(json.dumps(diagnostics,ensure_ascii=False,indent=2),encoding="utf8")
+    all_pass.extend(accepted);totals["months_read"]+=1;totals["accepted"]+=len(accepted)
+    totals["rejected"]+=len(unmatched)
+    month_summaries[key]={"accepted":len(accepted),"rejected":len(unmatched),"source":url}
+    print(key,"accepted",len(accepted),"rejected",len(unmatched),flush=True)
+   except Exception as e:errors.append({"year":year,"month":month,"error":str(e)});print(key,"ERROR",e,flush=True)
+   time.sleep(.1)
+ if errors:print("Source errors; FAIL CLOSED",len(errors),flush=True)
+ for i,r in enumerate(sorted(all_pass,key=lambda z:(z["year"],z["month"],z["printed_page_start"],z["title"])),1):
+  r["id"]=f"kr-confirmed-{r['year']}-{i:04d}"
+  r["record_type"]="toc_entry_correlated_with_body_heading"
+  r["publication_verification"]="independent_issue_toc_page_and_body_heading_correlated"
+  r["human_review_status"]="pending_facsimile_collation"
+  r["transcription_status"]="not_processed"
+  r["summary_status"]="not_processed"
+ out={"scope":"1902-1905 monthly source re-extraction","completeness_certified":False,
+  "criteria":"Both original monthly TOC title and printed page, separate matching body heading, and correct month page span",
+  "source_errors":errors,"month_summaries":month_summaries,
+  "accepted_count":len(all_pass),"records":all_pass}
+ (OUT/"summary.json").write_text(json.dumps({"counts":dict(totals),"errors":errors,"months":month_summaries},indent=2),encoding="utf8")
+ # Only promote full 48-month source success. No records published on partial run.
+ if not errors and totals["months_read"]==48:
+  (P/"data/monthly-toc-confirmed-1902-1905.json").write_text(json.dumps(out,ensure_ascii=False,indent=2),encoding="utf8")
+  print("Published strict source-evidenced candidates:",len(all_pass),flush=True)
+ else:raise SystemExit("48-month source completeness check failed: public data NOT overwritten")
+if __name__=="__main__":main()
