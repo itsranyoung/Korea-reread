@@ -34,6 +34,11 @@ def main():
             raise FileNotFoundError(f"Missing public catalog: {name}")
         json.loads(src.read_text(encoding="utf-8"))
         copy2(src, OUT / "data" / name)
+    # Optional catalog appears only after the original DOCX cross-check succeeds.
+    optional = ROOT / "data" / "1902.json"
+    if optional.is_file():
+        json.loads(optional.read_text(encoding="utf-8"))
+        copy2(optional, OUT / "data" / "1902.json")
     # Verify all relative local asset references in the main archive.
     main_html = (OUT / "index.html").read_text(encoding="utf-8")
     for name in DATA:
