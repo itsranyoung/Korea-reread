@@ -5,6 +5,7 @@ on:
     paths:
       - '.github/workflows/recover-sul-chong.yml'
       - 'scripts/repair_sul_chong.py'
+      - 'scripts/build_static.py'
 permissions:
   contents: write
 jobs:
