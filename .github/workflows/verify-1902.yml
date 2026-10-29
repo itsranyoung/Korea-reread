@@ -1,0 +1,31 @@
+name: Verify 1902 article catalog
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/verify_1902_catalog.py'
+      - '.github/workflows/verify-1902.yml'
+permissions:
+  contents: write
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Verify 1902 monthly DOCX against annual index
+        run: python scripts/verify_1902_catalog.py
+      - name: Commit verified-by-machine candidates and audit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/1902.json audit/1902-month-verification.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Add provisional 1902 monthly catalog and source verification audit"
+            git push
+          fi
