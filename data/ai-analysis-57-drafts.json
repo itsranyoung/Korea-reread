@@ -305,12 +305,29 @@
       "title": "Sul-Ch’ong, Father of Korean Literature",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-03.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "ocr_source_corrupted_pending_reextraction",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_sample_pending_human_review",
+      "summary_ko": "이 글은 신라의 학자 설총을 한국 문학사의 출발점으로 평가하는 조지 헤버 존스의 논의를 소개한다. 필자는 설총의 명성을 신라 역사서 저술 전승, 「모란의 비유」, 유교 경전의 신라 구어 해설, 이두와 관련된 공헌을 중심으로 설명한다. 특히 기존 불교계 학문 전통이 있었음을 인정하면서도, 후대에 지배적으로 기억된 유교적 학문 계보의 출발점으로 설총을 위치시킨다. 이는 1901년 필자의 역사 해석이며 각 주장에 대한 현대 역사학적 검증을 의미하지 않는다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [],
       "entities": [],
-      "evidence_passages": [],
+      "evidence_passages": [
+        {
+          "quote": "In the list of the really great literati of Korea, as so recognized by the scholars of the present dynasty and enrolled in the calendar of literary saints known as the Yu-rim-nok (the “Forest of Scholars,”) there are two names selected from the ancient kingdom of Sil-la, Sul Ch’ong and Ch’oe Ch’i-wun. And as Sil-la is thus chronologically the first kingdom which is acknowledged to have possessed men worthy the name of literateurs, these two names necessarily head the list of the famous scholars of Korea. In their order Sul Ch’ong comes first and then Ch’oe Ch’i-wun. It is the purpose of this sketch to tell something about the first named of these worthies.",
+          "status": "source_quote_pending_human_review"
+        },
+        {
+          "quote": "Sul Ch’ong was the first man to hand down to posterity in Korea a lasting fame as a scholar. That there were other literati before him versed in scholarship we have every evi- [page 102] dence. Sul Ch’ong himself must have had a teacher. Many of these men may have been the equals or even the superiors of Sul Ch’ong, but fate in Korea has been unkind to them and we know very little about them, their names having either altogether disappeared, or else are given scant notice in the notes to Korean histories with fragmentary quotations from their writings. As far as the estimate of the present day scholarship of Korea is concerned, as shown in the canonized worthies of Korea’s literary past, the father of letters with them is Sul Ch’ong. Now this of course runs us into a problem of the first magnitude—that of the date of the beginning of Korean literature, the discussion of which we reserve for the close of our sketch.",
+          "status": "source_quote_pending_human_review"
+        },
+        {
+          "quote": "As to the year of Sul Ch’ong’s birth we have no definite statement, but we know that he rose to fame in the reign of King Sin-mun of the Sil-la dynasty, who occupied the throne A. D. 681-092. The period in which he flourished was therefore about the end of the seventh century of the Christian era. Sul Ch’ong was born of celebrated parentage. His father was named Won Hyo. He had early taken orders as a Buddhist monk and had risen to the rank of an abbot. This, in a nation in which the established religion was Buddhism, was a post of some importance. That Won Hyo was a learned man is clear. It is stated that he was versed in the Buddhist writings which were known in Korea both in the Chinese character and the Pa-li. Some of Sul Ch’ong’s originality and thirst for learning may undoubtedly be traced to his father the old abbot. After remaining a monk for some time Won Hyo abandoned the Buddhist priesthood. No reason for this course is given, but it may be that already the ferment of the Confucian writings was beginning to make itself felt and the old abbot was one of the many who advocated the adoption of the China Sage and his ethics. Certainly the son became the source and fountain of the present dominance of Confucian Civilization among the Korean people. That the abbot was not only a learned man but also something of a celebrity seems clear from the fact that having abandoned Buddhism he further divested himself of his vows by forming a matrimonial alliance with the reigning house. His wife, the mother of Sul Ch’ong was the princess Yo-suk. Some extraordinary influence must have [page 103] been back of the fortunes of an unfrocked monk by which he could disregard his vows and marry into the family of the King. This princess was a widow.",
+          "status": "source_quote_pending_human_review"
+        },
+        {
+          "quote": "Of the early training of Sul Ch’ong we have no account, but in all probability he grew up at Court taking his studies tinder his father. From him he may have imbibed that love of the Chinese Classics which led him to open a school for the explanation of them to the common people. He was placed in high posts at the Court in recognition of his fearlessness of statement and his extensive acquirements. Four things have contributed to his fame.",
+          "status": "source_quote_pending_human_review"
+        }
+      ],
       "review": {
         "status": "pending_human_review",
         "reviewer": null,
