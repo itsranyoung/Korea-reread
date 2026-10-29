@@ -1,0 +1,857 @@
+{
+  "year": 1902,
+  "scope": "All 161 unmatched annual-index page references; months are page-range triage estimates ONLY",
+  "method": "page range ceil(page/48), not proof of source issue or an article heading",
+  "counts": {
+    "1": 20,
+    "2": 21,
+    "3": 15,
+    "4": 11,
+    "5": 13,
+    "6": 10,
+    "7": 7,
+    "8": 16,
+    "9": 25,
+    "10": 11,
+    "11": 7,
+    "12": 5
+  },
+  "per_month": {
+    "1": [
+      {
+        "title": "Ancient Korea, Note on",
+        "page": 13,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Beggars Wages, a",
+        "page": 8,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Buddhist Monastery, A",
+        "page": 26,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Chang-ot, The",
+        "page": 21,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Cuttle-fish Story, A",
+        "page": 17,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Donkey-maker, The",
+        "page": 20,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Embargo on rice export",
+        "page": 23,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Export of rice, Embargo on",
+        "page": 23,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Glass-works",
+        "page": 27,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Greetings",
+        "page": 22,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Hair at Weddings",
+        "page": 22,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Hanging Stone, The",
+        "page": 18,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Hunter's mistake, A",
+        "page": 19,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Military School, Trouble in",
+        "page": 29,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Notes on Ancient Korea",
+        "page": 13,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Products of Korea",
+        "page": 3,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Railway, The Seoul- Eui-ju 206, 21",
+        "page": 1,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Rice export. Embargo",
+        "page": 23,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Stones, Water-worn",
+        "page": 30,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The Chang-ot",
+        "page": 21,
+        "status": "annual_index_unmatched_not_article_verified"
+      }
+    ],
+    "2": [
+      {
+        "title": "Alliance, Anglo-Japanese",
+        "page": 69,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Alliance, Anglo-Japanese",
+        "page": 71,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Christmas among Koreans Rev. G. H. Jones Ph. D",
+        "page": 61,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "English and Japanese Alliance",
+        "page": 69,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "English and Japanese Alliance",
+        "page": 71,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Island without a Sea, An",
+        "page": 59,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Native Character, A School for the",
+        "page": 63,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "News Calendar 25",
+        "page": 71,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Products of Korea",
+        "page": 49,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Reviews 159, 304, 458, 4 >8 Rice",
+        "page": 49,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Sak-sun, The Works of Geo. H. Jones Ph. D",
+        "page": 55,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "School for the Native Character",
+        "page": 63,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Status of Woman i",
+        "page": 53,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Sticking Stone, The",
+        "page": 67,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Text of Anglo-Japanese Alliance",
+        "page": 71,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The Queen of Quelpart 4",
+        "page": 58,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The Sticking Stone",
+        "page": 67,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The White Buddha",
+        "page": 66,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The Works of Sak-eun Geo. H. Jones Ph. D",
+        "page": 65,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "White Buddha, The",
+        "page": 66,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Woman, The Status of i",
+        "page": 53,
+        "status": "annual_index_unmatched_not_article_verified"
+      }
+    ],
+    "3": [
+      {
+        "title": "A Celebrated Monument",
+        "page": 102,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Budget for 1902",
+        "page": 120,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Celebrated Monument, A",
+        "page": 102,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Currency, Depreciated",
+        "page": 116,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Currency, Depreciated",
+        "page": 125,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Famine conditions",
+        "page": 123,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "History of Korea 33, 81",
+        "page": 129,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Murder in Chemulpo",
+        "page": 126,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "News Calendar 25",
+        "page": 118,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "North and South Winds",
+        "page": 115,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Products of Korea",
+        "page": 103,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Status of Woman i",
+        "page": 97,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The North and South Winds",
+        "page": 115,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Winds, South and North",
+        "page": 115,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Woman, The Status of i",
+        "page": 97,
+        "status": "annual_index_unmatched_not_article_verified"
+      }
+    ],
+    "4": [
+      {
+        "title": "Bribery began, How",
+        "page": 164,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Canute, A Korean",
+        "page": 165,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Embargo on rice export",
+        "page": 166,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Export of rice, Embargo on",
+        "page": 166,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "History of Korea 33, 81",
+        "page": 177,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Indian came from. Where the",
+        "page": 159,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Korea, a la Globe-trotter -",
+        "page": 161,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Laws, ordinances &c. W. H. Wilkinson Esq",
+        "page": 174,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "News Calendar 25",
+        "page": 167,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Status of Woman i",
+        "page": 155,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Submarine Adventure, A",
+        "page": 145,
+        "status": "annual_index_unmatched_not_article_verified"
+      }
+    ],
+    "5": [
+      {
+        "title": "A Snakes Revenge",
+        "page": 208,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Alphabet, Remusat on the Korean",
+        "page": 198,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Bible Society Sunday",
+        "page": 223,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Essence of Life, The",
+        "page": 209,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Independence Club, The",
+        "page": 216,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Kato, Esq. M., Adviser",
+        "page": 212,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Monument, A Celebrated",
+        "page": 202,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "News Calendar 25",
+        "page": 212,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Products of Korea",
+        "page": 203,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Revenge, A snake's",
+        "page": 208,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Seoul Electric Company",
+        "page": 217,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Snake's Revenge, A",
+        "page": 208,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The Seoul Eui-ju Railway 206",
+        "page": 216,
+        "status": "annual_index_unmatched_not_article_verified"
+      }
+    ],
+    "6": [
+      {
+        "title": "Appenzeller, Memoir of Rev. H. G. by Rev. W. C. Swearer",
+        "page": 254,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Attack on foreigners, Japanese",
+        "page": 262,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Banking in Korea",
+        "page": 250,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Fiction, Korean",
+        "page": 286,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Japanese Attack on foreigners",
+        "page": 262,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Look beyond, A",
+        "page": 261,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Memoir of Rev. H. G. Appenzeller by Rev. W. C. Swearer",
+        "page": 254,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Meteorological Observations",
+        "page": 272,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Obituary Notice Rev. H. G Appenzeller",
+        "page": 254,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Works of Sak-eun Geo. H. Jones Ph. D Wreck of the Kuma-gawa",
+        "page": 247,
+        "status": "annual_index_unmatched_not_article_verified"
+      }
+    ],
+    "7": [
+      {
+        "title": "Cave felem",
+        "page": 306,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Exposition, The St. Louis",
+        "page": 311,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Good Policy Goose that Laid the Golden Egg, The",
+        "page": 307,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Old Age, Good iS Onions",
+        "page": 303,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Stock farm, a Government",
+        "page": 306,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The Louisiana Purchase Exposition",
+        "page": 311,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Water Worn Stones",
+        "page": 308,
+        "status": "annual_index_unmatched_not_article_verified"
+      }
+    ],
+    "8": [
+      {
+        "title": "Aesculapian Episode, An",
+        "page": 345,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Currency, Korean",
+        "page": 337,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Doom deferred, The",
+        "page": 352,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Feudalism in Korea",
+        "page": 354,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Hospital, The Severance",
+        "page": 357,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Jade Bowl, A",
+        "page": 352,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Male and female principles in Plants",
+        "page": 354,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Marks of Royalty, The",
+        "page": 351,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "V. Pokrovsky M. D",
+        "page": 368,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Pak-tu-san, Volcanic?",
+        "page": 361,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Phonetic System for China",
+        "page": 356,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Sacrificing at City Gates",
+        "page": 353,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Severance Memorial Hospital",
+        "page": 357,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Tennis Tournament, Seoul",
+        "page": 358,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The Seoul tennis tournament",
+        "page": 358,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The Severance Memorial Hospital",
+        "page": 357,
+        "status": "annual_index_unmatched_not_article_verified"
+      }
+    ],
+    "9": [
+      {
+        "title": "Bell, The Great",
+        "page": 387,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Belt, The Jade",
+        "page": 387,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Buddha, The Golden",
+        "page": 388,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Buddhism, a Convert to",
+        "page": 404,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Cholera Epidemic",
+        "page": 406,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Convert to Buddhism, A",
+        "page": 404,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Council of Missions",
+        "page": 414,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Currency, Korean",
+        "page": 389,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Flutes, The Twin Jade",
+        "page": 386,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Hazel Nuts",
+        "page": 395,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "V. Pokrovsky M. D",
+        "page": 416,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Mission Meetings",
+        "page": 407,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Pagoda. The nine story",
+        "page": 388,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Postal Service",
+        "page": 396,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Seoul Chemulpo Tennis Tournament",
+        "page": 408,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Seoul Chemulpo Tennis Tournament",
+        "page": 411,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Telegraph Service",
+        "page": 396,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Tennis Tournament, Seoul-Chemulpo",
+        "page": 408,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Tennis Tournament, Seoul-Chemulpo",
+        "page": 411,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The Golden Measure",
+        "page": 385,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The Goose that laid the Golden The Great Bell",
+        "page": 387,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The Seoul Chemulpo Tennis Tournament",
+        "page": 408,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The Seoul Chemulpo Tennis Tournament",
+        "page": 411,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The Treasures of Kyöng-ju",
+        "page": 385,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Treasures of Kyöng-ju",
+        "page": 385,
+        "status": "annual_index_unmatched_not_article_verified"
+      }
+    ],
+    "10": [
+      {
+        "title": "Archery, Expert",
+        "page": 453,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Count di Malgra, The D. Pegorini Esq",
+        "page": 462,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Language, The Korean",
+        "page": 433,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Memoir of Count di Malgra by D. Pegorini Esq",
+        "page": 462,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Obituary Notice, Count di Malgra",
+        "page": 462,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Origin of Korean People Dr. E. Baelz",
+        "page": 440,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Origin of Korean People",
+        "page": 453,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Queen of Quelpart",
+        "page": 458,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The Jade belt The Jade flutes The Korean Language",
+        "page": 433,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The Origin of the Koreans Dr. E. Baelz",
+        "page": 440,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The Origin of the Koreans",
+        "page": 453,
+        "status": "annual_index_unmatched_not_article_verified"
+      }
+    ],
+    "11": [
+      {
+        "title": "A Maker of the New Orient",
+        "page": 502,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Astrology, A leaf from Korean",
+        "page": 491,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Cholera Epidemic",
+        "page": 506,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Collbran, Miss, (Obituary)",
+        "page": 502,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Hospital, The Severance",
+        "page": 510,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Obituary Notice, Miss Collbran",
+        "page": 502,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "The Severance Memorial Hospital",
+        "page": 516,
+        "status": "annual_index_unmatched_not_article_verified"
+      }
+    ],
+    "12": [
+      {
+        "title": "Ancient Kingdom of Karak, T he",
+        "page": 541,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Astrology, A leaf from Korean",
+        "page": 529,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "From Fusan to Wonsan",
+        "page": 529,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Karak, The ancient Kingdom of",
+        "page": 541,
+        "status": "annual_index_unmatched_not_article_verified"
+      },
+      {
+        "title": "Trade Report of Korea II98 Travel in Eastern Korea",
+        "page": 529,
+        "status": "annual_index_unmatched_not_article_verified"
+      }
+    ]
+  },
+  "review_checklist": [
+    "Compare against original monthly issue headings",
+    "Check synonym/index subject entry versus real article title",
+    "Check OCR hyphenation and historical spelling",
+    "Verify printed page and start/end boundary",
+    "Preserve serialized installments as distinct entries"
+  ]
+}
