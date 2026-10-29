@@ -1,0 +1,44 @@
+name: Validate 57 article OCR reader build
+on:
+  push:
+    paths:
+      - 'index.html'
+      - 'scripts/build_static.py'
+      - '.github/workflows/validate-57-reader.yml'
+      - 'data/public-verified.json'
+      - 'data/curated-60-ocr-drafts.json'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Build production output
+        run: python scripts/build_static.py
+      - name: Assert article completeness and public safety
+        run: |
+          python - <<'PY'
+          import json,pathlib,html.parser
+          root=pathlib.Path(".vercel-output-static")
+          catalog=json.loads((root/"data/public-verified.json").read_text())["records"]
+          seen=[]
+          for year in range(1901,1907):
+              p=root/"data"/f"articles-{year}.json"
+              records=json.loads(p.read_text())["records"]
+              assert len(records)==(9 if year in (1901,1904,1906) else 10),(year,len(records))
+              for x in records:
+                  assert x["year"]==year and x["text"] and x["source_url"].startswith("https://")
+                  assert x["human_review_status"]=="pending_facsimile_collation"
+                  seen.append(x["id"])
+          assert len(seen)==57 and set(seen)=={r["id"] for r in catalog}
+          assert not (root/"data/curated-60-ocr-drafts.json").exists()
+          assert not (root/"audit").exists()
+          page=(root/"index.html").read_text()
+          assert "articles-'+r.year+'.json" in page and "hashchange" in page
+          print("PASS 57 readers, year counts, source links, review labeling, draft isolation")
+          PY
