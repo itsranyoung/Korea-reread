@@ -2,7 +2,7 @@
   "year": 1902,
   "status": "provisional_monthly_article_candidates_not_human_verified",
   "warning": "Annual alphabetical index contains subject headings, repeats, and continuation references. This is not a complete article bibliography.",
-  "method": "Unique standalone-paragraph normalized title match in original monthly DOCX; excludes repeat section headings.",
+  "method": "Monthly DOCX standalone title lines with unique month, or annual-index start page correlated against monthly DOCX; both require human verification",
   "source_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents02.htm",
   "records": [
     {
