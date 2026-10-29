@@ -1,0 +1,30 @@
+name: Audit 72 monthly article boundaries
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/audit_article_boundaries.py'
+      - '.github/workflows/audit-boundaries.yml'
+permissions:
+  contents: write
+jobs:
+  boundary-audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Compare monthly OCR headings to six-year catalog
+        run: python scripts/audit_article_boundaries.py
+      - name: Commit audit reports, not unverified article records
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audit/issue-boundaries/
+          if ! git diff --cached --quiet; then
+            git commit -m "Record source heading and boundary evidence for 72 monthly issues"
+            git pull --rebase origin main
+            git push
+          fi
