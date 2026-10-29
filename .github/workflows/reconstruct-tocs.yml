@@ -18,11 +18,13 @@ jobs:
           python-version: '3.11'
       - name: Re-extract all 48 monthly original issue TOCs with explicit pages
         run: python scripts/reconstruct_monthly_tocs_1902_1905.py
+      - name: Merge only evidence-backed issues into public catalog
+        run: python scripts/build_verified_catalog.py
       - name: Commit primary-source evidence
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/monthly-toc-confirmed-1902-1905.json audit/monthly-toc-reconstruction/
+          git add data/monthly-toc-confirmed-1902-1905.json audit/monthly-toc-reconstruction/ data/public-verified.json audit/publication-decisions.json
           if ! git diff --cached --quiet; then
             git commit -m "Reconstruct monthly source TOCs and page evidence, 1902-1905"
             git pull --rebase origin main
