@@ -32,7 +32,30 @@ def read(year,month):
   st=pp.find(N+"pStyle") if pp is not None else None
   pars.append({"text":t,"style":st.attrib.get(N+"val","") if st is not None else ""})
  return pars,url
+def entries_with_explicit_toc_page(pars,year,month):
+ low=(month-1)*48+1;high=month*48
+ found=[];rejected=[]
+ for i,p in enumerate(pars[:min(65,len(pars))]):
+  raw=p["text"]; title=None;page=None;method=None
+  m=re.match(r"^(.{5,125}?)\\s*(?:\\.{2,}|\\s+)(\\d{1,3})\\s*\\.?$",raw)
+  if m and re.search("[A-Za-z]",m.group(1)):
+   title=m.group(1).strip(" .–-");page=int(m.group(2));method="inline_toc_page"
+  elif i+1<len(pars) and re.fullmatch(r"\\d{1,3}",pars[i+1]["text"]):
+   if 5<=len(raw)<=125 and re.search("[A-Za-z]",raw):
+    title=raw.strip(" .–-");page=int(pars[i+1]["text"]);method="next_paragraph_page"
+  if not title or page is None or not low<=page<=high:continue
+  if norm(title) in ("the korea review","contents","table of contents"):continue
+  hits=[j for j,z in enumerate(pars) if j>i+5 and norm(z["text"])==norm(title) and len(z["text"])<=140]
+  item={"title":title,"year":year,"month":month,"volume":year-1900,"issue":month,
+   "printed_page_start":page,"toc_paragraph_index":i,"toc_raw":raw,
+   "page_evidence_method":method,"body_heading_paragraph_indices":hits[:15]}
+  (found if hits else rejected).append(item)
+ dedup={}
+ for row in found:dedup.setdefault((norm(row["title"]),row["printed_page_start"]),row)
+ return list(dedup.values()),rejected
+
 def entries(pars,year,month):
+ if year in (1903,1905):return entries_with_explicit_toc_page(pars,year,month)
  low=(month-1)*48+1;high=month*48
  # The 1902/1904 issue TOCs list title-only lines. Print page appears
  # later as [page N] embedded at the start/in the body OCR paragraphs.
