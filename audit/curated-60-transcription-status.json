@@ -1,0 +1,72 @@
+{
+  "total": 60,
+  "ocr_draft_linked": 57,
+  "not_extracted": 3,
+  "automated_qc_flagged": 1,
+  "by_year": {
+    "1901": {
+      "selected": 10,
+      "linked": 9,
+      "missing": 1
+    },
+    "1902": {
+      "selected": 10,
+      "linked": 10,
+      "missing": 0
+    },
+    "1903": {
+      "selected": 10,
+      "linked": 10,
+      "missing": 0
+    },
+    "1904": {
+      "selected": 10,
+      "linked": 9,
+      "missing": 1
+    },
+    "1905": {
+      "selected": 10,
+      "linked": 10,
+      "missing": 0
+    },
+    "1906": {
+      "selected": 10,
+      "linked": 9,
+      "missing": 1
+    }
+  },
+  "requires_reextraction": [
+    {
+      "id": "kr-1901-032",
+      "year": 1901,
+      "month": 11,
+      "title": "The Founding of the Korea Dynasty",
+      "reason": "previous boundary extraction did not produce reliable draft"
+    },
+    {
+      "id": "kr-confirmed-1904-0261",
+      "year": 1904,
+      "month": 6,
+      "title": "The Oldest Relic in Korea",
+      "reason": "previous boundary extraction did not produce reliable draft"
+    },
+    {
+      "id": "kr-1906-043",
+      "year": 1906,
+      "month": 6,
+      "title": "Korean and Ainu",
+      "reason": "previous boundary extraction did not produce reliable draft"
+    }
+  ],
+  "flagged": [
+    {
+      "id": "kr-1901-011",
+      "title": "Sul-Ch’ong, Father of Korean Literature",
+      "issues": [
+        "short_ocr_excerpt_review",
+        "title_not_in_transcribed_opening"
+      ]
+    }
+  ],
+  "note": "57 are provisional corrected-OCR passages copied from previous 251-article extraction. Not hand-verified or publicly deployed."
+}
