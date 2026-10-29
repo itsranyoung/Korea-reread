@@ -2218,5 +2218,5 @@
       "reason": "unbounded_end_of_issue"
     }
   ],
-  "limitations": "Automated OCR consistency checks are not printed-facsimile or final article-boundary human verification."
+  "limitations": "OCR consistency check only; not article-by-article comparison against original scanned print. Do not label these human-verified."
 }
