@@ -185,8 +185,182 @@
       "style": ""
     }
   ],
-  "accepted": [],
-  "rejected_toc_title_candidates": [],
+  "accepted": [
+    {
+      "title": "A Celebrated Monument Marking the Fall of Păk-Je",
+      "year": 1902,
+      "month": 3,
+      "volume": 2,
+      "issue": 3,
+      "printed_page_start": 102,
+      "toc_paragraph_index": 3,
+      "toc_raw": "A Celebrated Monument Marking the Fall of Păk-Je.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        26
+      ],
+      "body_heading_raw": "A Celebrated Monument Marking the Fall of Păk-Je.",
+      "page_marker_witness": "[page 102]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-03.docx"
+    },
+    {
+      "title": "The Products of Korea",
+      "year": 1902,
+      "month": 3,
+      "volume": 2,
+      "issue": 3,
+      "printed_page_start": 108,
+      "toc_paragraph_index": 4,
+      "toc_raw": "The Products of Korea.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        37
+      ],
+      "body_heading_raw": "The Products of Korea.",
+      "page_marker_witness": "[page 108]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-03.docx"
+    },
+    {
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 3,
+      "volume": 2,
+      "issue": 3,
+      "printed_page_start": 112,
+      "toc_paragraph_index": 5,
+      "toc_raw": "Odds and Ends.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        60
+      ],
+      "body_heading_raw": "Odds and Ends.",
+      "page_marker_witness": "[page 112]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-03.docx"
+    },
+    {
+      "title": "Good Policy",
+      "year": 1902,
+      "month": 3,
+      "volume": 2,
+      "issue": 3,
+      "printed_page_start": 112,
+      "toc_paragraph_index": 6,
+      "toc_raw": "Good Policy.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        61
+      ],
+      "body_heading_raw": "Good Policy.",
+      "page_marker_witness": "[page 112]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-03.docx"
+    },
+    {
+      "title": "Ai-go!",
+      "year": 1902,
+      "month": 3,
+      "volume": 2,
+      "issue": 3,
+      "printed_page_start": 113,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Ai-go!",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        68
+      ],
+      "body_heading_raw": "Ai-go!",
+      "page_marker_witness": "[page 113]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-03.docx"
+    },
+    {
+      "title": "Question and Answer",
+      "year": 1902,
+      "month": 3,
+      "volume": 2,
+      "issue": 3,
+      "printed_page_start": 115,
+      "toc_paragraph_index": 8,
+      "toc_raw": "Question and Answer.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        85
+      ],
+      "body_heading_raw": "Question and Answer.",
+      "page_marker_witness": "[page 115]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-03.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1902,
+      "month": 3,
+      "volume": 2,
+      "issue": 3,
+      "printed_page_start": 116,
+      "toc_paragraph_index": 9,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        90
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 116]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-03.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1902,
+      "month": 3,
+      "volume": 2,
+      "issue": 3,
+      "printed_page_start": 118,
+      "toc_paragraph_index": 10,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        101
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 118]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-03.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1902,
+      "month": 3,
+      "volume": 2,
+      "issue": 3,
+      "printed_page_start": 129,
+      "toc_paragraph_index": 11,
+      "toc_raw": "Korean History.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        209
+      ],
+      "body_heading_raw": "Korean History.",
+      "page_marker_witness": "[page 129]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-03.docx"
+    }
+  ],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "The Status of Woman in Korea",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Status of Woman in Korea",
+      "toc_paragraph_index": 12,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

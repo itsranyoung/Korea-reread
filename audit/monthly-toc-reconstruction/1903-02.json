@@ -187,22 +187,96 @@
   ],
   "accepted": [
     {
-      "title": "A Leaf From Korean Astrology",
+      "title": "Odds And Ends",
       "year": 1903,
       "month": 2,
       "volume": 3,
       "issue": 2,
-      "printed_page_start": 65,
-      "toc_paragraph_index": 6,
-      "toc_raw": "A Leaf From Korean Astrology 65",
-      "page_evidence_method": "inline_toc_page",
+      "printed_page_start": 68,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Odds And Ends",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
       "body_heading_paragraph_indices": [
-        66
+        88
       ],
+      "body_heading_raw": "Odds and Ends",
+      "page_marker_witness": "[page 68]",
+      "multiple_body_occurrences": false,
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-02.docx"
     }
   ],
-  "rejected_toc_title_candidates": [],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "The Korean New Year49",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Korean Physical Type55",
+      "toc_paragraph_index": 3,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "From Fusan to Wonsan59",
+      "toc_paragraph_index": 4,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Rev. H. O. T. Burkwall",
+      "toc_paragraph_index": 5,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "A Leaf From Korean Astrology 65",
+      "toc_paragraph_index": 6,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "A Novel Mail Delivery68",
+      "toc_paragraph_index": 8,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Fortune’ S Formula69",
+      "toc_paragraph_index": 9,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "A Moral From Go-Bang70",
+      "toc_paragraph_index": 10,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "A Costly Drug70",
+      "toc_paragraph_index": 11,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "A Brave Governor71",
+      "toc_paragraph_index": 12,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Editorial Comment73",
+      "toc_paragraph_index": 13,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "News Calendar74",
+      "toc_paragraph_index": 14,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Korean History81",
+      "toc_paragraph_index": 15,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Korean New Year",
+      "toc_paragraph_index": 16,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

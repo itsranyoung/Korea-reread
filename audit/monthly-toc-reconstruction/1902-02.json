@@ -185,8 +185,200 @@
       "style": ""
     }
   ],
-  "accepted": [],
-  "rejected_toc_title_candidates": [],
+  "accepted": [
+    {
+      "title": "The Status of Woman in Korea",
+      "year": 1902,
+      "month": 2,
+      "volume": 2,
+      "issue": 2,
+      "printed_page_start": 53,
+      "toc_paragraph_index": 3,
+      "toc_raw": "The Status of Woman in Korea.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        48
+      ],
+      "body_heading_raw": "The Status of Woman in Korea.",
+      "page_marker_witness": "[page 53]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx"
+    },
+    {
+      "title": "An Island without a Sea",
+      "year": 1902,
+      "month": 2,
+      "volume": 2,
+      "issue": 2,
+      "printed_page_start": 59,
+      "toc_paragraph_index": 4,
+      "toc_raw": "An Island without a Sea.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        68
+      ],
+      "body_heading_raw": "An Island without a Sea.",
+      "page_marker_witness": "[page 59]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx"
+    },
+    {
+      "title": "Christmas among the Koreans",
+      "year": 1902,
+      "month": 2,
+      "volume": 2,
+      "issue": 2,
+      "printed_page_start": 61,
+      "toc_paragraph_index": 5,
+      "toc_raw": "Christmas among the Koreans.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        75
+      ],
+      "body_heading_raw": "Christmas among the Koreans.",
+      "page_marker_witness": "[page 61]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx"
+    },
+    {
+      "title": "A School for the Native Character",
+      "year": 1902,
+      "month": 2,
+      "volume": 2,
+      "issue": 2,
+      "printed_page_start": 63,
+      "toc_paragraph_index": 6,
+      "toc_raw": "A School for the Native Character.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        85
+      ],
+      "body_heading_raw": "A School for the Native Character.",
+      "page_marker_witness": "[page 63]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx"
+    },
+    {
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 2,
+      "volume": 2,
+      "issue": 2,
+      "printed_page_start": 65,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Odds and Ends.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        96
+      ],
+      "body_heading_raw": "Odds and Ends.",
+      "page_marker_witness": "[page 65]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx"
+    },
+    {
+      "title": "“The Works of Sak-eun.”",
+      "year": 1902,
+      "month": 2,
+      "volume": 2,
+      "issue": 2,
+      "printed_page_start": 65,
+      "toc_paragraph_index": 8,
+      "toc_raw": "“The Works of Sak-eun.”",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        97
+      ],
+      "body_heading_raw": "“The Works of Sak-eun.”",
+      "page_marker_witness": "[page 65]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx"
+    },
+    {
+      "title": "Question and Answer",
+      "year": 1902,
+      "month": 2,
+      "volume": 2,
+      "issue": 2,
+      "printed_page_start": 66,
+      "toc_paragraph_index": 9,
+      "toc_raw": "Question and Answer.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        103
+      ],
+      "body_heading_raw": "Question and Answer.",
+      "page_marker_witness": "[page 66]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1902,
+      "month": 2,
+      "volume": 2,
+      "issue": 2,
+      "printed_page_start": 69,
+      "toc_paragraph_index": 10,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        117
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 69]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1902,
+      "month": 2,
+      "volume": 2,
+      "issue": 2,
+      "printed_page_start": 71,
+      "toc_paragraph_index": 11,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        122
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 71]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1902,
+      "month": 2,
+      "volume": 2,
+      "issue": 2,
+      "printed_page_start": 81,
+      "toc_paragraph_index": 12,
+      "toc_raw": "Korean History.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        216
+      ],
+      "body_heading_raw": "Korean History.",
+      "page_marker_witness": "[page 81]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx"
+    }
+  ],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "The Products of Korea",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Products of Korea",
+      "toc_paragraph_index": 13,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

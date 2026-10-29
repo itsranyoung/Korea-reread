@@ -187,180 +187,89 @@
   ],
   "accepted": [
     {
-      "title": "Korea and Formosa",
+      "title": "Odds and Ends",
       "year": 1905,
       "month": 1,
       "volume": 5,
       "issue": 1,
-      "printed_page_start": 1,
-      "toc_paragraph_index": 3,
-      "toc_raw": "Korea and Formosa 1",
-      "page_evidence_method": "inline_toc_page",
+      "printed_page_start": 20,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Odds and Ends",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
       "body_heading_paragraph_indices": [
-        17
+        63
       ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx"
-    },
-    {
-      "title": "The Seoul Fusan Railway",
-      "year": 1905,
-      "month": 1,
-      "volume": 5,
-      "issue": 1,
-      "printed_page_start": 16,
-      "toc_paragraph_index": 6,
-      "toc_raw": "The Seoul Fusan Railway 16",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        55
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx"
-    },
-    {
-      "title": "Room at the top",
-      "year": 1905,
-      "month": 1,
-      "volume": 5,
-      "issue": 1,
-      "printed_page_start": 21,
-      "toc_paragraph_index": 8,
-      "toc_raw": "Room at the top 21",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        64
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx"
-    },
-    {
-      "title": "Society for the prevention of cruelty to animals",
-      "year": 1905,
-      "month": 1,
-      "volume": 5,
-      "issue": 1,
-      "printed_page_start": 22,
-      "toc_paragraph_index": 9,
-      "toc_raw": "Society for the prevention of cruelty to animals 22",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        66
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx"
-    },
-    {
-      "title": "A lively Corpse",
-      "year": 1905,
-      "month": 1,
-      "volume": 5,
-      "issue": 1,
-      "printed_page_start": 23,
-      "toc_paragraph_index": 10,
-      "toc_raw": "A lively Corpse 23",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        69
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx"
-    },
-    {
-      "title": "Satsuma Ware",
-      "year": 1905,
-      "month": 1,
-      "volume": 5,
-      "issue": 1,
-      "printed_page_start": 24,
-      "toc_paragraph_index": 11,
-      "toc_raw": "Satsuma Ware 24",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        75
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx"
-    },
-    {
-      "title": "The top-knot",
-      "year": 1905,
-      "month": 1,
-      "volume": 5,
-      "issue": 1,
-      "printed_page_start": 25,
-      "toc_paragraph_index": 12,
-      "toc_raw": "The top-knot 25",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        77
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx"
-    },
-    {
-      "title": "An English Society",
-      "year": 1905,
-      "month": 1,
-      "volume": 5,
-      "issue": 1,
-      "printed_page_start": 25,
-      "toc_paragraph_index": 13,
-      "toc_raw": "An English Society 25",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        79
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx"
-    },
-    {
-      "title": "Editorial Comment",
-      "year": 1905,
-      "month": 1,
-      "volume": 5,
-      "issue": 1,
-      "printed_page_start": 26,
-      "toc_paragraph_index": 14,
-      "toc_raw": "Editorial Comment 26",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        82
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx"
-    },
-    {
-      "title": "News Calendar",
-      "year": 1905,
-      "month": 1,
-      "volume": 5,
-      "issue": 1,
-      "printed_page_start": 31,
-      "toc_paragraph_index": 15,
-      "toc_raw": "News Calendar 31",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        97
-      ],
+      "body_heading_raw": "Odds and Ends.",
+      "page_marker_witness": "[page 20]",
+      "multiple_body_occurrences": false,
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx"
     }
   ],
   "rejected_toc_title_candidates": [
     {
-      "title": "The Iron Mines of Kang-wun Province",
-      "year": 1905,
-      "month": 1,
-      "volume": 5,
-      "issue": 1,
-      "printed_page_start": 8,
-      "toc_paragraph_index": 4,
-      "toc_raw": "The Iron Mines of Kang-wun Province 8",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "title_candidate": "Vol. 5. No. 1. January, 1905",
+      "toc_paragraph_index": 1,
+      "reason": "missing_same_issue_heading_or_page_witness"
     },
     {
-      "title": "The Russo-Japanese Conflict",
-      "year": 1905,
-      "month": 1,
-      "volume": 5,
-      "issue": 1,
-      "printed_page_start": 12,
+      "title_candidate": "Korea and Formosa 1",
+      "toc_paragraph_index": 3,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Iron Mines of Kang-wun Province 8",
+      "toc_paragraph_index": 4,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Russo-Japanese Conflict 12",
       "toc_paragraph_index": 5,
-      "toc_raw": "The Russo-Japanese Conflict 12",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Seoul Fusan Railway 16",
+      "toc_paragraph_index": 6,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Room at the top 21",
+      "toc_paragraph_index": 8,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Society for the prevention of cruelty to animals 22",
+      "toc_paragraph_index": 9,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "A lively Corpse 23",
+      "toc_paragraph_index": 10,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Satsuma Ware 24",
+      "toc_paragraph_index": 11,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The top-knot 25",
+      "toc_paragraph_index": 12,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "An English Society 25",
+      "toc_paragraph_index": 13,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Editorial Comment 26",
+      "toc_paragraph_index": 14,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "News Calendar 31",
+      "toc_paragraph_index": 15,
+      "reason": "missing_same_issue_heading_or_page_witness"
     }
   ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",

@@ -186,7 +186,73 @@
     }
   ],
   "accepted": [],
-  "rejected_toc_title_candidates": [],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "VOL. 5. NO. 6. JUNE. 1905",
+      "toc_paragraph_index": 1,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Dr. Morrison on Korea",
+      "toc_paragraph_index": 3,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "A Possible Protectorate",
+      "toc_paragraph_index": 4,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Fragments From Korean Folk-lore",
+      "toc_paragraph_index": 5,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "A Trio of Fools",
+      "toc_paragraph_index": 6,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "A Fox-Trap",
+      "toc_paragraph_index": 7,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "An Unworded Bequest",
+      "toc_paragraph_index": 8,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "A Visit to Quelpart",
+      "toc_paragraph_index": 9,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Korean Business Life",
+      "toc_paragraph_index": 10,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Unknown Land",
+      "toc_paragraph_index": 11,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Editorial Comment",
+      "toc_paragraph_index": 12,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "News Calendar",
+      "toc_paragraph_index": 13,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "A Serious Disturbance",
+      "toc_paragraph_index": 14,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

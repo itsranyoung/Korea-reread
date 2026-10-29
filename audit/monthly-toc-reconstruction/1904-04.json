@@ -185,8 +185,133 @@
       "style": ""
     }
   ],
-  "accepted": [],
-  "rejected_toc_title_candidates": [],
+  "accepted": [
+    {
+      "title": "The Burning of the Palace",
+      "year": 1904,
+      "month": 4,
+      "volume": 4,
+      "issue": 4,
+      "printed_page_start": 154,
+      "toc_paragraph_index": 3,
+      "toc_raw": "The Burning of the Palace.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        32
+      ],
+      "body_heading_raw": "The Burning of the Palace.",
+      "page_marker_witness": "[page 154]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-04.docx"
+    },
+    {
+      "title": "The Internal Condition of Affairs in Korea",
+      "year": 1904,
+      "month": 4,
+      "volume": 4,
+      "issue": 4,
+      "printed_page_start": 163,
+      "toc_paragraph_index": 4,
+      "toc_raw": "The Internal Condition of Affairs in Korea.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        51
+      ],
+      "body_heading_raw": "The Internal Condition of Affairs in Korea.",
+      "page_marker_witness": "[page 163]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-04.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1904,
+      "month": 4,
+      "volume": 4,
+      "issue": 4,
+      "printed_page_start": 168,
+      "toc_paragraph_index": 5,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        63
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 168]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-04.docx"
+    },
+    {
+      "title": "The Vanguard",
+      "year": 1904,
+      "month": 4,
+      "volume": 4,
+      "issue": 4,
+      "printed_page_start": 170,
+      "toc_paragraph_index": 6,
+      "toc_raw": "The Vanguard.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        77
+      ],
+      "body_heading_raw": "The Vanguard.",
+      "page_marker_witness": "[page 170]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-04.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 4,
+      "volume": 4,
+      "issue": 4,
+      "printed_page_start": 172,
+      "toc_paragraph_index": 7,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        84
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 172]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-04.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1904,
+      "month": 4,
+      "volume": 4,
+      "issue": 4,
+      "printed_page_start": 177,
+      "toc_paragraph_index": 8,
+      "toc_raw": "Korean History.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        127
+      ],
+      "body_heading_raw": "Korean History.",
+      "page_marker_witness": "[page 177]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-04.docx"
+    }
+  ],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "The Russo-Japanese War",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "[p145]",
+      "toc_paragraph_index": 9,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Russo-Japanese War",
+      "toc_paragraph_index": 10,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

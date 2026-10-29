@@ -185,39 +185,79 @@
       "style": ""
     }
   ],
-  "accepted": [
+  "accepted": [],
+  "rejected_toc_title_candidates": [
     {
-      "title": "Questions and Answers",
-      "year": 1905,
-      "month": 4,
-      "volume": 5,
-      "issue": 4,
-      "printed_page_start": 149,
-      "toc_paragraph_index": 14,
-      "toc_raw": "Questions and Answers 149",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        135
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-04.docx"
+      "title_candidate": "VOL. 5. NO. 4. APRIL, 1905",
+      "toc_paragraph_index": 1,
+      "reason": "missing_same_issue_heading_or_page_witness"
     },
     {
-      "title": "News Calendar",
-      "year": 1905,
-      "month": 4,
-      "volume": 5,
-      "issue": 4,
-      "printed_page_start": 150,
+      "title_candidate": "The Making of Pottery 121",
+      "toc_paragraph_index": 3,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The War in N. E. Korea 123",
+      "toc_paragraph_index": 4,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "“Mr. Hong, Tiger.” 126",
+      "toc_paragraph_index": 5,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "How Priests Became Genii 130",
+      "toc_paragraph_index": 6,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Prof. Asakawa’s Book 131",
+      "toc_paragraph_index": 7,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The City of Yung-byun 134",
+      "toc_paragraph_index": 8,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "“Incubative Warmth.” 135",
+      "toc_paragraph_index": 9,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Note to “Buford’s” Communication 138",
+      "toc_paragraph_index": 10,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Northern Korea 139",
+      "toc_paragraph_index": 11,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Sanitation in Korea 142",
+      "toc_paragraph_index": 12,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Editorial Comment 141",
+      "toc_paragraph_index": 13,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Questions and Answers 149",
+      "toc_paragraph_index": 14,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "News Calendar 150",
       "toc_paragraph_index": 15,
-      "toc_raw": "News Calendar 150",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        145
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-04.docx"
+      "reason": "missing_same_issue_heading_or_page_witness"
     }
   ],
-  "rejected_toc_title_candidates": [],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

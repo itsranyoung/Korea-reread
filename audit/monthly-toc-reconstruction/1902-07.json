@@ -185,8 +185,344 @@
       "style": ""
     }
   ],
-  "accepted": [],
-  "rejected_toc_title_candidates": [],
+  "accepted": [
+    {
+      "title": "Burial Customs",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 294,
+      "toc_paragraph_index": 3,
+      "toc_raw": "Burial Customs.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        40
+      ],
+      "body_heading_raw": "Burial Customs.",
+      "page_marker_witness": "[page 294]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    {
+      "title": "Korean Products",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 300,
+      "toc_paragraph_index": 4,
+      "toc_raw": "Korean Products.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        61
+      ],
+      "body_heading_raw": "Korean Products.",
+      "page_marker_witness": "[page 300]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    {
+      "title": "Sesamum",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 300,
+      "toc_paragraph_index": 5,
+      "toc_raw": "Sesamum",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        62
+      ],
+      "body_heading_raw": "Sesamum",
+      "page_marker_witness": "[page 300]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    {
+      "title": "Buck-Wheat",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 301,
+      "toc_paragraph_index": 6,
+      "toc_raw": "Buck-Wheat",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        66
+      ],
+      "body_heading_raw": "Buck-Wheat",
+      "page_marker_witness": "[page 301]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    {
+      "title": "Potatoes",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 301,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Potatoes.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        69
+      ],
+      "body_heading_raw": "Potatoes.",
+      "page_marker_witness": "[page 301]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    {
+      "title": "Turnips",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 302,
+      "toc_paragraph_index": 8,
+      "toc_raw": "Turnips.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        71
+      ],
+      "body_heading_raw": "Turnips.",
+      "page_marker_witness": "[page 302]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    {
+      "title": "Cabbage",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 302,
+      "toc_paragraph_index": 9,
+      "toc_raw": "Cabbage",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        74
+      ],
+      "body_heading_raw": "Cabbage",
+      "page_marker_witness": "[page 302]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    {
+      "title": "Onions",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 303,
+      "toc_paragraph_index": 10,
+      "toc_raw": "Onions.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        76
+      ],
+      "body_heading_raw": "Onions.",
+      "page_marker_witness": "[page 303]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    {
+      "title": "Cayenne",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 303,
+      "toc_paragraph_index": 11,
+      "toc_raw": "Cayenne.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        80
+      ],
+      "body_heading_raw": "Cayenne.",
+      "page_marker_witness": "[page 303]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    {
+      "title": "Review",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 304,
+      "toc_paragraph_index": 12,
+      "toc_raw": "Review.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        83
+      ],
+      "body_heading_raw": "Review.",
+      "page_marker_witness": "[page 304]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    {
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 306,
+      "toc_paragraph_index": 13,
+      "toc_raw": "Odds and Ends.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        88
+      ],
+      "body_heading_raw": "Odds and Ends.",
+      "page_marker_witness": "[page 306]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    {
+      "title": "A Government Stock Farm",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 306,
+      "toc_paragraph_index": 14,
+      "toc_raw": "A Government Stock Farm.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        89
+      ],
+      "body_heading_raw": "A Government Stock Farm.",
+      "page_marker_witness": "[page 306]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    {
+      "title": "Cave Feline",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 306,
+      "toc_paragraph_index": 15,
+      "toc_raw": "Cave Feline.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        91
+      ],
+      "body_heading_raw": "Cave Feline.",
+      "page_marker_witness": "[page 306]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    {
+      "title": "The Goose that laid the golden egg",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 307,
+      "toc_paragraph_index": 16,
+      "toc_raw": "The Goose that laid the golden egg.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        93
+      ],
+      "body_heading_raw": "The Goose that laid the golden egg.",
+      "page_marker_witness": "[page 307]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    {
+      "title": "Question and Answer",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 308,
+      "toc_paragraph_index": 17,
+      "toc_raw": "Question and Answer.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        101
+      ],
+      "body_heading_raw": "Question and Answer.",
+      "page_marker_witness": "[page 308]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 310,
+      "toc_paragraph_index": 18,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        108
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 310]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 313,
+      "toc_paragraph_index": 19,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        117
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 313]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1902,
+      "month": 7,
+      "volume": 2,
+      "issue": 7,
+      "printed_page_start": 321,
+      "toc_paragraph_index": 20,
+      "toc_raw": "Korean History.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        194
+      ],
+      "body_heading_raw": "Korean History.",
+      "page_marker_witness": "[page 321]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    }
+  ],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "Korean Fiction",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Korean Fiction",
+      "toc_paragraph_index": 21,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

@@ -185,7 +185,98 @@
       "style": ""
     }
   ],
-  "accepted": [],
+  "accepted": [
+    {
+      "title": "Spelling Reform",
+      "year": 1904,
+      "month": 9,
+      "volume": 4,
+      "issue": 9,
+      "printed_page_start": 385,
+      "toc_paragraph_index": 2,
+      "toc_raw": "Spelling Reform.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        8
+      ],
+      "body_heading_raw": "Spelling Reform.",
+      "page_marker_witness": "[page 385]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-09.docx"
+    },
+    {
+      "title": "Northeast Korea and the War",
+      "year": 1904,
+      "month": 9,
+      "volume": 4,
+      "issue": 9,
+      "printed_page_start": 392,
+      "toc_paragraph_index": 3,
+      "toc_raw": "Northeast Korea and the War",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        23
+      ],
+      "body_heading_raw": "Northeast Korea and the War",
+      "page_marker_witness": "[page 392]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-09.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1904,
+      "month": 9,
+      "volume": 4,
+      "issue": 9,
+      "printed_page_start": 402,
+      "toc_paragraph_index": 4,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        52
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 402]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-09.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 9,
+      "volume": 4,
+      "issue": 9,
+      "printed_page_start": 408,
+      "toc_paragraph_index": 5,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        60
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 408]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-09.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1904,
+      "month": 9,
+      "volume": 4,
+      "issue": 9,
+      "printed_page_start": 417,
+      "toc_paragraph_index": 6,
+      "toc_raw": "Korean History.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        140
+      ],
+      "body_heading_raw": "Korean History.",
+      "page_marker_witness": "[page 417]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-09.docx"
+    }
+  ],
   "rejected_toc_title_candidates": [],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"

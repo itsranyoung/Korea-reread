@@ -187,123 +187,127 @@
   ],
   "accepted": [
     {
-      "title": "Note on Ch’oe Ch’i-Wun",
+      "title": "Odds and Ends",
       "year": 1903,
       "month": 6,
       "volume": 3,
       "issue": 6,
-      "printed_page_start": 241,
-      "toc_paragraph_index": 2,
-      "toc_raw": "Note on Ch’oe Ch’i-Wun 241",
-      "page_evidence_method": "inline_toc_page",
+      "printed_page_start": 260,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Odds and Ends",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
       "body_heading_paragraph_indices": [
-        22
+        94
       ],
+      "body_heading_raw": "Odds and Ends.",
+      "page_marker_witness": "[page 260]",
+      "multiple_body_occurrences": false,
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-06.docx"
     },
     {
-      "title": "Across Siberia by Rail",
-      "year": 1903,
-      "month": 6,
-      "volume": 3,
-      "issue": 6,
-      "printed_page_start": 253,
-      "toc_paragraph_index": 5,
-      "toc_raw": "Across Siberia by Rail 253",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        77
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-06.docx"
-    },
-    {
-      "title": "As Good as Wireless Telegraphy",
-      "year": 1903,
-      "month": 6,
-      "volume": 3,
-      "issue": 6,
-      "printed_page_start": 261,
-      "toc_paragraph_index": 9,
-      "toc_raw": "As Good as Wireless Telegraphy 261",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        99
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-06.docx"
-    },
-    {
-      "title": "Why They Went Blind",
-      "year": 1903,
-      "month": 6,
-      "volume": 3,
-      "issue": 6,
-      "printed_page_start": 262,
-      "toc_paragraph_index": 12,
-      "toc_raw": "Why They Went Blind 262",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        105
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-06.docx"
-    },
-    {
-      "title": "Birth, Marriage, Death",
+      "title": "Editorial Comment",
       "year": 1903,
       "month": 6,
       "volume": 3,
       "issue": 6,
       "printed_page_start": 263,
-      "toc_paragraph_index": 15,
-      "toc_raw": "Birth, Marriage, Death 263",
-      "page_evidence_method": "inline_toc_page",
+      "toc_paragraph_index": 14,
+      "toc_raw": "Editorial Comment",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
       "body_heading_paragraph_indices": [
-        110
+        109
       ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-06.docx"
-    },
-    {
-      "title": "Entered into Rest",
-      "year": 1903,
-      "month": 6,
-      "volume": 3,
-      "issue": 6,
-      "printed_page_start": 264,
-      "toc_paragraph_index": 16,
-      "toc_raw": "Entered into Rest 264",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        116
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-06.docx"
-    },
-    {
-      "title": "Korean History",
-      "year": 1903,
-      "month": 6,
-      "volume": 3,
-      "issue": 6,
-      "printed_page_start": 273,
-      "toc_paragraph_index": 20,
-      "toc_raw": "Korean History 273",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        190
-      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 263]",
+      "multiple_body_occurrences": false,
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-06.docx"
     }
   ],
   "rejected_toc_title_candidates": [
     {
-      "title": "Looking Backwards",
-      "year": 1903,
-      "month": 6,
-      "volume": 3,
-      "issue": 6,
-      "printed_page_start": 261,
+      "title_candidate": "Note on Ch’oe Ch’i-Wun 241",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Japanese Occupation of Seoul",
+      "toc_paragraph_index": 3,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "T. Sidehara247",
+      "toc_paragraph_index": 4,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Across Siberia by Rail 253",
+      "toc_paragraph_index": 5,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Mudang and Pansu257",
+      "toc_paragraph_index": 6,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Making of a River260",
+      "toc_paragraph_index": 8,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "As Good as Wireless Telegraphy 261",
+      "toc_paragraph_index": 9,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Looking Backwards 261",
       "toc_paragraph_index": 10,
-      "toc_raw": "Looking Backwards 261",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Centipede261",
+      "toc_paragraph_index": 11,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Why They Went Blind 262",
+      "toc_paragraph_index": 12,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Thorn Fence Island262",
+      "toc_paragraph_index": 13,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Birth, Marriage, Death 263",
+      "toc_paragraph_index": 15,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Entered into Rest 264",
+      "toc_paragraph_index": 16,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Foreigners and Native Diseases265",
+      "toc_paragraph_index": 17,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Weju 266",
+      "toc_paragraph_index": 18,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "News Calendar267",
+      "toc_paragraph_index": 19,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Korean History 273",
+      "toc_paragraph_index": 20,
+      "reason": "missing_same_issue_heading_or_page_witness"
     }
   ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",

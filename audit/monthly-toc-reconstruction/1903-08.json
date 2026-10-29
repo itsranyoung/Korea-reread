@@ -187,150 +187,79 @@
   ],
   "accepted": [
     {
-      "title": "The Peddlars’ Guild",
-      "year": 1903,
-      "month": 8,
-      "volume": 3,
-      "issue": 8,
-      "printed_page_start": 337,
-      "toc_paragraph_index": 2,
-      "toc_raw": "The Peddlars’ Guild 337",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        15
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx"
-    },
-    {
-      "title": "Mudang and Pansu",
-      "year": 1903,
-      "month": 8,
-      "volume": 3,
-      "issue": 8,
-      "printed_page_start": 342,
-      "toc_paragraph_index": 3,
-      "toc_raw": "Mudang and Pansu 342",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        27
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx"
-    },
-    {
-      "title": "Korean Relations with Japan",
-      "year": 1903,
-      "month": 8,
-      "volume": 3,
-      "issue": 8,
-      "printed_page_start": 347,
-      "toc_paragraph_index": 4,
-      "toc_raw": "Korean Relations with Japan 347",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        40
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx"
-    },
-    {
-      "title": "Across Siberia by Rail",
-      "year": 1903,
-      "month": 8,
-      "volume": 3,
-      "issue": 8,
-      "printed_page_start": 349,
-      "toc_paragraph_index": 5,
-      "toc_raw": "Across Siberia by Rail 349",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        57
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx"
-    },
-    {
-      "title": "A Very Practical Joke",
+      "title": "Odds and Ends",
       "year": 1903,
       "month": 8,
       "volume": 3,
       "issue": 8,
       "printed_page_start": 357,
-      "toc_paragraph_index": 9,
-      "toc_raw": "A Very Practical Joke 357",
-      "page_evidence_method": "inline_toc_page",
+      "toc_paragraph_index": 7,
+      "toc_raw": "Odds and Ends",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
       "body_heading_paragraph_indices": [
-        86
+        83
       ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx"
-    },
-    {
-      "title": "Sharp Eyes",
-      "year": 1903,
-      "month": 8,
-      "volume": 3,
-      "issue": 8,
-      "printed_page_start": 358,
-      "toc_paragraph_index": 10,
-      "toc_raw": "Sharp Eyes 358",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        89
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx"
-    },
-    {
-      "title": "News Calendar",
-      "year": 1903,
-      "month": 8,
-      "volume": 3,
-      "issue": 8,
-      "printed_page_start": 359,
-      "toc_paragraph_index": 12,
-      "toc_raw": "News Calendar 359",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        93
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx"
-    },
-    {
-      "title": "Korean History",
-      "year": 1903,
-      "month": 8,
-      "volume": 3,
-      "issue": 8,
-      "printed_page_start": 369,
-      "toc_paragraph_index": 13,
-      "toc_raw": "Korean History 369",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        214
-      ],
+      "body_heading_raw": "Odds and Ends.",
+      "page_marker_witness": "[page 357]",
+      "multiple_body_occurrences": false,
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx"
     }
   ],
   "rejected_toc_title_candidates": [
     {
-      "title": "Obituary - George Mitchell",
-      "year": 1903,
-      "month": 8,
-      "volume": 3,
-      "issue": 8,
-      "printed_page_start": 356,
-      "toc_paragraph_index": 6,
-      "toc_raw": "Obituary - George Mitchell 356",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "title_candidate": "The Peddlars’ Guild 337",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
     },
     {
-      "title": "Kwanak Mountain",
-      "year": 1903,
-      "month": 8,
-      "volume": 3,
-      "issue": 8,
-      "printed_page_start": 357,
+      "title_candidate": "Mudang and Pansu 342",
+      "toc_paragraph_index": 3,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Korean Relations with Japan 347",
+      "toc_paragraph_index": 4,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Across Siberia by Rail 349",
+      "toc_paragraph_index": 5,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Obituary - George Mitchell 356",
+      "toc_paragraph_index": 6,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Kwanak Mountain 357",
       "toc_paragraph_index": 8,
-      "toc_raw": "Kwanak Mountain 357",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "A Very Practical Joke 357",
+      "toc_paragraph_index": 9,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Sharp Eyes 358",
+      "toc_paragraph_index": 10,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Costly Arrows358",
+      "toc_paragraph_index": 11,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "News Calendar 359",
+      "toc_paragraph_index": 12,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Korean History 369",
+      "toc_paragraph_index": 13,
+      "reason": "missing_same_issue_heading_or_page_witness"
     }
   ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",

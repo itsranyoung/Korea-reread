@@ -187,126 +187,94 @@
   ],
   "accepted": [
     {
-      "title": "The Stone-fight",
-      "year": 1905,
-      "month": 2,
-      "volume": 5,
-      "issue": 2,
-      "printed_page_start": 49,
-      "toc_paragraph_index": 5,
-      "toc_raw": "The Stone-fight 49",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        56
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-02.docx"
-    },
-    {
-      "title": "Korea a Vassal of Japan",
+      "title": "Odds and Ends",
       "year": 1905,
       "month": 2,
       "volume": 5,
       "issue": 2,
       "printed_page_start": 58,
-      "toc_paragraph_index": 10,
-      "toc_raw": "Korea a Vassal of Japan 58",
-      "page_evidence_method": "inline_toc_page",
+      "toc_paragraph_index": 9,
+      "toc_raw": "Odds and Ends",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
       "body_heading_paragraph_indices": [
-        89
+        88
       ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-02.docx"
-    },
-    {
-      "title": "Editorial Comment",
-      "year": 1905,
-      "month": 2,
-      "volume": 5,
-      "issue": 2,
-      "printed_page_start": 63,
-      "toc_paragraph_index": 12,
-      "toc_raw": "Editorial Comment 63",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        107
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-02.docx"
-    },
-    {
-      "title": "News Calendar",
-      "year": 1905,
-      "month": 2,
-      "volume": 5,
-      "issue": 2,
-      "printed_page_start": 72,
-      "toc_paragraph_index": 14,
-      "toc_raw": "News Calendar 72",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        125
-      ],
+      "body_heading_raw": "Odds and Ends.",
+      "page_marker_witness": "[page 58]",
+      "multiple_body_occurrences": false,
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-02.docx"
     }
   ],
   "rejected_toc_title_candidates": [
     {
-      "title": "Progress of the Seoul-Wiju Railway N. C. Whittemore",
-      "year": 1905,
-      "month": 2,
-      "volume": 5,
-      "issue": 2,
-      "printed_page_start": 53,
+      "title_candidate": "VOL. 5. NO. 2. FEBRUARY, 1905",
+      "toc_paragraph_index": 1,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "A Hunt for Wild hogs J. E. Adams 41",
+      "toc_paragraph_index": 3,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Spelling Reform Lower A. Enmun 46",
+      "toc_paragraph_index": 4,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Stone-fight 49",
+      "toc_paragraph_index": 5,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Progress of the Seoul-Wiju Railway N. C. Whittemore 53",
       "toc_paragraph_index": 6,
-      "toc_raw": "Progress of the Seoul-Wiju Railway N. C. Whittemore 53",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "reason": "missing_same_issue_heading_or_page_witness"
     },
     {
-      "title": "A Woman’s Wit G. Engel ,",
-      "year": 1905,
-      "month": 2,
-      "volume": 5,
-      "issue": 2,
-      "printed_page_start": 54,
+      "title_candidate": "A Woman’s Wit G. Engel , 54",
       "toc_paragraph_index": 7,
-      "toc_raw": "A Woman’s Wit G. Engel , 54",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "reason": "missing_same_issue_heading_or_page_witness"
     },
     {
-      "title": "Korean Giants G. Engel",
-      "year": 1905,
-      "month": 2,
-      "volume": 5,
-      "issue": 2,
-      "printed_page_start": 56,
+      "title_candidate": "Korean Giants G. Engel 56",
       "toc_paragraph_index": 8,
-      "toc_raw": "Korean Giants G. Engel 56",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "reason": "missing_same_issue_heading_or_page_witness"
     },
     {
-      "title": "Rest from Burglars",
-      "year": 1905,
-      "month": 2,
-      "volume": 5,
-      "issue": 2,
-      "printed_page_start": 61,
+      "title_candidate": "Korea a Vassal of Japan 58",
+      "toc_paragraph_index": 10,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Rest from Burglars 61",
       "toc_paragraph_index": 11,
-      "toc_raw": "Rest from Burglars 61",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "reason": "missing_same_issue_heading_or_page_witness"
     },
     {
-      "title": "A Review A. Kenmure",
-      "year": 1905,
-      "month": 2,
-      "volume": 5,
-      "issue": 2,
-      "printed_page_start": 70,
+      "title_candidate": "Editorial Comment 63",
+      "toc_paragraph_index": 12,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "A Review A. Kenmure 70",
       "toc_paragraph_index": 13,
-      "toc_raw": "A Review A. Kenmure 70",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "News Calendar 72",
+      "toc_paragraph_index": 14,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "A Hunt for Wild Hogs",
+      "toc_paragraph_index": 15,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Jas. E. Adams",
+      "toc_paragraph_index": 16,
+      "reason": "missing_same_issue_heading_or_page_witness"
     }
   ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",

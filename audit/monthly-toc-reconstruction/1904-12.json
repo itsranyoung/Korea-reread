@@ -185,7 +185,152 @@
       "style": ""
     }
   ],
-  "accepted": [],
+  "accepted": [
+    {
+      "title": "Retrospect of 1904",
+      "year": 1904,
+      "month": 12,
+      "volume": 4,
+      "issue": 12,
+      "printed_page_start": 529,
+      "toc_paragraph_index": 2,
+      "toc_raw": "Retrospect of 1904.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        11
+      ],
+      "body_heading_raw": "Retrospect of 1904.",
+      "page_marker_witness": "[page 529]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-12.docx"
+    },
+    {
+      "title": "The Educational Needs of Korea",
+      "year": 1904,
+      "month": 12,
+      "volume": 4,
+      "issue": 12,
+      "printed_page_start": 533,
+      "toc_paragraph_index": 3,
+      "toc_raw": "The Educational Needs of Korea.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        19
+      ],
+      "body_heading_raw": "The Educational Needs of Korea.",
+      "page_marker_witness": "[page 533]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-12.docx"
+    },
+    {
+      "title": "Spelling Reform",
+      "year": 1904,
+      "month": 12,
+      "volume": 4,
+      "issue": 12,
+      "printed_page_start": 539,
+      "toc_paragraph_index": 4,
+      "toc_raw": "Spelling Reform.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        32
+      ],
+      "body_heading_raw": "Spelling Reform.",
+      "page_marker_witness": "[page 539]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-12.docx"
+    },
+    {
+      "title": "A Case of Who’s Who",
+      "year": 1904,
+      "month": 12,
+      "volume": 4,
+      "issue": 12,
+      "printed_page_start": 542,
+      "toc_paragraph_index": 5,
+      "toc_raw": "A Case of Who’s Who,",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        41
+      ],
+      "body_heading_raw": "A Case of Who’s Who,",
+      "page_marker_witness": "[page 542]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-12.docx"
+    },
+    {
+      "title": "Correspondence",
+      "year": 1904,
+      "month": 12,
+      "volume": 4,
+      "issue": 12,
+      "printed_page_start": 547,
+      "toc_paragraph_index": 6,
+      "toc_raw": "Correspondence.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        65
+      ],
+      "body_heading_raw": "Correspondence.",
+      "page_marker_witness": "[page 547]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-12.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1904,
+      "month": 12,
+      "volume": 4,
+      "issue": 12,
+      "printed_page_start": 549,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        74
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 549]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-12.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 12,
+      "volume": 4,
+      "issue": 12,
+      "printed_page_start": 555,
+      "toc_paragraph_index": 8,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        95
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 555]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-12.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1904,
+      "month": 12,
+      "volume": 4,
+      "issue": 12,
+      "printed_page_start": 561,
+      "toc_paragraph_index": 9,
+      "toc_raw": "Korean History.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        121
+      ],
+      "body_heading_raw": "Korean History.",
+      "page_marker_witness": "[page 561]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-12.docx"
+    }
+  ],
   "rejected_toc_title_candidates": [],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"

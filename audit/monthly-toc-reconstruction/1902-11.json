@@ -185,8 +185,146 @@
       "style": ""
     }
   ],
-  "accepted": [],
-  "rejected_toc_title_candidates": [],
+  "accepted": [
+    {
+      "title": "A Leaf from Korean Astrology",
+      "year": 1902,
+      "month": 11,
+      "volume": 2,
+      "issue": 11,
+      "printed_page_start": 491,
+      "toc_paragraph_index": 3,
+      "toc_raw": "A Leaf from Korean Astrology.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        35
+      ],
+      "body_heading_raw": "A Leaf from Korean Astrology.",
+      "page_marker_witness": "[page 491]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-11.docx"
+    },
+    {
+      "title": "Reviews",
+      "year": 1902,
+      "month": 11,
+      "volume": 2,
+      "issue": 11,
+      "printed_page_start": 498,
+      "toc_paragraph_index": 4,
+      "toc_raw": "Reviews.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        81
+      ],
+      "body_heading_raw": "Reviews.",
+      "page_marker_witness": "[page 498]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-11.docx"
+    },
+    {
+      "title": "Obituary Notice",
+      "year": 1902,
+      "month": 11,
+      "volume": 2,
+      "issue": 11,
+      "printed_page_start": 502,
+      "toc_paragraph_index": 5,
+      "toc_raw": "Obituary Notice.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        95
+      ],
+      "body_heading_raw": "Obituary Notice.",
+      "page_marker_witness": "[page 502]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-11.docx"
+    },
+    {
+      "title": "Miss Christine May Collbran",
+      "year": 1902,
+      "month": 11,
+      "volume": 2,
+      "issue": 11,
+      "printed_page_start": 502,
+      "toc_paragraph_index": 6,
+      "toc_raw": "Miss Christine May Collbran,",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        96
+      ],
+      "body_heading_raw": "Miss Christine May Collbran,",
+      "page_marker_witness": "[page 502]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-11.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1902,
+      "month": 11,
+      "volume": 2,
+      "issue": 11,
+      "printed_page_start": 504,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        109
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 504]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-11.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1902,
+      "month": 11,
+      "volume": 2,
+      "issue": 11,
+      "printed_page_start": 505,
+      "toc_paragraph_index": 8,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        113
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 505]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-11.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1902,
+      "month": 11,
+      "volume": 2,
+      "issue": 11,
+      "printed_page_start": 513,
+      "toc_paragraph_index": 9,
+      "toc_raw": "Korean History.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        183
+      ],
+      "body_heading_raw": "Korean History.",
+      "page_marker_witness": "[page 513]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-11.docx"
+    }
+  ],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "Taxation in Korea",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Taxation in Korea",
+      "toc_paragraph_index": 10,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

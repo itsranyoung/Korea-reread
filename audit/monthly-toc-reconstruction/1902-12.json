@@ -185,8 +185,236 @@
       "style": ""
     }
   ],
-  "accepted": [],
-  "rejected_toc_title_candidates": [],
+  "accepted": [
+    {
+      "title": "A Leaf from Korean Astrology",
+      "year": 1902,
+      "month": 12,
+      "volume": 2,
+      "issue": 12,
+      "printed_page_start": 535,
+      "toc_paragraph_index": 3,
+      "toc_raw": "A Leaf from Korean Astrology.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        30
+      ],
+      "body_heading_raw": "A Leaf from Korean Astrology.",
+      "page_marker_witness": "[page 535]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-12.docx"
+    },
+    {
+      "title": "The Ancient Kingdom of Karak",
+      "year": 1902,
+      "month": 12,
+      "volume": 2,
+      "issue": 12,
+      "printed_page_start": 541,
+      "toc_paragraph_index": 4,
+      "toc_raw": "The Ancient Kingdom of Karak.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        79
+      ],
+      "body_heading_raw": "The Ancient Kingdom of Karak.",
+      "page_marker_witness": "[page 541]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-12.docx"
+    },
+    {
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 12,
+      "volume": 2,
+      "issue": 12,
+      "printed_page_start": 546,
+      "toc_paragraph_index": 5,
+      "toc_raw": "Odds and Ends.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        98
+      ],
+      "body_heading_raw": "Odds and Ends.",
+      "page_marker_witness": "[page 546]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-12.docx"
+    },
+    {
+      "title": "A Korean Jonah",
+      "year": 1902,
+      "month": 12,
+      "volume": 2,
+      "issue": 12,
+      "printed_page_start": 546,
+      "toc_paragraph_index": 6,
+      "toc_raw": "A Korean Jonah",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        99
+      ],
+      "body_heading_raw": "A Korean Jonah",
+      "page_marker_witness": "[page 546]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-12.docx"
+    },
+    {
+      "title": "A Cure for Blindness",
+      "year": 1902,
+      "month": 12,
+      "volume": 2,
+      "issue": 12,
+      "printed_page_start": 548,
+      "toc_paragraph_index": 7,
+      "toc_raw": "A Cure for Blindness",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        103
+      ],
+      "body_heading_raw": "A Cure for Blindness",
+      "page_marker_witness": "[page 548]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-12.docx"
+    },
+    {
+      "title": "A Burglar’s Implement",
+      "year": 1902,
+      "month": 12,
+      "volume": 2,
+      "issue": 12,
+      "printed_page_start": 548,
+      "toc_paragraph_index": 8,
+      "toc_raw": "A Burglar’s Implement",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        106
+      ],
+      "body_heading_raw": "A Burglar’s Implement",
+      "page_marker_witness": "[page 548]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-12.docx"
+    },
+    {
+      "title": "A Recipe for Getting Rich",
+      "year": 1902,
+      "month": 12,
+      "volume": 2,
+      "issue": 12,
+      "printed_page_start": 549,
+      "toc_paragraph_index": 9,
+      "toc_raw": "A Recipe for Getting Rich",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        108
+      ],
+      "body_heading_raw": "A Recipe for Getting Rich",
+      "page_marker_witness": "[page 549]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-12.docx"
+    },
+    {
+      "title": "An Intelligent Plant",
+      "year": 1902,
+      "month": 12,
+      "volume": 2,
+      "issue": 12,
+      "printed_page_start": 550,
+      "toc_paragraph_index": 10,
+      "toc_raw": "An Intelligent Plant",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        112
+      ],
+      "body_heading_raw": "An Intelligent Plant",
+      "page_marker_witness": "[page 550]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-12.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1902,
+      "month": 12,
+      "volume": 2,
+      "issue": 12,
+      "printed_page_start": 550,
+      "toc_paragraph_index": 11,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        114
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 550]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-12.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1902,
+      "month": 12,
+      "volume": 2,
+      "issue": 12,
+      "printed_page_start": 553,
+      "toc_paragraph_index": 12,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        122
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 553]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-12.docx"
+    },
+    {
+      "title": "From the Native Papers",
+      "year": 1902,
+      "month": 12,
+      "volume": 2,
+      "issue": 12,
+      "printed_page_start": 557,
+      "toc_paragraph_index": 13,
+      "toc_raw": "From the Native Papers.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        140
+      ],
+      "body_heading_raw": "From the Native Papers.",
+      "page_marker_witness": "[page 557]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-12.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1902,
+      "month": 12,
+      "volume": 2,
+      "issue": 12,
+      "printed_page_start": 561,
+      "toc_paragraph_index": 14,
+      "toc_raw": "Korean History.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        168
+      ],
+      "body_heading_raw": "Korean History.",
+      "page_marker_witness": "[page 561]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-12.docx"
+    }
+  ],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "From Fusan to Wonsan by Pack-pony",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "From Fusan to Wonsan by Pack-pony",
+      "toc_paragraph_index": 15,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

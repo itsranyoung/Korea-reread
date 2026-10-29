@@ -185,8 +185,326 @@
       "style": "2"
     }
   ],
-  "accepted": [],
-  "rejected_toc_title_candidates": [],
+  "accepted": [
+    {
+      "title": "Korean Products",
+      "year": 1902,
+      "month": 8,
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 341,
+      "toc_paragraph_index": 3,
+      "toc_raw": "Korean Products.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        34
+      ],
+      "body_heading_raw": "Korean Products.",
+      "page_marker_witness": "[page 341]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    },
+    {
+      "title": "Persimmons",
+      "year": 1902,
+      "month": 8,
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 341,
+      "toc_paragraph_index": 4,
+      "toc_raw": "Persimmons",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        35
+      ],
+      "body_heading_raw": "Persimmons",
+      "page_marker_witness": "[page 341]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    },
+    {
+      "title": "Pears",
+      "year": 1902,
+      "month": 8,
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 343,
+      "toc_paragraph_index": 5,
+      "toc_raw": "Pears",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        39
+      ],
+      "body_heading_raw": "Pears",
+      "page_marker_witness": "[page 343]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    },
+    {
+      "title": "Peaches",
+      "year": 1902,
+      "month": 8,
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 344,
+      "toc_paragraph_index": 6,
+      "toc_raw": "Peaches.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        44
+      ],
+      "body_heading_raw": "Peaches.",
+      "page_marker_witness": "[page 344]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    },
+    {
+      "title": "Apricots",
+      "year": 1902,
+      "month": 8,
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 344,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Apricots.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        46
+      ],
+      "body_heading_raw": "Apricots.",
+      "page_marker_witness": "[page 344]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    },
+    {
+      "title": "Crab apples",
+      "year": 1902,
+      "month": 8,
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 345,
+      "toc_paragraph_index": 8,
+      "toc_raw": "Crab apples.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        48
+      ],
+      "body_heading_raw": "Crab apples.",
+      "page_marker_witness": "[page 345]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    },
+    {
+      "title": "Plums",
+      "year": 1902,
+      "month": 8,
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 345,
+      "toc_paragraph_index": 9,
+      "toc_raw": "Plums.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        50
+      ],
+      "body_heading_raw": "Plums.",
+      "page_marker_witness": "[page 345]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    },
+    {
+      "title": "An Aesculapian Episode",
+      "year": 1902,
+      "month": 8,
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 345,
+      "toc_paragraph_index": 10,
+      "toc_raw": "An Aesculapian Episode.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        52
+      ],
+      "body_heading_raw": "An Aesculapian Episode.",
+      "page_marker_witness": "[page 345]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    },
+    {
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 8,
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 351,
+      "toc_paragraph_index": 11,
+      "toc_raw": "Odds and Ends.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        78
+      ],
+      "body_heading_raw": "Odds and Ends.",
+      "page_marker_witness": "[page 351]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    },
+    {
+      "title": "The Marks of Royalty",
+      "year": 1902,
+      "month": 8,
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 351,
+      "toc_paragraph_index": 12,
+      "toc_raw": "The Marks of Royalty.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        79
+      ],
+      "body_heading_raw": "The Marks of Royalty.",
+      "page_marker_witness": "[page 351]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    },
+    {
+      "title": "Tadpoles",
+      "year": 1902,
+      "month": 8,
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 351,
+      "toc_paragraph_index": 13,
+      "toc_raw": "Tadpoles",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        83
+      ],
+      "body_heading_raw": "Tadpoles",
+      "page_marker_witness": "[page 351]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    },
+    {
+      "title": "A Jade Bowl",
+      "year": 1902,
+      "month": 8,
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 352,
+      "toc_paragraph_index": 14,
+      "toc_raw": "A Jade Bowl.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        85
+      ],
+      "body_heading_raw": "A Jade Bowl.",
+      "page_marker_witness": "[page 352]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    },
+    {
+      "title": "The Doom Deferred",
+      "year": 1902,
+      "month": 8,
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 352,
+      "toc_paragraph_index": 15,
+      "toc_raw": "The Doom Deferred.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        89
+      ],
+      "body_heading_raw": "The Doom Deferred.",
+      "page_marker_witness": "[page 352]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    },
+    {
+      "title": "Question and Answer",
+      "year": 1902,
+      "month": 8,
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 353,
+      "toc_paragraph_index": 16,
+      "toc_raw": "Question and Answer.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        95
+      ],
+      "body_heading_raw": "Question and Answer.",
+      "page_marker_witness": "[page 353]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1902,
+      "month": 8,
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 355,
+      "toc_paragraph_index": 17,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        106
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 355]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1902,
+      "month": 8,
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 359,
+      "toc_paragraph_index": 18,
+      "toc_raw": "News Calendar",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        119
+      ],
+      "body_heading_raw": "News Calendar",
+      "page_marker_witness": "[page 359]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    },
+    {
+      "title": "Korean History: Modern Korea",
+      "year": 1902,
+      "month": 8,
+      "volume": 2,
+      "issue": 8,
+      "printed_page_start": 369,
+      "toc_paragraph_index": 19,
+      "toc_raw": "Korean History: Modern Korea.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        210
+      ],
+      "body_heading_raw": "Korean History: Modern Korea.",
+      "page_marker_witness": "[page 369]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    }
+  ],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "Korean Currency",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Korean Currency",
+      "toc_paragraph_index": 20,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

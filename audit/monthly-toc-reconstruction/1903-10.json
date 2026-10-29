@@ -187,123 +187,64 @@
   ],
   "accepted": [
     {
-      "title": "Korean Relations With Japan",
-      "year": 1903,
-      "month": 10,
-      "volume": 3,
-      "issue": 10,
-      "printed_page_start": 438,
-      "toc_paragraph_index": 3,
-      "toc_raw": "Korean Relations With Japan 438",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        148
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-10.docx"
-    },
-    {
-      "title": "The Fortress Of Puk-Han",
-      "year": 1903,
-      "month": 10,
-      "volume": 3,
-      "issue": 10,
-      "printed_page_start": 444,
-      "toc_paragraph_index": 4,
-      "toc_raw": "The Fortress Of Puk-Han 444",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        192
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-10.docx"
-    },
-    {
-      "title": "The Secret Armor",
+      "title": "Odds And Ends",
       "year": 1903,
       "month": 10,
       "volume": 3,
       "issue": 10,
       "printed_page_start": 451,
-      "toc_paragraph_index": 6,
-      "toc_raw": "The Secret Armor 451",
-      "page_evidence_method": "inline_toc_page",
+      "toc_paragraph_index": 5,
+      "toc_raw": "Odds And Ends",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
       "body_heading_paragraph_indices": [
-        224
+        223
       ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-10.docx"
-    },
-    {
-      "title": "Presence Of Mind",
-      "year": 1903,
-      "month": 10,
-      "volume": 3,
-      "issue": 10,
-      "printed_page_start": 452,
-      "toc_paragraph_index": 7,
-      "toc_raw": "Presence Of Mind 452",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        226
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-10.docx"
-    },
-    {
-      "title": "Editorial Comment",
-      "year": 1903,
-      "month": 10,
-      "volume": 3,
-      "issue": 10,
-      "printed_page_start": 453,
-      "toc_paragraph_index": 8,
-      "toc_raw": "Editorial Comment 453",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        228
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-10.docx"
-    },
-    {
-      "title": "News Calendar",
-      "year": 1903,
-      "month": 10,
-      "volume": 3,
-      "issue": 10,
-      "printed_page_start": 455,
-      "toc_paragraph_index": 9,
-      "toc_raw": "News Calendar 455",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        234
-      ],
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-10.docx"
-    },
-    {
-      "title": "Korean History",
-      "year": 1903,
-      "month": 10,
-      "volume": 3,
-      "issue": 10,
-      "printed_page_start": 465,
-      "toc_paragraph_index": 10,
-      "toc_raw": "Korean History 465",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": [
-        327
-      ],
+      "body_heading_raw": "Odds and Ends.",
+      "page_marker_witness": "[page 451]",
+      "multiple_body_occurrences": false,
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-10.docx"
     }
   ],
   "rejected_toc_title_candidates": [
     {
-      "title": "A Korean Poem. F. S. Miller",
-      "year": 1903,
-      "month": 10,
-      "volume": 3,
-      "issue": 10,
-      "printed_page_start": 433,
+      "title_candidate": "A Korean Poem. F. S. Miller 433",
       "toc_paragraph_index": 2,
-      "toc_raw": "A Korean Poem. F. S. Miller 433",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Korean Relations With Japan 438",
+      "toc_paragraph_index": 3,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Fortress Of Puk-Han 444",
+      "toc_paragraph_index": 4,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Secret Armor 451",
+      "toc_paragraph_index": 6,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Presence Of Mind 452",
+      "toc_paragraph_index": 7,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Editorial Comment 453",
+      "toc_paragraph_index": 8,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "News Calendar 455",
+      "toc_paragraph_index": 9,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Korean History 465",
+      "toc_paragraph_index": 10,
+      "reason": "missing_same_issue_heading_or_page_witness"
     }
   ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",

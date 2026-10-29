@@ -185,7 +185,134 @@
       "style": ""
     }
   ],
-  "accepted": [],
+  "accepted": [
+    {
+      "title": "The Russo-Japanese War",
+      "year": 1904,
+      "month": 3,
+      "volume": 4,
+      "issue": 3,
+      "printed_page_start": 97,
+      "toc_paragraph_index": 2,
+      "toc_raw": "The Russo-Japanese War.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        10
+      ],
+      "body_heading_raw": "The Russo-Japanese War.",
+      "page_marker_witness": "[page 97]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-03.docx"
+    },
+    {
+      "title": "The Royal Funeral",
+      "year": 1904,
+      "month": 3,
+      "volume": 4,
+      "issue": 3,
+      "printed_page_start": 103,
+      "toc_paragraph_index": 3,
+      "toc_raw": "The Royal Funeral.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        24
+      ],
+      "body_heading_raw": "The Royal Funeral.",
+      "page_marker_witness": "[page 103]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-03.docx"
+    },
+    {
+      "title": "A New Book on Korea",
+      "year": 1904,
+      "month": 3,
+      "volume": 4,
+      "issue": 3,
+      "printed_page_start": 109,
+      "toc_paragraph_index": 4,
+      "toc_raw": "A New Book on Korea.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        42
+      ],
+      "body_heading_raw": "A New Book on Korea.",
+      "page_marker_witness": "[page 109]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-03.docx"
+    },
+    {
+      "title": "A. B. Stripling, Esq",
+      "year": 1904,
+      "month": 3,
+      "volume": 4,
+      "issue": 3,
+      "printed_page_start": 118,
+      "toc_paragraph_index": 5,
+      "toc_raw": "A. B. Stripling, Esq.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        90
+      ],
+      "body_heading_raw": "A. B. Stripling, Esq.",
+      "page_marker_witness": "[page 118]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-03.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 3,
+      "volume": 4,
+      "issue": 3,
+      "printed_page_start": 120,
+      "toc_paragraph_index": 6,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        100
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 120]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-03.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1904,
+      "month": 3,
+      "volume": 4,
+      "issue": 3,
+      "printed_page_start": 129,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Korean History.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        178
+      ],
+      "body_heading_raw": "Korean History.",
+      "page_marker_witness": "[page 129]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-03.docx"
+    },
+    {
+      "title": "Supplement to The Korea Review",
+      "year": 1904,
+      "month": 3,
+      "volume": 4,
+      "issue": 3,
+      "printed_page_start": 144,
+      "toc_paragraph_index": 8,
+      "toc_raw": "Supplement to The Korea Review",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        219
+      ],
+      "body_heading_raw": "Supplement to The Korea Review",
+      "page_marker_witness": "[page 144]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-03.docx"
+    }
+  ],
   "rejected_toc_title_candidates": [],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"

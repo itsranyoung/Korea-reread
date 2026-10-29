@@ -185,21 +185,135 @@
       "style": ""
     }
   ],
-  "accepted": [],
-  "rejected_toc_title_candidates": [
+  "accepted": [
     {
-      "title": "Impronte di Bellezza. Erzerum, Acquerelli Umbri, Tlemsen, by A. Monaco, Rome, 1904; pp",
+      "title": "The Fusion of Korean Society",
+      "year": 1904,
+      "month": 8,
+      "volume": 4,
+      "issue": 8,
+      "printed_page_start": 339,
+      "toc_paragraph_index": 2,
+      "toc_raw": "The Fusion of Korean Society.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        10
+      ],
+      "body_heading_raw": "The Fusion of Korean Society.",
+      "page_marker_witness": "[page 339]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-08.docx"
+    },
+    {
+      "title": "The Fallow Lands",
+      "year": 1904,
+      "month": 8,
+      "volume": 4,
+      "issue": 8,
+      "printed_page_start": 344,
+      "toc_paragraph_index": 3,
+      "toc_raw": "The Fallow Lands.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        18
+      ],
+      "body_heading_raw": "The Fallow Lands.",
+      "page_marker_witness": "[page 344]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-08.docx"
+    },
+    {
+      "title": "What Korea Owes to Japan",
+      "year": 1904,
+      "month": 8,
+      "volume": 4,
+      "issue": 8,
+      "printed_page_start": 350,
+      "toc_paragraph_index": 4,
+      "toc_raw": "What Korea Owes to Japan.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        27
+      ],
+      "body_heading_raw": "What Korea Owes to Japan.",
+      "page_marker_witness": "[page 350]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-08.docx"
+    },
+    {
+      "title": "Review",
+      "year": 1904,
+      "month": 8,
+      "volume": 4,
+      "issue": 8,
+      "printed_page_start": 357,
+      "toc_paragraph_index": 5,
+      "toc_raw": "Review",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        41
+      ],
+      "body_heading_raw": "Review",
+      "page_marker_witness": "[page 357]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-08.docx"
+    },
+    {
+      "title": "Editorial Comment",
       "year": 1904,
       "month": 8,
       "volume": 4,
       "issue": 8,
       "printed_page_start": 360,
-      "toc_paragraph_index": 49,
-      "toc_raw": "Impronte di Bellezza. Erzerum, Acquerelli Umbri, Tlemsen, by A. Monaco, Rome, 1904; pp 360.",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "toc_paragraph_index": 6,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        51
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 360]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-08.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 8,
+      "volume": 4,
+      "issue": 8,
+      "printed_page_start": 362,
+      "toc_paragraph_index": 7,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        56
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 362]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-08.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1904,
+      "month": 8,
+      "volume": 4,
+      "issue": 8,
+      "printed_page_start": 369,
+      "toc_paragraph_index": 8,
+      "toc_raw": "Korean History.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        129
+      ],
+      "body_heading_raw": "Korean History.",
+      "page_marker_witness": "[page 369]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-08.docx"
     }
   ],
+  "rejected_toc_title_candidates": [],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

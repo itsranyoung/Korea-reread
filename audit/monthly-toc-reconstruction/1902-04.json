@@ -185,8 +185,236 @@
       "style": ""
     }
   ],
-  "accepted": [],
-  "rejected_toc_title_candidates": [],
+  "accepted": [
+    {
+      "title": "Slavery in Korea",
+      "year": 1902,
+      "month": 4,
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 149,
+      "toc_paragraph_index": 3,
+      "toc_raw": "Slavery in Korea.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        39
+      ],
+      "body_heading_raw": "Slavery in Korea.",
+      "page_marker_witness": "[page 149]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx"
+    },
+    {
+      "title": "The Status of Woman",
+      "year": 1902,
+      "month": 4,
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 155,
+      "toc_paragraph_index": 4,
+      "toc_raw": "The Status of Woman.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        59
+      ],
+      "body_heading_raw": "The Status of Woman.",
+      "page_marker_witness": "[page 155]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx"
+    },
+    {
+      "title": "Reviews",
+      "year": 1902,
+      "month": 4,
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 159,
+      "toc_paragraph_index": 5,
+      "toc_raw": "Reviews.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        73
+      ],
+      "body_heading_raw": "Reviews.",
+      "page_marker_witness": "[page 159]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx"
+    },
+    {
+      "title": "Where the Indian came from",
+      "year": 1902,
+      "month": 4,
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 159,
+      "toc_paragraph_index": 6,
+      "toc_raw": "Where the Indian came from",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        74
+      ],
+      "body_heading_raw": "Where the Indian came from",
+      "page_marker_witness": "[page 159]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx"
+    },
+    {
+      "title": "Korea a la globetrotter",
+      "year": 1902,
+      "month": 4,
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 161,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Korea a la globetrotter",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        83
+      ],
+      "body_heading_raw": "Korea a la globetrotter",
+      "page_marker_witness": "[page 161]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx"
+    },
+    {
+      "title": "Electric Shocks",
+      "year": 1902,
+      "month": 4,
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 164,
+      "toc_paragraph_index": 8,
+      "toc_raw": "Electric Shocks",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        88
+      ],
+      "body_heading_raw": "Electric Shocks",
+      "page_marker_witness": "[page 164]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx"
+    },
+    {
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 4,
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 164,
+      "toc_paragraph_index": 9,
+      "toc_raw": "Odds and Ends.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        90
+      ],
+      "body_heading_raw": "Odds and Ends.",
+      "page_marker_witness": "[page 164]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx"
+    },
+    {
+      "title": "How Bribery Began",
+      "year": 1902,
+      "month": 4,
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 164,
+      "toc_paragraph_index": 10,
+      "toc_raw": "How Bribery Began.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        91
+      ],
+      "body_heading_raw": "How Bribery Began.",
+      "page_marker_witness": "[page 164]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx"
+    },
+    {
+      "title": "A Korean Canute",
+      "year": 1902,
+      "month": 4,
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 165,
+      "toc_paragraph_index": 11,
+      "toc_raw": "A Korean Canute",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        93
+      ],
+      "body_heading_raw": "A Korean Canute",
+      "page_marker_witness": "[page 165]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1902,
+      "month": 4,
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 166,
+      "toc_paragraph_index": 12,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        99
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 166]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1902,
+      "month": 4,
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 169,
+      "toc_paragraph_index": 13,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        106
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 169]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1902,
+      "month": 4,
+      "volume": 2,
+      "issue": 4,
+      "printed_page_start": 177,
+      "toc_paragraph_index": 14,
+      "toc_raw": "Korean History",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        173
+      ],
+      "body_heading_raw": "Korean History",
+      "page_marker_witness": "[page 177]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx"
+    }
+  ],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "A Submarine Adventure",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "A Submarine Adventure",
+      "toc_paragraph_index": 15,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

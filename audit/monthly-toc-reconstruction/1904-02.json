@@ -185,8 +185,128 @@
       "style": ""
     }
   ],
-  "accepted": [],
-  "rejected_toc_title_candidates": [],
+  "accepted": [
+    {
+      "title": "The Method",
+      "year": 1904,
+      "month": 2,
+      "volume": 4,
+      "issue": 2,
+      "printed_page_start": 51,
+      "toc_paragraph_index": 3,
+      "toc_raw": "The Method",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        14
+      ],
+      "body_heading_raw": "The Method",
+      "page_marker_witness": "[page 51]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-02.docx"
+    },
+    {
+      "title": "The Battle of Chemulpo",
+      "year": 1904,
+      "month": 2,
+      "volume": 4,
+      "issue": 2,
+      "printed_page_start": 52,
+      "toc_paragraph_index": 4,
+      "toc_raw": "The Battle of Chemulpo.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        17
+      ],
+      "body_heading_raw": "The Battle of Chemulpo.",
+      "page_marker_witness": "[page 52]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-02.docx"
+    },
+    {
+      "title": "The Ajun",
+      "year": 1904,
+      "month": 2,
+      "volume": 4,
+      "issue": 2,
+      "printed_page_start": 63,
+      "toc_paragraph_index": 5,
+      "toc_raw": "The Ajun.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        31
+      ],
+      "body_heading_raw": "The Ajun.",
+      "page_marker_witness": "[page 63]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-02.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1904,
+      "month": 2,
+      "volume": 4,
+      "issue": 2,
+      "printed_page_start": 70,
+      "toc_paragraph_index": 6,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        40
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 70]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-02.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 2,
+      "volume": 4,
+      "issue": 2,
+      "printed_page_start": 77,
+      "toc_paragraph_index": 7,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        53
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 77]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-02.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1904,
+      "month": 2,
+      "volume": 4,
+      "issue": 2,
+      "printed_page_start": 81,
+      "toc_paragraph_index": 8,
+      "toc_raw": "Korean History.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        119
+      ],
+      "body_heading_raw": "Korean History.",
+      "page_marker_witness": "[page 81]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-02.docx"
+    }
+  ],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "The Russo-Japanese War",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Russo-Japanese War",
+      "toc_paragraph_index": 9,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

@@ -185,7 +185,152 @@
       "style": ""
     }
   ],
-  "accepted": [],
+  "accepted": [
+    {
+      "title": "Japanese Industrial Projects in Korea",
+      "year": 1904,
+      "month": 7,
+      "volume": 4,
+      "issue": 7,
+      "printed_page_start": 289,
+      "toc_paragraph_index": 2,
+      "toc_raw": "Japanese Industrial Projects in Korea.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        11
+      ],
+      "body_heading_raw": "Japanese Industrial Projects in Korea.",
+      "page_marker_witness": "[page 289]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-07.docx"
+    },
+    {
+      "title": "Meum et Tuum",
+      "year": 1904,
+      "month": 7,
+      "volume": 4,
+      "issue": 7,
+      "printed_page_start": 298,
+      "toc_paragraph_index": 3,
+      "toc_raw": "Meum et Tuum.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        29
+      ],
+      "body_heading_raw": "Meum et Tuum.",
+      "page_marker_witness": "[page 298]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-07.docx"
+    },
+    {
+      "title": "The Russo-Japanese War",
+      "year": 1904,
+      "month": 7,
+      "volume": 4,
+      "issue": 7,
+      "printed_page_start": 302,
+      "toc_paragraph_index": 4,
+      "toc_raw": "The Russo-Japanese War.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        53
+      ],
+      "body_heading_raw": "The Russo-Japanese War.",
+      "page_marker_witness": "[page 302]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-07.docx"
+    },
+    {
+      "title": "Odds and Ends",
+      "year": 1904,
+      "month": 7,
+      "volume": 4,
+      "issue": 7,
+      "printed_page_start": 305,
+      "toc_paragraph_index": 5,
+      "toc_raw": "Odds and Ends.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        62
+      ],
+      "body_heading_raw": "Odds and Ends.",
+      "page_marker_witness": "[page 305]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-07.docx"
+    },
+    {
+      "title": "The Ten Thousand Year Bridge",
+      "year": 1904,
+      "month": 7,
+      "volume": 4,
+      "issue": 7,
+      "printed_page_start": 305,
+      "toc_paragraph_index": 6,
+      "toc_raw": "The Ten Thousand Year Bridge",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        63
+      ],
+      "body_heading_raw": "The Ten Thousand Year Bridge",
+      "page_marker_witness": "[page 305]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-07.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1904,
+      "month": 7,
+      "volume": 4,
+      "issue": 7,
+      "printed_page_start": 306,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        65
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 306]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-07.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 7,
+      "volume": 4,
+      "issue": 7,
+      "printed_page_start": 312,
+      "toc_paragraph_index": 8,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        74
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 312]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-07.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1904,
+      "month": 7,
+      "volume": 4,
+      "issue": 7,
+      "printed_page_start": 321,
+      "toc_paragraph_index": 9,
+      "toc_raw": "Korean History.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        141
+      ],
+      "body_heading_raw": "Korean History.",
+      "page_marker_witness": "[page 321]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-07.docx"
+    }
+  ],
   "rejected_toc_title_candidates": [],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"

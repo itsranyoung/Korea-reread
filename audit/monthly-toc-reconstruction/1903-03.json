@@ -185,91 +185,101 @@
       "style": ""
     }
   ],
-  "accepted": [],
-  "rejected_toc_title_candidates": [
+  "accepted": [
     {
-      "title": "From Fusan to Wonsan",
-      "year": 1903,
-      "month": 3,
-      "volume": 3,
-      "issue": 3,
-      "printed_page_start": 101,
-      "toc_paragraph_index": 3,
-      "toc_raw": "From Fusan to Wonsan 101",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
-    },
-    {
-      "title": "The Heavenly Pig",
+      "title": "Odds And Ends",
       "year": 1903,
       "month": 3,
       "volume": 3,
       "issue": 3,
       "printed_page_start": 110,
+      "toc_paragraph_index": 5,
+      "toc_raw": "Odds And Ends",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        72
+      ],
+      "body_heading_raw": "Odds and Ends.",
+      "page_marker_witness": "[page 110]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-03.docx"
+    }
+  ],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "The Test of Friendship.97",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "From Fusan to Wonsan 101",
+      "toc_paragraph_index": 3,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Bridges and Wells of Seoul104",
+      "toc_paragraph_index": 4,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Heavenly Pig 110",
       "toc_paragraph_index": 6,
-      "toc_raw": "The Heavenly Pig 110",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "reason": "missing_same_issue_heading_or_page_witness"
     },
     {
-      "title": "Vaccination",
-      "year": 1903,
-      "month": 3,
-      "volume": 3,
-      "issue": 3,
-      "printed_page_start": 111,
+      "title_candidate": "Vaccination 111",
       "toc_paragraph_index": 7,
-      "toc_raw": "Vaccination 111",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "reason": "missing_same_issue_heading_or_page_witness"
     },
     {
-      "title": "A Hungry Spirit",
-      "year": 1903,
-      "month": 3,
-      "volume": 3,
-      "issue": 3,
-      "printed_page_start": 111,
+      "title_candidate": "A Hungry Spirit 111",
       "toc_paragraph_index": 8,
-      "toc_raw": "A Hungry Spirit 111",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "reason": "missing_same_issue_heading_or_page_witness"
     },
     {
-      "title": "Milk Supply",
-      "year": 1903,
-      "month": 3,
-      "volume": 3,
-      "issue": 3,
-      "printed_page_start": 112,
+      "title_candidate": "Milk Supply 112",
       "toc_paragraph_index": 9,
-      "toc_raw": "Milk Supply 112",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "reason": "missing_same_issue_heading_or_page_witness"
     },
     {
-      "title": "Mr. Three Questions",
-      "year": 1903,
-      "month": 3,
-      "volume": 3,
-      "issue": 3,
-      "printed_page_start": 113,
+      "title_candidate": "A Buddhist Relic112",
+      "toc_paragraph_index": 10,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Mr. Three Questions 113",
       "toc_paragraph_index": 11,
-      "toc_raw": "Mr. Three Questions 113",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "reason": "missing_same_issue_heading_or_page_witness"
     },
     {
-      "title": "The Tell-Tale Grain",
-      "year": 1903,
-      "month": 3,
-      "volume": 3,
-      "issue": 3,
-      "printed_page_start": 113,
+      "title_candidate": "The Tell-Tale Grain 113",
       "toc_paragraph_index": 12,
-      "toc_raw": "The Tell-Tale Grain 113",
-      "page_evidence_method": "inline_toc_page",
-      "body_heading_paragraph_indices": []
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Question and Answer114",
+      "toc_paragraph_index": 13,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Editorial Comment115",
+      "toc_paragraph_index": 14,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "News Calendar121",
+      "toc_paragraph_index": 15,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "Korean History129",
+      "toc_paragraph_index": 16,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Test of Friendship",
+      "toc_paragraph_index": 17,
+      "reason": "missing_same_issue_heading_or_page_witness"
     }
   ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",

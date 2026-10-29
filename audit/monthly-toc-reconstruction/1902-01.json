@@ -185,8 +185,313 @@
       "style": ""
     }
   ],
-  "accepted": [],
-  "rejected_toc_title_candidates": [],
+  "accepted": [
+    {
+      "title": "A Beggar’s Wages",
+      "year": 1902,
+      "month": 1,
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 8,
+      "toc_paragraph_index": 3,
+      "toc_raw": "A Beggar’s Wages.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        49
+      ],
+      "body_heading_raw": "A Beggar’s Wages.",
+      "page_marker_witness": "[page 8]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx"
+    },
+    {
+      "title": "Notes on Southern Korea",
+      "year": 1902,
+      "month": 1,
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 13,
+      "toc_paragraph_index": 4,
+      "toc_raw": "Notes on Southern Korea.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        67
+      ],
+      "body_heading_raw": "Notes on Southern Korea.",
+      "page_marker_witness": "[page 13]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx"
+    },
+    {
+      "title": "Ma-han",
+      "year": 1902,
+      "month": 1,
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 13,
+      "toc_paragraph_index": 5,
+      "toc_raw": "Ma-han",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        68
+      ],
+      "body_heading_raw": "Ma-han",
+      "page_marker_witness": "[page 13]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx"
+    },
+    {
+      "title": "Chin-han",
+      "year": 1902,
+      "month": 1,
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 14,
+      "toc_paragraph_index": 6,
+      "toc_raw": "Chin-han.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        75
+      ],
+      "body_heading_raw": "Chin-han.",
+      "page_marker_witness": "[page 14]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx"
+    },
+    {
+      "title": "Pyön-han",
+      "year": 1902,
+      "month": 1,
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 17,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Pyön-han.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        81
+      ],
+      "body_heading_raw": "Pyön-han.",
+      "page_marker_witness": "[page 17]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx"
+    },
+    {
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 1,
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 17,
+      "toc_paragraph_index": 8,
+      "toc_raw": "Odds and Ends.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        83
+      ],
+      "body_heading_raw": "Odds and Ends.",
+      "page_marker_witness": "[page 17]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx"
+    },
+    {
+      "title": "A Cuttle-fish story",
+      "year": 1902,
+      "month": 1,
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 17,
+      "toc_paragraph_index": 9,
+      "toc_raw": "A Cuttle-fish story.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        84
+      ],
+      "body_heading_raw": "A Cuttle-fish story.",
+      "page_marker_witness": "[page 17]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx"
+    },
+    {
+      "title": "The Hanging Stone",
+      "year": 1902,
+      "month": 1,
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 18,
+      "toc_paragraph_index": 10,
+      "toc_raw": "The Hanging Stone",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        86
+      ],
+      "body_heading_raw": "The Hanging Stone",
+      "page_marker_witness": "[page 18]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx"
+    },
+    {
+      "title": "Good Old Age",
+      "year": 1902,
+      "month": 1,
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 18,
+      "toc_paragraph_index": 11,
+      "toc_raw": "Good Old Age",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        88
+      ],
+      "body_heading_raw": "Good Old Age",
+      "page_marker_witness": "[page 18]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx"
+    },
+    {
+      "title": "A Hunter’s Mistake",
+      "year": 1902,
+      "month": 1,
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 19,
+      "toc_paragraph_index": 12,
+      "toc_raw": "A Hunter’s Mistake",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        90
+      ],
+      "body_heading_raw": "A Hunter’s Mistake",
+      "page_marker_witness": "[page 19]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx"
+    },
+    {
+      "title": "The Donkey Maker",
+      "year": 1902,
+      "month": 1,
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 20,
+      "toc_paragraph_index": 13,
+      "toc_raw": "The Donkey Maker",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        92
+      ],
+      "body_heading_raw": "The Donkey Maker",
+      "page_marker_witness": "[page 20]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx"
+    },
+    {
+      "title": "Question and Answer",
+      "year": 1902,
+      "month": 1,
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 21,
+      "toc_paragraph_index": 14,
+      "toc_raw": "Question and Answer.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        95
+      ],
+      "body_heading_raw": "Question and Answer.",
+      "page_marker_witness": "[page 21]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1902,
+      "month": 1,
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 23,
+      "toc_paragraph_index": 15,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        104
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 23]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx"
+    },
+    {
+      "title": "Correspondence",
+      "year": 1902,
+      "month": 1,
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 24,
+      "toc_paragraph_index": 16,
+      "toc_raw": "Correspondence.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        106
+      ],
+      "body_heading_raw": "Correspondence.",
+      "page_marker_witness": "[page 24]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1902,
+      "month": 1,
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 25,
+      "toc_paragraph_index": 17,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        115
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 25]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1902,
+      "month": 1,
+      "volume": 2,
+      "issue": 1,
+      "printed_page_start": 33,
+      "toc_paragraph_index": 18,
+      "toc_raw": "Korean History.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        186
+      ],
+      "body_heading_raw": "Korean History.",
+      "page_marker_witness": "[page 33]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx"
+    }
+  ],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "The Status of Woman in Korea",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Status of Woman in Korea",
+      "toc_paragraph_index": 19,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "(Second Paper.)",
+      "toc_paragraph_index": 20,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

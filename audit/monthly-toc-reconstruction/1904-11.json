@@ -185,7 +185,242 @@
       "style": ""
     }
   ],
-  "accepted": [],
+  "accepted": [
+    {
+      "title": "The Educational Needs of Korea",
+      "year": 1904,
+      "month": 11,
+      "volume": 4,
+      "issue": 11,
+      "printed_page_start": 481,
+      "toc_paragraph_index": 2,
+      "toc_raw": "The Educational Needs of Korea.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        16
+      ],
+      "body_heading_raw": "The Educational Needs of Korea.",
+      "page_marker_witness": "[page 481]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-11.docx"
+    },
+    {
+      "title": "The Severance Hospital",
+      "year": 1904,
+      "month": 11,
+      "volume": 4,
+      "issue": 11,
+      "printed_page_start": 486,
+      "toc_paragraph_index": 3,
+      "toc_raw": "The Severance Hospital.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        25
+      ],
+      "body_heading_raw": "The Severance Hospital.",
+      "page_marker_witness": "[page 486]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-11.docx"
+    },
+    {
+      "title": "Opening of the Severance Memorial Hospital",
+      "year": 1904,
+      "month": 11,
+      "volume": 4,
+      "issue": 11,
+      "printed_page_start": 494,
+      "toc_paragraph_index": 4,
+      "toc_raw": "Opening of the Severance Memorial Hospital.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        66
+      ],
+      "body_heading_raw": "Opening of the Severance Memorial Hospital.",
+      "page_marker_witness": "[page 494]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-11.docx"
+    },
+    {
+      "title": "The New Hospital",
+      "year": 1904,
+      "month": 11,
+      "volume": 4,
+      "issue": 11,
+      "printed_page_start": 496,
+      "toc_paragraph_index": 5,
+      "toc_raw": "The New Hospital",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        77
+      ],
+      "body_heading_raw": "The New Hospital",
+      "page_marker_witness": "[page 496]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-11.docx"
+    },
+    {
+      "title": "The Ghost of a Ghost",
+      "year": 1904,
+      "month": 11,
+      "volume": 4,
+      "issue": 11,
+      "printed_page_start": 499,
+      "toc_paragraph_index": 6,
+      "toc_raw": "The Ghost of a Ghost.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        86
+      ],
+      "body_heading_raw": "The Ghost of a Ghost.",
+      "page_marker_witness": "[page 499]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-11.docx"
+    },
+    {
+      "title": "Corea: The Hermit Nation",
+      "year": 1904,
+      "month": 11,
+      "volume": 4,
+      "issue": 11,
+      "printed_page_start": 502,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Corea: The Hermit Nation.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        105
+      ],
+      "body_heading_raw": "Corea: The Hermit Nation.",
+      "page_marker_witness": "[page 502]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-11.docx"
+    },
+    {
+      "title": "Review",
+      "year": 1904,
+      "month": 11,
+      "volume": 4,
+      "issue": 11,
+      "printed_page_start": 504,
+      "toc_paragraph_index": 8,
+      "toc_raw": "Review.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        115
+      ],
+      "body_heading_raw": "Review.",
+      "page_marker_witness": "[page 504]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-11.docx"
+    },
+    {
+      "title": "Corea e Coreani",
+      "year": 1904,
+      "month": 11,
+      "volume": 4,
+      "issue": 11,
+      "printed_page_start": 504,
+      "toc_paragraph_index": 9,
+      "toc_raw": "Corea e Coreani",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        116
+      ],
+      "body_heading_raw": "Corea e Coreani",
+      "page_marker_witness": "[page 504]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-11.docx"
+    },
+    {
+      "title": "A New Book on Japan",
+      "year": 1904,
+      "month": 11,
+      "volume": 4,
+      "issue": 11,
+      "printed_page_start": 505,
+      "toc_paragraph_index": 10,
+      "toc_raw": "A New Book on Japan",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        120
+      ],
+      "body_heading_raw": "A New Book on Japan",
+      "page_marker_witness": "[page 505]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-11.docx"
+    },
+    {
+      "title": "Mr. Kennan on Seoul",
+      "year": 1904,
+      "month": 11,
+      "volume": 4,
+      "issue": 11,
+      "printed_page_start": 505,
+      "toc_paragraph_index": 11,
+      "toc_raw": "Mr. Kennan on Seoul.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        122
+      ],
+      "body_heading_raw": "Mr. Kennan on Seoul.",
+      "page_marker_witness": "[page 505]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-11.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1904,
+      "month": 11,
+      "volume": 4,
+      "issue": 11,
+      "printed_page_start": 508,
+      "toc_paragraph_index": 12,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        130
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 508]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-11.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 11,
+      "volume": 4,
+      "issue": 11,
+      "printed_page_start": 510,
+      "toc_paragraph_index": 13,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        138
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 510]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-11.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1904,
+      "month": 11,
+      "volume": 4,
+      "issue": 11,
+      "printed_page_start": 513,
+      "toc_paragraph_index": 14,
+      "toc_raw": "Korean History.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        154
+      ],
+      "body_heading_raw": "Korean History.",
+      "page_marker_witness": "[page 513]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-11.docx"
+    }
+  ],
   "rejected_toc_title_candidates": [],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"

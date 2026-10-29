@@ -185,7 +185,170 @@
       "style": ""
     }
   ],
-  "accepted": [],
+  "accepted": [
+    {
+      "title": "Koreans in Manchuria",
+      "year": 1904,
+      "month": 10,
+      "volume": 4,
+      "issue": 10,
+      "printed_page_start": 433,
+      "toc_paragraph_index": 2,
+      "toc_raw": "Koreans in Manchuria.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        12
+      ],
+      "body_heading_raw": "Koreans in Manchuria.",
+      "page_marker_witness": "[page 433]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-10.docx"
+    },
+    {
+      "title": "Russians in Northeast Korea",
+      "year": 1904,
+      "month": 10,
+      "volume": 4,
+      "issue": 10,
+      "printed_page_start": 438,
+      "toc_paragraph_index": 3,
+      "toc_raw": "Russians in Northeast Korea.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        24
+      ],
+      "body_heading_raw": "Russians in Northeast Korea.",
+      "page_marker_witness": "[page 438]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-10.docx"
+    },
+    {
+      "title": "The Reform Spelling",
+      "year": 1904,
+      "month": 10,
+      "volume": 4,
+      "issue": 10,
+      "printed_page_start": 440,
+      "toc_paragraph_index": 4,
+      "toc_raw": "The Reform Spelling.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        31
+      ],
+      "body_heading_raw": "The Reform Spelling.",
+      "page_marker_witness": "[page 440]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-10.docx"
+    },
+    {
+      "title": "The Educational Needs of Korea",
+      "year": 1904,
+      "month": 10,
+      "volume": 4,
+      "issue": 10,
+      "printed_page_start": 443,
+      "toc_paragraph_index": 5,
+      "toc_raw": "The Educational Needs of Korea",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        50
+      ],
+      "body_heading_raw": "The Educational Needs of Korea",
+      "page_marker_witness": "[page 443]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-10.docx"
+    },
+    {
+      "title": "The Foreign Cemetery",
+      "year": 1904,
+      "month": 10,
+      "volume": 4,
+      "issue": 10,
+      "printed_page_start": 452,
+      "toc_paragraph_index": 6,
+      "toc_raw": "The Foreign Cemetery.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        74
+      ],
+      "body_heading_raw": "The Foreign Cemetery.",
+      "page_marker_witness": "[page 452]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-10.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1904,
+      "month": 10,
+      "volume": 4,
+      "issue": 10,
+      "printed_page_start": 456,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        86
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 456]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-10.docx"
+    },
+    {
+      "title": "Ladies’ Days",
+      "year": 1904,
+      "month": 10,
+      "volume": 4,
+      "issue": 10,
+      "printed_page_start": 461,
+      "toc_paragraph_index": 8,
+      "toc_raw": "Ladies’ Days.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        104
+      ],
+      "body_heading_raw": "Ladies’ Days.",
+      "page_marker_witness": "[page 461]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-10.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 10,
+      "volume": 4,
+      "issue": 10,
+      "printed_page_start": 462,
+      "toc_paragraph_index": 9,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        107
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 462]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-10.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1904,
+      "month": 10,
+      "volume": 4,
+      "issue": 10,
+      "printed_page_start": 465,
+      "toc_paragraph_index": 10,
+      "toc_raw": "Korean History.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        126
+      ],
+      "body_heading_raw": "Korean History.",
+      "page_marker_witness": "[page 465]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-10.docx"
+    }
+  ],
   "rejected_toc_title_candidates": [],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"

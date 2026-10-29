@@ -185,8 +185,444 @@
       "style": ""
     }
   ],
-  "accepted": [],
-  "rejected_toc_title_candidates": [],
+  "accepted": [
+    {
+      "title": "The twin Jade Flutes",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 386,
+      "toc_paragraph_index": 4,
+      "toc_raw": "The twin Jade Flutes",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        32
+      ],
+      "body_heading_raw": "The twin Jade Flutes",
+      "page_marker_witness": "[page 386]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "The Great Bell",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 387,
+      "toc_paragraph_index": 5,
+      "toc_raw": "The Great Bell.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        35
+      ],
+      "body_heading_raw": "The Great Bell.",
+      "page_marker_witness": "[page 387]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "The Jade Belt",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 387,
+      "toc_paragraph_index": 6,
+      "toc_raw": "The Jade Belt",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        37
+      ],
+      "body_heading_raw": "The Jade Belt",
+      "page_marker_witness": "[page 387]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "The Golden Buddha",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 388,
+      "toc_paragraph_index": 7,
+      "toc_raw": "The Golden Buddha",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        39
+      ],
+      "body_heading_raw": "The Golden Buddha",
+      "page_marker_witness": "[page 388]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "The Nine-story Pagoda",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 388,
+      "toc_paragraph_index": 8,
+      "toc_raw": "The Nine-story Pagoda",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        41
+      ],
+      "body_heading_raw": "The Nine-story Pagoda",
+      "page_marker_witness": "[page 388]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "Korean Currency",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 389,
+      "toc_paragraph_index": 9,
+      "toc_raw": "Korean Currency.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        45
+      ],
+      "body_heading_raw": "Korean Currency.",
+      "page_marker_witness": "[page 389]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "The Products of Korea",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 393,
+      "toc_paragraph_index": 10,
+      "toc_raw": "The Products of Korea.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        55
+      ],
+      "body_heading_raw": "The Products of Korea.",
+      "page_marker_witness": "[page 393]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "Chestnuts",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 393,
+      "toc_paragraph_index": 11,
+      "toc_raw": "Chestnuts",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        56
+      ],
+      "body_heading_raw": "Chestnuts",
+      "page_marker_witness": "[page 393]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "Walnuts",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 393,
+      "toc_paragraph_index": 12,
+      "toc_raw": "Walnuts.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        59
+      ],
+      "body_heading_raw": "Walnuts.",
+      "page_marker_witness": "[page 393]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "Jujubes",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 394,
+      "toc_paragraph_index": 13,
+      "toc_raw": "Jujubes",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        61
+      ],
+      "body_heading_raw": "Jujubes",
+      "page_marker_witness": "[page 394]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "Ginko",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 395,
+      "toc_paragraph_index": 14,
+      "toc_raw": "Ginko",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        63
+      ],
+      "body_heading_raw": "Ginko",
+      "page_marker_witness": "[page 395]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "Hazel nut",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 395,
+      "toc_paragraph_index": 15,
+      "toc_raw": "Hazel nut.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        65
+      ],
+      "body_heading_raw": "Hazel nut.",
+      "page_marker_witness": "[page 395]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "Pine nuts",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 396,
+      "toc_paragraph_index": 16,
+      "toc_raw": "Pine nuts",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        67
+      ],
+      "body_heading_raw": "Pine nuts",
+      "page_marker_witness": "[page 396]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "The Korean Telegraph and Postal Services",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 396,
+      "toc_paragraph_index": 17,
+      "toc_raw": "The Korean Telegraph and Postal Services.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        69
+      ],
+      "body_heading_raw": "The Korean Telegraph and Postal Services.",
+      "page_marker_witness": "[page 396]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "The Telegraph Service",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 397,
+      "toc_paragraph_index": 18,
+      "toc_raw": "The Telegraph Service.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        71
+      ],
+      "body_heading_raw": "The Telegraph Service.",
+      "page_marker_witness": "[page 397]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "The Postal Service",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 398,
+      "toc_paragraph_index": 19,
+      "toc_raw": "The Postal Service.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        78
+      ],
+      "body_heading_raw": "The Postal Service.",
+      "page_marker_witness": "[page 398]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 401,
+      "toc_paragraph_index": 20,
+      "toc_raw": "Odds and Ends.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        93
+      ],
+      "body_heading_raw": "Odds and Ends.",
+      "page_marker_witness": "[page 401]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "Cats and the Dead",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 401,
+      "toc_paragraph_index": 21,
+      "toc_raw": "Cats and the Dead",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        94
+      ],
+      "body_heading_raw": "Cats and the Dead",
+      "page_marker_witness": "[page 401]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "Crow-talk",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 403,
+      "toc_paragraph_index": 22,
+      "toc_raw": "Crow-talk.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        105
+      ],
+      "body_heading_raw": "Crow-talk.",
+      "page_marker_witness": "[page 403]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "A Convert to Buddhism",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 404,
+      "toc_paragraph_index": 23,
+      "toc_raw": "A Convert to Buddhism",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        114
+      ],
+      "body_heading_raw": "A Convert to Buddhism",
+      "page_marker_witness": "[page 404]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 406,
+      "toc_paragraph_index": 24,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        128
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 406]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 409,
+      "toc_paragraph_index": 25,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        136
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 409]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1902,
+      "month": 9,
+      "volume": 2,
+      "issue": 9,
+      "printed_page_start": 417,
+      "toc_paragraph_index": 26,
+      "toc_raw": "Korean History.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        197
+      ],
+      "body_heading_raw": "Korean History.",
+      "page_marker_witness": "[page 417]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    }
+  ],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "The Treasures of Kyong-ju",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The GoIden Measure",
+      "toc_paragraph_index": 3,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The Treasures of Kyong-ju",
+      "toc_paragraph_index": 27,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "The GoIden Measure",
+      "toc_paragraph_index": 30,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

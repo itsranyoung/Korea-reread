@@ -185,7 +185,170 @@
       "style": ""
     }
   ],
-  "accepted": [],
+  "accepted": [
+    {
+      "title": "Burial Customs",
+      "year": 1902,
+      "month": 6,
+      "volume": 2,
+      "issue": 6,
+      "printed_page_start": 241,
+      "toc_paragraph_index": 2,
+      "toc_raw": "Burial Customs.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        12
+      ],
+      "body_heading_raw": "Burial Customs.",
+      "page_marker_witness": "[page 241]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx"
+    },
+    {
+      "title": "The Wreck of the Kuma-gawa Maru",
+      "year": 1902,
+      "month": 6,
+      "volume": 2,
+      "issue": 6,
+      "printed_page_start": 247,
+      "toc_paragraph_index": 3,
+      "toc_raw": "The Wreck of the Kuma-gawa Maru.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        33
+      ],
+      "body_heading_raw": "The Wreck of the Kuma-gawa Maru.",
+      "page_marker_witness": "[page 247]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx"
+    },
+    {
+      "title": "Japanese Banking in Korea",
+      "year": 1902,
+      "month": 6,
+      "volume": 2,
+      "issue": 6,
+      "printed_page_start": 250,
+      "toc_paragraph_index": 4,
+      "toc_raw": "Japanese Banking in Korea.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        38
+      ],
+      "body_heading_raw": "Japanese Banking in Korea.",
+      "page_marker_witness": "[page 250]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx"
+    },
+    {
+      "title": "Memoir of Rev. Henry G. Appenzeller",
+      "year": 1902,
+      "month": 6,
+      "volume": 2,
+      "issue": 6,
+      "printed_page_start": 254,
+      "toc_paragraph_index": 5,
+      "toc_raw": "Memoir of Rev. Henry G. Appenzeller.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        49
+      ],
+      "body_heading_raw": "Memoir of Rev. Henry G. Appenzeller.",
+      "page_marker_witness": "[page 254]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx"
+    },
+    {
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 6,
+      "volume": 2,
+      "issue": 6,
+      "printed_page_start": 261,
+      "toc_paragraph_index": 6,
+      "toc_raw": "Odds and Ends.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        76
+      ],
+      "body_heading_raw": "Odds and Ends.",
+      "page_marker_witness": "[page 261]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx"
+    },
+    {
+      "title": "A Look Beyond",
+      "year": 1902,
+      "month": 6,
+      "volume": 2,
+      "issue": 6,
+      "printed_page_start": 261,
+      "toc_paragraph_index": 7,
+      "toc_raw": "A Look Beyond",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        77
+      ],
+      "body_heading_raw": "A Look Beyond",
+      "page_marker_witness": "[page 261]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1902,
+      "month": 6,
+      "volume": 2,
+      "issue": 6,
+      "printed_page_start": 261,
+      "toc_paragraph_index": 8,
+      "toc_raw": "Editorial Comment.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        79
+      ],
+      "body_heading_raw": "Editorial Comment.",
+      "page_marker_witness": "[page 261]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1902,
+      "month": 6,
+      "volume": 2,
+      "issue": 6,
+      "printed_page_start": 265,
+      "toc_paragraph_index": 9,
+      "toc_raw": "News Calendar.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        87
+      ],
+      "body_heading_raw": "News Calendar.",
+      "page_marker_witness": "[page 265]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1902,
+      "month": 6,
+      "volume": 2,
+      "issue": 6,
+      "printed_page_start": 273,
+      "toc_paragraph_index": 10,
+      "toc_raw": "Korean History.",
+      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices": [
+        157
+      ],
+      "body_heading_raw": "Korean History.",
+      "page_marker_witness": "[page 273]",
+      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx"
+    }
+  ],
   "rejected_toc_title_candidates": [],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
