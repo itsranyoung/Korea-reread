@@ -71,7 +71,7 @@ def split_month(year,month,selected):
   toc_titles=[]
   limit=min(start,65)
   for k in range(2,limit):
-   t=paras[k]
+   t=pars[k]
    if 5<=len(t)<=120 and re.search("[A-Za-z]",t):
     toc_titles.append(norm(t))
   toc_set=set(toc_titles)
