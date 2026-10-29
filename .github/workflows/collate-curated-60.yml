@@ -1,0 +1,33 @@
+name: Collate 60 curated OCR texts against source issues
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/collate-curated-60.yml'
+permissions:
+  contents: write
+concurrency:
+  group: curated-60-source-collation
+  cancel-in-progress: false
+jobs:
+  collate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Compare 60 selected OCR texts against monthly DOCX originals
+        run: python scripts/collate_curated_60.py
+      - name: Commit the source comparison audit and bounded recovered drafts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audit/curated-60-source-collation.json data/curated-60-ocr-drafts.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Record 60-item source OCR comparison and cautious recovered draft boundaries"
+            git push origin HEAD:main
+          fi
