@@ -40,6 +40,11 @@ def main():
         if optional.is_file():
             json.loads(optional.read_text(encoding="utf-8"))
             copy2(optional, OUT / "data" / name)
+    verified = ROOT / "data" / "public-verified.json"
+    if not verified.is_file():
+        raise FileNotFoundError("Strict public catalog must be generated before deployment")
+    json.loads(verified.read_text(encoding="utf-8"))
+    copy2(verified, OUT / "data" / "public-verified.json")
     # Verify all relative local asset references in the main archive.
     main_html = (OUT / "index.html").read_text(encoding="utf-8")
     for name in DATA:
