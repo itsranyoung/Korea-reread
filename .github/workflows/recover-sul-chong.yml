@@ -1,0 +1,52 @@
+name: Recover Sul-Chong corrected OCR
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/recover-sul-chong.yml'
+permissions:
+  contents: write
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Diagnose source document
+        run: python scripts/diagnose_sul_chong.py
+      - name: Recover article from corrected source
+        run: python scripts/repair_sul_chong.py
+      - name: Validate build and source linkage
+        run: |
+          python scripts/build_static.py
+          python - <<'PY'
+          import json, pathlib
+          root=pathlib.Path('.vercel-output-static/data')
+          for y in range(1901,1907):
+              a=json.loads((root/f'articles-{y}.json').read_text())['records']
+              b=json.loads((root/f'analysis-{y}.json').read_text())['records']
+              assert len(a)==len(b)
+              assert {x['id'] for x in a}=={x['id'] for x in b}
+          r=next(x for x in json.loads((root/'articles-1901.json').read_text())['records'] if x['id']=='kr-1901-011')
+          s=next(x for x in json.loads((root/'analysis-1901.json').read_text())['records'] if x['id']=='kr-1901-011')
+          assert len(r['text'])>10000 and s['summary_ko'] and s['evidence_passages']
+          assert all(p['quote'] in r['text'] for p in s['evidence_passages'])
+          print('57 records, recovered article, sourced evidence verified')
+          PY
+      - name: Commit reviewed source extraction as unreviewed drafts
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/curated-60-ocr-drafts.json data/transcriptions/1901-ocr-drafts.json data/ai-analysis-57-drafts.json audit/sul-chong-source-diagnosis.json
+          git diff --cached --quiet || (git commit -m "Recover Sul-Chong OCR and evidence-grounded Korean draft" && git push)
+      - name: Upload diagnosis even on failure
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sul-chong-diagnosis
+          path: audit/sul-chong-source-diagnosis.json
+          if-no-files-found: ignore
