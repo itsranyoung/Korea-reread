@@ -187,24 +187,6 @@
   ],
   "accepted": [
     {
-      "title": "Retrospect of 1904",
-      "year": 1904,
-      "month": 12,
-      "volume": 4,
-      "issue": 12,
-      "printed_page_start": 529,
-      "toc_paragraph_index": 2,
-      "toc_raw": "Retrospect of 1904.",
-      "page_evidence_method": "preceding_embedded_print_page_marker",
-      "body_heading_paragraph_indices": [
-        11
-      ],
-      "body_heading_raw": "Retrospect of 1904.",
-      "page_marker_witness": "[page 529]",
-      "multiple_body_occurrences": false,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-12.docx"
-    },
-    {
       "title": "The Educational Needs of Korea",
       "year": 1904,
       "month": 12,
@@ -331,7 +313,18 @@
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-12.docx"
     }
   ],
-  "rejected_toc_title_candidates": [],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "Retrospect of 1904",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "[page 529]",
+      "toc_paragraph_index": 10,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

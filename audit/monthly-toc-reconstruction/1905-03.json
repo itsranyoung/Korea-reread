@@ -185,74 +185,69 @@
       "style": ""
     }
   ],
-  "accepted": [],
-  "rejected_toc_title_candidates": [
+  "accepted": [
     {
-      "title_candidate": "VOL. 5. NO. 3. MARCH, 1905",
-      "toc_paragraph_index": 1,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Korean Conundrums 81",
-      "toc_paragraph_index": 3,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "A Korean Mint 87",
-      "toc_paragraph_index": 4,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Rear Admiral Schley on the Little War of 1871 97",
+      "title": "Rear Admiral Schley on the Little War of 1871",
+      "year": 1905,
+      "month": 3,
+      "volume": 5,
+      "issue": 3,
+      "printed_page_start": 97,
       "toc_paragraph_index": 5,
-      "reason": "missing_same_issue_heading_or_page_witness"
+      "toc_raw": "Rear Admiral Schley on the Little War of 1871 97",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        116
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-03.docx"
     },
     {
-      "title_candidate": "Attack on Doctor Forsythe 106",
+      "title": "Attack on Doctor Forsythe",
+      "year": 1905,
+      "month": 3,
+      "volume": 5,
+      "issue": 3,
+      "printed_page_start": 106,
       "toc_paragraph_index": 6,
-      "reason": "missing_same_issue_heading_or_page_witness"
+      "toc_raw": "Attack on Doctor Forsythe 106",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        132
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-03.docx"
     },
     {
-      "title_candidate": "Editorial Comment 110",
+      "title": "Editorial Comment",
+      "year": 1905,
+      "month": 3,
+      "volume": 5,
+      "issue": 3,
+      "printed_page_start": 110,
       "toc_paragraph_index": 7,
-      "reason": "missing_same_issue_heading_or_page_witness"
+      "toc_raw": "Editorial Comment 110",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        143
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-03.docx"
     },
     {
-      "title_candidate": "News Calendar 111",
+      "title": "News Calendar",
+      "year": 1905,
+      "month": 3,
+      "volume": 5,
+      "issue": 3,
+      "printed_page_start": 111,
       "toc_paragraph_index": 8,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Korean Conundrums",
-      "toc_paragraph_index": 9,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "[For the Korean originals see the scanned images]",
-      "toc_paragraph_index": 12,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "What is it that takes on flesh as it grows old? A wall",
-      "toc_paragraph_index": 13,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Korean mud walls are repaired by daubing on another coat of mud, so that they get thicker as they grow older",
-      "toc_paragraph_index": 14,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "What is it that grows teeth as it gets old? A wicker basket",
-      "toc_paragraph_index": 15,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "The edges of the basket get ragged, thus looking like teeth",
-      "toc_paragraph_index": 16,
-      "reason": "missing_same_issue_heading_or_page_witness"
+      "toc_raw": "News Calendar 111",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        148
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-03.docx"
     }
   ],
+  "rejected_toc_title_candidates": [],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

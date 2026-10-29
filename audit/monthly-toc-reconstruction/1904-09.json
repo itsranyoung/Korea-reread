@@ -187,24 +187,6 @@
   ],
   "accepted": [
     {
-      "title": "Spelling Reform",
-      "year": 1904,
-      "month": 9,
-      "volume": 4,
-      "issue": 9,
-      "printed_page_start": 385,
-      "toc_paragraph_index": 2,
-      "toc_raw": "Spelling Reform.",
-      "page_evidence_method": "preceding_embedded_print_page_marker",
-      "body_heading_paragraph_indices": [
-        8
-      ],
-      "body_heading_raw": "Spelling Reform.",
-      "page_marker_witness": "[page 385]",
-      "multiple_body_occurrences": false,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-09.docx"
-    },
-    {
       "title": "Northeast Korea and the War",
       "year": 1904,
       "month": 9,
@@ -277,7 +259,18 @@
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-09.docx"
     }
   ],
-  "rejected_toc_title_candidates": [],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "Spelling Reform",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "[page 385]",
+      "toc_paragraph_index": 7,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

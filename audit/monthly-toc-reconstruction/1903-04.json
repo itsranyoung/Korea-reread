@@ -187,89 +187,63 @@
   ],
   "accepted": [
     {
-      "title": "Odds And Ends",
+      "title": "Review",
       "year": 1903,
       "month": 4,
       "volume": 3,
       "issue": 4,
-      "printed_page_start": 159,
-      "toc_paragraph_index": 5,
-      "toc_raw": "Odds And Ends",
-      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "printed_page_start": 165,
+      "toc_paragraph_index": 10,
+      "toc_raw": "Review 165",
+      "page_evidence_method": "inline_toc_page",
       "body_heading_paragraph_indices": [
-        71
+        95
       ],
-      "body_heading_raw": "Odds and Ends.",
-      "page_marker_witness": "[page 159]",
-      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-04.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1903,
+      "month": 4,
+      "volume": 3,
+      "issue": 4,
+      "printed_page_start": 167,
+      "toc_paragraph_index": 12,
+      "toc_raw": "News Calendar 167",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        109
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-04.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1903,
+      "month": 4,
+      "volume": 3,
+      "issue": 4,
+      "printed_page_start": 177,
+      "toc_paragraph_index": 13,
+      "toc_raw": "Korean History 177",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        269
+      ],
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-04.docx"
     }
   ],
   "rejected_toc_title_candidates": [
     {
-      "title_candidate": "The Korea Mudang and Pansu 145",
+      "title": "The Korea Mudang and Pansu",
+      "year": 1903,
+      "month": 4,
+      "volume": 3,
+      "issue": 4,
+      "printed_page_start": 145,
       "toc_paragraph_index": 2,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "How Chin Out-Witted the Devils149",
-      "toc_paragraph_index": 3,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "The Hun-Min Chong-Eum154",
-      "toc_paragraph_index": 4,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "The Tug of War159",
-      "toc_paragraph_index": 6,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Disarmament160",
-      "toc_paragraph_index": 7,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Question and Answer160",
-      "toc_paragraph_index": 8,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Editorial Comment163",
-      "toc_paragraph_index": 9,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Review 165",
-      "toc_paragraph_index": 10,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Note 166",
-      "toc_paragraph_index": 11,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "News Calendar 167",
-      "toc_paragraph_index": 12,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Korean History 177",
-      "toc_paragraph_index": 13,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "The Korean Mudang and P’ansu",
-      "toc_paragraph_index": 14,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "First Paper",
-      "toc_paragraph_index": 15,
-      "reason": "missing_same_issue_heading_or_page_witness"
+      "toc_raw": "The Korea Mudang and Pansu 145",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": []
     }
   ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",

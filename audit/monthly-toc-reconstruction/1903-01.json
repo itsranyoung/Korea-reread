@@ -185,52 +185,50 @@
       "style": ""
     }
   ],
-  "accepted": [],
+  "accepted": [
+    {
+      "title": "A Notable Paper on Seoul",
+      "year": 1903,
+      "month": 1,
+      "volume": 3,
+      "issue": 1,
+      "printed_page_start": 1,
+      "toc_paragraph_index": 2,
+      "toc_raw": "A Notable Paper on Seoul 1",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        12
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-01.docx"
+    },
+    {
+      "title": "“All’ s Well that Ends Well”",
+      "year": 1903,
+      "month": 1,
+      "volume": 3,
+      "issue": 1,
+      "printed_page_start": 10,
+      "toc_paragraph_index": 4,
+      "toc_raw": "“All’ s Well that Ends Well” 10",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        60
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-01.docx"
+    }
+  ],
   "rejected_toc_title_candidates": [
     {
-      "title_candidate": "A Notable Paper on Seoul 1",
-      "toc_paragraph_index": 2,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Review Rev. Geo. Heber Jones 8",
+      "title": "Review Rev. Geo. Heber Jones",
+      "year": 1903,
+      "month": 1,
+      "volume": 3,
+      "issue": 1,
+      "printed_page_start": 8,
       "toc_paragraph_index": 3,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "“All’ s Well that Ends Well” 10",
-      "toc_paragraph_index": 4,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "A Leaf from Korean Astrology13",
-      "toc_paragraph_index": 5,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "From Fusan to Wonsan18",
-      "toc_paragraph_index": 6,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Rev. H. O. T. Burkwall",
-      "toc_paragraph_index": 7,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Editorial Comment22",
-      "toc_paragraph_index": 8,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "News Calendar25",
-      "toc_paragraph_index": 9,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "History of Korea33",
-      "toc_paragraph_index": 10,
-      "reason": "missing_same_issue_heading_or_page_witness"
+      "toc_raw": "Review Rev. Geo. Heber Jones 8",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": []
     }
   ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",

@@ -480,16 +480,6 @@
       "title_candidate": "The Status of Woman in Korea",
       "toc_paragraph_index": 2,
       "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "The Status of Woman in Korea",
-      "toc_paragraph_index": 19,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "(Second Paper.)",
-      "toc_paragraph_index": 20,
-      "reason": "missing_same_issue_heading_or_page_witness"
     }
   ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",

@@ -187,24 +187,6 @@
   ],
   "accepted": [
     {
-      "title": "The Russo-Japanese War",
-      "year": 1904,
-      "month": 6,
-      "volume": 4,
-      "issue": 6,
-      "printed_page_start": 241,
-      "toc_paragraph_index": 2,
-      "toc_raw": "The Russo-Japanese War,",
-      "page_evidence_method": "preceding_embedded_print_page_marker",
-      "body_heading_paragraph_indices": [
-        11
-      ],
-      "body_heading_raw": "The Russo-Japanese War,",
-      "page_marker_witness": "[page 241]",
-      "multiple_body_occurrences": false,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-06.docx"
-    },
-    {
       "title": "The Ajun",
       "year": 1904,
       "month": 6,
@@ -331,7 +313,18 @@
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-06.docx"
     }
   ],
-  "rejected_toc_title_candidates": [],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "The Russo-Japanese War",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "[page 241]",
+      "toc_paragraph_index": 10,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

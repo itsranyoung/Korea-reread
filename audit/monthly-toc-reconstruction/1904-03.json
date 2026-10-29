@@ -187,24 +187,6 @@
   ],
   "accepted": [
     {
-      "title": "The Russo-Japanese War",
-      "year": 1904,
-      "month": 3,
-      "volume": 4,
-      "issue": 3,
-      "printed_page_start": 97,
-      "toc_paragraph_index": 2,
-      "toc_raw": "The Russo-Japanese War.",
-      "page_evidence_method": "preceding_embedded_print_page_marker",
-      "body_heading_paragraph_indices": [
-        10
-      ],
-      "body_heading_raw": "The Russo-Japanese War.",
-      "page_marker_witness": "[page 97]",
-      "multiple_body_occurrences": false,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-03.docx"
-    },
-    {
       "title": "The Royal Funeral",
       "year": 1904,
       "month": 3,
@@ -313,7 +295,18 @@
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-03.docx"
     }
   ],
-  "rejected_toc_title_candidates": [],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "The Russo-Japanese War",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "[page 97]",
+      "toc_paragraph_index": 9,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

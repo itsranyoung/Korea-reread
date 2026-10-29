@@ -187,84 +187,153 @@
   ],
   "accepted": [
     {
-      "title": "Odds and Ends",
+      "title": "One Night with the Koreans in Hawaii",
+      "year": 1903,
+      "month": 12,
+      "volume": 3,
+      "issue": 12,
+      "printed_page_start": 529,
+      "toc_paragraph_index": 2,
+      "toc_raw": "One Night with the Koreans in Hawaii 529",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        16
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-12.docx"
+    },
+    {
+      "title": "A Rash Execution",
       "year": 1903,
       "month": 12,
       "volume": 3,
       "issue": 12,
       "printed_page_start": 544,
-      "toc_paragraph_index": 5,
-      "toc_raw": "Odds and Ends",
-      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "toc_paragraph_index": 6,
+      "toc_raw": "A Rash Execution 544",
+      "page_evidence_method": "inline_toc_page",
       "body_heading_paragraph_indices": [
-        69
+        70
       ],
-      "body_heading_raw": "Odds and Ends.",
-      "page_marker_witness": "[page 544]",
-      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-12.docx"
+    },
+    {
+      "title": "Cross Examination",
+      "year": 1903,
+      "month": 12,
+      "volume": 3,
+      "issue": 12,
+      "printed_page_start": 545,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Cross Examination 545",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        72
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-12.docx"
+    },
+    {
+      "title": "Places of Execution",
+      "year": 1903,
+      "month": 12,
+      "volume": 3,
+      "issue": 12,
+      "printed_page_start": 545,
+      "toc_paragraph_index": 8,
+      "toc_raw": "Places of Execution 545",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        78
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-12.docx"
+    },
+    {
+      "title": "A Headless Ghost",
+      "year": 1903,
+      "month": 12,
+      "volume": 3,
+      "issue": 12,
+      "printed_page_start": 545,
+      "toc_paragraph_index": 9,
+      "toc_raw": "A Headless Ghost 545",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        80
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-12.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1903,
+      "month": 12,
+      "volume": 3,
+      "issue": 12,
+      "printed_page_start": 546,
+      "toc_paragraph_index": 10,
+      "toc_raw": "Editorial Comment 546",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        83
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-12.docx"
+    },
+    {
+      "title": "Now or Never",
+      "year": 1903,
+      "month": 12,
+      "volume": 3,
+      "issue": 12,
+      "printed_page_start": 547,
+      "toc_paragraph_index": 11,
+      "toc_raw": "Now or Never 547",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        87
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-12.docx"
+    },
+    {
+      "title": "Obituary Notice",
+      "year": 1903,
+      "month": 12,
+      "volume": 3,
+      "issue": 12,
+      "printed_page_start": 553,
+      "toc_paragraph_index": 12,
+      "toc_raw": "Obituary Notice 553",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        104
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-12.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1903,
+      "month": 12,
+      "volume": 3,
+      "issue": 12,
+      "printed_page_start": 554,
+      "toc_paragraph_index": 13,
+      "toc_raw": "News Calendar 554",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        106
+      ],
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-12.docx"
     }
   ],
   "rejected_toc_title_candidates": [
     {
-      "title_candidate": "One Night with the Koreans in Hawaii 529",
-      "toc_paragraph_index": 2,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Banishment 532",
+      "title": "Banishment",
+      "year": 1903,
+      "month": 12,
+      "volume": 3,
+      "issue": 12,
+      "printed_page_start": 532,
       "toc_paragraph_index": 3,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Korean Relations with Japan537",
-      "toc_paragraph_index": 4,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "A Rash Execution 544",
-      "toc_paragraph_index": 6,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Cross Examination 545",
-      "toc_paragraph_index": 7,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Places of Execution 545",
-      "toc_paragraph_index": 8,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "A Headless Ghost 545",
-      "toc_paragraph_index": 9,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Editorial Comment 546",
-      "toc_paragraph_index": 10,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Now or Never 547",
-      "toc_paragraph_index": 11,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Obituary Notice 553",
-      "toc_paragraph_index": 12,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "News Calendar 554",
-      "toc_paragraph_index": 13,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Korean History561",
-      "toc_paragraph_index": 14,
-      "reason": "missing_same_issue_heading_or_page_witness"
+      "toc_raw": "Banishment 532",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": []
     }
   ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",

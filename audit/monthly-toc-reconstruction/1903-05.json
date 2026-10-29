@@ -185,47 +185,107 @@
       "style": ""
     }
   ],
-  "accepted": [],
+  "accepted": [
+    {
+      "title": "The Privileges of the Capital",
+      "year": 1903,
+      "month": 5,
+      "volume": 3,
+      "issue": 5,
+      "printed_page_start": 193,
+      "toc_paragraph_index": 2,
+      "toc_raw": "The Privileges of the Capital 193",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        11
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-05.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1903,
+      "month": 5,
+      "volume": 3,
+      "issue": 5,
+      "printed_page_start": 217,
+      "toc_paragraph_index": 6,
+      "toc_raw": "Editorial Comment 217",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        87
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-05.docx"
+    },
+    {
+      "title": "Across Siberia by Rail",
+      "year": 1903,
+      "month": 5,
+      "volume": 3,
+      "issue": 5,
+      "printed_page_start": 218,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Across Siberia by Rail 218",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        93
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-05.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1903,
+      "month": 5,
+      "volume": 3,
+      "issue": 5,
+      "printed_page_start": 222,
+      "toc_paragraph_index": 8,
+      "toc_raw": "News Calendar 222",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        109
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-05.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1903,
+      "month": 5,
+      "volume": 3,
+      "issue": 5,
+      "printed_page_start": 225,
+      "toc_paragraph_index": 9,
+      "toc_raw": "Korean History 225",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        132
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-05.docx"
+    }
+  ],
   "rejected_toc_title_candidates": [
     {
-      "title_candidate": "The Privileges of the Capital 193",
-      "toc_paragraph_index": 2,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Mudang and Pansu203",
-      "toc_paragraph_index": 3,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "The Hun-Min Chong-Eom 208",
+      "title": "The Hun-Min Chong-Eom",
+      "year": 1903,
+      "month": 5,
+      "volume": 3,
+      "issue": 5,
+      "printed_page_start": 208,
       "toc_paragraph_index": 4,
-      "reason": "missing_same_issue_heading_or_page_witness"
+      "toc_raw": "The Hun-Min Chong-Eom 208",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": []
     },
     {
-      "title_candidate": "Hen vs Centipede 213",
+      "title": "Hen vs Centipede",
+      "year": 1903,
+      "month": 5,
+      "volume": 3,
+      "issue": 5,
+      "printed_page_start": 213,
       "toc_paragraph_index": 5,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Editorial Comment 217",
-      "toc_paragraph_index": 6,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Across Siberia by Rail 218",
-      "toc_paragraph_index": 7,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "News Calendar 222",
-      "toc_paragraph_index": 8,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Korean History 225",
-      "toc_paragraph_index": 9,
-      "reason": "missing_same_issue_heading_or_page_witness"
+      "toc_raw": "Hen vs Centipede 213",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": []
     }
   ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",

@@ -187,24 +187,6 @@
   ],
   "accepted": [
     {
-      "title": "Burial Customs",
-      "year": 1902,
-      "month": 6,
-      "volume": 2,
-      "issue": 6,
-      "printed_page_start": 241,
-      "toc_paragraph_index": 2,
-      "toc_raw": "Burial Customs.",
-      "page_evidence_method": "preceding_embedded_print_page_marker",
-      "body_heading_paragraph_indices": [
-        12
-      ],
-      "body_heading_raw": "Burial Customs.",
-      "page_marker_witness": "[page 241]",
-      "multiple_body_occurrences": false,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx"
-    },
-    {
       "title": "The Wreck of the Kuma-gawa Maru",
       "year": 1902,
       "month": 6,
@@ -349,7 +331,18 @@
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx"
     }
   ],
-  "rejected_toc_title_candidates": [],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "Burial Customs",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "[page 241]",
+      "toc_paragraph_index": 11,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

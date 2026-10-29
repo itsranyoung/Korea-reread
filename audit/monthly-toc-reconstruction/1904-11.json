@@ -187,24 +187,6 @@
   ],
   "accepted": [
     {
-      "title": "The Educational Needs of Korea",
-      "year": 1904,
-      "month": 11,
-      "volume": 4,
-      "issue": 11,
-      "printed_page_start": 481,
-      "toc_paragraph_index": 2,
-      "toc_raw": "The Educational Needs of Korea.",
-      "page_evidence_method": "preceding_embedded_print_page_marker",
-      "body_heading_paragraph_indices": [
-        16
-      ],
-      "body_heading_raw": "The Educational Needs of Korea.",
-      "page_marker_witness": "[page 481]",
-      "multiple_body_occurrences": false,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-11.docx"
-    },
-    {
       "title": "The Severance Hospital",
       "year": 1904,
       "month": 11,
@@ -421,7 +403,18 @@
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-11.docx"
     }
   ],
-  "rejected_toc_title_candidates": [],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "The Educational Needs of Korea",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "[page 481]",
+      "toc_paragraph_index": 15,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

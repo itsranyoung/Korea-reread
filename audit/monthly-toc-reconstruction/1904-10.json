@@ -187,24 +187,6 @@
   ],
   "accepted": [
     {
-      "title": "Koreans in Manchuria",
-      "year": 1904,
-      "month": 10,
-      "volume": 4,
-      "issue": 10,
-      "printed_page_start": 433,
-      "toc_paragraph_index": 2,
-      "toc_raw": "Koreans in Manchuria.",
-      "page_evidence_method": "preceding_embedded_print_page_marker",
-      "body_heading_paragraph_indices": [
-        12
-      ],
-      "body_heading_raw": "Koreans in Manchuria.",
-      "page_marker_witness": "[page 433]",
-      "multiple_body_occurrences": false,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-10.docx"
-    },
-    {
       "title": "Russians in Northeast Korea",
       "year": 1904,
       "month": 10,
@@ -349,7 +331,18 @@
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-10.docx"
     }
   ],
-  "rejected_toc_title_candidates": [],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "Koreans in Manchuria",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "[page 433]",
+      "toc_paragraph_index": 11,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

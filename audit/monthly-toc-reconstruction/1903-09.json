@@ -187,104 +187,168 @@
   ],
   "accepted": [
     {
-      "title": "Odds and Ends",
+      "title": "The Taiku Dispensary",
+      "year": 1903,
+      "month": 9,
+      "volume": 3,
+      "issue": 9,
+      "printed_page_start": 389,
+      "toc_paragraph_index": 3,
+      "toc_raw": "The Taiku Dispensary 389",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        36
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-09.docx"
+    },
+    {
+      "title": "Korean Relations with Japan",
+      "year": 1903,
+      "month": 9,
+      "volume": 3,
+      "issue": 9,
+      "printed_page_start": 394,
+      "toc_paragraph_index": 4,
+      "toc_raw": "Korean Relations with Japan 394",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        77
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-09.docx"
+    },
+    {
+      "title": "Good Cutlery",
       "year": 1903,
       "month": 9,
       "volume": 3,
       "issue": 9,
       "printed_page_start": 400,
-      "toc_paragraph_index": 6,
-      "toc_raw": "Odds and Ends",
-      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "toc_paragraph_index": 7,
+      "toc_raw": "Good Cutlery 400",
+      "page_evidence_method": "inline_toc_page",
       "body_heading_paragraph_indices": [
-        101
+        102
       ],
-      "body_heading_raw": "Odds and Ends",
-      "page_marker_witness": "[page 400]",
-      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-09.docx"
+    },
+    {
+      "title": "The Crying Seed",
+      "year": 1903,
+      "month": 9,
+      "volume": 3,
+      "issue": 9,
+      "printed_page_start": 402,
+      "toc_paragraph_index": 9,
+      "toc_raw": "The Crying Seed 402",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        108
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-09.docx"
+    },
+    {
+      "title": "Fisherman’S Luck",
+      "year": 1903,
+      "month": 9,
+      "volume": 3,
+      "issue": 9,
+      "printed_page_start": 403,
+      "toc_paragraph_index": 11,
+      "toc_raw": "Fisherman’S Luck 403",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        112
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-09.docx"
+    },
+    {
+      "title": "Well Up In Literature",
+      "year": 1903,
+      "month": 9,
+      "volume": 3,
+      "issue": 9,
+      "printed_page_start": 404,
+      "toc_paragraph_index": 12,
+      "toc_raw": "Well Up In Literature 404",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        116
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-09.docx"
+    },
+    {
+      "title": "A New Kind Of Faith Cure",
+      "year": 1903,
+      "month": 9,
+      "volume": 3,
+      "issue": 9,
+      "printed_page_start": 406,
+      "toc_paragraph_index": 15,
+      "toc_raw": "A New Kind Of Faith Cure 406",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        124
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-09.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1903,
+      "month": 9,
+      "volume": 3,
+      "issue": 9,
+      "printed_page_start": 406,
+      "toc_paragraph_index": 16,
+      "toc_raw": "Editorial Comment 406",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        126
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-09.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1903,
+      "month": 9,
+      "volume": 3,
+      "issue": 9,
+      "printed_page_start": 409,
+      "toc_paragraph_index": 17,
+      "toc_raw": "News Calendar 409",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        132
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-09.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1903,
+      "month": 9,
+      "volume": 3,
+      "issue": 9,
+      "printed_page_start": 417,
+      "toc_paragraph_index": 18,
+      "toc_raw": "Korean History 417",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        213
+      ],
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-09.docx"
     }
   ],
   "rejected_toc_title_candidates": [
     {
-      "title_candidate": "Mudang and Pansu 385",
+      "title": "Mudang and Pansu",
+      "year": 1903,
+      "month": 9,
+      "volume": 3,
+      "issue": 9,
+      "printed_page_start": 385,
       "toc_paragraph_index": 2,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "The Taiku Dispensary 389",
-      "toc_paragraph_index": 3,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Korean Relations with Japan 394",
-      "toc_paragraph_index": 4,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Review398",
-      "toc_paragraph_index": 5,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Good Cutlery 400",
-      "toc_paragraph_index": 7,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Archery Under Difficulties401",
-      "toc_paragraph_index": 8,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "The Crying Seed 402",
-      "toc_paragraph_index": 9,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Dragon Gate Mountain403",
-      "toc_paragraph_index": 10,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Fisherman’S Luck 403",
-      "toc_paragraph_index": 11,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Well Up In Literature 404",
-      "toc_paragraph_index": 12,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "The Boats Of Sung-Jin405",
-      "toc_paragraph_index": 13,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Cure For Canker Sores On The Tongue406",
-      "toc_paragraph_index": 14,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "A New Kind Of Faith Cure 406",
-      "toc_paragraph_index": 15,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Editorial Comment 406",
-      "toc_paragraph_index": 16,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "News Calendar 409",
-      "toc_paragraph_index": 17,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Korean History 417",
-      "toc_paragraph_index": 18,
-      "reason": "missing_same_issue_heading_or_page_witness"
+      "toc_raw": "Mudang and Pansu 385",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": []
     }
   ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",

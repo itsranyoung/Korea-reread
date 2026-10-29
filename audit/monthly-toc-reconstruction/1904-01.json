@@ -187,24 +187,6 @@
   ],
   "accepted": [
     {
-      "title": "A Point of Ethics",
-      "year": 1904,
-      "month": 1,
-      "volume": 4,
-      "issue": 1,
-      "printed_page_start": 1,
-      "toc_paragraph_index": 2,
-      "toc_raw": "A Point of Ethics.",
-      "page_evidence_method": "preceding_embedded_print_page_marker",
-      "body_heading_paragraph_indices": [
-        14
-      ],
-      "body_heading_raw": "A Point of Ethics.",
-      "page_marker_witness": "[page 1]",
-      "multiple_body_occurrences": false,
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-01.docx"
-    },
-    {
       "title": "The Late Queen Dowager",
       "year": 1904,
       "month": 1,
@@ -385,7 +367,18 @@
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-01.docx"
     }
   ],
-  "rejected_toc_title_candidates": [],
+  "rejected_toc_title_candidates": [
+    {
+      "title_candidate": "A Point of Ethics",
+      "toc_paragraph_index": 2,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    },
+    {
+      "title_candidate": "[page 1]",
+      "toc_paragraph_index": 13,
+      "reason": "missing_same_issue_heading_or_page_witness"
+    }
+  ],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }

@@ -187,76 +187,112 @@
   ],
   "accepted": [
     {
-      "title": "Odds and Ends",
+      "title": "Korean Relations with Japan",
+      "year": 1903,
+      "month": 11,
+      "volume": 3,
+      "issue": 11,
+      "printed_page_start": 492,
+      "toc_paragraph_index": 4,
+      "toc_raw": "Korean Relations with Japan 492",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        52
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-11.docx"
+    },
+    {
+      "title": "A Square Meal",
       "year": 1903,
       "month": 11,
       "volume": 3,
       "issue": 11,
       "printed_page_start": 497,
-      "toc_paragraph_index": 5,
-      "toc_raw": "Odds and Ends",
-      "page_evidence_method": "preceding_embedded_print_page_marker",
+      "toc_paragraph_index": 6,
+      "toc_raw": "A Square Meal 497",
+      "page_evidence_method": "inline_toc_page",
       "body_heading_paragraph_indices": [
-        405
+        406
       ],
-      "body_heading_raw": "Odds and Ends.",
-      "page_marker_witness": "[page 497]",
-      "multiple_body_occurrences": false,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-11.docx"
+    },
+    {
+      "title": "Lying Bull Mountain",
+      "year": 1903,
+      "month": 11,
+      "volume": 3,
+      "issue": 11,
+      "printed_page_start": 498,
+      "toc_paragraph_index": 7,
+      "toc_raw": "Lying Bull Mountain 498",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        409
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-11.docx"
+    },
+    {
+      "title": "Mountain Dew",
+      "year": 1903,
+      "month": 11,
+      "volume": 3,
+      "issue": 11,
+      "printed_page_start": 499,
+      "toc_paragraph_index": 8,
+      "toc_raw": "Mountain Dew 499",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        411
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-11.docx"
+    },
+    {
+      "title": "Editorial Comment",
+      "year": 1903,
+      "month": 11,
+      "volume": 3,
+      "issue": 11,
+      "printed_page_start": 499,
+      "toc_paragraph_index": 9,
+      "toc_raw": "Editorial Comment 499",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        413
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-11.docx"
+    },
+    {
+      "title": "News Calendar",
+      "year": 1903,
+      "month": 11,
+      "volume": 3,
+      "issue": 11,
+      "printed_page_start": 501,
+      "toc_paragraph_index": 10,
+      "toc_raw": "News Calendar 501",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        419
+      ],
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-11.docx"
+    },
+    {
+      "title": "Korean History",
+      "year": 1903,
+      "month": 11,
+      "volume": 3,
+      "issue": 11,
+      "printed_page_start": 513,
+      "toc_paragraph_index": 11,
+      "toc_raw": "Korean History 513",
+      "page_evidence_method": "inline_toc_page",
+      "body_heading_paragraph_indices": [
+        543
+      ],
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-11.docx"
     }
   ],
-  "rejected_toc_title_candidates": [
-    {
-      "title_candidate": "KOREA REVIEW",
-      "toc_paragraph_index": 0,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Banishment481",
-      "toc_paragraph_index": 2,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "A Tiger Hunter’s Revenge487",
-      "toc_paragraph_index": 3,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Korean Relations with Japan 492",
-      "toc_paragraph_index": 4,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "A Square Meal 497",
-      "toc_paragraph_index": 6,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Lying Bull Mountain 498",
-      "toc_paragraph_index": 7,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Mountain Dew 499",
-      "toc_paragraph_index": 8,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Editorial Comment 499",
-      "toc_paragraph_index": 9,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "News Calendar 501",
-      "toc_paragraph_index": 10,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    },
-    {
-      "title_candidate": "Korean History 513",
-      "toc_paragraph_index": 11,
-      "reason": "missing_same_issue_heading_or_page_witness"
-    }
-  ],
+  "rejected_toc_title_candidates": [],
   "pass_rule": "Original issue TOC printed page and a later standalone matching article heading in same monthly DOCX; page fits nominal 48-page month range",
   "unverified": "Real scan page numbers, continuation logic, and OCR fidelity require manual review"
 }
