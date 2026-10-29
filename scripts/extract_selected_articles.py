@@ -111,6 +111,9 @@ def main():
  master=json.loads((ROOT/"data/public-verified.json").read_text(encoding="utf8"))
  selected=master["records"]
  counts=Counter(r["year"] for r in selected)
+ lock=json.loads((ROOT/"data/selected-251.lock.json").read_text(encoding="utf8"))
+ if sorted(r["id"] for r in selected)!=lock["ids"]:
+  raise SystemExit("Catalog lock failed: selected IDs changed without explicit approval")
  if len(selected)!=251 or len({r["id"] for r in selected})!=251 or any(v>50 for v in counts.values()):
   raise SystemExit("Catalog lock failed: expected exactly 251 unique selected records, <=50/year. No output overwritten.")
  drafts=[];failed=[];sources=[];done=0
