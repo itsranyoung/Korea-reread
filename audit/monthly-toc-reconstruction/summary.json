@@ -1,0 +1,250 @@
+{
+  "counts": {
+    "months_read": 48,
+    "accepted": 82,
+    "rejected": 26
+  },
+  "errors": [],
+  "months": {
+    "1902-01": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-01.docx"
+    },
+    "1902-02": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx"
+    },
+    "1902-03": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-03.docx"
+    },
+    "1902-04": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx"
+    },
+    "1902-05": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-05.docx"
+    },
+    "1902-06": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx"
+    },
+    "1902-07": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx"
+    },
+    "1902-08": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-08.docx"
+    },
+    "1902-09": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx"
+    },
+    "1902-10": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-10.docx"
+    },
+    "1902-11": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-11.docx"
+    },
+    "1902-12": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-12.docx"
+    },
+    "1903-01": {
+      "accepted": 2,
+      "rejected": 1,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-01.docx"
+    },
+    "1903-02": {
+      "accepted": 1,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-02.docx"
+    },
+    "1903-03": {
+      "accepted": 0,
+      "rejected": 7,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-03.docx"
+    },
+    "1903-04": {
+      "accepted": 3,
+      "rejected": 1,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-04.docx"
+    },
+    "1903-05": {
+      "accepted": 5,
+      "rejected": 2,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-05.docx"
+    },
+    "1903-06": {
+      "accepted": 7,
+      "rejected": 1,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-06.docx"
+    },
+    "1903-07": {
+      "accepted": 3,
+      "rejected": 1,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-07.docx"
+    },
+    "1903-08": {
+      "accepted": 8,
+      "rejected": 2,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx"
+    },
+    "1903-09": {
+      "accepted": 10,
+      "rejected": 1,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-09.docx"
+    },
+    "1903-10": {
+      "accepted": 7,
+      "rejected": 1,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-10.docx"
+    },
+    "1903-11": {
+      "accepted": 7,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-11.docx"
+    },
+    "1903-12": {
+      "accepted": 9,
+      "rejected": 1,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-12.docx"
+    },
+    "1904-01": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-01.docx"
+    },
+    "1904-02": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-02.docx"
+    },
+    "1904-03": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-03.docx"
+    },
+    "1904-04": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-04.docx"
+    },
+    "1904-05": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-05.docx"
+    },
+    "1904-06": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-06.docx"
+    },
+    "1904-07": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-07.docx"
+    },
+    "1904-08": {
+      "accepted": 0,
+      "rejected": 1,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-08.docx"
+    },
+    "1904-09": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-09.docx"
+    },
+    "1904-10": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-10.docx"
+    },
+    "1904-11": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-11.docx"
+    },
+    "1904-12": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-12.docx"
+    },
+    "1905-01": {
+      "accepted": 10,
+      "rejected": 2,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx"
+    },
+    "1905-02": {
+      "accepted": 4,
+      "rejected": 5,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-02.docx"
+    },
+    "1905-03": {
+      "accepted": 4,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-03.docx"
+    },
+    "1905-04": {
+      "accepted": 2,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-04.docx"
+    },
+    "1905-05": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-05.docx"
+    },
+    "1905-06": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-06.docx"
+    },
+    "1905-07": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-07.docx"
+    },
+    "1905-08": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-08.docx"
+    },
+    "1905-09": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-09.docx"
+    },
+    "1905-10": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-10.docx"
+    },
+    "1905-11": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-11.docx"
+    },
+    "1905-12": {
+      "accepted": 0,
+      "rejected": 0,
+      "source": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-12.docx"
+    }
+  }
+}
