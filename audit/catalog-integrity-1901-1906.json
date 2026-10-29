@@ -1,0 +1,162 @@
+{
+  "scope": "1901–1906",
+  "completeness_certified": false,
+  "years": {
+    "1901": {
+      "exists": true,
+      "records": 37,
+      "month_counts": {
+        "1": 5,
+        "2": 4,
+        "3": 3,
+        "4": 2,
+        "5": 3,
+        "6": 3,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 3
+      },
+      "missing_months": [],
+      "invalid_records": [],
+      "duplicate_ids": [],
+      "exact_duplicate_article_candidates": [],
+      "not_human_verified": 37,
+      "complete": false,
+      "note": "A full monthly contents to original article boundary reconciliation is needed before completeness is certified"
+    },
+    "1902": {
+      "exists": true,
+      "records": 61,
+      "month_counts": {
+        "1": 8,
+        "2": 6,
+        "3": 4,
+        "4": 8,
+        "5": 5,
+        "6": 3,
+        "7": 4,
+        "8": 7,
+        "9": 9,
+        "10": 3,
+        "11": 2,
+        "12": 2
+      },
+      "missing_months": [],
+      "invalid_records": [],
+      "duplicate_ids": [],
+      "exact_duplicate_article_candidates": [],
+      "not_human_verified": 61,
+      "complete": false,
+      "note": "A full monthly contents to original article boundary reconciliation is needed before completeness is certified"
+    },
+    "1903": {
+      "exists": true,
+      "records": 38,
+      "month_counts": {
+        "1": 1,
+        "2": 3,
+        "3": 3,
+        "4": 3,
+        "5": 5,
+        "6": 4,
+        "7": 5,
+        "8": 5,
+        "9": 5,
+        "10": 2,
+        "11": 1,
+        "12": 1
+      },
+      "missing_months": [],
+      "invalid_records": [],
+      "duplicate_ids": [],
+      "exact_duplicate_article_candidates": [],
+      "not_human_verified": 38,
+      "complete": false,
+      "note": "A full monthly contents to original article boundary reconciliation is needed before completeness is certified"
+    },
+    "1904": {
+      "exists": true,
+      "records": 66,
+      "month_counts": {
+        "1": 8,
+        "2": 8,
+        "3": 3,
+        "4": 6,
+        "5": 6,
+        "6": 4,
+        "7": 5,
+        "8": 6,
+        "9": 5,
+        "10": 6,
+        "11": 5,
+        "12": 4
+      },
+      "missing_months": [],
+      "invalid_records": [],
+      "duplicate_ids": [],
+      "exact_duplicate_article_candidates": [],
+      "not_human_verified": 66,
+      "complete": false,
+      "note": "A full monthly contents to original article boundary reconciliation is needed before completeness is certified"
+    },
+    "1905": {
+      "exists": true,
+      "records": 36,
+      "month_counts": {
+        "1": 4,
+        "2": 5,
+        "3": 2,
+        "4": 6,
+        "5": 1,
+        "6": 1,
+        "7": 4,
+        "8": 1,
+        "9": 2,
+        "10": 3,
+        "11": 2,
+        "12": 5
+      },
+      "missing_months": [],
+      "invalid_records": [],
+      "duplicate_ids": [],
+      "exact_duplicate_article_candidates": [],
+      "not_human_verified": 36,
+      "complete": false,
+      "note": "A full monthly contents to original article boundary reconciliation is needed before completeness is certified"
+    },
+    "1906": {
+      "exists": true,
+      "records": 93,
+      "month_counts": {
+        "1": 7,
+        "2": 8,
+        "3": 8,
+        "4": 9,
+        "5": 7,
+        "6": 6,
+        "7": 11,
+        "8": 8,
+        "9": 7,
+        "10": 8,
+        "11": 7,
+        "12": 7
+      },
+      "missing_months": [],
+      "invalid_records": [],
+      "duplicate_ids": [],
+      "exact_duplicate_article_candidates": [],
+      "not_human_verified": 93,
+      "complete": false,
+      "note": "A full monthly contents to original article boundary reconciliation is needed before completeness is certified"
+    }
+  },
+  "totals": {
+    "records": 331,
+    "missing_months": 0,
+    "invalid_records": 0,
+    "exact_duplicates": 0
+  }
+}
