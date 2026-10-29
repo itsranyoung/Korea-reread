@@ -37,7 +37,7 @@ def entries(pars,year,month):
  # The 1902/1904 issue TOCs list title-only lines. Print page appears
  # later as [page N] embedded at the start/in the body OCR paragraphs.
  # Require TOC within the lines BEFORE the first explicit [page N].
- page_pattern=re.compile(r"\\[page\\s+(\\d{1,4})\\]",re.I)
+ page_pattern=re.compile(r"\[page\s+(\d{1,4})\]",re.I)
  first_page=next((i for i,p in enumerate(pars) if page_pattern.search(p["text"])),None)
  if first_page is None: return [],[{"reason":"no_print_page_markers","year":year,"month":month}]
  toc_limit=min(first_page,70)
