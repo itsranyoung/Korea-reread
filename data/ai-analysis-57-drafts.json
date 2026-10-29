@@ -131,9 +131,9 @@
       "title": "Korean Proverbs",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-02.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국어 속담과 재담이 구어 문화에서 수행하는 역할을 설명하며, 전문 이야기꾼의 표현 방식과 속담 번역의 문제를 소개한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "culture",
@@ -177,7 +177,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -190,9 +191,9 @@
       "title": "Xylographic Art in Korea",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-03.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국의 목판 인쇄 기술이 오랜 역사를 지녔다고 서술하고, 역사 기록과 기술의 발전을 근거로 목판 인쇄의 전통을 논의한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "education",
@@ -290,7 +291,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -356,9 +358,9 @@
       "title": "The Introduction of Chinese into Korea",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-04.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국에 한자가 도입되고 사용된 역사에 관한 자료를 검토하며, 삼국의 문자 사용을 설명하는 기록과 그 한계를 다룬다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "education",
@@ -450,7 +452,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -463,9 +466,9 @@
       "title": "Native Gold Mining",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-05.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국의 재래 금 채굴을 소개하면서 하천 모래에서 사금을 채취하는 방식 외의 채굴 방식에 대한 당시의 인식을 검토한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "economy",
@@ -533,7 +536,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -546,9 +550,9 @@
       "title": "Korean Etymology",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-06.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국어 어원 연구의 미개척 상황을 지적하고, 한국어의 교착적 특성과 동사 어근에서 파생된 어휘를 설명한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "language",
@@ -600,7 +604,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -613,9 +618,9 @@
       "title": "The Seoul-Fusan Railway",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-09.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "서울과 부산을 연결할 철도의 건설을 동아시아 및 대륙 교통망의 확대라는 관점에서 논의한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "international_relations",
@@ -685,7 +690,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -698,9 +704,9 @@
       "title": "The Disturbance on Quelpart",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-12.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "제주도에서 발생한 소요 사건에 대한 일본 언론의 보도를 비판하며, 사건에 대한 다른 관점을 소개하려는 번역 기사다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "economy",
@@ -788,7 +794,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -894,9 +901,9 @@
       "title": "A School for the Native Character",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-02.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한글 교육을 위한 학교의 설립 배경을 소개하며, 학교 수리 작업 중 교사와 목수의 대화에서 비롯된 계기를 서술한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "education",
@@ -974,7 +981,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -987,9 +995,9 @@
       "title": "The Products of Korea",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-03.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국의 쌀을 비롯한 농산물의 종류를 소개하고, 품종과 명칭에 따른 구분을 기록한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -1069,7 +1077,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -1082,9 +1091,9 @@
       "title": "Slavery in Korea",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-04.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국의 노비제에 관한 독자의 질문에 답하면서 노비제의 역사적 배경과 당시의 상황을 설명하려 한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -1154,7 +1163,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -1167,9 +1177,9 @@
       "title": "Remusat on the Korean Alphabet",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-05.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "아벨 레뮈자의 1820년 저술에서 한국 문자에 관한 설명을 발췌해 소개하고 평가한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -1241,7 +1251,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -1254,9 +1265,9 @@
       "title": "Japanese Banking in Korea",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-06.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국에서 일본인의 상업 활동이 확대되는 양상을 다른 국가의 무역과 비교하며 일본계 금융·상업의 위치를 검토한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "culture",
@@ -1344,7 +1355,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -1357,9 +1369,9 @@
       "title": "Burial Customs",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-07.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국의 장례 절차를 설명하며 사망 뒤 상복을 마련하고 친족 관계에 따라 복장을 달리하는 관습을 기록한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "culture",
@@ -1411,7 +1423,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -1424,9 +1437,9 @@
       "title": "Korean Currency",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "고려 시대 화폐 유통 시도를 회고하며, 화폐에 대한 민간의 신뢰와 금속 화폐의 가치 문제를 살펴본다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -1518,7 +1531,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -1531,9 +1545,9 @@
       "title": "The Korean Telegraph and Postal Services",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-09.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "대한제국의 전신 및 우편 업무를 설명한 프랑스어 소책자를 소개하면서 통신 체계의 운영을 살펴본다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -1571,7 +1585,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -1584,9 +1599,9 @@
       "title": "The Origin of the Korean People",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume2-10.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국인의 기원과 고대사에 관심을 가진 독자가 『The Korea Review』의 역사 서술에 관해 의견을 제시하는 서신이다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -1686,7 +1701,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -1806,9 +1822,9 @@
       "title": "The Privileges of the Capital",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-05.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "수도에서 정치·교육·예술·문화 활동이 집중되는 경향을 설명하고, 군주제 국가에서 수도가 차지하는 위상을 논한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "education",
@@ -1918,7 +1934,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -1931,9 +1948,9 @@
       "title": "Note on Ch’oe Ch’i-Wun",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-06.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "왕립아시아학회 한국지부에 실린 최치원 관련 논문을 소개하며 신라의 학자이자 역사적 인물로서 최치원을 다룬다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -2041,7 +2058,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -2054,9 +2072,9 @@
       "title": "Korean and Formosan",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-07.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국어와 포르모사 지역 언어의 어휘를 비교하여 계통적 관련성을 탐색하려는 당시의 접근을 소개한다. 이러한 언어 기원 가설은 확정된 결론으로 볼 수 없다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -2162,7 +2180,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -2175,9 +2194,9 @@
       "title": "The Peddlars’ Guild",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국의 교통·도로 환경과 관련하여 보부상의 이동 판매 활동을 소개하고, 상인 조직의 형성을 설명한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -2249,7 +2268,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -2262,9 +2282,9 @@
       "title": "Mudang and Pansu",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "무당과 판수의 활동 중 점술과 액막이 의례를 구분하여 소개하고, 당시 외국인 필자가 이해한 한국 민간신앙을 기록한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -2322,7 +2342,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -2335,9 +2356,9 @@
       "title": "Korean Relations with Japan",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "일본의 통치자와 조선 왕대 사이의 역사적 관계를 연대기적으로 서술하며, 한일 관계의 과거를 설명한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "politics",
@@ -2405,7 +2426,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -2418,9 +2440,9 @@
       "title": "The Fortress Of Puk-Han",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-10.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "북한산성의 옛 역사와 위치를 검토하면서 고대 국가의 영역에 관한 역사 서술을 전개한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -2520,7 +2542,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -2533,9 +2556,9 @@
       "title": "One Night with the Koreans in Hawaii",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-12.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "하와이 한국인 이주 노동자의 처지에 대한 소문을 소개하고, 이주 계약과 현지 노동 조건을 살펴보려 한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "education",
@@ -2651,7 +2674,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -2664,9 +2688,9 @@
       "title": "Birth, Marriage, Death",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-06.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "당대 소식란에 실린 출생·혼인·사망 사례 가운데 주목할 만한 사건의 사연을 소개한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "education",
@@ -2718,7 +2742,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -2812,9 +2837,9 @@
       "title": "Korean Relations with Japan",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-01.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "부산의 일본인 교역 거류지에 관한 역사 서술을 이어 가며, 통신 시설과 접객 시설을 설명한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "language",
@@ -2888,7 +2913,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -2901,9 +2927,9 @@
       "title": "The Battle of Chemulpo",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-02.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "제물포 해전 전후 서울에 퍼졌던 군대 상륙 소문과 러시아 함선의 움직임을 당시의 시점에서 서술한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "international_relations",
@@ -2971,7 +2997,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -2984,9 +3011,9 @@
       "title": "The Burning of the Palace",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-04.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "1904년 4월 경운궁에서 발생한 큰 화재를 기록하고, 궁궐의 건립 배경과 피해를 소개한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -3064,7 +3091,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -3077,9 +3105,9 @@
       "title": "The Internal Condition of Affairs in Korea",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-04.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "러일전쟁 속에서 조선 주민이 느꼈을 불안과 일본·러시아 군대에 대한 전망을 당시 필자의 관점에서 분석한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "education",
@@ -3173,7 +3201,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -3186,9 +3215,9 @@
       "title": "The Russo-Japanese War",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-07.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "러일전쟁 중 한국 지역에서 이루어진 러시아 군사 활동의 양상을 검토하고 그 목적을 추정한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "politics",
@@ -3256,7 +3285,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -3269,9 +3299,9 @@
       "title": "What Korea Owes to Japan",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-08.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "일본이 조선에 내세운 이른바 은혜와 의무 주장을 검토하며, 그런 요구의 구체적 근거를 질문한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "economy",
@@ -3345,7 +3375,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -3358,9 +3389,9 @@
       "title": "The Educational Needs of Korea",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-10.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국 교육 제도를 개편할 때 마주하는 어려움과 교육 내용·방법의 변화 필요성을 논의한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "education",
@@ -3454,7 +3485,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -3467,9 +3499,9 @@
       "title": "Spelling Reform",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-12.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국어 표기법 개혁에 관한 독자 서신으로, 개혁 찬반 논쟁과 외국인의 개입 문제를 다룬다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "language",
@@ -3535,7 +3567,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -3669,9 +3702,9 @@
       "title": "The Seoul Fusan Railway",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "1905년 서울–부산 철도의 개통을 계기로 새 노선을 직접 이용한 경험과 이동 방식의 변화를 서술한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -3767,7 +3800,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -3780,9 +3814,9 @@
       "title": "Society for the prevention of cruelty to animals",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "돼지의 사육 상태를 둘러싼 대화를 통해 동물 학대 문제를 다루는 서사적 글이다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "language",
@@ -3811,7 +3845,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -3824,9 +3859,9 @@
       "title": "The top-knot",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국 남성의 상투 풍습을 의인화한 유머러스한 방식으로 소개하며, 그 역사와 사회적 의미를 언급한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -3864,7 +3899,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -3877,9 +3913,9 @@
       "title": "The Stone-fight",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-02.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국의 전통적인 돌싸움 놀이가 보인 열기와 그 기원에 대한 질문을 제기한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -3967,7 +4003,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -3980,9 +4017,9 @@
       "title": "Korea a Vassal of Japan",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-02.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "일본 인사가 한국의 역사적 종속 관계를 주장한 글을 인용하고, 그 주장을 검토하는 기사다. 인용된 주장은 확정된 역사적 사실로 취급하지 않는다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -4082,7 +4119,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -4095,9 +4133,9 @@
       "title": "Rear Admiral Schley on the Little War of 1871",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-03.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "1871년 조선 연안에 대한 미국 해군 원정을 회고한 슐리 제독의 저서를 소개한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -4185,7 +4223,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -4198,9 +4237,9 @@
       "title": "Attack on Doctor Forsythe",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-03.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국에서 의료 선교 활동을 하던 포사이드 의사와 그가 겪은 사건을 소개한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "international_relations",
@@ -4266,7 +4305,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -4279,9 +4319,9 @@
       "title": "Editorial Comment",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "아사카와의 한국사 관련 저술을 논평하며 역사적 사실을 정확히 서술하는 문제와 일부 주장에 대한 이견을 제시한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "education",
@@ -4359,7 +4399,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -4372,9 +4413,9 @@
       "title": "Questions and Answers",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-04.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국을 실제로 관찰하고 기록한 초기 외국인 저술가에 관한 질문에 하멜을 예로 들어 답하는 문답이다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "international_relations",
@@ -4450,7 +4491,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -4540,9 +4582,9 @@
       "title": "Korean New Year Folklore",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume6-02.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국의 설날 민속을 소개하면서 관습과 신앙을 이해하는 일이 사회와 종교 생활을 해석하는 데 중요하다고 설명한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "education",
@@ -4632,7 +4674,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -4645,9 +4688,9 @@
       "title": "Severance Hospital",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume6-02.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "세브란스병원 신축 시설의 운영과 환자 진료 실적을 소개하며 근대 의료기관의 활동을 기록한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "education",
@@ -4733,7 +4776,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -4746,9 +4790,9 @@
       "title": "Translation of the Scriptures into Korean",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume6-05.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "1905년 한국 내 성경과 성서 일부의 인쇄·배포 수치를 제시하고, 기독교 선교와 번역 활동의 확산을 설명한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "history",
@@ -4848,7 +4892,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -4861,9 +4906,9 @@
       "title": "The Korean Mining Laws",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume6-07.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "새 한국 광업법을 둘러싼 외국 언론의 상반된 반응을 소개하고, 광업 개발과 외국 자본 진출 문제를 검토한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "economy",
@@ -4921,7 +4966,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -4934,9 +4980,9 @@
       "title": "The Korean Emigrant Protection Law",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume6-07.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "일본이 추진한 한국인 해외 이주 관련 보호 정책을 비판적으로 논하며 하와이 한국인 노동자를 언급한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "politics",
@@ -5002,7 +5048,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -5015,9 +5062,9 @@
       "title": "Korean Writing",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume6-08.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "한국의 문자·표기 관습을 서양의 관행과 비교하는 당대의 글로, 한국 생활을 외부인이 바라보는 방식을 드러낸다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "education",
@@ -5089,7 +5136,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -5102,9 +5150,9 @@
       "title": "Tax Collection in Korea",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume6-10.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "일본의 새로운 조세 징수 체계가 한국에 미칠 변화를 논하면서 기존 징수 방식의 문제점을 검토한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "education",
@@ -5184,7 +5232,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
@@ -5197,9 +5246,9 @@
       "title": "The Religion of the Heavenly Way",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume6-11.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
-      "summary_ko": null,
-      "summary_status": "not_generated",
+      "analysis_stage": "korean_summary_draft_pending_human_review",
+      "summary_ko": "천도교의 조직과 활동이 확대되는 모습을 설명하고, 이 종교가 한국 사회에 미칠 영향을 질문한다.",
+      "summary_status": "ai_draft_requires_human_review",
       "topic_candidates": [
         {
           "keyword_candidate": "education",
@@ -5285,7 +5334,8 @@
         "model": null,
         "input": "corrected_OCR_article_draft",
         "source_text_verified_against_corrected_docx": true,
-        "facsimile_verified": false
+        "facsimile_verified": false,
+        "summary_generation": "GPT-6 source-informed draft; not independently fact-checked"
       },
       "limitations": [
         "Candidate entities not disambiguated",
