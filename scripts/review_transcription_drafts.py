@@ -10,7 +10,7 @@ from collections import Counter,defaultdict
 ROOT=Path(__file__).resolve().parents[1]
 def load(path):return json.loads((ROOT/path).read_text(encoding="utf8"))
 def main():
- master=load("data/public-verified.json")["records"]
+ master=load("data/research-251-before-curation.json")["records"]
  lock=load("data/selected-251.lock.json")
  if len(master)!=251 or sorted(x["id"] for x in master)!=lock["ids"]:raise RuntimeError("selected 251 baseline changed")
  source={x["id"]:x for x in master}
