@@ -305,35 +305,12 @@
       "title": "Sul-Ch’ong, Father of Korean Literature",
       "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume1-03.docx",
       "analysis_schema_version": "0.1.0",
-      "analysis_stage": "source_evidence_extracted_summary_pending",
+      "analysis_stage": "ocr_source_corrupted_pending_reextraction",
       "summary_ko": null,
       "summary_status": "not_generated",
-      "topic_candidates": [
-        {
-          "keyword_candidate": "history",
-          "trigger": "history",
-          "evidence_quote": "History Of Korea125",
-          "status": "candidate_requires_human_review"
-        }
-      ],
-      "entities": [
-        {
-          "type": "place",
-          "surface_form": "Korean",
-          "canonical_candidate": "Korea",
-          "evidence_quote": "ul-Ch’ ong, Father Of Korean Literature",
-          "status": "candidate_requires_human_review",
-          "method": "literal_lexicon_match"
-        }
-      ],
-      "evidence_passages": [
-        {
-          "quote": "",
-          "source": "corrected_ocr",
-          "location": "first_substantive_paragraph",
-          "truncated": false
-        }
-      ],
+      "topic_candidates": [],
+      "entities": [],
+      "evidence_passages": [],
       "review": {
         "status": "pending_human_review",
         "reviewer": null,
@@ -349,7 +326,8 @@
       },
       "limitations": [
         "Candidate entities not disambiguated",
-        "Topics are keyword matches, not validated semantic conclusions"
+        "Topics are keyword matches, not validated semantic conclusions",
+        "Extracted passage is a table of contents, not the article; no source-supported analysis possible"
       ]
     },
     {
