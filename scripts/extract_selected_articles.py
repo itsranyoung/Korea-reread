@@ -86,7 +86,17 @@ def split_month(year,month,selected):
   # If no next source heading and the article ends with remainder of issue,
   # that may include unrelated unlisted articles; reject rather than overcopy.
   if next_start==len(pars):
-   issues.append({"id":r["id"],"reason":"unbounded_end_of_issue"});continue
+   # Allow issue-end only when this selected article is independently witnessed
+   # as the LAST distinct article heading in the opening monthly contents.
+   # Never infer an endpoint merely because the selected catalog ends here.
+   opening=pars[:min(start,65)]
+   earliest=next((k for k,z in enumerate(opening[2:],2) if norm(z)==norm(r["title"])),None)
+   if earliest is None or earliest>=min(start,65):
+    issues.append({"id":r["id"],"reason":"unbounded_end_of_issue"});continue
+   later_contents=[norm(z) for z in opening[earliest+1:] if len(z)<=125 and norm(z) in toc_set]
+   later_source_headings=[k for k in range(start+1,len(pars)) if len(pars[k])<=145 and norm(pars[k]) in set(later_contents)]
+   if later_contents or later_source_headings:
+    issues.append({"id":r["id"],"reason":"unbounded_end_of_issue"});continue
   body=pars[start:next_start]
   text="\n\n".join(body).strip()
   if len(text)<120:
@@ -104,7 +114,7 @@ def split_month(year,month,selected):
    "text":text,"characters":len(text),
    "transcription_status":"corrected_ocr_provisional_requires_boundary_and_facsimile_review",
    "publication_status":"research_draft_not_public",
-   "boundary_basis":"standalone matched body heading to next standalone issue TOC heading",
+   "boundary_basis":("last_source_article_to_monthly_issue_end_pending_review" if next_start==len(pars) else "standalone matched body heading to next standalone issue TOC heading"),
   })
  return output,issues
 def main():
