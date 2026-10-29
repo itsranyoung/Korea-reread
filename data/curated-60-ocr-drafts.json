@@ -1,6 +1,6 @@
 {
-  "scope": "representative_60_articles",
-  "status": "research_ocr_drafts_not_public_and_not_facsimile_verified",
+  "scope": "57 representative articles; 3 uncertain records excluded",
+  "status": "57_selected_source_OCR_text_matched_pending_facsimile_and_boundary_review",
   "records": [
     {
       "id": "kr-1901-003",
@@ -124,21 +124,6 @@
       "body_start_paragraph": 127,
       "body_end_paragraph_exclusive": 134,
       "boundary_basis": "standalone matched body heading to next standalone issue TOC heading"
-    },
-    {
-      "id": "kr-1901-032",
-      "year": 1901,
-      "month": 11,
-      "title": "The Founding of the Korea Dynasty",
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReviewFulltextVolume1.pdf",
-      "printed_page_start": 483,
-      "transcription_status": "not_extracted",
-      "review_flags": [],
-      "text": null,
-      "characters": 0,
-      "body_start_paragraph": null,
-      "body_end_paragraph_exclusive": null,
-      "boundary_basis": null
     },
     {
       "id": "kr-1901-037",
@@ -531,21 +516,6 @@
       "boundary_basis": "standalone matched body heading to next standalone issue TOC heading"
     },
     {
-      "id": "kr-confirmed-1904-0261",
-      "year": 1904,
-      "month": 6,
-      "title": "The Oldest Relic in Korea",
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume4-06.docx",
-      "printed_page_start": 255,
-      "transcription_status": "provisional_corrected_ocr_recovered_pending_facsimile_review",
-      "review_flags": [],
-      "text": "The Oldest Relic in Korea.\n\nWe recently had the pleasure of a visit to Chun-deung Monastery on the island of Kang-wha and the celebrated [page 250] Mari Mountain in the vicinity of that monastery. This monastery is the only one that has figured prominently in the recent history of Korea and it is for that reason, as well as because of the exceptional beauty of its surroundings, well worth a visit. The monastery lies in a sort of mountain crater one side of which has been broken down. It is near the southern end of the island of Kangwha and may be reached by sampan from Chemulpo in about three hours under favorable conditions of wind and tide. With a little extra effort the round trip may be made from Chemulpo in a single day with four hours’ stop at the monastery. It is an easy hour’s walk from tide water to the gate of the fortress, for this monastery is one of the few which is both monastery and fortress. The whole heavily wooded nest among the high mountains where the monastery lies can be plainly seen from the water as one approaches Kang-wha from Chemulpo. You land at a point called Ch’o-ji about two miles below the little fort which the Americans stormed in 1871, and find a good road running right over the low hills westward to the monastery. It cannot be called a really good bicycle road but a bicycle could be used to advantage if one wished. Three miles of easy walking bring you to the foot of the steep hill leading up to the gate of the fortress. You ascend the smooth treeless slope by a path that reminds you of the old-time bridle road over the pass between Seoul and Chemulpo, except that it is not so high. On either side of you are two sharp spurs along which run the battlemented walls to right and left of the gate so that you are immediately inclosed by these two arms of wall high above you on either side. It was at this point that the French suffered a disastrous defeat in 1866 when the expedition under Admiral Roze made a descent upon the island in retaliation for the execution of nine Roman Catholic priests in that year by the order of the late Regent, the Ta-wun-kun.\n\nIt is not to be wondered at that the French authorities should send an expedition to Korea under the circumstances but it was unfortunate that the matter was not pushed to a finish, for the way in which the incident [page 257] closed left the Korean Government convinced of its ability to defy all foreign powers. The same was the case five years later when the Americans took the little fort near the same place but then retired without bringing the Government to terms.\n\nIn 1866 the French landed on the northern part of the island and took the town of Kang-wha. Hearing that there was a force of Koreans at the monastery twelve miles away, a force of some 160 men marched toward it on a hot October day. They were probably unaware of the number and the quality of the troops they were to meet and the strength of the position they held. As a matter of fact there were some 5000 Korean troops composed largely of the hardy frontiersmen of the north and they occupied a position that even with their poor training and equipment they could have held against an equal number of foreign troops. The French marched up the steep hill toward the gate but before they reached it there burst upon them from the heights on either side a cross fire of both muskety and cannon and within five minutes they were hopelessly crippled. At that time there were some few scattered trees and other shelter below the gate and the brave Frenchmen, not willing to give up the fight so soon even against overwhelming odds, sought shelter behind these natural defenses; but it soon became evident that the purpose of the expedition could not be effected. So a retreat was ordered. The dead and wounded were carried down the hill under a terrible fire from the enemy and the almost desperate march toward the main force was begun. The Koreans swarmed out of the fortress in pursuit and had it not been for a strong body of French who came out to meet them the entire 160 men would probably have been sacrificed.\n\nThe Koreans had prepared a large number of stone cannon-balls to use in case their iron balls should be exhausted. We secured a couple of these curious missiles at the monastery. They measure about four inches in diameter and are made of granite, roughly cut in the shape of a sphere.\n\n[page 258] Back of the monastery, across a valley, rises the forbidding granite crag of Mari Mountain. The characters for Mari are ** which were evidently used merely to transliterate the ancient Korean name of the mountain. It is the highest peak on the island and on its very top rises the rough stone pile which has been known through the centuries at the Tangun Tan or “Altar of Tangun.” A stiff climb of an hour brought us to this most ancient relic. We entered a sort of opening in a wall and found ourselves in a little inclosure twenty feet square. On the western side of this and forming part of the wall of the enclosure rose a flight of stone steps made of slabs of stone put together without mortar and rising some eight feet. Ascending these steps we reached the top of the altar proper which is eight feet high above the floor of the enclosure but some twelve feet above the foundations on the other three sides. It is almost exactly twenty feet square on top. The surface of the top of the altar is rough and shows the results of much vandalism. We were told that boys had thrown down many of the stones so that the altar is not so high as it once was. The structure as it now stands is probably not more than a century old, for we read in the annals of Korea frequent statements that the government gave money to repair it. Some parts of it, especially the more solid foundations, are evidently of extreme age and look as if they had been there as long as the mountain itself. The Tangun is believed by the Koreans to have ruled in Korea from 2300 B. C. until the time of Kija, 1122 B. C, but works that claim some degree of historicity say that he reigned from 1193 B. C. until 1122 B. C. It is probable that if there is anything real about this word Tangun it refers to a dynasty of native chiefs who antedated Kija. The grave of Tangun is shown today at Kangdong east of P’yeng-yang and is 410 feet in circumference. It was in 2265 B. C. that, according to tradition, he first sacrificed on Kang-wha. The fortress in which the Chondeung Monastery is situated is called Sam-nang ** or “Three Sons” and according to tradition it was built by the three sons of Tangun.\n\n[page 259] The entire absence of any kind of inscription in connection with the altar is partial evidence of its extreme age, for if it had been made subsequent to the coming of Kija we should doubtless find some sort of inscription, either in its original shape or in the form of a restoration. One has but to visit the spot to be impressed by the evidences of extreme age, especially in certain parts of the structure.",
-      "characters": 7003,
-      "body_start_paragraph": 51,
-      "body_end_paragraph_exclusive": 58,
-      "boundary_basis": "next_standalone_toc_heading_verified_as_boundary_candidate"
-    },
-    {
       "id": "kr-confirmed-1904-0268",
       "year": 1904,
       "month": 7,
@@ -814,21 +784,6 @@
       "body_start_paragraph": 12,
       "body_end_paragraph_exclusive": 68,
       "boundary_basis": "standalone matched body heading to next standalone issue TOC heading"
-    },
-    {
-      "id": "kr-1906-043",
-      "year": 1906,
-      "month": 6,
-      "title": "Korean and Ainu",
-      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume6FullText.html",
-      "printed_page_start": 223,
-      "transcription_status": "not_extracted",
-      "review_flags": [],
-      "text": null,
-      "characters": 0,
-      "body_start_paragraph": null,
-      "body_end_paragraph_exclusive": null,
-      "boundary_basis": null
     },
     {
       "id": "kr-1906-046",
