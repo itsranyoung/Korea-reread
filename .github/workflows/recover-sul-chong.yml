@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - '.github/workflows/recover-sul-chong.yml'
+      - 'scripts/repair_sul_chong.py'
 permissions:
   contents: write
 jobs:
