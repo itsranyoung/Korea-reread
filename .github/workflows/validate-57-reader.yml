@@ -7,6 +7,7 @@ on:
       - '.github/workflows/validate-57-reader.yml'
       - 'data/public-verified.json'
       - 'data/curated-60-ocr-drafts.json'
+      - 'data/ai-analysis-57-drafts.json'
   workflow_dispatch:
 permissions:
   contents: read
@@ -27,18 +28,28 @@ jobs:
           root=pathlib.Path(".vercel-output-static")
           catalog=json.loads((root/"data/public-verified.json").read_text())["records"]
           seen=[]
+          analysis_ids=[]
           for year in range(1901,1907):
               p=root/"data"/f"articles-{year}.json"
               records=json.loads(p.read_text())["records"]
+              ai=json.loads((root/"data"/f"analysis-{year}.json").read_text())["records"]
+              assert len(ai)==len(records)
+              for a in ai:
+                  assert a["review"]["status"]=="pending_human_review"
+                  assert a["summary_status"] in ("ai_draft_requires_human_review","not_generated")
+                  assert a["evidence_passages"]
+                  analysis_ids.append(a["id"])
               assert len(records)==(9 if year in (1901,1904,1906) else 10),(year,len(records))
               for x in records:
                   assert x["year"]==year and x["text"] and x["source_url"].startswith("https://")
                   assert x["human_review_status"]=="pending_facsimile_collation"
                   seen.append(x["id"])
           assert len(seen)==57 and set(seen)=={r["id"] for r in catalog}
+          assert len(analysis_ids)==57 and set(seen)==set(analysis_ids)
           assert not (root/"data/curated-60-ocr-drafts.json").exists()
           assert not (root/"audit").exists()
+          assert not (root/"data/ai-analysis-57-drafts.json").exists()
           page=(root/"index.html").read_text()
           assert "articles-'+r.year+'.json" in page and "hashchange" in page
-          print("PASS 57 readers, year counts, source links, review labeling, draft isolation")
+          print("PASS 57 readers, 57 AI analysis cards, year counts, source quote checks, draft isolation")
           PY
