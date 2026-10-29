@@ -30,7 +30,293 @@
     "11": 2,
     "12": 2
   },
-  "resolved_by_page_and_source": [],
+  "resolved_by_page_and_source": [
+    {
+      "title": "Odds and Ends",
+      "page": 17,
+      "selected_month": 1,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "title": "Question and Answer",
+      "page": 21,
+      "selected_month": 1,
+      "possible_months": [
+        1,
+        2,
+        3,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Korean History",
+      "page": 33,
+      "selected_month": 1,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "The Products of Korea",
+      "page": 49,
+      "selected_month": 2,
+      "possible_months": [
+        2,
+        3,
+        5,
+        9
+      ]
+    },
+    {
+      "title": "Odds and Ends",
+      "page": 65,
+      "selected_month": 2,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "title": "Question and Answer",
+      "page": 66,
+      "selected_month": 2,
+      "possible_months": [
+        1,
+        2,
+        3,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Korean History",
+      "page": 81,
+      "selected_month": 2,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "The Products of Korea",
+      "page": 103,
+      "selected_month": 3,
+      "possible_months": [
+        2,
+        3,
+        5,
+        9
+      ]
+    },
+    {
+      "title": "Odds and Ends",
+      "page": 112,
+      "selected_month": 3,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "title": "Question and Answer",
+      "page": 115,
+      "selected_month": 3,
+      "possible_months": [
+        1,
+        2,
+        3,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Korean History",
+      "page": 129,
+      "selected_month": 3,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Odds and Ends",
+      "page": 164,
+      "selected_month": 4,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "title": "Korean History",
+      "page": 177,
+      "selected_month": 4,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "title": "The Products of Korea",
+      "page": 203,
+      "selected_month": 5,
+      "possible_months": [
+        2,
+        3,
+        5,
+        9
+      ]
+    },
+    {
+      "title": "Odds and Ends",
+      "page": 208,
+      "selected_month": 5,
+      "possible_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "title": "Burial Customs",
+      "page": 241,
+      "selected_month": 6,
+      "possible_months": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Burial Customs",
+      "page": 294,
+      "selected_month": 7,
+      "possible_months": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "Korean Currency",
+      "page": 337,
+      "selected_month": 8,
+      "possible_months": [
+        8,
+        9
+      ]
+    },
+    {
+      "title": "Korean Currency",
+      "page": 389,
+      "selected_month": 9,
+      "possible_months": [
+        8,
+        9
+      ]
+    },
+    {
+      "title": "A Leaf from Korean Astrology",
+      "page": 491,
+      "selected_month": 11,
+      "possible_months": [
+        11,
+        12
+      ]
+    },
+    {
+      "title": "A Leaf from Korean Astrology",
+      "page": 529,
+      "selected_month": 12,
+      "possible_months": [
+        11,
+        12
+      ]
+    }
+  ],
   "ambiguous": [],
   "unmatched": [
     {
