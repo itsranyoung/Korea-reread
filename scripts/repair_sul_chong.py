@@ -36,7 +36,7 @@ def main():
     # The monthly DOCX repeats titles in its TOC; take a body heading only
     # when the following paragraphs demonstrably contain the actual article.
     starts = [i for i, p in enumerate(ps)
-              if re.search(r"(?:sul\\s*ch[’'\\- ]*ong|father of korean literature)", p, re.I)]
+              if re.search(r"sul.{0,8}ch.{0,8}ong|father of korean literature", p, re.I)]
     # The March 1901 corrected DOCX contains repeated running headings.
     # Source-boundary audit identifies the article body at index 26,
     # while index 3 is its table of contents entry.
