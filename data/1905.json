@@ -1,0 +1,1131 @@
+{
+  "year": 1905,
+  "status": "provisional_monthly_article_candidates_not_human_verified",
+  "warning": "Annual alphabetical index contains subject headings, repeats, and continuation references. This is not a complete article bibliography.",
+  "method": "Unique standalone-paragraph normalized title match in original monthly DOCX; excludes repeat section headings.",
+  "source_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+  "records": [
+    {
+      "id": "kr-1905-0001",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korea and Formosa",
+      "year": 1905,
+      "month": 1,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 1,
+      "printed_page_start": 1,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 17,
+          "style": "",
+          "raw": "Korea and Formosa."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0002",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Room at the Top",
+      "year": 1905,
+      "month": 1,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 1,
+      "printed_page_start": 21,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 64,
+          "style": "",
+          "raw": "Room at the top."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0003",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Society for the Prevention of Cruelty to Animals",
+      "year": 1905,
+      "month": 1,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 1,
+      "printed_page_start": 22,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 66,
+          "style": "",
+          "raw": "Society for the prevention of cruelty to animals"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0004",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Satsuma Ware",
+      "year": 1905,
+      "month": 1,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 1,
+      "printed_page_start": 24,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-01.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 75,
+          "style": "",
+          "raw": "Satsuma Ware."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0005",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Progress of the Seoul-Wiju Railway",
+      "year": 1905,
+      "month": 2,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 2,
+      "printed_page_start": 33,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-02.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 2,
+          "paragraph": 65,
+          "style": "",
+          "raw": "Progress of the Seoul-Wiju Railway."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0006",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Spelling Reform",
+      "year": 1905,
+      "month": 2,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 2,
+      "printed_page_start": 46,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-02.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 2,
+          "paragraph": 32,
+          "style": "",
+          "raw": "Spelling Reform."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0007",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean Giants",
+      "year": 1905,
+      "month": 2,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 2,
+      "printed_page_start": 56,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-02.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 2,
+          "paragraph": 78,
+          "style": "",
+          "raw": "Korean Giants."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0008",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korea a Vassal of Japan",
+      "year": 1905,
+      "month": 2,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 2,
+      "printed_page_start": 58,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-02.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 2,
+          "paragraph": 89,
+          "style": "",
+          "raw": "Korea a Vassal of Japan."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0009",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Rest from Beggars",
+      "year": 1905,
+      "month": 2,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 2,
+      "printed_page_start": 61,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-02.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 2,
+          "paragraph": 94,
+          "style": "",
+          "raw": "Rest from Beggars."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0010",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean Conundrums",
+      "year": 1905,
+      "month": 3,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 3,
+      "printed_page_start": 81,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-03.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 3,
+          "paragraph": 9,
+          "style": "",
+          "raw": "Korean Conundrums."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0011",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Attack on Doctor Forsythe",
+      "year": 1905,
+      "month": 3,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 3,
+      "printed_page_start": 106,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-03.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 3,
+          "paragraph": 132,
+          "style": "",
+          "raw": "Attack on Doctor Forsythe,"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0012",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Incubative Warmth",
+      "year": 1905,
+      "month": 4,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 4,
+      "printed_page_start": 1,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-04.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 4,
+          "paragraph": 92,
+          "style": "",
+          "raw": "Incubative Warmth,"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0013",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Sanitation in Korea",
+      "year": 1905,
+      "month": 4,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 4,
+      "printed_page_start": 42,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-04.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 4,
+          "paragraph": 121,
+          "style": "",
+          "raw": "Sanitation in Korea."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0014",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "How Priests became Genii",
+      "year": 1905,
+      "month": 4,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 4,
+      "printed_page_start": 130,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-04.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 4,
+          "paragraph": 58,
+          "style": "",
+          "raw": "How Priests Became Genii."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0015",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Northern Korea",
+      "year": 1905,
+      "month": 4,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 4,
+      "printed_page_start": 130,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-04.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 4,
+          "paragraph": 110,
+          "style": "",
+          "raw": "Northern Korea."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0016",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Questions and Answers",
+      "year": 1905,
+      "month": 4,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 4,
+      "printed_page_start": 149,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-04.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 4,
+          "paragraph": 135,
+          "style": "",
+          "raw": "Questions and Answers."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0017",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Questions and Answers",
+      "year": 1905,
+      "month": 4,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 4,
+      "printed_page_start": 264,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-04.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 4,
+          "paragraph": 135,
+          "style": "",
+          "raw": "Questions and Answers."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0018",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korea and Japan",
+      "year": 1905,
+      "month": 5,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 5,
+      "printed_page_start": 6,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-05.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 5,
+          "paragraph": 3,
+          "style": "11",
+          "raw": "Korea and Japan."
+        },
+        {
+          "month": 5,
+          "paragraph": 10,
+          "style": "1",
+          "raw": "Korea and Japan."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0019",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean Business Life",
+      "year": 1905,
+      "month": 6,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 6,
+      "printed_page_start": 210,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-06.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 6,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "Korean Business Life"
+        },
+        {
+          "month": 6,
+          "paragraph": 71,
+          "style": "1",
+          "raw": "Korean Business Life"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0020",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Fiercer than the Tiger",
+      "year": 1905,
+      "month": 7,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 7,
+      "printed_page_start": 26,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-07.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 7,
+          "paragraph": 7,
+          "style": "11",
+          "raw": "Fiercer Than the Tiger."
+        },
+        {
+          "month": 7,
+          "paragraph": 83,
+          "style": "1",
+          "raw": "Fiercer Than the Tiger."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0021",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Six hundred Miles Overland",
+      "year": 1905,
+      "month": 7,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 7,
+      "printed_page_start": 241,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-07.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 7,
+          "paragraph": 3,
+          "style": "11",
+          "raw": "Six Hundred Miles Overland."
+        },
+        {
+          "month": 7,
+          "paragraph": 13,
+          "style": "1",
+          "raw": "Six Hundred Miles Overland."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0022",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Japanese Plans for Korea",
+      "year": 1905,
+      "month": 7,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 7,
+      "printed_page_start": 254,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-07.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 7,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Japanese Plans for Korea."
+        },
+        {
+          "month": 7,
+          "paragraph": 46,
+          "style": "1",
+          "raw": "Japanese Plans for Korea."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0023",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Detectives must be the cleverest thieves",
+      "year": 1905,
+      "month": 7,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 7,
+      "printed_page_start": 260,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-07.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 7,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Detectives Must be the Cleverest Thieves."
+        },
+        {
+          "month": 7,
+          "paragraph": 61,
+          "style": "1",
+          "raw": "Detectives Must be the Cleverest Thieves."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0024",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Japanese Finance in Korea",
+      "year": 1905,
+      "month": 8,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 8,
+      "printed_page_start": 208,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-08.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 8,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Japanese Finance in Korea."
+        },
+        {
+          "month": 8,
+          "paragraph": 43,
+          "style": "1",
+          "raw": "Japanese Finance in Korea."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0025",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Missionary Union in Korea",
+      "year": 1905,
+      "month": 9,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 9,
+      "printed_page_start": 34,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-09.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 9,
+          "paragraph": 12,
+          "style": "11",
+          "raw": "Missionary Union in Korea,"
+        },
+        {
+          "month": 9,
+          "paragraph": 82,
+          "style": "1",
+          "raw": "Missionary Union in Korea,"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0026",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Tales of the Road",
+      "year": 1905,
+      "month": 9,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 9,
+      "printed_page_start": 334,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-09.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 9,
+          "paragraph": 8,
+          "style": "11",
+          "raw": "Tales of the Road."
+        },
+        {
+          "month": 9,
+          "paragraph": 58,
+          "style": "1",
+          "raw": "Tales of the Road."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0027",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Japan as a Colonizer",
+      "year": 1905,
+      "month": 10,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 10,
+      "printed_page_start": 361,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-10.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 10,
+          "paragraph": 3,
+          "style": "11",
+          "raw": "Japan as a Colonizer."
+        },
+        {
+          "month": 10,
+          "paragraph": 17,
+          "style": "1",
+          "raw": "Japan as a Colonizer."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0028",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "How Yi Outwitted the Church",
+      "year": 1905,
+      "month": 10,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 10,
+      "printed_page_start": 380,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-10.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 10,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "How Yi Outwitted the Church."
+        },
+        {
+          "month": 10,
+          "paragraph": 56,
+          "style": "1",
+          "raw": "How Yi Outwitted the Church."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0029",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean Bronze",
+      "year": 1905,
+      "month": 10,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 10,
+      "printed_page_start": 384,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-10.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 10,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Korean Bronze."
+        },
+        {
+          "month": 10,
+          "paragraph": 75,
+          "style": "1",
+          "raw": "Korean Bronze."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0030",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean Sociology",
+      "year": 1905,
+      "month": 11,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 11,
+      "printed_page_start": 43,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-11.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 11,
+          "paragraph": 12,
+          "style": "11",
+          "raw": "Korean Sociology."
+        },
+        {
+          "month": 11,
+          "paragraph": 176,
+          "style": "1",
+          "raw": "Korean Sociology."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0031",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Marquis Ito interviewed",
+      "year": 1905,
+      "month": 11,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 11,
+      "printed_page_start": 428,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-11.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 11,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "Marquis Ito Interviewed,"
+        },
+        {
+          "month": 11,
+          "paragraph": 160,
+          "style": "1",
+          "raw": "Marquis Ito Interviewed,"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0032",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korea's Greatest Need",
+      "year": 1905,
+      "month": 12,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 12,
+      "printed_page_start": 153,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-12.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 12,
+          "paragraph": 7,
+          "style": "11",
+          "raw": "Korea’s Greatest Need."
+        },
+        {
+          "month": 12,
+          "paragraph": 110,
+          "style": "1",
+          "raw": "Korea’s Greatest Need."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0033",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Woodcutter Tiger and Rabbit",
+      "year": 1905,
+      "month": 12,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 12,
+      "printed_page_start": 445,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-12.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 12,
+          "paragraph": 4,
+          "style": "11",
+          "raw": "Woodcutter, Tiger, and Rabbit"
+        },
+        {
+          "month": 12,
+          "paragraph": 50,
+          "style": "1",
+          "raw": "Woodcutter, Tiger, and Rabbit"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0034",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Wanted, a Name",
+      "year": 1905,
+      "month": 12,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 12,
+      "printed_page_start": 448,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-12.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 12,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Wanted, A Name"
+        },
+        {
+          "month": 12,
+          "paragraph": 78,
+          "style": "1",
+          "raw": "Wanted, A Name"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0035",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "How Mr. Kim became a Christian",
+      "year": 1905,
+      "month": 12,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 12,
+      "printed_page_start": 457,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-12.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 12,
+          "paragraph": 8,
+          "style": "11",
+          "raw": "How Mr. Kim Became a Christian."
+        },
+        {
+          "month": 12,
+          "paragraph": 122,
+          "style": "1",
+          "raw": "How Mr. Kim Became a Christian."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1905-0036",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "His Father",
+      "year": 1905,
+      "month": 12,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 5,
+      "issue": 12,
+      "printed_page_start": 470,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume5-12.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents05.htm",
+      "source_month_matches": [
+        {
+          "month": 12,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "His Father."
+        },
+        {
+          "month": 12,
+          "paragraph": 185,
+          "style": "1",
+          "raw": "His Father."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    }
+  ]
+}

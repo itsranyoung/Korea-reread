@@ -1,0 +1,262 @@
+{
+  "year": 1905,
+  "source_errors": [],
+  "processed_months": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "published_candidates": 36,
+  "month_counts": {
+    "1": 4,
+    "2": 5,
+    "3": 2,
+    "4": 6,
+    "5": 1,
+    "6": 1,
+    "7": 4,
+    "8": 1,
+    "9": 2,
+    "10": 3,
+    "11": 2,
+    "12": 5
+  },
+  "resolved_by_page_and_source": [],
+  "ambiguous": [],
+  "unmatched": [
+    {
+      "title": "Appreciation, An",
+      "indexed_page": 425
+    },
+    {
+      "title": "Arthur St u rgis Dix ey",
+      "indexed_page": 279
+    },
+    {
+      "title": "Asakawa's Book, Prof",
+      "indexed_page": 13
+    },
+    {
+      "title": "Brown's Farewell Entertainment, Dr",
+      "indexed_page": 424
+    },
+    {
+      "title": "City of Y u ng-By u n",
+      "indexed_page": 134
+    },
+    {
+      "title": "Caves of Kasa",
+      "indexed_page": 292
+    },
+    {
+      "title": "Correction, A",
+      "indexed_page": 304
+    },
+    {
+      "title": "English Society, An",
+      "indexed_page": 25
+    },
+    {
+      "title": "Editorial Comment 63, 26",
+      "indexed_page": 228
+    },
+    {
+      "title": "Exciting Shipwreck Adventure, An",
+      "indexed_page": 325
+    },
+    {
+      "title": "Fragments from Korean Folklore",
+      "indexed_page": 22
+    },
+    {
+      "title": "Hunt for Wild Hogs. A",
+      "indexed_page": 4
+    },
+    {
+      "title": "Hong, Tiger, Mr",
+      "indexed_page": 126
+    },
+    {
+      "title": "Iron Mines of Kang-Wun Province",
+      "indexed_page": 8
+    },
+    {
+      "title": "Korean Mint, A",
+      "indexed_page": 87
+    },
+    {
+      "title": "K orean Forced Labor",
+      "indexed_page": 346
+    },
+    {
+      "title": "Korean Customs Service",
+      "indexed_page": 3
+    },
+    {
+      "title": "K orean Domestic Trade",
+      "indexed_page": 403
+    },
+    {
+      "title": "Koreans in Hawaii",
+      "indexed_page": 4
+    },
+    {
+      "title": "Lively Corpse, A",
+      "indexed_page": 23
+    },
+    {
+      "title": "Making of Pottery. The",
+      "indexed_page": 12
+    },
+    {
+      "title": "Magic Ox Cure, The",
+      "indexed_page": 70
+    },
+    {
+      "title": "M orri son on Korea. Dr",
+      "indexed_page": 201
+    },
+    {
+      "title": "Making of Brass Ware",
+      "indexed_page": 321
+    },
+    {
+      "title": "House department of the Korean Customs Service in November 1905",
+      "indexed_page": 414
+    },
+    {
+      "title": "Magic formula against thieves",
+      "indexed_page": 447
+    },
+    {
+      "title": "Min's Farewell and last appeal to the people, General",
+      "indexed_page": 427
+    },
+    {
+      "title": "Note on ¡°Buford's¡± Communication",
+      "indexed_page": 139
+    },
+    {
+      "title": "Notable Movement in Korea",
+      "indexed_page": 248
+    },
+    {
+      "title": "New Co n vention Between Japan and Korea",
+      "indexed_page": 423
+    },
+    {
+      "title": "Odds and E nds 21",
+      "indexed_page": 58
+    },
+    {
+      "title": "Possible Protectorate, A",
+      "indexed_page": 205
+    },
+    {
+      "title": "Protest, A",
+      "indexed_page": 281
+    },
+    {
+      "title": "Pyeng Yang, A Visit to",
+      "indexed_page": 287
+    },
+    {
+      "title": "Places o f Interest in Korea",
+      "indexed_page": 385
+    },
+    {
+      "title": "Present Situation, The",
+      "indexed_page": 401
+    },
+    {
+      "title": "Rear Admiral Schley on the Litt l e War of 1871",
+      "indexed_page": 97
+    },
+    {
+      "title": "Russo-Japanese Conflict",
+      "indexed_page": 12
+    },
+    {
+      "title": "Seoul- F usan Railway, The",
+      "indexed_page": 16
+    },
+    {
+      "title": "Stone-fight",
+      "indexed_page": 49
+    },
+    {
+      "title": "Serious Disturbance",
+      "indexed_page": 238
+    },
+    {
+      "title": "Sluggard's Cure",
+      "indexed_page": 32
+    },
+    {
+      "title": "Striking Corroboration",
+      "indexed_page": 339
+    },
+    {
+      "title": "S ou rces of Korean History",
+      "indexed_page": 36
+    },
+    {
+      "title": "Top-knot, The",
+      "indexed_page": 25
+    },
+    {
+      "title": "Tenth Scion, The",
+      "indexed_page": 4
+    },
+    {
+      "title": "Tiger That Laughed, A",
+      "indexed_page": 467
+    },
+    {
+      "title": "Unworded bequest. An",
+      "indexed_page": 214
+    },
+    {
+      "title": "Unknown Land, An",
+      "indexed_page": 22
+    },
+    {
+      "title": "Unvarnished Tale, An",
+      "indexed_page": 330
+    },
+    {
+      "title": "Visit to Quelpart, A",
+      "indexed_page": 172
+    },
+    {
+      "title": "Visit to Quelpart, A",
+      "indexed_page": 215
+    },
+    {
+      "title": "Visit to Pyeng Yang, A",
+      "indexed_page": 287
+    },
+    {
+      "title": "Visit, Miss Rossevelt s",
+      "indexed_page": 33
+    },
+    {
+      "title": "Woman's Wit, A",
+      "indexed_page": 54
+    },
+    {
+      "title": "War in N. E. Korea",
+      "indexed_page": 113
+    }
+  ],
+  "warning": "False title matches are possible; publication pending editorial review."
+}

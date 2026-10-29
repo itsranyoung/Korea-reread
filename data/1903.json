@@ -1,0 +1,2183 @@
+{
+  "year": 1903,
+  "status": "provisional_monthly_article_candidates_not_human_verified",
+  "warning": "Annual alphabetical index contains subject headings, repeats, and continuation references. This is not a complete article bibliography.",
+  "method": "Unique standalone-paragraph normalized title match in original monthly DOCX; excludes repeat section headings.",
+  "source_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+  "records": [
+    {
+      "id": "kr-1903-0001",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 1,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 1,
+      "printed_page_start": 33,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-01.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 184,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 173,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 174,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 269,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 132,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 190,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 186,
+          "style": "",
+          "raw": "Korean History"
+        },
+        {
+          "month": 8,
+          "paragraph": 214,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 213,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 327,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 543,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 177,
+          "style": "",
+          "raw": "Korean History."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0002",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "The Korean New Year",
+      "year": 1903,
+      "month": 2,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 3,
+      "issue": 2,
+      "printed_page_start": 49,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-02.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 2,
+          "paragraph": 16,
+          "style": "",
+          "raw": "The Korean New Year"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0003",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "The Korean Physical Type",
+      "year": 1903,
+      "month": 2,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 3,
+      "issue": 2,
+      "printed_page_start": 55,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-02.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 2,
+          "paragraph": 41,
+          "style": "",
+          "raw": "The Korean Physical Type."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0004",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 2,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 2,
+      "printed_page_start": 81,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-02.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 184,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 173,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 174,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 269,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 132,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 190,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 186,
+          "style": "",
+          "raw": "Korean History"
+        },
+        {
+          "month": 8,
+          "paragraph": 214,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 213,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 327,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 543,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 177,
+          "style": "",
+          "raw": "Korean History."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0005",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Question and Answer",
+      "year": 1903,
+      "month": 3,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 3,
+      "printed_page_start": 114,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-03.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 3,
+          "paragraph": 83,
+          "style": "",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 4,
+          "paragraph": 78,
+          "style": "",
+          "raw": "Question and Answer."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0006",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 3,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 3,
+      "printed_page_start": 129,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-03.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 184,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 173,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 174,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 269,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 132,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 190,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 186,
+          "style": "",
+          "raw": "Korean History"
+        },
+        {
+          "month": 8,
+          "paragraph": 214,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 213,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 327,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 543,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 177,
+          "style": "",
+          "raw": "Korean History."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0007",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "The Bridges and Wells of Seoul",
+      "year": 1903,
+      "month": 3,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 3,
+      "issue": 3,
+      "printed_page_start": 140,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-03.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 3,
+          "paragraph": 54,
+          "style": "",
+          "raw": "The Bridges and Wells of Seoul."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0008",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "The Hun-min Chong-eum",
+      "year": 1903,
+      "month": 4,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 4,
+      "printed_page_start": 154,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-04.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 4,
+          "paragraph": 52,
+          "style": "",
+          "raw": "The Hun-min Chong-eum."
+        },
+        {
+          "month": 5,
+          "paragraph": 59,
+          "style": "",
+          "raw": "The Hun-min Chong-eum."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0009",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Question and Answer",
+      "year": 1903,
+      "month": 4,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 4,
+      "printed_page_start": 160,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-04.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 3,
+          "paragraph": 83,
+          "style": "",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 4,
+          "paragraph": 78,
+          "style": "",
+          "raw": "Question and Answer."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0010",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 4,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 4,
+      "printed_page_start": 177,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-04.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 184,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 173,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 174,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 269,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 132,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 190,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 186,
+          "style": "",
+          "raw": "Korean History"
+        },
+        {
+          "month": 8,
+          "paragraph": 214,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 213,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 327,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 543,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 177,
+          "style": "",
+          "raw": "Korean History."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0011",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "The Privileges of the Capital",
+      "year": 1903,
+      "month": 5,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 3,
+      "issue": 5,
+      "printed_page_start": 193,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-05.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 5,
+          "paragraph": 11,
+          "style": "",
+          "raw": "The Privileges of the Capital."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0012",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Mudang and Pansu",
+      "year": 1903,
+      "month": 5,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 5,
+      "printed_page_start": 203,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-05.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 5,
+          "paragraph": 45,
+          "style": "",
+          "raw": "Mudang and Pansu"
+        },
+        {
+          "month": 6,
+          "paragraph": 86,
+          "style": "",
+          "raw": "Mudang and Pansu."
+        },
+        {
+          "month": 7,
+          "paragraph": 71,
+          "style": "",
+          "raw": "Mudang and Pansu."
+        },
+        {
+          "month": 8,
+          "paragraph": 27,
+          "style": "",
+          "raw": "Mudang and Pansu."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0013",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "The Hun-min Chong-eum",
+      "year": 1903,
+      "month": 5,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 5,
+      "printed_page_start": 208,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-05.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 4,
+          "paragraph": 52,
+          "style": "",
+          "raw": "The Hun-min Chong-eum."
+        },
+        {
+          "month": 5,
+          "paragraph": 59,
+          "style": "",
+          "raw": "The Hun-min Chong-eum."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0014",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Across Siberia by Rail",
+      "year": 1903,
+      "month": 5,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 5,
+      "printed_page_start": 218,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-05.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 5,
+          "paragraph": 93,
+          "style": "",
+          "raw": "Across Siberia By Rail"
+        },
+        {
+          "month": 6,
+          "paragraph": 77,
+          "style": "",
+          "raw": "Across Siberia by Rail."
+        },
+        {
+          "month": 7,
+          "paragraph": 91,
+          "style": "",
+          "raw": "Across Siberia by Rail."
+        },
+        {
+          "month": 8,
+          "paragraph": 57,
+          "style": "",
+          "raw": "Across Siberia by Rail."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0015",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 5,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 5,
+      "printed_page_start": 225,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-05.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 184,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 173,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 174,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 269,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 132,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 190,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 186,
+          "style": "",
+          "raw": "Korean History"
+        },
+        {
+          "month": 8,
+          "paragraph": 214,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 213,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 327,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 543,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 177,
+          "style": "",
+          "raw": "Korean History."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0016",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Across Siberia by Rail",
+      "year": 1903,
+      "month": 6,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 6,
+      "printed_page_start": 253,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-06.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 5,
+          "paragraph": 93,
+          "style": "",
+          "raw": "Across Siberia By Rail"
+        },
+        {
+          "month": 6,
+          "paragraph": 77,
+          "style": "",
+          "raw": "Across Siberia by Rail."
+        },
+        {
+          "month": 7,
+          "paragraph": 91,
+          "style": "",
+          "raw": "Across Siberia by Rail."
+        },
+        {
+          "month": 8,
+          "paragraph": 57,
+          "style": "",
+          "raw": "Across Siberia by Rail."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0017",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Mudang and Pansu",
+      "year": 1903,
+      "month": 6,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 6,
+      "printed_page_start": 257,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-06.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 5,
+          "paragraph": 45,
+          "style": "",
+          "raw": "Mudang and Pansu"
+        },
+        {
+          "month": 6,
+          "paragraph": 86,
+          "style": "",
+          "raw": "Mudang and Pansu."
+        },
+        {
+          "month": 7,
+          "paragraph": 71,
+          "style": "",
+          "raw": "Mudang and Pansu."
+        },
+        {
+          "month": 8,
+          "paragraph": 27,
+          "style": "",
+          "raw": "Mudang and Pansu."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0018",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Thorn Fence Island",
+      "year": 1903,
+      "month": 6,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 3,
+      "issue": 6,
+      "printed_page_start": 262,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-06.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 6,
+          "paragraph": 107,
+          "style": "",
+          "raw": "Thorn fence Island"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0019",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 6,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 6,
+      "printed_page_start": 273,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-06.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 184,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 173,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 174,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 269,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 132,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 190,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 186,
+          "style": "",
+          "raw": "Korean History"
+        },
+        {
+          "month": 8,
+          "paragraph": 214,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 213,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 327,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 543,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 177,
+          "style": "",
+          "raw": "Korean History."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0020",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean and Formosan",
+      "year": 1903,
+      "month": 7,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 3,
+      "issue": 7,
+      "printed_page_start": 289,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-07.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 7,
+          "paragraph": 11,
+          "style": "",
+          "raw": "Korean and Formosan."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0021",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean Relations with Japan",
+      "year": 1903,
+      "month": 7,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 7,
+      "printed_page_start": 294,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-07.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 7,
+          "paragraph": 33,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        },
+        {
+          "month": 8,
+          "paragraph": 40,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        },
+        {
+          "month": 9,
+          "paragraph": 77,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        },
+        {
+          "month": 10,
+          "paragraph": 148,
+          "style": "",
+          "raw": "Korean Relations with Japan"
+        },
+        {
+          "month": 11,
+          "paragraph": 52,
+          "style": "",
+          "raw": "Korean Relations with Japan"
+        },
+        {
+          "month": 12,
+          "paragraph": 38,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0022",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Mudang and Pansu",
+      "year": 1903,
+      "month": 7,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 7,
+      "printed_page_start": 301,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-07.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 5,
+          "paragraph": 45,
+          "style": "",
+          "raw": "Mudang and Pansu"
+        },
+        {
+          "month": 6,
+          "paragraph": 86,
+          "style": "",
+          "raw": "Mudang and Pansu."
+        },
+        {
+          "month": 7,
+          "paragraph": 71,
+          "style": "",
+          "raw": "Mudang and Pansu."
+        },
+        {
+          "month": 8,
+          "paragraph": 27,
+          "style": "",
+          "raw": "Mudang and Pansu."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0023",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Across Siberia by Rail",
+      "year": 1903,
+      "month": 7,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 7,
+      "printed_page_start": 305,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-07.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 5,
+          "paragraph": 93,
+          "style": "",
+          "raw": "Across Siberia By Rail"
+        },
+        {
+          "month": 6,
+          "paragraph": 77,
+          "style": "",
+          "raw": "Across Siberia by Rail."
+        },
+        {
+          "month": 7,
+          "paragraph": 91,
+          "style": "",
+          "raw": "Across Siberia by Rail."
+        },
+        {
+          "month": 8,
+          "paragraph": 57,
+          "style": "",
+          "raw": "Across Siberia by Rail."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0024",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 7,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 7,
+      "printed_page_start": 321,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-07.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 184,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 173,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 174,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 269,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 132,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 190,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 186,
+          "style": "",
+          "raw": "Korean History"
+        },
+        {
+          "month": 8,
+          "paragraph": 214,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 213,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 327,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 543,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 177,
+          "style": "",
+          "raw": "Korean History."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0025",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Mudang and Pansu",
+      "year": 1903,
+      "month": 8,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 8,
+      "printed_page_start": 342,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 5,
+          "paragraph": 45,
+          "style": "",
+          "raw": "Mudang and Pansu"
+        },
+        {
+          "month": 6,
+          "paragraph": 86,
+          "style": "",
+          "raw": "Mudang and Pansu."
+        },
+        {
+          "month": 7,
+          "paragraph": 71,
+          "style": "",
+          "raw": "Mudang and Pansu."
+        },
+        {
+          "month": 8,
+          "paragraph": 27,
+          "style": "",
+          "raw": "Mudang and Pansu."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0026",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean Relations with Japan",
+      "year": 1903,
+      "month": 8,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 8,
+      "printed_page_start": 347,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 7,
+          "paragraph": 33,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        },
+        {
+          "month": 8,
+          "paragraph": 40,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        },
+        {
+          "month": 9,
+          "paragraph": 77,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        },
+        {
+          "month": 10,
+          "paragraph": 148,
+          "style": "",
+          "raw": "Korean Relations with Japan"
+        },
+        {
+          "month": 11,
+          "paragraph": 52,
+          "style": "",
+          "raw": "Korean Relations with Japan"
+        },
+        {
+          "month": 12,
+          "paragraph": 38,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0027",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Across Siberia by Rail",
+      "year": 1903,
+      "month": 8,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 8,
+      "printed_page_start": 349,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 5,
+          "paragraph": 93,
+          "style": "",
+          "raw": "Across Siberia By Rail"
+        },
+        {
+          "month": 6,
+          "paragraph": 77,
+          "style": "",
+          "raw": "Across Siberia by Rail."
+        },
+        {
+          "month": 7,
+          "paragraph": 91,
+          "style": "",
+          "raw": "Across Siberia by Rail."
+        },
+        {
+          "month": 8,
+          "paragraph": 57,
+          "style": "",
+          "raw": "Across Siberia by Rail."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0028",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Kwan-ak Mountain",
+      "year": 1903,
+      "month": 8,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 3,
+      "issue": 8,
+      "printed_page_start": 357,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 8,
+          "paragraph": 84,
+          "style": "",
+          "raw": "Kwan-ak Mountain"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0029",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 8,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 8,
+      "printed_page_start": 369,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-08.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 184,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 173,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 174,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 269,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 132,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 190,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 186,
+          "style": "",
+          "raw": "Korean History"
+        },
+        {
+          "month": 8,
+          "paragraph": 214,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 213,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 327,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 543,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 177,
+          "style": "",
+          "raw": "Korean History."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0030",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "The Taiku Dispensary",
+      "year": 1903,
+      "month": 9,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 3,
+      "issue": 9,
+      "printed_page_start": 389,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-09.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 9,
+          "paragraph": 36,
+          "style": "",
+          "raw": "The Taiku Dispensary."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0031",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean Relations with Japan",
+      "year": 1903,
+      "month": 9,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 9,
+      "printed_page_start": 394,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-09.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 7,
+          "paragraph": 33,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        },
+        {
+          "month": 8,
+          "paragraph": 40,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        },
+        {
+          "month": 9,
+          "paragraph": 77,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        },
+        {
+          "month": 10,
+          "paragraph": 148,
+          "style": "",
+          "raw": "Korean Relations with Japan"
+        },
+        {
+          "month": 11,
+          "paragraph": 52,
+          "style": "",
+          "raw": "Korean Relations with Japan"
+        },
+        {
+          "month": 12,
+          "paragraph": 38,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0032",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "The Boats of Sung-jin",
+      "year": 1903,
+      "month": 9,
+      "month_status": "unique_standalone_title_line_machine_match",
+      "volume": 3,
+      "issue": 9,
+      "printed_page_start": 405,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-09.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 9,
+          "paragraph": 118,
+          "style": "",
+          "raw": "The boats of Sung-jin"
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0033",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 9,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 9,
+      "printed_page_start": 413,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-09.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 184,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 173,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 174,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 269,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 132,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 190,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 186,
+          "style": "",
+          "raw": "Korean History"
+        },
+        {
+          "month": 8,
+          "paragraph": 214,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 213,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 327,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 543,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 177,
+          "style": "",
+          "raw": "Korean History."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0034",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 9,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 9,
+      "printed_page_start": 417,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-09.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 184,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 173,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 174,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 269,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 132,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 190,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 186,
+          "style": "",
+          "raw": "Korean History"
+        },
+        {
+          "month": 8,
+          "paragraph": 214,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 213,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 327,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 543,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 177,
+          "style": "",
+          "raw": "Korean History."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0035",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean Relations with Japan",
+      "year": 1903,
+      "month": 10,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 10,
+      "printed_page_start": 438,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-10.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 7,
+          "paragraph": 33,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        },
+        {
+          "month": 8,
+          "paragraph": 40,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        },
+        {
+          "month": 9,
+          "paragraph": 77,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        },
+        {
+          "month": 10,
+          "paragraph": 148,
+          "style": "",
+          "raw": "Korean Relations with Japan"
+        },
+        {
+          "month": 11,
+          "paragraph": 52,
+          "style": "",
+          "raw": "Korean Relations with Japan"
+        },
+        {
+          "month": 12,
+          "paragraph": 38,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0036",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 10,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 10,
+      "printed_page_start": 465,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-10.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 184,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 173,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 174,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 269,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 132,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 190,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 186,
+          "style": "",
+          "raw": "Korean History"
+        },
+        {
+          "month": 8,
+          "paragraph": 214,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 213,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 327,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 543,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 177,
+          "style": "",
+          "raw": "Korean History."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0037",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean Relations with Japan",
+      "year": 1903,
+      "month": 11,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 11,
+      "printed_page_start": 492,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-11.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 7,
+          "paragraph": 33,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        },
+        {
+          "month": 8,
+          "paragraph": 40,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        },
+        {
+          "month": 9,
+          "paragraph": 77,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        },
+        {
+          "month": 10,
+          "paragraph": 148,
+          "style": "",
+          "raw": "Korean Relations with Japan"
+        },
+        {
+          "month": 11,
+          "paragraph": 52,
+          "style": "",
+          "raw": "Korean Relations with Japan"
+        },
+        {
+          "month": 12,
+          "paragraph": 38,
+          "style": "",
+          "raw": "Korean Relations with Japan."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    },
+    {
+      "id": "kr-1903-0038",
+      "record_type": "annual_index_title_month_candidate",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 12,
+      "month_status": "page_and_monthly_docx_correlated_candidate",
+      "volume": 3,
+      "issue": 12,
+      "printed_page_start": 561,
+      "source_url": "https://anthony.sogang.ac.kr/KoreaReview/KoreaReviewVolume3-12.docx",
+      "metadata_status": "monthly_docx_title_match_requires_human_article_and_page_verification",
+      "transcription_status": "not_processed",
+      "entity_status": "not_processed",
+      "summary_status": "not_processed",
+      "human_review_status": "pending",
+      "annual_index_url": "https://anthony.sogang.ac.kr/KoreaReview/Contents03.htm",
+      "source_month_matches": [
+        {
+          "month": 1,
+          "paragraph": 184,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 173,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 174,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 269,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 132,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 190,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 186,
+          "style": "",
+          "raw": "Korean History"
+        },
+        {
+          "month": 8,
+          "paragraph": 214,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 213,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 327,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 543,
+          "style": "",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 177,
+          "style": "",
+          "raw": "Korean History."
+        }
+      ],
+      "source_page_verified": false,
+      "title_verified_against_print_scan": false
+    }
+  ]
+}
