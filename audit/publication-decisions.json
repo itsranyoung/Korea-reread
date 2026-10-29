@@ -1,0 +1,2194 @@
+{
+  "published_count": 116,
+  "excluded_count": 215,
+  "excluded": [
+    {
+      "id": "kr-1901-014",
+      "title": "The Korean Nobility",
+      "year": 1901,
+      "month": 4,
+      "printed_page_start": 164,
+      "reasons": [
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1901-021",
+      "title": "The Ni-T’u",
+      "year": 1901,
+      "month": 7,
+      "printed_page_start": 289,
+      "reasons": [
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1901-023",
+      "title": "The Korea Branch of the R.A.S.",
+      "year": 1901,
+      "month": 8,
+      "printed_page_start": 337,
+      "reasons": [
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1901-026",
+      "title": "The Seoul Water-Works",
+      "year": 1901,
+      "month": 9,
+      "printed_page_start": 385,
+      "reasons": [
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1901-029",
+      "title": "A Notable Book on China",
+      "year": 1901,
+      "month": 10,
+      "printed_page_start": 433,
+      "reasons": [
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1901-035",
+      "title": "The Status of Woman in Korea",
+      "year": 1901,
+      "month": 12,
+      "printed_page_start": 529,
+      "reasons": [
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1902-0001",
+      "title": "A Beggar's Wages",
+      "year": 1902,
+      "month": 1,
+      "printed_page_start": 8,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0002",
+      "title": "A Cuttle Fish Story",
+      "year": 1902,
+      "month": 1,
+      "printed_page_start": 17,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0003",
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 1,
+      "printed_page_start": 17,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0004",
+      "title": "The Hanging Stone",
+      "year": 1902,
+      "month": 1,
+      "printed_page_start": 18,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0005",
+      "title": "A Hunter's Mistake",
+      "year": 1902,
+      "month": 1,
+      "printed_page_start": 19,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0006",
+      "title": "The donkey- maker",
+      "year": 1902,
+      "month": 1,
+      "printed_page_start": 20,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0007",
+      "title": "Question and Answer",
+      "year": 1902,
+      "month": 1,
+      "printed_page_start": 21,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0008",
+      "title": "Korean History",
+      "year": 1902,
+      "month": 1,
+      "printed_page_start": 33,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0009",
+      "title": "The Products of Korea",
+      "year": 1902,
+      "month": 2,
+      "printed_page_start": 49,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0010",
+      "title": "An Island without a Sea",
+      "year": 1902,
+      "month": 2,
+      "printed_page_start": 59,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0011",
+      "title": "A School for the Native Character",
+      "year": 1902,
+      "month": 2,
+      "printed_page_start": 63,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0012",
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 2,
+      "printed_page_start": 65,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0013",
+      "title": "Question and Answer",
+      "year": 1902,
+      "month": 2,
+      "printed_page_start": 66,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0014",
+      "title": "Korean History",
+      "year": 1902,
+      "month": 2,
+      "printed_page_start": 81,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0015",
+      "title": "The Products of Korea",
+      "year": 1902,
+      "month": 3,
+      "printed_page_start": 103,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0016",
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 3,
+      "printed_page_start": 112,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0017",
+      "title": "Question and Answer",
+      "year": 1902,
+      "month": 3,
+      "printed_page_start": 115,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0018",
+      "title": "Korean History",
+      "year": 1902,
+      "month": 3,
+      "printed_page_start": 129,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0019",
+      "title": "The Status of Woman",
+      "year": 1902,
+      "month": 4,
+      "printed_page_start": 1,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0020",
+      "title": "Slavery in Korea",
+      "year": 1902,
+      "month": 4,
+      "printed_page_start": 149,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0021",
+      "title": "Where the Indian Came from",
+      "year": 1902,
+      "month": 4,
+      "printed_page_start": 159,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0022",
+      "title": "Electric Shocks",
+      "year": 1902,
+      "month": 4,
+      "printed_page_start": 164,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0023",
+      "title": "How Bribery began",
+      "year": 1902,
+      "month": 4,
+      "printed_page_start": 164,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0024",
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 4,
+      "printed_page_start": 164,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0025",
+      "title": "A Korean Canute",
+      "year": 1902,
+      "month": 4,
+      "printed_page_start": 165,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0026",
+      "title": "Korean History",
+      "year": 1902,
+      "month": 4,
+      "printed_page_start": 177,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0027",
+      "title": "Necessity the Mother of Invention",
+      "year": 1902,
+      "month": 5,
+      "printed_page_start": 193,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0028",
+      "title": "Remusat on the Korean Alphabet",
+      "year": 1902,
+      "month": 5,
+      "printed_page_start": 198,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0029",
+      "title": "The Products of Korea",
+      "year": 1902,
+      "month": 5,
+      "printed_page_start": 203,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0030",
+      "title": "Odds and Ends",
+      "year": 1902,
+      "month": 5,
+      "printed_page_start": 208,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0031",
+      "title": "The Essence of life",
+      "year": 1902,
+      "month": 5,
+      "printed_page_start": 209,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0032",
+      "title": "Burial Customs",
+      "year": 1902,
+      "month": 6,
+      "printed_page_start": 241,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0033",
+      "title": "Japanese Banking in Korea",
+      "year": 1902,
+      "month": 6,
+      "printed_page_start": 250,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0034",
+      "title": "A Look Beyond",
+      "year": 1902,
+      "month": 6,
+      "printed_page_start": 261,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0035",
+      "title": "Korean Fiction",
+      "year": 1902,
+      "month": 7,
+      "printed_page_start": 286,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0036",
+      "title": "Burial Customs",
+      "year": 1902,
+      "month": 7,
+      "printed_page_start": 294,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0037",
+      "title": "Buck-wheat",
+      "year": 1902,
+      "month": 7,
+      "printed_page_start": 301,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0038",
+      "title": "A Government Stock Farm",
+      "year": 1902,
+      "month": 7,
+      "printed_page_start": 306,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0039",
+      "title": "Korean Currency",
+      "year": 1902,
+      "month": 8,
+      "printed_page_start": 337,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0040",
+      "title": "Persimmons",
+      "year": 1902,
+      "month": 8,
+      "printed_page_start": 341,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0041",
+      "title": "An Aesculapian Episode",
+      "year": 1902,
+      "month": 8,
+      "printed_page_start": 345,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0042",
+      "title": "Crab-apples",
+      "year": 1902,
+      "month": 8,
+      "printed_page_start": 345,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0043",
+      "title": "The Marks of Royalty",
+      "year": 1902,
+      "month": 8,
+      "printed_page_start": 351,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0044",
+      "title": "A Jade Bowl",
+      "year": 1902,
+      "month": 8,
+      "printed_page_start": 352,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0045",
+      "title": "The doom deferred",
+      "year": 1902,
+      "month": 8,
+      "printed_page_start": 352,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0046",
+      "title": "The Twin Jade flutes",
+      "year": 1902,
+      "month": 9,
+      "printed_page_start": 386,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0047",
+      "title": "The Golden Buddha",
+      "year": 1902,
+      "month": 9,
+      "printed_page_start": 388,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0048",
+      "title": "The Nine Story Pagoda",
+      "year": 1902,
+      "month": 9,
+      "printed_page_start": 388,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0049",
+      "title": "Korean Currency",
+      "year": 1902,
+      "month": 9,
+      "printed_page_start": 389,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0050",
+      "title": "Chestnuts",
+      "year": 1902,
+      "month": 9,
+      "printed_page_start": 393,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0051",
+      "title": "Pine nuts",
+      "year": 1902,
+      "month": 9,
+      "printed_page_start": 396,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0052",
+      "title": "Cats and the Dead",
+      "year": 1902,
+      "month": 9,
+      "printed_page_start": 401,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0053",
+      "title": "Crow-talk",
+      "year": 1902,
+      "month": 9,
+      "printed_page_start": 403,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0054",
+      "title": "A Convert to Buddhism",
+      "year": 1902,
+      "month": 9,
+      "printed_page_start": 404,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0055",
+      "title": "Things are not what they seem",
+      "year": 1902,
+      "month": 10,
+      "printed_page_start": 450,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0056",
+      "title": "Not dead yet",
+      "year": 1902,
+      "month": 10,
+      "printed_page_start": 452,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0057",
+      "title": "Expert Archery",
+      "year": 1902,
+      "month": 10,
+      "printed_page_start": 453,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0058",
+      "title": "Taxation in Korea",
+      "year": 1902,
+      "month": 11,
+      "printed_page_start": 481,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0059",
+      "title": "A Leaf from Korean Astrology",
+      "year": 1902,
+      "month": 11,
+      "printed_page_start": 491,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0060",
+      "title": "A Leaf from Korean Astrology",
+      "year": 1902,
+      "month": 12,
+      "printed_page_start": 529,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1902-0061",
+      "title": "The Ancient Kingdom of Karak",
+      "year": 1902,
+      "month": 12,
+      "printed_page_start": 541,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0001",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 1,
+      "printed_page_start": 33,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0002",
+      "title": "The Korean New Year",
+      "year": 1903,
+      "month": 2,
+      "printed_page_start": 49,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0003",
+      "title": "The Korean Physical Type",
+      "year": 1903,
+      "month": 2,
+      "printed_page_start": 55,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0004",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 2,
+      "printed_page_start": 81,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0005",
+      "title": "Question and Answer",
+      "year": 1903,
+      "month": 3,
+      "printed_page_start": 114,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0006",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 3,
+      "printed_page_start": 129,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0007",
+      "title": "The Bridges and Wells of Seoul",
+      "year": 1903,
+      "month": 3,
+      "printed_page_start": 140,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0008",
+      "title": "The Hun-min Chong-eum",
+      "year": 1903,
+      "month": 4,
+      "printed_page_start": 154,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0009",
+      "title": "Question and Answer",
+      "year": 1903,
+      "month": 4,
+      "printed_page_start": 160,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0010",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 4,
+      "printed_page_start": 177,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0011",
+      "title": "The Privileges of the Capital",
+      "year": 1903,
+      "month": 5,
+      "printed_page_start": 193,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0012",
+      "title": "Mudang and Pansu",
+      "year": 1903,
+      "month": 5,
+      "printed_page_start": 203,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0013",
+      "title": "The Hun-min Chong-eum",
+      "year": 1903,
+      "month": 5,
+      "printed_page_start": 208,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0014",
+      "title": "Across Siberia by Rail",
+      "year": 1903,
+      "month": 5,
+      "printed_page_start": 218,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0015",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 5,
+      "printed_page_start": 225,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0016",
+      "title": "Across Siberia by Rail",
+      "year": 1903,
+      "month": 6,
+      "printed_page_start": 253,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0017",
+      "title": "Mudang and Pansu",
+      "year": 1903,
+      "month": 6,
+      "printed_page_start": 257,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0018",
+      "title": "Thorn Fence Island",
+      "year": 1903,
+      "month": 6,
+      "printed_page_start": 262,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0019",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 6,
+      "printed_page_start": 273,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0020",
+      "title": "Korean and Formosan",
+      "year": 1903,
+      "month": 7,
+      "printed_page_start": 289,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0021",
+      "title": "Korean Relations with Japan",
+      "year": 1903,
+      "month": 7,
+      "printed_page_start": 294,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0022",
+      "title": "Mudang and Pansu",
+      "year": 1903,
+      "month": 7,
+      "printed_page_start": 301,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0023",
+      "title": "Across Siberia by Rail",
+      "year": 1903,
+      "month": 7,
+      "printed_page_start": 305,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0024",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 7,
+      "printed_page_start": 321,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0025",
+      "title": "Mudang and Pansu",
+      "year": 1903,
+      "month": 8,
+      "printed_page_start": 342,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0026",
+      "title": "Korean Relations with Japan",
+      "year": 1903,
+      "month": 8,
+      "printed_page_start": 347,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0027",
+      "title": "Across Siberia by Rail",
+      "year": 1903,
+      "month": 8,
+      "printed_page_start": 349,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0028",
+      "title": "Kwan-ak Mountain",
+      "year": 1903,
+      "month": 8,
+      "printed_page_start": 357,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0029",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 8,
+      "printed_page_start": 369,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0030",
+      "title": "The Taiku Dispensary",
+      "year": 1903,
+      "month": 9,
+      "printed_page_start": 389,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0031",
+      "title": "Korean Relations with Japan",
+      "year": 1903,
+      "month": 9,
+      "printed_page_start": 394,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0032",
+      "title": "The Boats of Sung-jin",
+      "year": 1903,
+      "month": 9,
+      "printed_page_start": 405,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0033",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 9,
+      "printed_page_start": 413,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0034",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 9,
+      "printed_page_start": 417,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0035",
+      "title": "Korean Relations with Japan",
+      "year": 1903,
+      "month": 10,
+      "printed_page_start": 438,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0036",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 10,
+      "printed_page_start": 465,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0037",
+      "title": "Korean Relations with Japan",
+      "year": 1903,
+      "month": 11,
+      "printed_page_start": 492,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1903-0038",
+      "title": "Korean History",
+      "year": 1903,
+      "month": 12,
+      "printed_page_start": 561,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-001",
+      "title": "A Point of Ethics",
+      "year": 1904,
+      "month": 1,
+      "printed_page_start": 1,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-002",
+      "title": "The Late Queen Dowager",
+      "year": 1904,
+      "month": 1,
+      "printed_page_start": 6,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-003",
+      "title": "Korean Relations with Japan",
+      "year": 1904,
+      "month": 1,
+      "printed_page_start": 9,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-004",
+      "title": "Retrospect of 1903",
+      "year": 1904,
+      "month": 1,
+      "printed_page_start": 13,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-005",
+      "title": "Odds and Ends",
+      "year": 1904,
+      "month": 1,
+      "printed_page_start": 20,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-010",
+      "title": "History of Korea",
+      "year": 1904,
+      "month": 1,
+      "printed_page_start": 33,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-045",
+      "title": "Editorials",
+      "year": 1904,
+      "month": 1,
+      "printed_page_start": 23,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-055",
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 1,
+      "printed_page_start": 24,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-006",
+      "title": "The Russo-Japanese War",
+      "year": 1904,
+      "month": 2,
+      "printed_page_start": 49,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-007",
+      "title": "The Battle of Chemulpo",
+      "year": 1904,
+      "month": 2,
+      "printed_page_start": 53,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-008",
+      "title": "The Ajun",
+      "year": 1904,
+      "month": 2,
+      "printed_page_start": 63,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-009",
+      "title": "Korean Neutrality",
+      "year": 1904,
+      "month": 2,
+      "printed_page_start": 70,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-011",
+      "title": "History of Korea",
+      "year": 1904,
+      "month": 2,
+      "printed_page_start": 81,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-022",
+      "title": "Decadent Korea",
+      "year": 1904,
+      "month": 2,
+      "printed_page_start": 75,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-046",
+      "title": "Editorials",
+      "year": 1904,
+      "month": 2,
+      "printed_page_start": 70,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-056",
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 2,
+      "printed_page_start": 77,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-012",
+      "title": "History of Korea",
+      "year": 1904,
+      "month": 3,
+      "printed_page_start": 129,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-023",
+      "title": "The New Book on Korea",
+      "year": 1904,
+      "month": 3,
+      "printed_page_start": 109,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-057",
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 3,
+      "printed_page_start": 120,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-013",
+      "title": "History of Korea",
+      "year": 1904,
+      "month": 4,
+      "printed_page_start": 177,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-024",
+      "title": "The Burning of the Palace",
+      "year": 1904,
+      "month": 4,
+      "printed_page_start": 155,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-025",
+      "title": "Condition of Korea",
+      "year": 1904,
+      "month": 4,
+      "printed_page_start": 163,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-026",
+      "title": "The Vanguard",
+      "year": 1904,
+      "month": 4,
+      "printed_page_start": 170,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-047",
+      "title": "Editorials",
+      "year": 1904,
+      "month": 4,
+      "printed_page_start": 168,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-058",
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 4,
+      "printed_page_start": 172,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-014",
+      "title": "History of Korea",
+      "year": 1904,
+      "month": 5,
+      "printed_page_start": 225,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-027",
+      "title": "The Wonsan Incident",
+      "year": 1904,
+      "month": 5,
+      "printed_page_start": 204,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-028",
+      "title": "Map Making",
+      "year": 1904,
+      "month": 5,
+      "printed_page_start": 211,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-029",
+      "title": "Battle of Kang-gye",
+      "year": 1904,
+      "month": 5,
+      "printed_page_start": 214,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-030",
+      "title": "Fifteen Years Among the Top-knots",
+      "year": 1904,
+      "month": 5,
+      "printed_page_start": 215,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-059",
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 5,
+      "printed_page_start": 216,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-015",
+      "title": "History of Korea",
+      "year": 1904,
+      "month": 6,
+      "printed_page_start": 273,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-031",
+      "title": "The Oldest Relic in Korea",
+      "year": 1904,
+      "month": 6,
+      "printed_page_start": 255,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-048",
+      "title": "Editorials",
+      "year": 1904,
+      "month": 6,
+      "printed_page_start": 260,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-060",
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 6,
+      "printed_page_start": 261,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-016",
+      "title": "History of Korea",
+      "year": 1904,
+      "month": 7,
+      "printed_page_start": 321,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-032",
+      "title": "Japanese Industrial Projects in Korea",
+      "year": 1904,
+      "month": 7,
+      "printed_page_start": 289,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-033",
+      "title": "A Ten Thousand Year Bridge",
+      "year": 1904,
+      "month": 7,
+      "printed_page_start": 305,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-049",
+      "title": "Editorials",
+      "year": 1904,
+      "month": 7,
+      "printed_page_start": 306,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-061",
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 7,
+      "printed_page_start": 312,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-017",
+      "title": "History of Korea",
+      "year": 1904,
+      "month": 8,
+      "printed_page_start": 369,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-034",
+      "title": "Fusion of Korean Society",
+      "year": 1904,
+      "month": 8,
+      "printed_page_start": 337,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-035",
+      "title": "What Korea Owes Japan",
+      "year": 1904,
+      "month": 8,
+      "printed_page_start": 350,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-036",
+      "title": "Code Penal de la Coree",
+      "year": 1904,
+      "month": 8,
+      "printed_page_start": 357,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-050",
+      "title": "Editorials",
+      "year": 1904,
+      "month": 8,
+      "printed_page_start": 360,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-062",
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 8,
+      "printed_page_start": 362,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-018",
+      "title": "History of Korea",
+      "year": 1904,
+      "month": 9,
+      "printed_page_start": 417,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-037",
+      "title": "Reform Spelling",
+      "year": 1904,
+      "month": 9,
+      "printed_page_start": 385,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-038",
+      "title": "Northeast Korea",
+      "year": 1904,
+      "month": 9,
+      "printed_page_start": 393,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-051",
+      "title": "Editorials",
+      "year": 1904,
+      "month": 9,
+      "printed_page_start": 402,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-063",
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 9,
+      "printed_page_start": 408,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-019",
+      "title": "History of Korea",
+      "year": 1904,
+      "month": 10,
+      "printed_page_start": 465,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-039",
+      "title": "Educational Needs of Korea",
+      "year": 1904,
+      "month": 10,
+      "printed_page_start": 443,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-040",
+      "title": "The Foreign Cemetery",
+      "year": 1904,
+      "month": 10,
+      "printed_page_start": 453,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-041",
+      "title": "Ladies' Days",
+      "year": 1904,
+      "month": 10,
+      "printed_page_start": 461,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-052",
+      "title": "Editorials",
+      "year": 1904,
+      "month": 10,
+      "printed_page_start": 456,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-064",
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 10,
+      "printed_page_start": 462,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-020",
+      "title": "History of Korea",
+      "year": 1904,
+      "month": 11,
+      "printed_page_start": 513,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-042",
+      "title": "Severance Hospital",
+      "year": 1904,
+      "month": 11,
+      "printed_page_start": 494,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-043",
+      "title": "Corea, The Hermit Nation",
+      "year": 1904,
+      "month": 11,
+      "printed_page_start": 502,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-053",
+      "title": "Editorials",
+      "year": 1904,
+      "month": 11,
+      "printed_page_start": 508,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-065",
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 11,
+      "printed_page_start": 508,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-021",
+      "title": "History of Korea",
+      "year": 1904,
+      "month": 12,
+      "printed_page_start": 561,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-044",
+      "title": "Retrospect of 1904",
+      "year": 1904,
+      "month": 12,
+      "printed_page_start": 529,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1904-054",
+      "title": "Editorials",
+      "year": 1904,
+      "month": 12,
+      "printed_page_start": 549,
+      "reasons": [
+        "no_independent_monthly_toc_provenance",
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1904-066",
+      "title": "News Calendar",
+      "year": 1904,
+      "month": 12,
+      "printed_page_start": 555,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0001",
+      "title": "Korea and Formosa",
+      "year": 1905,
+      "month": 1,
+      "printed_page_start": 1,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0002",
+      "title": "Room at the Top",
+      "year": 1905,
+      "month": 1,
+      "printed_page_start": 21,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0003",
+      "title": "Society for the Prevention of Cruelty to Animals",
+      "year": 1905,
+      "month": 1,
+      "printed_page_start": 22,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0004",
+      "title": "Satsuma Ware",
+      "year": 1905,
+      "month": 1,
+      "printed_page_start": 24,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0005",
+      "title": "Progress of the Seoul-Wiju Railway",
+      "year": 1905,
+      "month": 2,
+      "printed_page_start": 33,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0006",
+      "title": "Spelling Reform",
+      "year": 1905,
+      "month": 2,
+      "printed_page_start": 46,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0007",
+      "title": "Korean Giants",
+      "year": 1905,
+      "month": 2,
+      "printed_page_start": 56,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0008",
+      "title": "Korea a Vassal of Japan",
+      "year": 1905,
+      "month": 2,
+      "printed_page_start": 58,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0009",
+      "title": "Rest from Beggars",
+      "year": 1905,
+      "month": 2,
+      "printed_page_start": 61,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0010",
+      "title": "Korean Conundrums",
+      "year": 1905,
+      "month": 3,
+      "printed_page_start": 81,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0011",
+      "title": "Attack on Doctor Forsythe",
+      "year": 1905,
+      "month": 3,
+      "printed_page_start": 106,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0012",
+      "title": "Incubative Warmth",
+      "year": 1905,
+      "month": 4,
+      "printed_page_start": 1,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0013",
+      "title": "Sanitation in Korea",
+      "year": 1905,
+      "month": 4,
+      "printed_page_start": 42,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0014",
+      "title": "How Priests became Genii",
+      "year": 1905,
+      "month": 4,
+      "printed_page_start": 130,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0015",
+      "title": "Northern Korea",
+      "year": 1905,
+      "month": 4,
+      "printed_page_start": 130,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0016",
+      "title": "Questions and Answers",
+      "year": 1905,
+      "month": 4,
+      "printed_page_start": 149,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0017",
+      "title": "Questions and Answers",
+      "year": 1905,
+      "month": 4,
+      "printed_page_start": 264,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0018",
+      "title": "Korea and Japan",
+      "year": 1905,
+      "month": 5,
+      "printed_page_start": 6,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0019",
+      "title": "Korean Business Life",
+      "year": 1905,
+      "month": 6,
+      "printed_page_start": 210,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0020",
+      "title": "Fiercer than the Tiger",
+      "year": 1905,
+      "month": 7,
+      "printed_page_start": 26,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0021",
+      "title": "Six hundred Miles Overland",
+      "year": 1905,
+      "month": 7,
+      "printed_page_start": 241,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0022",
+      "title": "Japanese Plans for Korea",
+      "year": 1905,
+      "month": 7,
+      "printed_page_start": 254,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0023",
+      "title": "Detectives must be the cleverest thieves",
+      "year": 1905,
+      "month": 7,
+      "printed_page_start": 260,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0024",
+      "title": "Japanese Finance in Korea",
+      "year": 1905,
+      "month": 8,
+      "printed_page_start": 208,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0025",
+      "title": "Missionary Union in Korea",
+      "year": 1905,
+      "month": 9,
+      "printed_page_start": 34,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0026",
+      "title": "Tales of the Road",
+      "year": 1905,
+      "month": 9,
+      "printed_page_start": 334,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0027",
+      "title": "Japan as a Colonizer",
+      "year": 1905,
+      "month": 10,
+      "printed_page_start": 361,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0028",
+      "title": "How Yi Outwitted the Church",
+      "year": 1905,
+      "month": 10,
+      "printed_page_start": 380,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0029",
+      "title": "Korean Bronze",
+      "year": 1905,
+      "month": 10,
+      "printed_page_start": 384,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0030",
+      "title": "Korean Sociology",
+      "year": 1905,
+      "month": 11,
+      "printed_page_start": 43,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0031",
+      "title": "Marquis Ito interviewed",
+      "year": 1905,
+      "month": 11,
+      "printed_page_start": 428,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0032",
+      "title": "Korea's Greatest Need",
+      "year": 1905,
+      "month": 12,
+      "printed_page_start": 153,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0033",
+      "title": "Woodcutter Tiger and Rabbit",
+      "year": 1905,
+      "month": 12,
+      "printed_page_start": 445,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0034",
+      "title": "Wanted, a Name",
+      "year": 1905,
+      "month": 12,
+      "printed_page_start": 448,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0035",
+      "title": "How Mr. Kim became a Christian",
+      "year": 1905,
+      "month": 12,
+      "printed_page_start": 457,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1905-0036",
+      "title": "His Father",
+      "year": 1905,
+      "month": 12,
+      "printed_page_start": 470,
+      "reasons": [
+        "no_independent_monthly_toc_provenance"
+      ]
+    },
+    {
+      "id": "kr-1906-003",
+      "title": "A Korean Cinderella",
+      "year": 1906,
+      "month": 1,
+      "printed_page_start": 10,
+      "reasons": [
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1906-006",
+      "title": "Editorial Comment",
+      "year": 1906,
+      "month": 1,
+      "printed_page_start": 35,
+      "reasons": [
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1906-010",
+      "title": "Women's Rights in Korea",
+      "year": 1906,
+      "month": 2,
+      "printed_page_start": 51,
+      "reasons": [
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1906-018",
+      "title": "Shintoism",
+      "year": 1906,
+      "month": 3,
+      "printed_page_start": 87,
+      "reasons": [
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1906-022",
+      "title": "Editorial Comment",
+      "year": 1906,
+      "month": 3,
+      "printed_page_start": 110,
+      "reasons": [
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1906-023",
+      "title": "News Calendar",
+      "year": 1906,
+      "month": 3,
+      "printed_page_start": 116,
+      "reasons": [
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1906-039",
+      "title": "News Calendar",
+      "year": 1906,
+      "month": 5,
+      "printed_page_start": 195,
+      "reasons": [
+        "missing_standalone_heading_match"
+      ]
+    },
+    {
+      "id": "kr-1906-089",
+      "title": "A Skeleton in the Closet",
+      "year": 1906,
+      "month": 12,
+      "printed_page_start": 452,
+      "reasons": [
+        "missing_standalone_heading_match"
+      ]
+    }
+  ],
+  "notice": "Excluded means insufficient evidence, not proof the historical article never existed. No uncertain titles are published.",
+  "missing_month_audit_files": []
+}
