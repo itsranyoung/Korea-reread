@@ -32,6 +32,16 @@ def main():
      eligible.append({**r,"publication_verification":"monthly_toc_plus_source_heading_evidence","verification_note":"TOC and standalone OCR heading agree; printed page is TOC-derived. Full boundary and facsimile collation pending.","source_heading_evidence":e["heading_evidence"],"human_review_status":"pending_full_text_collation"})
     else:excluded.append({"id":r.get("id"),"title":r.get("title"),"year":year,"month":month,"printed_page_start":r.get("printed_page_start"),"reasons":reason})
  if missing:raise RuntimeError(f"Missing original-month audit reports: {missing}")
+ # 1902–1905: independent monthly TOC with explicit page AND later body title.
+ monthly=P/"data/monthly-toc-confirmed-1902-1905.json"
+ if monthly.exists():
+  recon=json.loads(monthly.read_text(encoding="utf8"))
+  if recon.get("source_errors") or len(recon.get("month_summaries",{}))!=48:
+   raise RuntimeError("Reconstructed monthly catalog incomplete; refuse public merge")
+  for r in recon.get("records",[]):
+   if r.get("page_evidence_method") not in ("inline_toc_page","next_paragraph_page") or not r.get("body_heading_paragraph_indices"):
+    raise ValueError("Reconstructed item lacks independent TOC/page/body evidence")
+   eligible.append(r)
  ids=set()
  for r in eligible:
   if r["id"] in ids:raise ValueError(f"duplicate public ID {r['id']}")
