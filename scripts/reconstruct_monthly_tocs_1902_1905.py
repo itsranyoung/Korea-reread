@@ -33,33 +33,50 @@ def read(year,month):
   pars.append({"text":t,"style":st.attrib.get(N+"val","") if st is not None else ""})
  return pars,url
 def entries(pars,year,month):
- low=(month-1)*48+1; high=month*48
- # Source's first 45 paragraph lines are an *inspection zone*, never assumed TOC.
- # A TOC title must have its own explicit printed page number in-line or as
- # a numeric immediately adjacent paragraph. No page from an index is borrowed.
+ low=(month-1)*48+1;high=month*48
+ # The 1902/1904 issue TOCs list title-only lines. Print page appears
+ # later as [page N] embedded at the start/in the body OCR paragraphs.
+ # Require TOC within the lines BEFORE the first explicit [page N].
+ page_pattern=re.compile(r"\\[page\\s+(\\d{1,4})\\]",re.I)
+ first_page=next((i for i,p in enumerate(pars) if page_pattern.search(p["text"])),None)
+ if first_page is None: return [],[{"reason":"no_print_page_markers","year":year,"month":month}]
+ toc_limit=min(first_page,70)
+ if toc_limit<3:return [],[{"reason":"no_toc_region","year":year,"month":month}]
+ # Page numbers must be explicitly witnessed in preceding OCR document,
+ # never computed from an annual index.
+ active_page=None;body_heading_by_title=defaultdict(list)
+ for idx,p in enumerate(pars[first_page:],first_page):
+  marks=page_pattern.findall(p["text"])
+  if marks: active_page=int(marks[0])
+  t=norm(p["text"].strip(" ."))
+  if t and active_page is not None and len(p["text"])<=145:
+   body_heading_by_title[t].append((idx,active_page,p["text"]))
  found=[];rejected=[]
- for i,p in enumerate(pars[:min(65,len(pars))]):
-  raw=p["text"]; title=None; page=None; method=None
-  # e.g. "History of Korea ........ 123" or "History of Korea 123"
-  m=re.match(r"^(.{5,125}?)\s*(?:\.{2,}|\s+)(\d{1,3})\s*\.?$",raw)
-  if m and re.search("[A-Za-z]",m.group(1)):
-   title=m.group(1).strip(" .–-");page=int(m.group(2));method="inline_toc_page"
-  elif i+1<len(pars) and re.fullmatch(r"\d{1,3}",pars[i+1]["text"]):
-   if 5<=len(raw)<=125 and re.search("[A-Za-z]",raw):
-    title=raw.strip(" .–-");page=int(pars[i+1]["text"]);method="next_paragraph_page"
-  if not title or page is None:continue
-  if not low<=page<=high:continue
-  if norm(title) in {"the korea review","contents","table of contents"}:continue
-  hits=[j for j,z in enumerate(pars) if j>i+5 and norm(z["text"])==norm(title) and len(z["text"])<=140]
-  item={"title":title,"year":year,"month":month,"volume":year-1900,"issue":month,
-    "printed_page_start":page,"toc_paragraph_index":i,
-    "toc_raw":raw,"page_evidence_method":method,
-    "body_heading_paragraph_indices":hits[:15]}
-  (found if hits else rejected).append(item)
- # Drop duplicate TOC mentions using title+page; title repeats across pages permitted.
+ for idx,p in enumerate(pars[:toc_limit]):
+  title=p["text"].strip(" .,;")
+  key=norm(title)
+  if len(title)<5 or len(title)>110 or not re.search("[A-Za-z]",title):continue
+  if key in ("the korea review","contents","table of contents") or key.startswith("volume "):continue
+  # The first match should be the separate BODY title, not a TOC line.
+  hits=body_heading_by_title.get(key,[])
+  valid=[h for h in hits if low<=h[1]<=high and h[0]>=first_page]
+  if valid:
+   # If the identical title occurs more than once in the body (e.g.
+   # serials), use the FIRST body heading and flag extra occurrences.
+   h=valid[0]
+   found.append({"title":title,"year":year,"month":month,"volume":year-1900,"issue":month,
+      "printed_page_start":h[1],"toc_paragraph_index":idx,"toc_raw":p["text"],
+      "page_evidence_method":"preceding_embedded_print_page_marker",
+      "body_heading_paragraph_indices":[x[0] for x in valid],
+      "body_heading_raw":h[2],
+      "page_marker_witness":"[page "+str(h[1])+"]",
+      "multiple_body_occurrences":len(valid)>1})
+  else:rejected.append({"title_candidate":title,"toc_paragraph_index":idx,
+    "reason":"missing_same_issue_heading_or_page_witness"})
  dedup={}
  for row in found:dedup.setdefault((norm(row["title"]),row["printed_page_start"]),row)
  return list(dedup.values()),rejected
+
 def main():
  all_pass=[];totals=Counter();errors=[];month_summaries={}
  for year in range(1902,1906):
@@ -90,7 +107,7 @@ def main():
   r["transcription_status"]="not_processed"
   r["summary_status"]="not_processed"
  out={"scope":"1902-1905 monthly source re-extraction","completeness_certified":False,
-  "criteria":"Both original monthly TOC title and printed page, separate matching body heading, and correct month page span",
+  "criteria":"Original monthly TOC title; matching body title and witnessed [page N] marker in same issue; matching month page span",
   "source_errors":errors,"month_summaries":month_summaries,
   "accepted_count":len(all_pass),"records":all_pass}
  (OUT/"summary.json").write_text(json.dumps({"counts":dict(totals),"errors":errors,"months":month_summaries},indent=2),encoding="utf8")
