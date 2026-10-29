@@ -37,10 +37,10 @@ def entries_with_explicit_toc_page(pars,year,month):
  found=[];rejected=[]
  for i,p in enumerate(pars[:min(65,len(pars))]):
   raw=p["text"]; title=None;page=None;method=None
-  m=re.match(r"^(.{5,125}?)\\s*(?:\\.{2,}|\\s+)(\\d{1,3})\\s*\\.?$",raw)
+  m=re.match(r"^(.{5,125}?)\s*(?:\.{2,}|\s+)(\d{1,3})\s*\.?$",raw)
   if m and re.search("[A-Za-z]",m.group(1)):
    title=m.group(1).strip(" .–-");page=int(m.group(2));method="inline_toc_page"
-  elif i+1<len(pars) and re.fullmatch(r"\\d{1,3}",pars[i+1]["text"]):
+  elif i+1<len(pars) and re.fullmatch(r"\d{1,3}",pars[i+1]["text"]):
    if 5<=len(raw)<=125 and re.search("[A-Za-z]",raw):
     title=raw.strip(" .–-");page=int(pars[i+1]["text"]);method="next_paragraph_page"
   if not title or page is None or not low<=page<=high:continue
