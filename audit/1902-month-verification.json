@@ -1,0 +1,2464 @@
+{
+  "year": 1902,
+  "source_errors": [],
+  "processed_months": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "published_candidates": 40,
+  "month_counts": {
+    "1": 5,
+    "2": 2,
+    "3": 0,
+    "4": 6,
+    "5": 3,
+    "6": 2,
+    "7": 3,
+    "8": 6,
+    "9": 8,
+    "10": 3,
+    "11": 1,
+    "12": 1
+  },
+  "ambiguous": [
+    {
+      "title": "A Leaf from Korean Astrology",
+      "indexed_page": 491,
+      "matches": [
+        {
+          "month": 11,
+          "paragraph": 3,
+          "style": "11",
+          "raw": "A Leaf from Korean Astrology."
+        },
+        {
+          "month": 11,
+          "paragraph": 35,
+          "style": "1",
+          "raw": "A Leaf from Korean Astrology."
+        },
+        {
+          "month": 12,
+          "paragraph": 3,
+          "style": "11",
+          "raw": "A Leaf from Korean Astrology."
+        },
+        {
+          "month": 12,
+          "paragraph": 30,
+          "style": "1",
+          "raw": "A Leaf from Korean Astrology."
+        }
+      ]
+    },
+    {
+      "title": "A Leaf from Korean Astrology",
+      "indexed_page": 529,
+      "matches": [
+        {
+          "month": 11,
+          "paragraph": 3,
+          "style": "11",
+          "raw": "A Leaf from Korean Astrology."
+        },
+        {
+          "month": 11,
+          "paragraph": 35,
+          "style": "1",
+          "raw": "A Leaf from Korean Astrology."
+        },
+        {
+          "month": 12,
+          "paragraph": 3,
+          "style": "11",
+          "raw": "A Leaf from Korean Astrology."
+        },
+        {
+          "month": 12,
+          "paragraph": 30,
+          "style": "1",
+          "raw": "A Leaf from Korean Astrology."
+        }
+      ]
+    },
+    {
+      "title": "Burial Customs",
+      "indexed_page": 241,
+      "matches": [
+        {
+          "month": 6,
+          "paragraph": 2,
+          "style": "11",
+          "raw": "Burial Customs."
+        },
+        {
+          "month": 6,
+          "paragraph": 12,
+          "style": "1",
+          "raw": "Burial Customs."
+        },
+        {
+          "month": 7,
+          "paragraph": 3,
+          "style": "11",
+          "raw": "Burial Customs."
+        },
+        {
+          "month": 7,
+          "paragraph": 40,
+          "style": "1",
+          "raw": "Burial Customs."
+        }
+      ]
+    },
+    {
+      "title": "Burial Customs",
+      "indexed_page": 294,
+      "matches": [
+        {
+          "month": 6,
+          "paragraph": 2,
+          "style": "11",
+          "raw": "Burial Customs."
+        },
+        {
+          "month": 6,
+          "paragraph": 12,
+          "style": "1",
+          "raw": "Burial Customs."
+        },
+        {
+          "month": 7,
+          "paragraph": 3,
+          "style": "11",
+          "raw": "Burial Customs."
+        },
+        {
+          "month": 7,
+          "paragraph": 40,
+          "style": "1",
+          "raw": "Burial Customs."
+        }
+      ]
+    },
+    {
+      "title": "Korean Currency",
+      "indexed_page": 337,
+      "matches": [
+        {
+          "month": 8,
+          "paragraph": 2,
+          "style": "11",
+          "raw": "Korean Currency."
+        },
+        {
+          "month": 8,
+          "paragraph": 20,
+          "style": "1",
+          "raw": "Korean Currency."
+        },
+        {
+          "month": 9,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Korean Currency."
+        },
+        {
+          "month": 9,
+          "paragraph": 45,
+          "style": "1",
+          "raw": "Korean Currency."
+        }
+      ]
+    },
+    {
+      "title": "Korean Currency",
+      "indexed_page": 389,
+      "matches": [
+        {
+          "month": 8,
+          "paragraph": 2,
+          "style": "11",
+          "raw": "Korean Currency."
+        },
+        {
+          "month": 8,
+          "paragraph": 20,
+          "style": "1",
+          "raw": "Korean Currency."
+        },
+        {
+          "month": 9,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Korean Currency."
+        },
+        {
+          "month": 9,
+          "paragraph": 45,
+          "style": "1",
+          "raw": "Korean Currency."
+        }
+      ]
+    },
+    {
+      "title": "Korean History",
+      "indexed_page": 33,
+      "matches": [
+        {
+          "month": 1,
+          "paragraph": 18,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 1,
+          "paragraph": 186,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 12,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 216,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 209,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History"
+        },
+        {
+          "month": 4,
+          "paragraph": 173,
+          "style": "1",
+          "raw": "Korean History"
+        },
+        {
+          "month": 5,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 251,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 157,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 194,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 26,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 197,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 180,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 183,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 168,
+          "style": "1",
+          "raw": "Korean History."
+        }
+      ]
+    },
+    {
+      "title": "Korean History",
+      "indexed_page": 81,
+      "matches": [
+        {
+          "month": 1,
+          "paragraph": 18,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 1,
+          "paragraph": 186,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 12,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 216,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 209,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History"
+        },
+        {
+          "month": 4,
+          "paragraph": 173,
+          "style": "1",
+          "raw": "Korean History"
+        },
+        {
+          "month": 5,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 251,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 157,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 194,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 26,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 197,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 180,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 183,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 168,
+          "style": "1",
+          "raw": "Korean History."
+        }
+      ]
+    },
+    {
+      "title": "Korean History",
+      "indexed_page": 129,
+      "matches": [
+        {
+          "month": 1,
+          "paragraph": 18,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 1,
+          "paragraph": 186,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 12,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 216,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 209,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History"
+        },
+        {
+          "month": 4,
+          "paragraph": 173,
+          "style": "1",
+          "raw": "Korean History"
+        },
+        {
+          "month": 5,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 251,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 157,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 194,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 26,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 197,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 180,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 183,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 168,
+          "style": "1",
+          "raw": "Korean History."
+        }
+      ]
+    },
+    {
+      "title": "Korean History",
+      "indexed_page": 177,
+      "matches": [
+        {
+          "month": 1,
+          "paragraph": 18,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 1,
+          "paragraph": 186,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 12,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 2,
+          "paragraph": 216,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 3,
+          "paragraph": 209,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 4,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History"
+        },
+        {
+          "month": 4,
+          "paragraph": 173,
+          "style": "1",
+          "raw": "Korean History"
+        },
+        {
+          "month": 5,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 5,
+          "paragraph": 251,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 6,
+          "paragraph": 157,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 7,
+          "paragraph": 194,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 26,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 9,
+          "paragraph": 197,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 10,
+          "paragraph": 180,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 11,
+          "paragraph": 183,
+          "style": "1",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Korean History."
+        },
+        {
+          "month": 12,
+          "paragraph": 168,
+          "style": "1",
+          "raw": "Korean History."
+        }
+      ]
+    },
+    {
+      "title": "Odds and Ends",
+      "indexed_page": 17,
+      "matches": [
+        {
+          "month": 1,
+          "paragraph": 8,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 1,
+          "paragraph": 83,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 7,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 96,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 60,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 90,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 110,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 76,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 13,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 88,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 78,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 93,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 79,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 98,
+          "style": "1",
+          "raw": "Odds and Ends."
+        }
+      ]
+    },
+    {
+      "title": "Odds and Ends",
+      "indexed_page": 65,
+      "matches": [
+        {
+          "month": 1,
+          "paragraph": 8,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 1,
+          "paragraph": 83,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 7,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 96,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 60,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 90,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 110,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 76,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 13,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 88,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 78,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 93,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 79,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 98,
+          "style": "1",
+          "raw": "Odds and Ends."
+        }
+      ]
+    },
+    {
+      "title": "Odds and Ends",
+      "indexed_page": 112,
+      "matches": [
+        {
+          "month": 1,
+          "paragraph": 8,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 1,
+          "paragraph": 83,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 7,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 96,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 60,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 90,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 110,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 76,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 13,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 88,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 78,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 93,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 79,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 98,
+          "style": "1",
+          "raw": "Odds and Ends."
+        }
+      ]
+    },
+    {
+      "title": "Odds and Ends",
+      "indexed_page": 164,
+      "matches": [
+        {
+          "month": 1,
+          "paragraph": 8,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 1,
+          "paragraph": 83,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 7,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 96,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 60,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 90,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 110,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 76,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 13,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 88,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 78,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 93,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 79,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 98,
+          "style": "1",
+          "raw": "Odds and Ends."
+        }
+      ]
+    },
+    {
+      "title": "Odds and Ends",
+      "indexed_page": 208,
+      "matches": [
+        {
+          "month": 1,
+          "paragraph": 8,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 1,
+          "paragraph": 83,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 7,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 2,
+          "paragraph": 96,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 3,
+          "paragraph": 60,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 4,
+          "paragraph": 90,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 5,
+          "paragraph": 110,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 6,
+          "paragraph": 76,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 13,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 7,
+          "paragraph": 88,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 11,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 8,
+          "paragraph": 78,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 20,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 9,
+          "paragraph": 93,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 6,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 10,
+          "paragraph": 79,
+          "style": "1",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 5,
+          "style": "11",
+          "raw": "Odds and Ends."
+        },
+        {
+          "month": 12,
+          "paragraph": 98,
+          "style": "1",
+          "raw": "Odds and Ends."
+        }
+      ]
+    },
+    {
+      "title": "Question and Answer",
+      "indexed_page": 21,
+      "matches": [
+        {
+          "month": 1,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 1,
+          "paragraph": 95,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 2,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 2,
+          "paragraph": 103,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 3,
+          "paragraph": 8,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 3,
+          "paragraph": 85,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 7,
+          "paragraph": 17,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 7,
+          "paragraph": 101,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 8,
+          "paragraph": 16,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 8,
+          "paragraph": 95,
+          "style": "1",
+          "raw": "Question and Answer."
+        }
+      ]
+    },
+    {
+      "title": "Question and Answer",
+      "indexed_page": 66,
+      "matches": [
+        {
+          "month": 1,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 1,
+          "paragraph": 95,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 2,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 2,
+          "paragraph": 103,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 3,
+          "paragraph": 8,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 3,
+          "paragraph": 85,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 7,
+          "paragraph": 17,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 7,
+          "paragraph": 101,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 8,
+          "paragraph": 16,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 8,
+          "paragraph": 95,
+          "style": "1",
+          "raw": "Question and Answer."
+        }
+      ]
+    },
+    {
+      "title": "Question and Answer",
+      "indexed_page": 115,
+      "matches": [
+        {
+          "month": 1,
+          "paragraph": 14,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 1,
+          "paragraph": 95,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 2,
+          "paragraph": 9,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 2,
+          "paragraph": 103,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 3,
+          "paragraph": 8,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 3,
+          "paragraph": 85,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 7,
+          "paragraph": 17,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 7,
+          "paragraph": 101,
+          "style": "1",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 8,
+          "paragraph": 16,
+          "style": "11",
+          "raw": "Question and Answer."
+        },
+        {
+          "month": 8,
+          "paragraph": 95,
+          "style": "1",
+          "raw": "Question and Answer."
+        }
+      ]
+    },
+    {
+      "title": "The Products of Korea",
+      "indexed_page": 49,
+      "matches": [
+        {
+          "month": 2,
+          "paragraph": 2,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 2,
+          "paragraph": 13,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 3,
+          "paragraph": 4,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 3,
+          "paragraph": 37,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 5,
+          "paragraph": 4,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 5,
+          "paragraph": 74,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 9,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 9,
+          "paragraph": 55,
+          "style": "1",
+          "raw": "The Products of Korea."
+        }
+      ]
+    },
+    {
+      "title": "The Products of Korea",
+      "indexed_page": 103,
+      "matches": [
+        {
+          "month": 2,
+          "paragraph": 2,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 2,
+          "paragraph": 13,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 3,
+          "paragraph": 4,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 3,
+          "paragraph": 37,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 5,
+          "paragraph": 4,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 5,
+          "paragraph": 74,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 9,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 9,
+          "paragraph": 55,
+          "style": "1",
+          "raw": "The Products of Korea."
+        }
+      ]
+    },
+    {
+      "title": "The Products of Korea",
+      "indexed_page": 203,
+      "matches": [
+        {
+          "month": 2,
+          "paragraph": 2,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 2,
+          "paragraph": 13,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 3,
+          "paragraph": 4,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 3,
+          "paragraph": 37,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 5,
+          "paragraph": 4,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 5,
+          "paragraph": 74,
+          "style": "1",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 9,
+          "paragraph": 10,
+          "style": "11",
+          "raw": "The Products of Korea."
+        },
+        {
+          "month": 9,
+          "paragraph": 55,
+          "style": "1",
+          "raw": "The Products of Korea."
+        }
+      ]
+    }
+  ],
+  "unmatched": [
+    {
+      "title": "A Celebrated Monument",
+      "indexed_page": 102
+    },
+    {
+      "title": "A Maker of the New Orient",
+      "indexed_page": 502
+    },
+    {
+      "title": "A Snakes Revenge",
+      "indexed_page": 208
+    },
+    {
+      "title": "Aesculapian Episode, An",
+      "indexed_page": 345
+    },
+    {
+      "title": "Alliance, Anglo-Japanese",
+      "indexed_page": 69
+    },
+    {
+      "title": "Alliance, Anglo-Japanese",
+      "indexed_page": 71
+    },
+    {
+      "title": "Alphabet, Remusat on the Korean",
+      "indexed_page": 198
+    },
+    {
+      "title": "Ancient Kingdom of Karak, T he",
+      "indexed_page": 541
+    },
+    {
+      "title": "Ancient Korea, Note on",
+      "indexed_page": 13
+    },
+    {
+      "title": "Appenzeller, Memoir of Rev. H. G. by Rev. W. C. Swearer",
+      "indexed_page": 254
+    },
+    {
+      "title": "Archery, Expert",
+      "indexed_page": 453
+    },
+    {
+      "title": "Astrology, A leaf from Korean",
+      "indexed_page": 491
+    },
+    {
+      "title": "Astrology, A leaf from Korean",
+      "indexed_page": 529
+    },
+    {
+      "title": "Attack on foreigners, Japanese",
+      "indexed_page": 262
+    },
+    {
+      "title": "Banking in Korea",
+      "indexed_page": 250
+    },
+    {
+      "title": "Beggars Wages, a",
+      "indexed_page": 8
+    },
+    {
+      "title": "Bell, The Great",
+      "indexed_page": 387
+    },
+    {
+      "title": "Belt, The Jade",
+      "indexed_page": 387
+    },
+    {
+      "title": "Bible Society Sunday",
+      "indexed_page": 223
+    },
+    {
+      "title": "Bribery began, How",
+      "indexed_page": 164
+    },
+    {
+      "title": "Buddha, The Golden",
+      "indexed_page": 388
+    },
+    {
+      "title": "Buddhism, a Convert to",
+      "indexed_page": 404
+    },
+    {
+      "title": "Buddhist Monastery, A",
+      "indexed_page": 26
+    },
+    {
+      "title": "Budget for 1902",
+      "indexed_page": 120
+    },
+    {
+      "title": "Canute, A Korean",
+      "indexed_page": 165
+    },
+    {
+      "title": "Cave felem",
+      "indexed_page": 306
+    },
+    {
+      "title": "Celebrated Monument, A",
+      "indexed_page": 102
+    },
+    {
+      "title": "Chang-ot, The",
+      "indexed_page": 21
+    },
+    {
+      "title": "Cholera Epidemic",
+      "indexed_page": 406
+    },
+    {
+      "title": "Cholera Epidemic",
+      "indexed_page": 506
+    },
+    {
+      "title": "Christmas among Koreans Rev. G. H. Jones Ph. D",
+      "indexed_page": 61
+    },
+    {
+      "title": "Collbran, Miss, (Obituary)",
+      "indexed_page": 502
+    },
+    {
+      "title": "Convert to Buddhism, A",
+      "indexed_page": 404
+    },
+    {
+      "title": "Council of Missions",
+      "indexed_page": 414
+    },
+    {
+      "title": "Count di Malgra, The D. Pegorini Esq",
+      "indexed_page": 462
+    },
+    {
+      "title": "Currency, Depreciated",
+      "indexed_page": 116
+    },
+    {
+      "title": "Currency, Depreciated",
+      "indexed_page": 125
+    },
+    {
+      "title": "Currency, Korean",
+      "indexed_page": 337
+    },
+    {
+      "title": "Currency, Korean",
+      "indexed_page": 389
+    },
+    {
+      "title": "Cuttle-fish Story, A",
+      "indexed_page": 17
+    },
+    {
+      "title": "Donkey-maker, The",
+      "indexed_page": 20
+    },
+    {
+      "title": "Doom deferred, The",
+      "indexed_page": 352
+    },
+    {
+      "title": "Embargo on rice export",
+      "indexed_page": 23
+    },
+    {
+      "title": "Embargo on rice export",
+      "indexed_page": 166
+    },
+    {
+      "title": "English and Japanese Alliance",
+      "indexed_page": 69
+    },
+    {
+      "title": "English and Japanese Alliance",
+      "indexed_page": 71
+    },
+    {
+      "title": "Essence of Life, The",
+      "indexed_page": 209
+    },
+    {
+      "title": "Export of rice, Embargo on",
+      "indexed_page": 23
+    },
+    {
+      "title": "Export of rice, Embargo on",
+      "indexed_page": 166
+    },
+    {
+      "title": "Exposition, The St. Louis",
+      "indexed_page": 311
+    },
+    {
+      "title": "Famine conditions",
+      "indexed_page": 123
+    },
+    {
+      "title": "Feudalism in Korea",
+      "indexed_page": 354
+    },
+    {
+      "title": "Fiction, Korean",
+      "indexed_page": 286
+    },
+    {
+      "title": "Flutes, The Twin Jade",
+      "indexed_page": 386
+    },
+    {
+      "title": "From Fusan to Wonsan",
+      "indexed_page": 529
+    },
+    {
+      "title": "Glass-works",
+      "indexed_page": 27
+    },
+    {
+      "title": "Good Policy Goose that Laid the Golden Egg, The",
+      "indexed_page": 307
+    },
+    {
+      "title": "Greetings",
+      "indexed_page": 22
+    },
+    {
+      "title": "Hair at Weddings",
+      "indexed_page": 22
+    },
+    {
+      "title": "Hazel Nuts",
+      "indexed_page": 395
+    },
+    {
+      "title": "History of Korea 33, 81",
+      "indexed_page": 129
+    },
+    {
+      "title": "History of Korea 33, 81",
+      "indexed_page": 177
+    },
+    {
+      "title": "Hanging Stone, The",
+      "indexed_page": 18
+    },
+    {
+      "title": "Hospital, The Severance",
+      "indexed_page": 357
+    },
+    {
+      "title": "Hospital, The Severance",
+      "indexed_page": 510
+    },
+    {
+      "title": "Hunter's mistake, A",
+      "indexed_page": 19
+    },
+    {
+      "title": "Independence Club, The",
+      "indexed_page": 216
+    },
+    {
+      "title": "Indian came from. Where the",
+      "indexed_page": 159
+    },
+    {
+      "title": "Island without a Sea, An",
+      "indexed_page": 59
+    },
+    {
+      "title": "Jade Bowl, A",
+      "indexed_page": 352
+    },
+    {
+      "title": "Japanese Attack on foreigners",
+      "indexed_page": 262
+    },
+    {
+      "title": "Karak, The ancient Kingdom of",
+      "indexed_page": 541
+    },
+    {
+      "title": "Kato, Esq. M., Adviser",
+      "indexed_page": 212
+    },
+    {
+      "title": "Korea, a la Globe-trotter -",
+      "indexed_page": 161
+    },
+    {
+      "title": "Language, The Korean",
+      "indexed_page": 433
+    },
+    {
+      "title": "Laws, ordinances &c. W. H. Wilkinson Esq",
+      "indexed_page": 174
+    },
+    {
+      "title": "Look beyond, A",
+      "indexed_page": 261
+    },
+    {
+      "title": "Male and female principles in Plants",
+      "indexed_page": 354
+    },
+    {
+      "title": "Marks of Royalty, The",
+      "indexed_page": 351
+    },
+    {
+      "title": "Memoir of Rev. H. G. Appenzeller by Rev. W. C. Swearer",
+      "indexed_page": 254
+    },
+    {
+      "title": "Memoir of Count di Malgra by D. Pegorini Esq",
+      "indexed_page": 462
+    },
+    {
+      "title": "Meteorological Observations",
+      "indexed_page": 272
+    },
+    {
+      "title": "V. Pokrovsky M. D",
+      "indexed_page": 368
+    },
+    {
+      "title": "V. Pokrovsky M. D",
+      "indexed_page": 416
+    },
+    {
+      "title": "Military School, Trouble in",
+      "indexed_page": 29
+    },
+    {
+      "title": "Mission Meetings",
+      "indexed_page": 407
+    },
+    {
+      "title": "Monument, A Celebrated",
+      "indexed_page": 202
+    },
+    {
+      "title": "Murder in Chemulpo",
+      "indexed_page": 126
+    },
+    {
+      "title": "Native Character, A School for the",
+      "indexed_page": 63
+    },
+    {
+      "title": "News Calendar 25",
+      "indexed_page": 71
+    },
+    {
+      "title": "News Calendar 25",
+      "indexed_page": 118
+    },
+    {
+      "title": "News Calendar 25",
+      "indexed_page": 167
+    },
+    {
+      "title": "News Calendar 25",
+      "indexed_page": 212
+    },
+    {
+      "title": "North and South Winds",
+      "indexed_page": 115
+    },
+    {
+      "title": "Notes on Ancient Korea",
+      "indexed_page": 13
+    },
+    {
+      "title": "Obituary Notice, Miss Collbran",
+      "indexed_page": 502
+    },
+    {
+      "title": "Obituary Notice, Count di Malgra",
+      "indexed_page": 462
+    },
+    {
+      "title": "Obituary Notice Rev. H. G Appenzeller",
+      "indexed_page": 254
+    },
+    {
+      "title": "Old Age, Good iS Onions",
+      "indexed_page": 303
+    },
+    {
+      "title": "Origin of Korean People Dr. E. Baelz",
+      "indexed_page": 440
+    },
+    {
+      "title": "Origin of Korean People",
+      "indexed_page": 453
+    },
+    {
+      "title": "Pagoda. The nine story",
+      "indexed_page": 388
+    },
+    {
+      "title": "Pak-tu-san, Volcanic?",
+      "indexed_page": 361
+    },
+    {
+      "title": "Phonetic System for China",
+      "indexed_page": 356
+    },
+    {
+      "title": "Postal Service",
+      "indexed_page": 396
+    },
+    {
+      "title": "Products of Korea",
+      "indexed_page": 49
+    },
+    {
+      "title": "Products of Korea",
+      "indexed_page": 103
+    },
+    {
+      "title": "Products of Korea",
+      "indexed_page": 203
+    },
+    {
+      "title": "Products of Korea",
+      "indexed_page": 3
+    },
+    {
+      "title": "Queen of Quelpart",
+      "indexed_page": 458
+    },
+    {
+      "title": "Railway, The Seoul- Eui-ju 206, 21",
+      "indexed_page": 1
+    },
+    {
+      "title": "Revenge, A snake's",
+      "indexed_page": 208
+    },
+    {
+      "title": "Reviews 159, 304, 458, 4 >8 Rice",
+      "indexed_page": 49
+    },
+    {
+      "title": "Rice export. Embargo",
+      "indexed_page": 23
+    },
+    {
+      "title": "Sacrificing at City Gates",
+      "indexed_page": 353
+    },
+    {
+      "title": "Sak-sun, The Works of Geo. H. Jones Ph. D",
+      "indexed_page": 55
+    },
+    {
+      "title": "School for the Native Character",
+      "indexed_page": 63
+    },
+    {
+      "title": "Seoul Chemulpo Tennis Tournament",
+      "indexed_page": 408
+    },
+    {
+      "title": "Seoul Chemulpo Tennis Tournament",
+      "indexed_page": 411
+    },
+    {
+      "title": "Seoul Electric Company",
+      "indexed_page": 217
+    },
+    {
+      "title": "Severance Memorial Hospital",
+      "indexed_page": 357
+    },
+    {
+      "title": "Snake's Revenge, A",
+      "indexed_page": 208
+    },
+    {
+      "title": "Status of Woman i",
+      "indexed_page": 53
+    },
+    {
+      "title": "Status of Woman i",
+      "indexed_page": 97
+    },
+    {
+      "title": "Status of Woman i",
+      "indexed_page": 155
+    },
+    {
+      "title": "Sticking Stone, The",
+      "indexed_page": 67
+    },
+    {
+      "title": "Stock farm, a Government",
+      "indexed_page": 306
+    },
+    {
+      "title": "Stones, Water-worn",
+      "indexed_page": 30
+    },
+    {
+      "title": "Submarine Adventure, A",
+      "indexed_page": 145
+    },
+    {
+      "title": "Telegraph Service",
+      "indexed_page": 396
+    },
+    {
+      "title": "Tennis Tournament, Seoul",
+      "indexed_page": 358
+    },
+    {
+      "title": "Tennis Tournament, Seoul-Chemulpo",
+      "indexed_page": 408
+    },
+    {
+      "title": "Tennis Tournament, Seoul-Chemulpo",
+      "indexed_page": 411
+    },
+    {
+      "title": "Text of Anglo-Japanese Alliance",
+      "indexed_page": 71
+    },
+    {
+      "title": "The Chang-ot",
+      "indexed_page": 21
+    },
+    {
+      "title": "The Golden Measure",
+      "indexed_page": 385
+    },
+    {
+      "title": "The Goose that laid the Golden The Great Bell",
+      "indexed_page": 387
+    },
+    {
+      "title": "The Jade belt The Jade flutes The Korean Language",
+      "indexed_page": 433
+    },
+    {
+      "title": "The Louisiana Purchase Exposition",
+      "indexed_page": 311
+    },
+    {
+      "title": "The North and South Winds",
+      "indexed_page": 115
+    },
+    {
+      "title": "The Origin of the Koreans Dr. E. Baelz",
+      "indexed_page": 440
+    },
+    {
+      "title": "The Origin of the Koreans",
+      "indexed_page": 453
+    },
+    {
+      "title": "The Queen of Quelpart 4",
+      "indexed_page": 58
+    },
+    {
+      "title": "The Seoul Chemulpo Tennis Tournament",
+      "indexed_page": 408
+    },
+    {
+      "title": "The Seoul Chemulpo Tennis Tournament",
+      "indexed_page": 411
+    },
+    {
+      "title": "The Seoul tennis tournament",
+      "indexed_page": 358
+    },
+    {
+      "title": "The Seoul Eui-ju Railway 206",
+      "indexed_page": 216
+    },
+    {
+      "title": "The Severance Memorial Hospital",
+      "indexed_page": 357
+    },
+    {
+      "title": "The Severance Memorial Hospital",
+      "indexed_page": 516
+    },
+    {
+      "title": "The Sticking Stone",
+      "indexed_page": 67
+    },
+    {
+      "title": "The Treasures of Kyöng-ju",
+      "indexed_page": 385
+    },
+    {
+      "title": "The White Buddha",
+      "indexed_page": 66
+    },
+    {
+      "title": "The Works of Sak-eun Geo. H. Jones Ph. D",
+      "indexed_page": 65
+    },
+    {
+      "title": "Trade Report of Korea II98 Travel in Eastern Korea",
+      "indexed_page": 529
+    },
+    {
+      "title": "Treasures of Kyöng-ju",
+      "indexed_page": 385
+    },
+    {
+      "title": "Water Worn Stones",
+      "indexed_page": 308
+    },
+    {
+      "title": "White Buddha, The",
+      "indexed_page": 66
+    },
+    {
+      "title": "Winds, South and North",
+      "indexed_page": 115
+    },
+    {
+      "title": "Woman, The Status of i",
+      "indexed_page": 53
+    },
+    {
+      "title": "Woman, The Status of i",
+      "indexed_page": 97
+    },
+    {
+      "title": "Works of Sak-eun Geo. H. Jones Ph. D Wreck of the Kuma-gawa",
+      "indexed_page": 247
+    }
+  ],
+  "warning": "False title matches are possible; publication pending editorial review."
+}
