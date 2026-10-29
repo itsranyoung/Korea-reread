@@ -118,7 +118,7 @@ def split_month(year,month,selected):
   })
  return output,issues
 def main():
- master=json.loads((ROOT/"data/public-verified.json").read_text(encoding="utf8"))
+ master=json.loads((ROOT/"data/research-251-before-curation.json").read_text(encoding="utf8"))
  selected=master["records"]
  counts=Counter(r["year"] for r in selected)
  lock=json.loads((ROOT/"data/selected-251.lock.json").read_text(encoding="utf8"))
